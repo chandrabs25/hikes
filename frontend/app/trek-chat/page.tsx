@@ -269,7 +269,6 @@ export default function TrekChatPage() {
       .then((response) => {
         if (!cancelled) {
           setTreks(response.treks);
-          setSelectedIds(response.treks.slice(0, 1).map((trek) => trek.trek_id));
         }
       })
       .catch((caught) => {

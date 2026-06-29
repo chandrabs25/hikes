@@ -635,9 +635,24 @@ export default function Home() {
             Tell us about your group and the trek experience you want — our AI matches you with the
             perfect Himalayan trek from Indiahikes.
           </p>
-          <div className="heroActions">
-            <Link className="btnSecondary" href="/trek-chat">
-              <IconChat /> Ask about any trek
+          <div className="modeSwitch" aria-label="Choose how to explore treks">
+            <div className="modeCard active">
+              <div className="modeIcon">
+                <IconUsers />
+              </div>
+              <div>
+                <span className="modeLabel">Get trek recommendations</span>
+                <p>For groups choosing which trek to book.</p>
+              </div>
+            </div>
+            <Link className="modeCard" href="/trek-chat">
+              <div className="modeIcon">
+                <IconChat />
+              </div>
+              <div>
+                <span className="modeLabel">Chat about specific treks</span>
+                <p>For questions or comparisons after you pick treks.</p>
+              </div>
             </Link>
           </div>
         </div>
