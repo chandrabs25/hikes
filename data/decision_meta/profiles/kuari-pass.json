@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 6,
-    "distance_km": 22.0,
+    "distance_km": 22,
     "highest_altitude_ft": 12516,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=qC2opdpcqcw",
+    "video_title": "Why We Love Kuari Pass Trek | A Tribute by Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/74280412-a26b-4060-90af-6031094468e5_Kuari-pass-trek-1.jpg?auto=format,compress&rect=0,100,1200,600&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -153,5 +156,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=qC2opdpcqcw",
+  "video_title": "Why We Love Kuari Pass Trek | A Tribute by Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/74280412-a26b-4060-90af-6031094468e5_Kuari-pass-trek-1.jpg?auto=format,compress&rect=0,100,1200,600&w=1200&h=600"
 }

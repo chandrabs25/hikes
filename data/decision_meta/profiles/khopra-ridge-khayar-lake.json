@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Teahouses (gender-based)"
+    "accommodation_type": "Teahouses (gender-based)",
+    "video_url": "https://www.youtube.com/watch?v=-3bIUpSF-Zs",
+    "video_title": "Complete Guide to the Annapurna Basecamp and Khopra Ridge | Nepal Treks | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/07b9925d-2d1f-4f87-9901-8ab45a37c8c2_Dhaulagiri_Khopra+Ridge_Mrinal.jpg?auto=format,compress&rect=153,225,1290,645&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -128,5 +131,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=-3bIUpSF-Zs",
+  "video_title": "Complete Guide to the Annapurna Basecamp and Khopra Ridge | Nepal Treks | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/07b9925d-2d1f-4f87-9901-8ab45a37c8c2_Dhaulagiri_Khopra+Ridge_Mrinal.jpg?auto=format,compress&rect=153,225,1290,645&w=1200&h=600"
 }

@@ -134,6 +134,8 @@ def build_candidate_card(trek: TrekRecord) -> CandidateCard:
         trek_id=trek.trek_id,
         title=trek.trek_title,
         source_url=trek.source_url,
+        image_url=trek.image_url,
+        video_url=trek.video_url,
         facts=CandidateFacts(
             difficulty=raw_fact(record, "trek_difficulty"),
             duration_days=known_value(record, "duration_days"),

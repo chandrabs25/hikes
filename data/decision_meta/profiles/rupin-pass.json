@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate-Difficult",
     "duration_days": 7,
-    "distance_km": 37.0,
+    "distance_km": 37,
     "highest_altitude_ft": 15279,
     "min_age": 12,
     "max_age": 62,
@@ -19,7 +19,10 @@
     "dropoff_time": "11 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=cr7FofxYXjg",
+    "video_title": "Why We love Rupin Pass #travel #trekking",
+    "image_url": "https://images.prismic.io/indiahike/ZerszHUurf2G3NbC_RupinPass_RP_Jothiranjan_Snowbridge_RupinWaterfall_Campsite_Snowbridge_-4-.jpg?auto=format,compress&rect=0,-94,2133,1067&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -159,5 +162,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=cr7FofxYXjg",
+  "video_title": "Why We love Rupin Pass #travel #trekking",
+  "image_url": "https://images.prismic.io/indiahike/ZerszHUurf2G3NbC_RupinPass_RP_Jothiranjan_Snowbridge_RupinWaterfall_Campsite_Snowbridge_-4-.jpg?auto=format,compress&rect=0,-94,2133,1067&w=1200&h=600"
 }

@@ -10,7 +10,7 @@ primary_region = "bom"
   FIREWORKS_EMBEDDING_MODEL = "accounts/fireworks/models/qwen3-embedding-8b"
   TREK_LLM_TEMPERATURE = "0"
   TREK_RAG_TEMPERATURE = "0"
-  BACKEND_CORS_ORIGINS = "http://127.0.0.1:3000,http://localhost:3000"
+  BACKEND_CORS_ORIGINS = "http://127.0.0.1:3000,http://localhost:3000,https://indiahikes-trek-frontend.22f3002048.workers.dev"
 
 [http_service]
   internal_port = 8080

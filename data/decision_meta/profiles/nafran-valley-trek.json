@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate-Difficult",
     "duration_days": 7,
-    "distance_km": 41.0,
+    "distance_km": 41,
     "highest_altitude_ft": 13789,
     "min_age": 12,
     "max_age": 62,
@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=pP6W72cYl2Q",
+    "video_title": "Introducing The Nafran Valley Trek In Kashmir | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/502816c3-9484-49d1-ab1f-0c6ad8b58ed5_Nafran+Valley_NV_Diptarka_2023_+%2825%29.jpg?auto=format,compress&rect=0,261,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -159,5 +162,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=pP6W72cYl2Q",
+  "video_title": "Introducing The Nafran Valley Trek In Kashmir | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/502816c3-9484-49d1-ab1f-0c6ad8b58ed5_Nafran+Valley_NV_Diptarka_2023_+%2825%29.jpg?auto=format,compress&rect=0,261,1600,800&w=1200&h=600"
 }

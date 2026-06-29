@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate-Difficult",
     "duration_days": 8,
-    "distance_km": 41.0,
+    "distance_km": 41,
     "highest_altitude_ft": 14203,
     "min_age": 12,
     "max_age": 62,
@@ -19,7 +19,10 @@
     "dropoff_time": "8.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=Dls8Xr-nAz4",
+    "video_title": "A Visit To Gaumukh - Glacial Source Of Ganga | Chalein Trekking | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/d50921e6-039a-4251-9190-221239a46d8a_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg?auto=format,compress&rect=0,-97,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -158,5 +161,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=Dls8Xr-nAz4",
+  "video_title": "A Visit To Gaumukh - Glacial Source Of Ganga | Chalein Trekking | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/d50921e6-039a-4251-9190-221239a46d8a_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg?auto=format,compress&rect=0,-97,1600,800&w=1200&h=600"
 }

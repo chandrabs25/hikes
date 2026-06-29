@@ -15,6 +15,8 @@ class TrekRecord:
     trek_id: str
     trek_title: str
     source_url: str
+    image_url: str | None
+    video_url: str | None
     filter_record: dict[str, Any]
     profile: dict[str, Any] | None = None
 
@@ -40,6 +42,8 @@ class TrekRepository:
                 trek_id=record["trek_id"],
                 trek_title=record["trek_title"],
                 source_url=record.get("source_url", ""),
+                image_url=record.get("image_url"),
+                video_url=record.get("video_url"),
                 filter_record=record,
                 profile=self.profiles.get(record["trek_id"]),
             )

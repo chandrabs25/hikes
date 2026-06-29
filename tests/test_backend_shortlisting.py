@@ -116,6 +116,11 @@ class BackendShortlistingTests(unittest.TestCase):
         card = build_candidate_card(dayara)
         dumped = card.model_dump_json()
         self.assertEqual(card.source_url, "https://indiahikes.com/dayara-bugyal-trek")
+        self.assertEqual(
+            card.image_url,
+            "https://images.prismic.io/indiahike/37356-Dayara-Bugyal-Indiahikes.jpg?auto=format,compress&rect=0,35,797,399&w=1200&h=600",
+        )
+        self.assertEqual(card.video_url, "https://www.youtube.com/watch?v=MhoyVIeNALM")
         self.assertEqual(card.facts.age_range.min, 8)
         self.assertEqual(card.facts.pickup.city, "Asli Pappu Da Dhaba, Dehradun")
         self.assertEqual(card.facts.dropoff.time, "6.00 PM")

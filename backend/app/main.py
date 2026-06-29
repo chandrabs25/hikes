@@ -108,6 +108,8 @@ def get_comparison_table(session_id: str) -> ComparisonTableResponse:
             ComparisonTableRow(
                 trek_id=card.trek_id,
                 title=card.title,
+                image_url=card.image_url,
+                video_url=card.video_url,
                 difficulty=facts.difficulty,
                 duration_days=facts.duration_days,
                 distance_km=facts.distance_km,

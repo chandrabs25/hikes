@@ -116,6 +116,8 @@ class CandidateCard(BaseModel):
     trek_id: str
     title: str
     source_url: str | None = None
+    image_url: str | None = None
+    video_url: str | None = None
     facts: CandidateFacts
     decision_axes: DecisionAxes = Field(default_factory=DecisionAxes)
 
@@ -170,6 +172,8 @@ class ShortlistResponse(BaseModel):
 class ComparisonTableRow(BaseModel):
     trek_id: str
     title: str
+    image_url: str | None = None
+    video_url: str | None = None
     difficulty: str | None = None
     duration_days: int | None = None
     distance_km: float | None = None

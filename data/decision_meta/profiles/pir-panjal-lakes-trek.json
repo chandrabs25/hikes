@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=2qToy0ZHRvc",
+    "video_title": "Pir Panjal Lakes Trek | The Grandest Trek In Jammu & Kashmir | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/036a8903-3692-444e-a0fc-9e62dfa4b42e_Pir+Panjal+Lakes_PPL_Nitesh+Kumar_Exploration_2023_+%289%29.jpg?auto=format,compress&rect=-142,0,4267,2133&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -157,5 +160,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=2qToy0ZHRvc",
+  "video_title": "Pir Panjal Lakes Trek | The Grandest Trek In Jammu & Kashmir | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/036a8903-3692-444e-a0fc-9e62dfa4b42e_Pir+Panjal+Lakes_PPL_Nitesh+Kumar_Exploration_2023_+%289%29.jpg?auto=format,compress&rect=-142,0,4267,2133&w=1200&h=600"
 }

@@ -77,7 +77,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=dl0O6gv28M8",
+      "video_title": "Why We Love The Ali Bedni Bugyal Trek | A Tribute By Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/Zh5cHEaI3ufuUN_m_AliBedniBugyalMidMay-2-.jpg?auto=format,compress&rect=0,13,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "bali-pass-ruinsara-tal",
@@ -103,7 +106,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 55.0
+        "value": 55
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -152,7 +155,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing), Homestay (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=hHSYOLsmOeo",
+      "video_title": "Bali Pass Trek - A Challenging Pass Crossing For Experienced Trekkers",
+      "image_url": "https://images.prismic.io/indiahike/37839eb1-905d-4697-9f0c-226fcd11dc09_Bali+Pass_BP_3.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "beas-kund",
@@ -227,7 +233,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=y-RVPWAriDM",
+      "video_title": "Beas Kund Trek | A Great Trek Right Out Of Manali | Best Time | Difficulty | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/19725-Beas-Kund-Nitish-Kumar-Indiahikes.jpg?auto=format,compress&rect=0,100,2000,1000&w=1200&h=600"
     },
     {
       "trek_id": "bhrigu-lake",
@@ -302,7 +311,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=7l55eECpLxY",
+      "video_title": "Why Bhrigu Lake is a Gem Hidden in Plain Sight | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/45199a24-48b7-4233-b6ad-1987f60a62bc_bhrigu+lake+latest+jignesh+chauhan.jpg?auto=format,compress&rect=0,70,2240,1120&w=1200&h=600"
     },
     {
       "trek_id": "bijli-mahadev-trek",
@@ -328,7 +340,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 10.0
+        "value": 10
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -377,7 +389,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=T2EP2qHaohk",
+      "video_title": "Bijli Mahadev Trek | Easy Trek near Manali | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/aHTdQkMqNJQqH1aq_Bijli_Pritish_Grassland.jpg?auto=format,compress&rect=0,277,3341,1671&w=1200&h=600"
     },
     {
       "trek_id": "bodpathri-trek",
@@ -448,7 +463,10 @@
       "accommodation_type": {
         "status": "unknown",
         "value": null
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=PKvgjUHEwNo",
+      "video_title": "The magical Bodpathri Trek #shorts",
+      "image_url": "https://images.prismic.io/indiahike/defd4a3e-0839-4fc4-9e27-d2fc556d1093_Bodpathri+Lakes+Trek_Pritish+Bhanushali_Indiahikes-083.jpg?auto=format,compress&rect=305,59,1067,533&w=1200&h=600"
     },
     {
       "trek_id": "brahmatal-trek",
@@ -474,7 +492,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 22.0
+        "value": 22
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -523,7 +541,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=RxUjBbsYMH0",
+      "video_title": "5 Reasons Why You Should Do The Brahmatal Trek | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/7d209460-66a7-4a38-b18d-e6309ed59b6b_Brahmatal_BT_Jothiranjan_Indiahikes_spring_+%2828%29.jpg?auto=format,compress&rect=0,134,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "brammah-valley-trek",
@@ -597,7 +618,10 @@
       "accommodation_type": {
         "status": "unknown",
         "value": null
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=0kyJWONhFeA",
+      "video_title": "Brammah Valley Trek | Jammu and Kashmir's New Trek | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/ZgEJgscYqOFdyDg-_BrammahValley_BannerImage.jpg?auto=format,compress&rect=0,-139,4800,2400&w=1200&h=600"
     },
     {
       "trek_id": "buran-ghati",
@@ -672,7 +696,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=eG5lgoFKttk",
+      "video_title": "Why We Love The Buran Ghati Trek | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/Zrr1c0aF0TcGI4Y0_BuranGhatiTrek-VibhutiKumarTiwari-BuranGhatipassviewfromlitham.jpg?auto=format,compress&rect=140,0,1460,730&w=1200&h=600"
     },
     {
       "trek_id": "chandrabhaga-glaciers-trek",
@@ -698,7 +725,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 32.0
+        "value": 32
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -747,7 +774,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing), Homestay (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=5HDCSpFY3J0",
+      "video_title": "The Trek That Starts at 16,000 Ft | Chandrabhaga Glacier Trek | Lahaul | Baralacha La | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/aHELfkMqNJQqHy9G_ChandrabhagaGlaiersTrek_CampAndGlaciers_PritishBhanushali-20.jpg?auto=format,compress&rect=0,111,1400,700&w=1200&h=600"
     },
     {
       "trek_id": "chandrakhani-pass-trek",
@@ -773,7 +803,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 26.0
+        "value": 26
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -822,7 +852,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=SUQubkEVapw",
+      "video_title": "Chandrakhani Pass Trek | Himachal's Most Loved Pass Climb Visual Video | By Ninad Lanjewar",
+      "image_url": "https://images.prismic.io/indiahike/eab55266-77bd-4604-81b8-131d53575e26_Chandrakhani+Pass_CP_Jothiranjan_Exploration_May+2023_monsoon+treks_+%2897%29.jpg?auto=format,compress&rect=0,133,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "dayara-bugyal-trek",
@@ -848,7 +881,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 21.0
+        "value": 21
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -897,7 +930,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=MhoyVIeNALM",
+      "video_title": "Why We Love Dayara Bugyal Trek | A Tribute by Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/37356-Dayara-Bugyal-Indiahikes.jpg?auto=format,compress&rect=0,35,797,399&w=1200&h=600"
     },
     {
       "trek_id": "deoriatal-chandrashila-trek",
@@ -923,7 +959,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 32.0
+        "value": 32
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -972,7 +1008,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=pX4nghLh8xA",
+      "video_title": "Why We Love The Deoriatal Chandrashila Trek | A Tribute By Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/Z3Pmi5bqstJ9857w_Deoriatal-Chandrashila-Summit-Vivek-Saini.jpg?auto=format,compress&rect=93,0,3200,1600&w=1200&h=600"
     },
     {
       "trek_id": "everest-base-camp-trek-nepal",
@@ -995,7 +1034,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 111.0
+        "value": 111
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1044,7 +1083,10 @@
       "accommodation_type": {
         "status": "unknown",
         "value": null
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=ZqzMSrT5u3Y",
+      "video_title": "Complete Guide To Do The Everest Base Camp Trek On Your Own | Classic Route | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/Zh5380aI3ufuUOQN_EverestBaseCamp_EBC_Classic_Route_PicturebySanthoshGovindaraju2.jpeg?auto=compress,format&rect=0,115,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "gaumukh-tapovan",
@@ -1070,7 +1112,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 41.0
+        "value": 41
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1119,7 +1161,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=Dls8Xr-nAz4",
+      "video_title": "A Visit To Gaumukh - Glacial Source Of Ganga | Chalein Trekking | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/d50921e6-039a-4251-9190-221239a46d8a_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg?auto=format,compress&rect=0,-97,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "goechala",
@@ -1145,7 +1190,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 73.0
+        "value": 73
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1194,7 +1239,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=5RAhSMzqaCQ",
+      "video_title": "Why We Love Goechala | A Tribute By Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/0afad85d-2c5f-474d-bc78-45766b1ae43b_Goechala_GCL_lsprasath_sunrise_mountain_.jpg?auto=format,compress&rect=0,-132,2133,1067&w=1200&h=600"
     },
     {
       "trek_id": "gurez-valley-trek",
@@ -1268,7 +1316,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=purxYSl2XrU",
+      "video_title": "Why The Trek To Gurez Valley In Kashmir Is So Special | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/13a0b016-212b-4644-ab2d-fee6aafbb390_Gurez+Valley+Trek_Nitesh+Kumar_Indiahikes-25.jpg?auto=format,compress&rect=0,218,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "hampta-pass",
@@ -1294,7 +1345,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 26.0
+        "value": 26
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1343,7 +1394,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=zk6P2_KeAdc",
+      "video_title": "Hampta Pass Weather And Temperature | Hampta Pass In June, July, August, September | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/d6160293-4e2e-400f-9e71-92876274745b_Hampta+Pass_HP_Ramshesha+N_Quenching+Thirst+After+Day+Long+Work+%40+Balu+Ka+Gera.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "har-ki-dun",
@@ -1369,7 +1423,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 37.0
+        "value": 37
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1418,7 +1472,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing), Homestays (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=XyUo2nbWWaA",
+      "video_title": "Har Ki Dun - A Himalayan Tapestry Of Culture And Mountains | Visual Film By Ninad L | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/c7e7a137-be09-47dc-94f1-ffe502fcf081_Har+Ki+Dun_HKD_Ruinsara+Tal+-+Subhrajyoti+Das+-+Valley+of+Gods.jpg?auto=compress,format&rect=0,111,1600,775&w=1600&h=775"
     },
     {
       "trek_id": "kanamo-peak-trek",
@@ -1444,7 +1501,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 22.0
+        "value": 22
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1493,7 +1550,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing), Teahouses (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=FRBMl_Y7g9c",
+      "video_title": "Why Kanamo Peak Is The Ultimate Himalayan Summit Adventure! | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/980b87d1-a860-4b5f-920f-7ffa5153f87a_Kanamo-Peak-Trek-Shashwat-Sharma-Indiahikes-2-of-1-2.jpg?auto=format,compress&rect=0,0,2500,1250&w=1200&h=600"
     },
     {
       "trek_id": "kedarkantha-trek",
@@ -1519,7 +1579,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 23.0
+        "value": 23
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1568,7 +1628,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=469pQziEKQo",
+      "video_title": "Kedarkantha Winter Trek",
+      "image_url": "https://images.prismic.io/indiahike/bed0c6e0-d196-4453-82a2-0a85192363f8_Kedarkantha+Trek-+Palak+Doshi.jpg?auto=format,compress&rect=0,200,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "kedartal",
@@ -1643,7 +1706,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=gXgEIACT_Yg",
+      "video_title": "Here's Why Kedartal Is A Tough High-Altitude Trek With Big Rewards | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/ede9728a-50dd-45f0-a370-f79f4e3e4c56_Kedartal_Indiahikes_Kumar+Kale_2021_+%281%29.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "khopra-ridge-khayar-lake",
@@ -1718,7 +1784,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Teahouses (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=-3bIUpSF-Zs",
+      "video_title": "Complete Guide to the Annapurna Basecamp and Khopra Ridge | Nepal Treks | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/07b9925d-2d1f-4f87-9901-8ab45a37c8c2_Dhaulagiri_Khopra+Ridge_Mrinal.jpg?auto=format,compress&rect=153,225,1290,645&w=1200&h=600"
     },
     {
       "trek_id": "kuari-pass",
@@ -1744,7 +1813,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 22.0
+        "value": 22
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1793,7 +1862,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=qC2opdpcqcw",
+      "video_title": "Why We Love Kuari Pass Trek | A Tribute by Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/74280412-a26b-4060-90af-6031094468e5_Kuari-pass-trek-1.jpg?auto=format,compress&rect=0,100,1200,600&w=1200&h=600"
     },
     {
       "trek_id": "miyar-valley-trek",
@@ -1868,7 +1940,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=zGz22vHYS3U",
+      "video_title": "Introducing The Miyar Valley Trek in Lahaul | Indiahikes | Good Treks in Lahaul and Spiti",
+      "image_url": "https://images.prismic.io/indiahike/3d302685-27f6-440e-9b1d-673b212cd972_Miyar+Valley_MV_Indiahikes_Akshay_Exploration_july+2021+%2845%29.jpg"
     },
     {
       "trek_id": "nafran-valley-trek",
@@ -1893,7 +1968,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 41.0
+        "value": 41
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -1942,7 +2017,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=pP6W72cYl2Q",
+      "video_title": "Introducing The Nafran Valley Trek In Kashmir | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/502816c3-9484-49d1-ab1f-0c6ad8b58ed5_Nafran+Valley_NV_Diptarka_2023_+%2825%29.jpg?auto=format,compress&rect=0,261,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "nag-tibba",
@@ -2017,7 +2095,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=dKYf0GyIdY4",
+      "video_title": "Why is Nag Tibba a must-do weekend trek near Delhi | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/5b255f75-c8e6-4292-b7c1-bca6ebfb11ef_Nag+Tibba+-+Aakriti+Mittal+-+Banner+-+Compressed.jpg?auto=format,compress&rect=0,-36,2133,1067&w=1200&h=600"
     },
     {
       "trek_id": "pangarchulla-peak-trek",
@@ -2043,7 +2124,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 35.0
+        "value": 35
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2092,7 +2173,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=uvFzjOQ0dfY",
+      "video_title": "Pangarchulla - A Challenging Summit Climb From A Trekker's Eyes | Indiahikes | By Pritish Bhanushali",
+      "image_url": "https://images.prismic.io/indiahike/Z-JZdndAxsiBv2k4_Pangarchullatrek_PG_Indiahikes_jothiranjan_summit_snow_trailwithtrekkers_summitpush_1_.jpg?auto=format,compress"
     },
     {
       "trek_id": "phulara-ridge-trek",
@@ -2118,7 +2202,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 26.0
+        "value": 26
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2167,7 +2251,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=Gcu8FMdyn-g",
+      "video_title": "Here is why Phulara Ridge is the best ridge trek in the country!",
+      "image_url": "https://images.prismic.io/indiahike/Z5Dm_pbqstJ99uyp_PhularaRidgeTrek_HarshKumarPatel_2023_June_summitviewss.jpg?auto=format,compress&rect=136,0,2068,1034&w=1200&h=600"
     },
     {
       "trek_id": "pin-bhaba-pass-trek",
@@ -2193,7 +2280,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 50.0
+        "value": 50
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2242,7 +2329,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=EjDUJAlWOtg",
+      "video_title": "Why We Love Pin Bhaba Pass | Himachal Pradesh | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/ZfqAFg4qyfNhFzKA_PinBhabaPass_Diptarkagupta_BannerImages_Indiahikes-2.jpg?auto=format,compress&rect=0,0,2400,1200&w=1200&h=600"
     },
     {
       "trek_id": "pir-panjal-lakes-trek",
@@ -2316,7 +2406,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=2qToy0ZHRvc",
+      "video_title": "Pir Panjal Lakes Trek | The Grandest Trek In Jammu & Kashmir | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/036a8903-3692-444e-a0fc-9e62dfa4b42e_Pir+Panjal+Lakes_PPL_Nitesh+Kumar_Exploration_2023_+%289%29.jpg?auto=format,compress&rect=-142,0,4267,2133&w=1200&h=600"
     },
     {
       "trek_id": "ranthan-kharak-trek",
@@ -2342,7 +2435,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 38.0
+        "value": 38
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2391,7 +2484,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=vMYefLQQ77A",
+      "video_title": "Introducing The Ranthan Kharak Trek | Our First Trek In Kumaon Himalayas | Indiahikes",
+      "image_url": "https://images.prismic.io/indiahike/ZkH_k0FLKBtrW0G5_RanthanTop_Indiahikes_AkshayKevin_SpringSeason_2024_Rhododendronflowers_-30.jpg?auto=format,compress&rect=0,51,1600,800&w=1200&h=600"
     },
     {
       "trek_id": "rupin-pass",
@@ -2417,7 +2513,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 37.0
+        "value": 37
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2466,7 +2562,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=cr7FofxYXjg",
+      "video_title": "Why We love Rupin Pass #travel #trekking",
+      "image_url": "https://images.prismic.io/indiahike/ZerszHUurf2G3NbC_RupinPass_RP_Jothiranjan_Snowbridge_RupinWaterfall_Campsite_Snowbridge_-4-.jpg?auto=format,compress&rect=0,-94,2133,1067&w=1200&h=600"
     },
     {
       "trek_id": "sandakphu-phalut",
@@ -2492,7 +2591,7 @@
       },
       "distance_km": {
         "status": "known",
-        "value": 68.0
+        "value": 68
       },
       "highest_altitude_ft": {
         "status": "known",
@@ -2541,7 +2640,10 @@
       "accommodation_type": {
         "status": "known",
         "value": "Tents (2-sharing), Teahouses (gender-based)"
-      }
+      },
+      "video_url": "https://www.youtube.com/watch?v=DfChd9GDwKA",
+      "video_title": "Sandakphu Phalut - A trek with unforgettable views!",
+      "image_url": "https://images.prismic.io/indiahike/c3000c9e-cf5f-4069-bdce-5f1c475b45b3_Sandakphu_SKP_May+2019+-+Indiahikes+-+Swathi+-+Sabargram+Campsite+-+Sleeping+Buddha+Mountain+Range_sunrise_mountains_.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
     }
   ]
 }

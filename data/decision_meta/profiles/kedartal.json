@@ -19,7 +19,10 @@
     "dropoff_time": "8.00 PM",
     "offloading_available": false,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=gXgEIACT_Yg",
+    "video_title": "Here's Why Kedartal Is A Tough High-Altitude Trek With Big Rewards | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/ede9728a-50dd-45f0-a370-f79f4e3e4c56_Kedartal_Indiahikes_Kumar+Kale_2021_+%281%29.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -153,5 +156,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=gXgEIACT_Yg",
+  "video_title": "Here's Why Kedartal Is A Tough High-Altitude Trek With Big Rewards | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/ede9728a-50dd-45f0-a370-f79f4e3e4c56_Kedartal_Indiahikes_Kumar+Kale_2021_+%281%29.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
 }

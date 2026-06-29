@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Difficult",
     "duration_days": 10,
-    "distance_km": 73.0,
+    "distance_km": 73,
     "highest_altitude_ft": 15100,
     "min_age": 15,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "5:00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=5RAhSMzqaCQ",
+    "video_title": "Why We Love Goechala | A Tribute By Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/0afad85d-2c5f-474d-bc78-45766b1ae43b_Goechala_GCL_lsprasath_sunrise_mountain_.jpg?auto=format,compress&rect=0,-132,2133,1067&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -139,5 +142,8 @@
   ],
   "needs_review": [
     "not_ideal_for"
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=5RAhSMzqaCQ",
+  "video_title": "Why We Love Goechala | A Tribute By Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/0afad85d-2c5f-474d-bc78-45766b1ae43b_Goechala_GCL_lsprasath_sunrise_mountain_.jpg?auto=format,compress&rect=0,-132,2133,1067&w=1200&h=600"
 }

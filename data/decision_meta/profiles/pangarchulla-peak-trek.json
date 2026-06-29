@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Difficult",
     "duration_days": 7,
-    "distance_km": 35.0,
+    "distance_km": 35,
     "highest_altitude_ft": 15069,
     "min_age": 15,
     "max_age": 55,
@@ -19,7 +19,10 @@
     "dropoff_time": "6.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=uvFzjOQ0dfY",
+    "video_title": "Pangarchulla - A Challenging Summit Climb From A Trekker's Eyes | Indiahikes | By Pritish Bhanushali",
+    "image_url": "https://images.prismic.io/indiahike/Z-JZdndAxsiBv2k4_Pangarchullatrek_PG_Indiahikes_jothiranjan_summit_snow_trailwithtrekkers_summitpush_1_.jpg?auto=format,compress"
   },
   "candidate_profile": {
     "seasonality": {
@@ -150,5 +153,8 @@
   ],
   "needs_review": [
     "Section text appears truncated at the end ('Any') — possible missing content on rejection instances or additional notes."
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=uvFzjOQ0dfY",
+  "video_title": "Pangarchulla - A Challenging Summit Climb From A Trekker's Eyes | Indiahikes | By Pritish Bhanushali",
+  "image_url": "https://images.prismic.io/indiahike/Z-JZdndAxsiBv2k4_Pangarchullatrek_PG_Indiahikes_jothiranjan_summit_snow_trailwithtrekkers_summitpush_1_.jpg?auto=format,compress"
 }

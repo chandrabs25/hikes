@@ -19,7 +19,10 @@
     "dropoff_time": "10 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents"
+    "accommodation_type": "Tents",
+    "video_url": "https://www.youtube.com/watch?v=dKYf0GyIdY4",
+    "video_title": "Why is Nag Tibba a must-do weekend trek near Delhi | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/5b255f75-c8e6-4292-b7c1-bca6ebfb11ef_Nag+Tibba+-+Aakriti+Mittal+-+Banner+-+Compressed.jpg?auto=format,compress&rect=0,-36,2133,1067&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -141,5 +144,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=dKYf0GyIdY4",
+  "video_title": "Why is Nag Tibba a must-do weekend trek near Delhi | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/5b255f75-c8e6-4292-b7c1-bca6ebfb11ef_Nag+Tibba+-+Aakriti+Mittal+-+Banner+-+Compressed.jpg?auto=format,compress&rect=0,-36,2133,1067&w=1200&h=600"
 }

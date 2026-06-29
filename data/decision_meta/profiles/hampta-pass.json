@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 6,
-    "distance_km": 26.0,
+    "distance_km": 26,
     "highest_altitude_ft": 14065,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "8 PM (including Chandratal Excursion)",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=zk6P2_KeAdc",
+    "video_title": "Hampta Pass Weather And Temperature | Hampta Pass In June, July, August, September | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/d6160293-4e2e-400f-9e71-92876274745b_Hampta+Pass_HP_Ramshesha+N_Quenching+Thirst+After+Day+Long+Work+%40+Balu+Ka+Gera.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -155,5 +158,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=zk6P2_KeAdc",
+  "video_title": "Hampta Pass Weather And Temperature | Hampta Pass In June, July, August, September | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/d6160293-4e2e-400f-9e71-92876274745b_Hampta+Pass_HP_Ramshesha+N_Quenching+Thirst+After+Day+Long+Work+%40+Balu+Ka+Gera.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
 }

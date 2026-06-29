@@ -19,7 +19,10 @@
     "dropoff_time": "11 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=eG5lgoFKttk",
+    "video_title": "Why We Love The Buran Ghati Trek | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/Zrr1c0aF0TcGI4Y0_BuranGhatiTrek-VibhutiKumarTiwari-BuranGhatipassviewfromlitham.jpg?auto=format,compress&rect=140,0,1460,730&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -159,5 +162,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=eG5lgoFKttk",
+  "video_title": "Why We Love The Buran Ghati Trek | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/Zrr1c0aF0TcGI4Y0_BuranGhatiTrek-VibhutiKumarTiwari-BuranGhatipassviewfromlitham.jpg?auto=format,compress&rect=140,0,1460,730&w=1200&h=600"
 }

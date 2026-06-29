@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Easy",
     "duration_days": 2,
-    "distance_km": 10.0,
+    "distance_km": 10,
     "highest_altitude_ft": 8120,
     "min_age": 7,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "9 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents"
+    "accommodation_type": "Tents",
+    "video_url": "https://www.youtube.com/watch?v=T2EP2qHaohk",
+    "video_title": "Bijli Mahadev Trek | Easy Trek near Manali | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/aHTdQkMqNJQqH1aq_Bijli_Pritish_Grassland.jpg?auto=format,compress&rect=0,277,3341,1671&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -142,5 +145,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=T2EP2qHaohk",
+  "video_title": "Bijli Mahadev Trek | Easy Trek near Manali | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/aHTdQkMqNJQqH1aq_Bijli_Pritish_Grassland.jpg?auto=format,compress&rect=0,277,3341,1671&w=1200&h=600"
 }

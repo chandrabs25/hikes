@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 6,
-    "distance_km": 26.0,
+    "distance_km": 26,
     "highest_altitude_ft": 12345,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "6.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=Gcu8FMdyn-g",
+    "video_title": "Here is why Phulara Ridge is the best ridge trek in the country!",
+    "image_url": "https://images.prismic.io/indiahike/Z5Dm_pbqstJ99uyp_PhularaRidgeTrek_HarshKumarPatel_2023_June_summitviewss.jpg?auto=format,compress&rect=136,0,2068,1034&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -137,5 +140,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=Gcu8FMdyn-g",
+  "video_title": "Here is why Phulara Ridge is the best ridge trek in the country!",
+  "image_url": "https://images.prismic.io/indiahike/Z5Dm_pbqstJ99uyp_PhularaRidgeTrek_HarshKumarPatel_2023_June_summitviewss.jpg?auto=format,compress&rect=136,0,2068,1034&w=1200&h=600"
 }

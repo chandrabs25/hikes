@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 7,
-    "distance_km": 38.0,
+    "distance_km": 38,
     "highest_altitude_ft": 12887,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "7.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=vMYefLQQ77A",
+    "video_title": "Introducing The Ranthan Kharak Trek | Our First Trek In Kumaon Himalayas | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/ZkH_k0FLKBtrW0G5_RanthanTop_Indiahikes_AkshayKevin_SpringSeason_2024_Rhododendronflowers_-30.jpg?auto=format,compress&rect=0,51,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -164,5 +167,8 @@
   "needs_review": [
     "avoid_months",
     "rain_or_monsoon_risk"
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=vMYefLQQ77A",
+  "video_title": "Introducing The Ranthan Kharak Trek | Our First Trek In Kumaon Himalayas | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/ZkH_k0FLKBtrW0G5_RanthanTop_Indiahikes_AkshayKevin_SpringSeason_2024_Rhododendronflowers_-30.jpg?auto=format,compress&rect=0,51,1600,800&w=1200&h=600"
 }

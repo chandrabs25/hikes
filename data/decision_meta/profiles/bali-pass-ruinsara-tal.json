@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Difficult",
     "duration_days": 9,
-    "distance_km": 55.0,
+    "distance_km": 55,
     "highest_altitude_ft": 16207,
     "min_age": 15,
     "max_age": 55,
@@ -19,7 +19,10 @@
     "dropoff_time": "8 PM",
     "offloading_available": false,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)"
+    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)",
+    "video_url": "https://www.youtube.com/watch?v=hHSYOLsmOeo",
+    "video_title": "Bali Pass Trek - A Challenging Pass Crossing For Experienced Trekkers",
+    "image_url": "https://images.prismic.io/indiahike/37839eb1-905d-4697-9f0c-226fcd11dc09_Bali+Pass_BP_3.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -142,5 +145,8 @@
   ],
   "needs_review": [
     "not_ideal_for: 'First-time trekkers' is inferred from the AMS note rather than an explicit statement that first-timers should not do this trek; flagged for review."
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=hHSYOLsmOeo",
+  "video_title": "Bali Pass Trek - A Challenging Pass Crossing For Experienced Trekkers",
+  "image_url": "https://images.prismic.io/indiahike/37839eb1-905d-4697-9f0c-226fcd11dc09_Bali+Pass_BP_3.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
 }

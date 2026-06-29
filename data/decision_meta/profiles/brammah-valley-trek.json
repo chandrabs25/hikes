@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": null
+    "accommodation_type": null,
+    "video_url": "https://www.youtube.com/watch?v=0kyJWONhFeA",
+    "video_title": "Brammah Valley Trek | Jammu and Kashmir's New Trek | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/ZgEJgscYqOFdyDg-_BrammahValley_BannerImage.jpg?auto=format,compress&rect=0,-139,4800,2400&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -132,5 +135,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=0kyJWONhFeA",
+  "video_title": "Brammah Valley Trek | Jammu and Kashmir's New Trek | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/ZgEJgscYqOFdyDg-_BrammahValley_BannerImage.jpg?auto=format,compress&rect=0,-139,4800,2400&w=1200&h=600"
 }

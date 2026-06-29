@@ -463,6 +463,22 @@ textarea {
   grid-column: 1 / -1;
 }
 
+.personHints {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 6px;
+}
+
+.personHints .hintLabel {
+  margin: 0;
+}
+
+.personHintChip {
+  padding: 6px 11px;
+  font-size: 12px;
+}
+
 .personActions {
   display: flex;
   align-items: flex-start;
@@ -531,6 +547,16 @@ textarea {
   flex-wrap: wrap;
   gap: 8px;
   margin-top: 12px;
+}
+
+.hintLabel {
+  flex-basis: 100%;
+  margin-bottom: 2px;
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .promptChip {
@@ -905,6 +931,34 @@ textarea {
   gap: 14px;
 }
 
+.trekDetailMedia {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.trekDetailImage,
+.trekDetailVideo {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+}
+
+.trekDetailImage {
+  display: block;
+  object-fit: cover;
+}
+
+.trekDetailVideo iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 .recSection {
   padding: 14px 16px;
   border-radius: var(--radius-sm);
@@ -1088,6 +1142,55 @@ textarea {
   font-weight: 600;
 }
 
+.videoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.videoCard {
+  overflow: hidden;
+  border-radius: var(--radius-sm);
+}
+
+.videoFrame {
+  aspect-ratio: 16 / 9;
+  background: var(--bg-elevated);
+}
+
+.videoFrame iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  display: block;
+}
+
+.videoCardFooter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 14px;
+}
+
+.videoCardFooter h4 {
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.videoCardFooter a {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.videoCardFooter a:hover {
+  color: var(--accent-hover);
+}
+
 .tableWrap {
   border-radius: var(--radius-lg);
   overflow: hidden;
@@ -1159,6 +1262,14 @@ textarea {
   font-size: 20px;
 }
 
+.chatIntro {
+  max-width: 660px;
+  margin-top: 6px;
+  color: var(--text-secondary);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
 .chatScope {
   color: var(--text-muted);
   font-size: 13px;
@@ -1213,6 +1324,17 @@ textarea {
   padding: 40px 20px;
   color: var(--text-muted);
   font-size: 14px;
+}
+
+.chatEmpty h4 {
+  color: var(--text-primary);
+  font-size: 16px;
+  margin-bottom: 6px;
+}
+
+.chatEmpty p {
+  max-width: 520px;
+  margin: 0 auto;
 }
 
 .chatEmpty svg {
@@ -1612,7 +1734,11 @@ textarea {
   }
 
   .recCardBody {
-    padding: 0 16px 18px;
+    padding: 14px 16px 18px;
+  }
+
+  .trekDetailMedia {
+    grid-template-columns: 1fr;
   }
 
   .chatComposer {

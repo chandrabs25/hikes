@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 7,
-    "distance_km": 68.0,
+    "distance_km": 68,
     "highest_altitude_ft": 11930,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "9 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)"
+    "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)",
+    "video_url": "https://www.youtube.com/watch?v=DfChd9GDwKA",
+    "video_title": "Sandakphu Phalut - A trek with unforgettable views!",
+    "image_url": "https://images.prismic.io/indiahike/c3000c9e-cf5f-4069-bdce-5f1c475b45b3_Sandakphu_SKP_May+2019+-+Indiahikes+-+Swathi+-+Sabargram+Campsite+-+Sleeping+Buddha+Mountain+Range_sunrise_mountains_.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -162,5 +165,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=DfChd9GDwKA",
+  "video_title": "Sandakphu Phalut - A trek with unforgettable views!",
+  "image_url": "https://images.prismic.io/indiahike/c3000c9e-cf5f-4069-bdce-5f1c475b45b3_Sandakphu_SKP_May+2019+-+Indiahikes+-+Swathi+-+Sabargram+Campsite+-+Sleeping+Buddha+Mountain+Range_sunrise_mountains_.jpg?auto=format,compress&rect=0,0,1600,800&w=1200&h=600"
 }

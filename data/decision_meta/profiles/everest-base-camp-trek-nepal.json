@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Difficult",
     "duration_days": 15,
-    "distance_km": 111.0,
+    "distance_km": 111,
     "highest_altitude_ft": 18200,
     "min_age": 15,
     "max_age": 55,
@@ -19,7 +19,10 @@
     "dropoff_time": "1 AM on Day 2)",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": null
+    "accommodation_type": null,
+    "video_url": "https://www.youtube.com/watch?v=ZqzMSrT5u3Y",
+    "video_title": "Complete Guide To Do The Everest Base Camp Trek On Your Own | Classic Route | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/Zh5380aI3ufuUOQN_EverestBaseCamp_EBC_Classic_Route_PicturebySanthoshGovindaraju2.jpeg?auto=compress,format&rect=0,115,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -136,5 +139,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=ZqzMSrT5u3Y",
+  "video_title": "Complete Guide To Do The Everest Base Camp Trek On Your Own | Classic Route | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/Zh5380aI3ufuUOQN_EverestBaseCamp_EBC_Classic_Route_PicturebySanthoshGovindaraju2.jpeg?auto=compress,format&rect=0,115,1600,800&w=1200&h=600"
 }

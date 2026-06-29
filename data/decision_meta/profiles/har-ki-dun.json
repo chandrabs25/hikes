@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 7,
-    "distance_km": 37.0,
+    "distance_km": 37,
     "highest_altitude_ft": 11600,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "6 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing), Homestays (gender-based)"
+    "accommodation_type": "Tents (2-sharing), Homestays (gender-based)",
+    "video_url": "https://www.youtube.com/watch?v=XyUo2nbWWaA",
+    "video_title": "Har Ki Dun - A Himalayan Tapestry Of Culture And Mountains | Visual Film By Ninad L | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/c7e7a137-be09-47dc-94f1-ffe502fcf081_Har+Ki+Dun_HKD_Ruinsara+Tal+-+Subhrajyoti+Das+-+Valley+of+Gods.jpg?auto=compress,format&rect=0,111,1600,775&w=1600&h=775"
   },
   "candidate_profile": {
     "seasonality": {
@@ -158,5 +161,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=XyUo2nbWWaA",
+  "video_title": "Har Ki Dun - A Himalayan Tapestry Of Culture And Mountains | Visual Film By Ninad L | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/c7e7a137-be09-47dc-94f1-ffe502fcf081_Har+Ki+Dun_HKD_Ruinsara+Tal+-+Subhrajyoti+Das+-+Valley+of+Gods.jpg?auto=compress,format&rect=0,111,1600,775&w=1600&h=775"
 }

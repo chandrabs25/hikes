@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Easy-Moderate",
     "duration_days": 6,
-    "distance_km": 21.0,
+    "distance_km": 21,
     "highest_altitude_ft": 11830,
     "min_age": 8,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "6.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=MhoyVIeNALM",
+    "video_title": "Why We Love Dayara Bugyal Trek | A Tribute by Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/37356-Dayara-Bugyal-Indiahikes.jpg?auto=format,compress&rect=0,35,797,399&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -148,5 +151,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=MhoyVIeNALM",
+  "video_title": "Why We Love Dayara Bugyal Trek | A Tribute by Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/37356-Dayara-Bugyal-Indiahikes.jpg?auto=format,compress&rect=0,35,797,399&w=1200&h=600"
 }

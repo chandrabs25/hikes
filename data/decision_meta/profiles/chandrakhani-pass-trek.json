@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Easy-Moderate",
     "duration_days": 5,
-    "distance_km": 26.0,
+    "distance_km": 26,
     "highest_altitude_ft": 12185,
     "min_age": 8,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "6 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=SUQubkEVapw",
+    "video_title": "Chandrakhani Pass Trek | Himachal's Most Loved Pass Climb Visual Video | By Ninad Lanjewar",
+    "image_url": "https://images.prismic.io/indiahike/eab55266-77bd-4604-81b8-131d53575e26_Chandrakhani+Pass_CP_Jothiranjan_Exploration_May+2023_monsoon+treks_+%2897%29.jpg?auto=format,compress&rect=0,133,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -171,5 +174,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=SUQubkEVapw",
+  "video_title": "Chandrakhani Pass Trek | Himachal's Most Loved Pass Climb Visual Video | By Ninad Lanjewar",
+  "image_url": "https://images.prismic.io/indiahike/eab55266-77bd-4604-81b8-131d53575e26_Chandrakhani+Pass_CP_Jothiranjan_Exploration_May+2023_monsoon+treks_+%2897%29.jpg?auto=format,compress&rect=0,133,1600,800&w=1200&h=600"
 }

@@ -19,7 +19,10 @@
     "dropoff_time": null,
     "offloading_available": null,
     "cloakroom_available": null,
-    "accommodation_type": null
+    "accommodation_type": null,
+    "video_url": "https://www.youtube.com/watch?v=PKvgjUHEwNo",
+    "video_title": "The magical Bodpathri Trek #shorts",
+    "image_url": "https://images.prismic.io/indiahike/defd4a3e-0839-4fc4-9e27-d2fc556d1093_Bodpathri+Lakes+Trek_Pritish+Bhanushali_Indiahikes-083.jpg?auto=format,compress&rect=305,59,1067,533&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -156,5 +159,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=PKvgjUHEwNo",
+  "video_title": "The magical Bodpathri Trek #shorts",
+  "image_url": "https://images.prismic.io/indiahike/defd4a3e-0839-4fc4-9e27-d2fc556d1093_Bodpathri+Lakes+Trek_Pritish+Bhanushali_Indiahikes-083.jpg?auto=format,compress&rect=305,59,1067,533&w=1200&h=600"
 }

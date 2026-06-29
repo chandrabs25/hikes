@@ -19,7 +19,10 @@
     "dropoff_time": "4 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=y-RVPWAriDM",
+    "video_title": "Beas Kund Trek | A Great Trek Right Out Of Manali | Best Time | Difficulty | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/19725-Beas-Kund-Nitish-Kumar-Indiahikes.jpg?auto=format,compress&rect=0,100,2000,1000&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -147,5 +150,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=y-RVPWAriDM",
+  "video_title": "Beas Kund Trek | A Great Trek Right Out Of Manali | Best Time | Difficulty | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/19725-Beas-Kund-Nitish-Kumar-Indiahikes.jpg?auto=format,compress&rect=0,100,2000,1000&w=1200&h=600"
 }

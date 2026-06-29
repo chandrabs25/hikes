@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate-Difficult",
     "duration_days": 7,
-    "distance_km": 32.0,
+    "distance_km": 32,
     "highest_altitude_ft": 17200,
     "min_age": 14,
     "max_age": 62,
@@ -19,7 +19,10 @@
     "dropoff_time": "7 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)"
+    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)",
+    "video_url": "https://www.youtube.com/watch?v=5HDCSpFY3J0",
+    "video_title": "The Trek That Starts at 16,000 Ft | Chandrabhaga Glacier Trek | Lahaul | Baralacha La | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/aHELfkMqNJQqHy9G_ChandrabhagaGlaiersTrek_CampAndGlaciers_PritishBhanushali-20.jpg?auto=format,compress&rect=0,111,1400,700&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -151,5 +154,8 @@
       "field_name": "fitness_benchmark"
     }
   ],
-  "needs_review": []
+  "needs_review": [],
+  "video_url": "https://www.youtube.com/watch?v=5HDCSpFY3J0",
+  "video_title": "The Trek That Starts at 16,000 Ft | Chandrabhaga Glacier Trek | Lahaul | Baralacha La | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/aHELfkMqNJQqHy9G_ChandrabhagaGlaiersTrek_CampAndGlaciers_PritishBhanushali-20.jpg?auto=format,compress&rect=0,111,1400,700&w=1200&h=600"
 }

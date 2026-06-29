@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Easy-Moderate",
     "duration_days": 6,
-    "distance_km": 22.0,
+    "distance_km": 22,
     "highest_altitude_ft": 12250,
     "min_age": 8,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "7.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=RxUjBbsYMH0",
+    "video_title": "5 Reasons Why You Should Do The Brahmatal Trek | Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/7d209460-66a7-4a38-b18d-e6309ed59b6b_Brahmatal_BT_Jothiranjan_Indiahikes_spring_+%2828%29.jpg?auto=format,compress&rect=0,134,1600,800&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -161,5 +164,8 @@
     "avoid_months: monsoon months and mid-April are inferred from context, not explicitly named by month",
     "not_ideal_for",
     "snow_window: end of December phrasing is approximate"
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=RxUjBbsYMH0",
+  "video_title": "5 Reasons Why You Should Do The Brahmatal Trek | Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/7d209460-66a7-4a38-b18d-e6309ed59b6b_Brahmatal_BT_Jothiranjan_Indiahikes_spring_+%2828%29.jpg?auto=format,compress&rect=0,134,1600,800&w=1200&h=600"
 }

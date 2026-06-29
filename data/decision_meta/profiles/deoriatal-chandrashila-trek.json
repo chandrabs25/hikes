@@ -7,7 +7,7 @@
   "filter_index": {
     "trek_difficulty": "Moderate",
     "duration_days": 6,
-    "distance_km": 32.0,
+    "distance_km": 32,
     "highest_altitude_ft": 12083,
     "min_age": 11,
     "max_age": null,
@@ -19,7 +19,10 @@
     "dropoff_time": "6.00 PM",
     "offloading_available": true,
     "cloakroom_available": true,
-    "accommodation_type": "Tents (2-sharing)"
+    "accommodation_type": "Tents (2-sharing)",
+    "video_url": "https://www.youtube.com/watch?v=pX4nghLh8xA",
+    "video_title": "Why We Love The Deoriatal Chandrashila Trek | A Tribute By Indiahikes",
+    "image_url": "https://images.prismic.io/indiahike/Z3Pmi5bqstJ9857w_Deoriatal-Chandrashila-Summit-Vivek-Saini.jpg?auto=format,compress&rect=93,0,3200,1600&w=1200&h=600"
   },
   "candidate_profile": {
     "seasonality": {
@@ -171,5 +174,8 @@
   ],
   "needs_review": [
     "not_ideal_for"
-  ]
+  ],
+  "video_url": "https://www.youtube.com/watch?v=pX4nghLh8xA",
+  "video_title": "Why We Love The Deoriatal Chandrashila Trek | A Tribute By Indiahikes",
+  "image_url": "https://images.prismic.io/indiahike/Z3Pmi5bqstJ9857w_Deoriatal-Chandrashila-Summit-Vivek-Saini.jpg?auto=format,compress&rect=93,0,3200,1600&w=1200&h=600"
 }

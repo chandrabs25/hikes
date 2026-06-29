@@ -36,6 +36,8 @@ type CandidateCard = {
   trek_id: string;
   title: string;
   source_url: string | null;
+  image_url: string | null;
+  video_url: string | null;
 };
 
 type ShortlistResponse = {
@@ -48,6 +50,8 @@ type ShortlistResponse = {
 type ComparisonRow = {
   trek_id: string;
   title: string;
+  image_url: string | null;
+  video_url: string | null;
   difficulty: string | null;
   duration_days: number | null;
   distance_km: number | null;
@@ -349,7 +353,7 @@ function IconChat() {
 const STEPS = [
   { label: "Group", icon: <IconUsers /> },
   { label: "Preferences", icon: <IconCompass /> },
-  { label: "What matters", icon: <IconEdit /> },
+  { label: "Trip goals", icon: <IconEdit /> },
   { label: "Details", icon: <IconSettings /> }
 ];
 
@@ -397,6 +401,30 @@ export default function Home() {
     }
     return links;
   }, [shortlist]);
+  const trekImagesById = useMemo(() => {
+    const images = new Map<string, string>();
+    if (!shortlist) {
+      return images;
+    }
+    for (const card of [...shortlist.eligible_candidates, ...shortlist.conditional_candidates]) {
+      if (card.image_url) {
+        images.set(card.trek_id, card.image_url);
+      }
+    }
+    return images;
+  }, [shortlist]);
+  const trekVideosById = useMemo(() => {
+    const videos = new Map<string, string>();
+    if (!shortlist) {
+      return videos;
+    }
+    for (const card of [...shortlist.eligible_candidates, ...shortlist.conditional_candidates]) {
+      if (card.video_url) {
+        videos.set(card.trek_id, card.video_url);
+      }
+    }
+    return videos;
+  }, [shortlist]);
 
   function updateParticipant(index: number, key: keyof Participant, value: string) {
     setParticipants((current) =>
@@ -410,6 +438,21 @@ export default function Home() {
 
   function removeParticipant(index: number) {
     setParticipants((current) => current.filter((_, personIndex) => personIndex !== index));
+  }
+
+  function appendParticipantNote(index: number, note: string) {
+    setParticipants((current) =>
+      current.map((person, personIndex) => {
+        if (personIndex !== index) {
+          return person;
+        }
+        const currentNote = person.notes.trim();
+        return {
+          ...person,
+          notes: currentNote ? `${currentNote}\n${note}` : note
+        };
+      })
+    );
   }
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
@@ -534,7 +577,22 @@ export default function Home() {
     "First Himalayan trek with kids — want something confidence-building",
     "We love snow and want stunning views without too much altitude",
     "Looking for a challenging trek with remote trail vibes",
-    "Group has mixed fitness levels, need something everyone can enjoy"
+    "Group has mixed fitness levels, need something everyone can enjoy",
+    "Prefer quieter trails and fewer crowds",
+    "Need something suitable for an older parent",
+    "Comfortable with cold, but want to avoid technical terrain",
+    "Want meadows, forests, and relaxed walking days"
+  ];
+
+  const personNoteHints = [
+    "First Himalayan trek",
+    "Gets tired on long climbs",
+    "Loves snow",
+    "Prefers easier days",
+    "Has knee pain or past injury",
+    "Gets anxious on exposed trails",
+    "Comfortable with cold",
+    "Needs a confidence-building trek"
   ];
 
   return (
@@ -544,7 +602,7 @@ export default function Home() {
         <div className="heroContent">
           <h1>Find treks that fit your whole group.</h1>
           <p className="heroSub">
-            Tell us about your group and what matters most — our AI matches you with the
+            Tell us about your group and the trek experience you want — our AI matches you with the
             perfect Himalayan trek from Indiahikes.
           </p>
         </div>
@@ -624,7 +682,7 @@ export default function Home() {
                               </div>
                               <div className="personCardNotes">
                                 <div className="formGroup">
-                                  <span className="formLabel">Anything specific?</span>
+                                  <span className="formLabel">What should we know about this trekker?</span>
                                   <textarea
                                     className="formTextarea"
                                     value={person.notes}
@@ -632,6 +690,19 @@ export default function Home() {
                                     placeholder="First Himalayan trek. Gets tired on long climbs, but loves snow."
                                     rows={2}
                                   />
+                                  <div className="personHints">
+                                    <p className="hintLabel">Hints</p>
+                                    {personNoteHints.map((hint) => (
+                                      <button
+                                        type="button"
+                                        className="promptChip personHintChip"
+                                        key={hint}
+                                        onClick={() => appendParticipantNote(index, hint)}
+                                      >
+                                        {hint}
+                                      </button>
+                                    ))}
+                                  </div>
                                 </div>
                               </div>
                             </div>
@@ -706,14 +777,14 @@ export default function Home() {
                     </div>
                   )}
 
-                  {/* Step 2: What matters */}
+                  {/* Step 2: Trip goals */}
                   {step === 2 && (
                     <div className="stepContent" key="step-2">
-                      <h2 className="stepTitle">What matters for this trek?</h2>
-                      <p className="stepDesc">Describe in your own words what you&rsquo;re looking for — the more detail, the better our match.</p>
+                      <h2 className="stepTitle">What kind of trek are you hoping for?</h2>
+                      <p className="stepDesc">Describe the experience, comfort level, scenery, and concerns you want us to consider.</p>
 
                       <div className="formGroup">
-                        <span className="formLabel">Your description</span>
+                        <span className="formLabel">Trip goals and concerns</span>
                         <textarea
                           className="formTextarea"
                           value={textInput}
@@ -725,12 +796,17 @@ export default function Home() {
                       </div>
 
                       <div className="promptChips">
+                        <p className="hintLabel">Try mentioning</p>
                         {promptSuggestions.map((suggestion) => (
                           <button
                             type="button"
                             className="promptChip"
                             key={suggestion}
-                            onClick={() => setTextInput(suggestion)}
+                            onClick={() =>
+                              setTextInput((current) =>
+                                current.trim() ? `${current.trim()}\n${suggestion}` : suggestion
+                              )
+                            }
                           >
                             {suggestion}
                           </button>
@@ -891,6 +967,29 @@ export default function Home() {
                       ) : null}
                     </div>
                     <div className="recCardBody">
+                      {(trekImagesById.get(trek.trek_id) || trekVideosById.get(trek.trek_id)) && (
+                        <div className="trekDetailMedia">
+                          {trekImagesById.get(trek.trek_id) ? (
+                            <img
+                              className="trekDetailImage"
+                              src={trekImagesById.get(trek.trek_id)}
+                              alt={`${trek.title} trek`}
+                              loading="lazy"
+                            />
+                          ) : null}
+                          {trekVideosById.get(trek.trek_id) ? (
+                            <div className="trekDetailVideo">
+                              <iframe
+                                src={youtubeEmbedUrl(trekVideosById.get(trek.trek_id) ?? null)}
+                                title={`${trek.title} video`}
+                                loading="lazy"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowFullScreen
+                              />
+                            </div>
+                          ) : null}
+                        </div>
+                      )}
                       <div className="recSection">
                         <h4>
                           <IconCheck /> Why it fits
@@ -1028,8 +1127,11 @@ export default function Home() {
                 <div className="chatPanel glass">
                   <div className="chatPanelHeader">
                     <div>
-                      <p className="eyebrow">Trek Chat</p>
-                      <h3 className="sectionTitle">Ask about the recommended treks</h3>
+                      <p className="eyebrow">Conversation</p>
+                      <h3 className="sectionTitle">Chat with the trek assistant</h3>
+                      <p className="chatIntro">
+                        Ask follow-up questions about the suggested treks, compare options, or clarify fitness, season, safety, and itinerary details.
+                      </p>
                     </div>
                     <span className="chatScope">{shortlist.llm_recommendation.recommended.length} treks in scope</span>
                   </div>
@@ -1087,7 +1189,8 @@ export default function Home() {
                     ) : (
                       <div className="chatEmpty">
                         <IconChat />
-                        <p>Ask about itinerary, fitness, season, FAQs, safety, or tradeoffs between these treks.</p>
+                        <h4>Start a conversation about these recommendations</h4>
+                        <p>Use the question box below to ask about itinerary, fitness, season, FAQs, safety, or tradeoffs between the suggested treks.</p>
                       </div>
                     )}
                     {chatLoading && (
@@ -1109,7 +1212,8 @@ export default function Home() {
                     <input
                       value={chatInput}
                       onChange={(event) => setChatInput(event.target.value)}
-                      placeholder="Ask about snow, itinerary, fitness, safety…"
+                      placeholder="Type a follow-up question about the suggested treks…"
+                      aria-label="Ask a follow-up question about the suggested treks"
                       disabled={chatLoading}
                     />
                     <button className="sendBtn" type="submit" disabled={!chatInput.trim() || chatLoading}>
@@ -1171,4 +1275,15 @@ function formatLogistics(point: ComparisonRow["pickup"]) {
     return `${point.city}, ${point.time}`;
   }
   return point.city ?? point.time ?? "Unknown";
+}
+
+function youtubeEmbedUrl(url: string | null) {
+  if (!url) {
+    return "";
+  }
+  const id =
+    url.match(/[?&]v=([^&]+)/)?.[1] ??
+    url.match(/youtu\.be\/([^?]+)/)?.[1] ??
+    url.match(/embed\/([^?]+)/)?.[1];
+  return id ? `https://www.youtube-nocookie.com/embed/${id}` : url;
 }
