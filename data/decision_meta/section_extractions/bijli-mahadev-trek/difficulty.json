@@ -1,0 +1,256 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bijli-mahadev-trek",
+  "section_id": "bijli-mahadev-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/bijli-mahadev-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Easy"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Easy",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The Bijli Mahadev Trek is rated as an easy trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Beginners",
+        "Suitable for children / introducing children to trekking in the Himalayas"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "It's a great choice if you're just starting out or want to introduce children to trekking in the Himalayas.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Mostly flat trail winding through rolling hills",
+        "Occasional gradual ascents and descents",
+        "Initial 10-15 minutes of ascent through Kot Village is steep",
+        "Trails can get slushy and uncomfortable to walk on during heavy rain"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The trail is mostly flat, winding through rolling hills with a few gentle ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "On all two trekking days, you will get amidst rolling hills with occasional gradual ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The terrain is not challenging as such. But the initial 10-15 minutes of ascent through Kot Village is steep and can test your mental preparedness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "If it's raining heavily, the trails might get slushy and uncomfortable to walk on.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Initial 10-15 minutes of ascent through Kot Village is steep and can test mental preparedness"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The initial 10-15 minutes of ascent through Kot Village is steep and can test your mental preparedness.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as micro spikes, gaiters, helmets, ropes wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support",
+        "Appropriate layering with sun caps and full-sleeved t-shirts or arm sleeves is necessary"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc., wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Appropriate layering with sun caps and with full-sleeved t-shirts or arm sleeves is necessary.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Can get sunny, especially during spring and summer",
+        "Heavy rain can make trails slushy and uncomfortable",
+        "Team monitors weather and may turn back if conditions deteriorate",
+        "Dehydration is common if fluids are insufficient while walking up the slope"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "It may get sunny, especially during spring and summer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "If it's raining heavily, the trails might get slushy and uncomfortable to walk on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Our team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The trek is short, but it can get sunny as you walk up the slope. Dehydration is really common if you don't have enough fluids to hydrate yourself.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Indiahikes team is equipped with medical kits, oxygen cylinders, and stretchers",
+        "Roadheads on either end are close and easily accessible",
+        "Emergency exit via Kot Village if emergency occurs before Borsu Campsite",
+        "Emergency exit via Karate side if emergency occurs closer to Sildhar Campsite",
+        "Closest hospital: Mission Hospital in Manali (Model Town, Siyal, Manali, HP 175131; +911902252379)",
+        "Alternate hospital: Manu Diagnostics Centre and Hospital (Snowdrop Hotel building, Gompa Road, opposite Buddhist Monastery, Manali, HP 175131; +919418083587)",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with medical kits, oxygen cylinders, and stretchers to handle any emergency.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Since it is just a 10 km trek, the roadheads on either end of it are quite close and easily accessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "If the emergency occurs before reaching Borsu Campsite, Kot is the better option. If it happens deeper into the trek, close to Sildhar Campsite, then the Karate exit is closer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "In case of an emergency during the trek, Mission Hospital in Manali is the closest hospital to Bijli Mahadev. Address: Model Town, Siyal, Manali, Himachal Pradesh – 175131. Phone: +911902252379",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Manu Diagnostics Centre and Hospital is another option. Address: Snowdrop Hotel building, Gompa Road, opposite Buddhist Monastery, Manali, Himachal Pradesh – 175131. Phone: +919418083587",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively participate in safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::difficulty_section::001",
+          "quote_or_summary": "We believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

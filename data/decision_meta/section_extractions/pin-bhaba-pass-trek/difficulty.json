@@ -1,0 +1,361 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pin-bhaba-pass-trek",
+  "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/pin-bhaba-pass-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers who are not experienced",
+        "Trekkers not prepared for long days of more than 10 km at high altitude",
+        "Trekkers not prepared for steep ascents and descents every day",
+        "Trekkers not prepared for monsoon rains on the Kullu side"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The trek has very long days. You walk more than 10 km on multiple days. This is not easy, especially at the high altitudes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include steep ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Since Pin Bhaba Pass Trek is only accessible in monsoon, come mentally prepared for rains. Especially while you are on the Kullu side of the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Boulder fields on certain days",
+        "River crossings with strong currents (Bhaba tributary between Yangpa and Mulling, Pin River after the pass)",
+        "Extensive scree zones before and after Pin Bhaba Pass",
+        "Moraine and loose scree on Pass Crossing Day",
+        "Rockfall zones on Pass Crossing Day",
+        "Narrow pass barely wide enough for a few trekkers at a time"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "You also need to navigate extensive boulder fields on certain days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of your trek, you need to cross a tributary of the Bhaba river that flows between Yangpa and Mulling. The stream has a strong current, and a wooden log is placed across it.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "There are several other river crossings on the trek as well. They look easy from afar, but the flow gets stronger as the day progresses.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Especially after the pass, you cross the Pin River, which is biting cold (since it originates from the glacier just a little distance away).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "There is an extensive scree zone before and after the Pin Bhaba Pass. This is hard on your knees and you also need to be continuously aware of loose rocks that may come rolling at you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "You will be walking on moraine and loose scree for a long distance on the Pass Crossing Day. This comes with rockfall risk.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The pass itself is very narrow, barely wide enough to accommodate a few trekkers at a time.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep ascents and descents every day",
+        "Pass crossing at over 16,000 ft through steep, unstable terrain",
+        "Steep descent to Pin Valley after the pass",
+        "Long days of more than 10 km at high altitude"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include steep ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "This, coupled with an approach through steep, unstable terrain, makes the pass crossing the most difficult section on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The descent to Pin Valley, while rewarding, is steep and especially taxing after a long climb to the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The trek has very long days. You walk more than 10 km on multiple days. This is not easy, especially at the high altitudes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Micro spikes, gaiters, helmets, ropes provided by Indiahikes where required",
+        "Travelling traverse set up by technical team if wooden log is washed off",
+        "Safety gear handed out for rockfall zones"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "the Indiahikes technical team will set up a travelling traverse across the river.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "You'll be handed safety gear and your Trek Leader will instruct you on methods that help you safely negotiate the rockfall zones.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Pin Bhaba Pass at 16,105 ft above sea level",
+        "Camping at Phutsirang over 13,000 ft before the pass crossing",
+        "Risk of Acute Mountain Sickness (AMS) even with an extra acclimatisation day",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The Pin Bhaba Pass is situated at 16,105 ft above sea level.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "At Phutsirang, you camp over 13,000 ft above sea-level and then push for the rigorous pass crossing from there.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Even with an extra day factored in for acclimatisation, you are prone to Acute Mountain Sickness (AMS) on this trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them slushy",
+        "Snowfall can obstruct paths and require fresh tracks to be cut",
+        "Trek is only accessible in monsoon; rain expected on Kullu side, possibly for several days",
+        "Technical team may abort or turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Since Pin Bhaba Pass Trek is only accessible in monsoon, come mentally prepared for rains. Especially while you are on the Kullu side of the trek. It can rain for a day or even several days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Limited exit points as a crossover trek",
+        "If not yet past the pass, head back to Yangpa then Shimla",
+        "If past the pass, descend to Mudh then Manali",
+        "Closest hospitals for mild issues: Rampur Bushahr (Government Hospital, Dr B K Arora Hospital) and Kumarsain (Civil Hospital)",
+        "After the pass, Civil Hospital at Kaza",
+        "Advanced injuries/illness: Shimla (200 km from Kafnu) or Manali (250 km from Mudh)",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Being a crossover trek, the Pin Bhaba trek has limited exit points from the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "if you haven’t crossed the pass, then head back to Yangpa before getting back to Shimla.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "if you have crossed the pass, getting down to Mudh and heading to Manali is your only option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "the closest hospitals to the Pin Bhaba Pass trek are located in Rampur Bushahr and Kumarsain. This includes sprains and fractures.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Rampur Bushahr: Government Hospital and Dr B K Arora Hospital; Kumarsain: Civil Hospital",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "If you’ve crossed the pass, then head to Kaza: Civil Hospital",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "For any advanced injuries or illness, head to Shimla which is 200 km from Kafnu. Mudh, on the other side of the pass, is closer to Manali which is 250 km away.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "River crossings should be done early in the morning (sometimes as early as 5 AM) because flow strengthens through the day",
+        "Pass crossing is narrow; only a few trekkers can pass at a time",
+        "Loose rocks may roll in scree zones; continuous awareness required",
+        "Safety is a shared responsibility; trekkers must follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Try to cross rivers early in the morning. Sometimes even as early as 5 AM.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The pass itself is very narrow, barely wide enough to accommodate a few trekkers at a time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "you also need to be continuously aware of loose rocks that may come rolling at you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

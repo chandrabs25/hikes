@@ -1,0 +1,493 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "trek_id": "pangarchulla-peak-trek",
+  "trek_title": "Pangarchulla Peak Trek",
+  "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+  "inferred_at": "2026-06-27T16:42:34.496689+00:00",
+  "has_complete_trek_information": true,
+  "page_title": "Pangarchulla Trek 2026 | India’s Thrilling Summit Challenge",
+  "h1": "PANGARCHULLA PEAK TREK",
+  "root_text_preview": "Pangarchulla Peak - Complete Trek Information share link Share Link We have always wanted trekkers to be well-informed before they go on a Himalayan trek. Knowledge is the difference between a safe trek and a dangerous one. It’s also the difference between a wholesome experience and a superficial experience. Use this section to learn about the Pangarchulla Peak trek. It has in-depth information about each day of the trek, what to expect, and how you need to prepare for it. Many years of expertise have gone into this content. Trekkers find that extremely useful. Quick Itinerary Get your trek plan toggle accordion How Does Each Day Look Complete day-wise guide with pictures toggle accordion How Difficult is the Pangarchulla Peak Trek What You Can Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion How to Get Fit for the Pangarchulla Peak Trek A 6-Week Plan to Help You Get Trek-Fit for the Pangarchulla Peak Trek toggle accordion Best Time to do the Pangarchulla Peak Trek Time your trek well toggle accordion How to Plan Your Travel for the Pangarchulla Trek Flight, Train, Bus and All Essential Travel Details toggle accordion What is the Indiahikes Camping Experien",
+  "anchors": [
+    {
+      "id": "quick-itinerary",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2196,
+      "visible": false
+    },
+    {
+      "id": "detailed-itinerary",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "",
+      "top": 2256,
+      "visible": false
+    },
+    {
+      "id": "howEachDaySection",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7 Previous NextDay 1 (Pick-up Day): Drive from Rishikesh to KarchiDriving Duration: 10-11 hours drive | Driving Distance: 254 kmAltitude: 7,785 ftHighlights: The Panch Prayag that you ge",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example",
+      "tag": "ul",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 1",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 2",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 2",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 3",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 3",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 4",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 4",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 5",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 5",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 6",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 7",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 1",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 1 (Pick-up Day): Drive from Rishikesh to KarchiDriving Duration: 10-11 hours drive | Driving Distance: 254 kmAltitude: 7,785 ftHighlights: The Panch Prayag that you get to see on the journey is the main ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 1 (Pick-up Day): Drive from Rishikesh to Karchi",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 2",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous NextDay 2: Drive from Karchi to Auli. Trek from Auli to TaliTrek Duration: 8-9 hours | Trek Distance: 8.1 km Altitude Gain: ⇗ 2,507 ft (8,546 ft to 11,053 ft)Difficulty: Moderate-Difficult. Continuous ascent whi",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 2: Drive from Karchi to Auli. Trek from Auli to Tali",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 3",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous NextDay 3: Trek from Tali to KhullaraTrek Duration: 2-3 hours | Trek Distance: 2.65 kmAltitude Difference: ⇘ 40 ft (10,908 ft to 11,010 ft)Difficulty: Easy. Gradual trek all the way to Khullara.Highlights: Views",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 3: Trek from Tali to Khullara",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 4",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 4: Acclimatisation Day at Khullara. Trek to Kuari Top and back to KhullaraTrek Duration: 4-5 hours | Trek Distance: 7kmAltitude Gain and Loss: ⇗ 1,590 ft; ⇘ 1,590 ft (11,010 ft to 12,600 ft and back to 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 4: Acclimatisation Day at Khullara. Trek to Kuari Top and back to Khullara",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 5",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 5: Trek from Khullara to Pangarchulla Summit, and back to KhullaraTrek Duration: 12-16 hours | Trek Distance: 12km Altitude Gain and Loss: ⇗ 4,060 ft; ⇘ 4,060 ft (11,010 ft to 15,069 ft and back to 11,01",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 5: Trek from Khullara to Pangarchulla Summit, and back to Khullara",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 6",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous NextDay 6: Trek from Khullara to KarchiTrek Duration: 4-5 hours | Trek Distance: 5.25 kmAltitude Loss: ⇘ 3,225 ft (11,010 ft to 7,785 ft)Difficulty: Easy-Moderate. Moderate to steep descent all the way to Karchi",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 6: Trek from Khullara to Karchi",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 7",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 7: Drive from Karchi back to RishikeshDuration: 10-11 hours | Drive Distance: 260 kmHighlights: The Panch Prayags that you get to see in the correct order on your way down.Start from Tapoban after breakf",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 7: Drive from Karchi back to Rishikesh",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "trek-difficulty",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "",
+      "top": 2316,
+      "visible": false
+    },
+    {
+      "id": "goToCampsite",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "Previous slideYou're in for a surprise if you think only the famous push to the summit is the hard part on this trek. You tackle multiple ascents on each day of the trek. Photo by JothiranjanThe distance you walk from th",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "getting-fit",
+      "tag": "div",
+      "ui_key": "fitness",
+      "text_preview": "",
+      "top": 2376,
+      "visible": false
+    },
+    {
+      "id": "best-time",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2436,
+      "visible": false
+    },
+    {
+      "id": "how-to-reach",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2496,
+      "visible": false
+    },
+    {
+      "id": "camping_experience",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2556,
+      "visible": false
+    },
+    {
+      "id": "stay_options",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2616,
+      "visible": false
+    },
+    {
+      "id": "what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "",
+      "top": 2676,
+      "visible": false
+    },
+    {
+      "id": "trek-what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "Pangarchulla PeakSELECT MONTHGenerate my packing checklist",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "tag": "div",
+      "ui_key": "faqs",
+      "text_preview": "",
+      "top": 2736,
+      "visible": false
+    }
+  ],
+  "ui_sections": [
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::001-pangarchulla-peak-complete-trek-information",
+      "ui_key": "other",
+      "label": "Pangarchulla Peak - Complete Trek Information",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 1989
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::002-share-link-share-link",
+      "ui_key": "other",
+      "label": "share link Share Link",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2020
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary Get your trek plan toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2316
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::004-quick-itinerary",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2316
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2376
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::006-how-does-each-day-look",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2376
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::007-how-difficult-is-the-pangarchulla-peak-trek-what-you-can-exp",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Pangarchulla Peak Trek What You Can Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2436
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::008-how-difficult-is-the-pangarchulla-peak-trek",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Pangarchulla Peak Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2436
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::009-how-to-get-fit-for-the-pangarchulla-peak-trek-a-6-week-plan-",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Pangarchulla Peak Trek A 6-Week Plan to Help You Get Trek-Fit for the Pangarchulla Peak Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2496
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::010-how-to-get-fit-for-the-pangarchulla-peak-trek",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Pangarchulla Peak Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2496
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::011-best-time-to-do-the-pangarchulla-peak-trek-time-your-trek-we",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Pangarchulla Peak Trek Time your trek well toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2556
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::012-best-time-to-do-the-pangarchulla-peak-trek",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Pangarchulla Peak Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2556
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::013-how-to-plan-your-travel-for-the-pangarchulla-trek-flight-tra",
+      "ui_key": "travel",
+      "label": "How to Plan Your Travel for the Pangarchulla Trek Flight, Train, Bus and All Essential Travel Details toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2616
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::014-how-to-plan-your-travel-for-the-pangarchulla-trek",
+      "ui_key": "travel",
+      "label": "How to Plan Your Travel for the Pangarchulla Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2616
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::015-what-is-the-indiahikes-camping-experience-like-stay-food-toi",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ? Stay, Food, Toilet and Safety on an Indiahikes Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2676
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::016-what-is-the-indiahikes-camping-experience-like",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ?",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2676
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::017-stay-options-for-pangarchulla-peak-trek-budget-and-premium-s",
+      "ui_key": "stay",
+      "label": "Stay Options for Pangarchulla Peak Trek Budget and Premium Stay Options that Trekkers Recommend toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2736
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::018-stay-options-for-pangarchulla-peak-trek",
+      "ui_key": "stay",
+      "label": "Stay Options for Pangarchulla Peak Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2736
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::019-what-to-pack-for-your-trek-things-you-must-take-on-the-trek-",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek Things you must take on the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2796
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::020-what-to-pack-for-your-trek",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2796
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2856
+    },
+    {
+      "ui_section_id": "pangarchulla-peak-trek::ui::022-frequently-asked-questions",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2856
+    }
+  ]
+}

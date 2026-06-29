@@ -1,0 +1,316 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pir-panjal-lakes-trek",
+  "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/pir-panjal-lakes-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "end-June to start of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Pir Panjal Lakes Trek is from the end-June to start of September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "Post mid of September",
+        "All other seasons outside end-June to start of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Post mid of September, it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, it’s too cold to trek, the trail and the meadows are buried under snow for the most part.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "End-June to mid-July: remnants of snow at highest lake Nandansar, melting ice floating in lake, lower meadows open earlier, upper reaches under heavy snow",
+        "Mid-July to start of September: bright green meadows carpeted with wildflowers (violet, purple, yellow, white), deep blue alpine lakes (royal-blue shade), evening showers, brilliant blue skies reflecting in lakes, meadows turning golden brown by end of August/start of September, flowers wilting"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "When you trek in end of June and early July, you can expect to see remnants of snow by the highest lake on the trek - Nandansar. You may even see melting ice floating in the lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Now, the snow has almost melted. And the trail is carpeted with bright green meadows, which are in contrast with the rugged, grey mountains rising at the fringes. The best part is, that these meadows are densely dotted with so many wildflowers!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "You experience this beauty, especially in the meadows, as you trek over tiny flowers of colors ranging from violet, and purple to yellow and white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Waters of Pir Panjal Lake are deep blue. Look at these lakes from the vantage point, it has this signature royal-blue shade that you see in most of the Kashmir treks’ photos.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "You will also see a change in the colour of the meadows. They turn golden brown. The grass no longer retains the soft, fresh green tinge. The flowers wilt too.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Upper reaches under heavy snow until mid-June; lower meadows open earlier",
+        "End-June to mid-July: remnants of snow at highest lake (Nandansar), melting ice floating in lake",
+        "Mid-July onwards: snow has almost melted"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Trekking opens on the Pir Panjal Lakes trail in the mid of June. Until then the upper reaches are under heavy snow. The lower meadows open earlier.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "When you trek in end of June and early July, you can expect to see remnants of snow by the highest lake on the trek - Nandansar. You may even see melting ice floating in the lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Now, the snow has almost melted.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Mild rainfall in Jammu during monsoon due to Pir Panjal range blocking most rain clouds",
+        "Evening showers pick up from mid-July onwards",
+        "Evening showers become frequent as season progresses to end of August and start of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Jammu receives mild rainfall in monsoon. Not at all like in Himachal Pradesh or Uttarakhand. That's because of the Pir Panjal range which prevents most rain clouds from reaching the valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Rains -- more like evening showers -- pick up during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "The evening showers become frequent.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "End-June to mid-July: Day 19-24°C, Night 3-5°C",
+        "Mid-July to start of September: Day 20-25°C, Night 2-4°C",
+        "Cold sets in as season progresses to end of August and start of September",
+        "Post mid-September: cold temperatures make it less comfortable"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 19 °C and 24 °C | Night time temperature: Between 3 °C and 5 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 20 °C and 25 °C | Night time temperature: Between 2 °C and 4 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Cold sets in as the season progresses to the end of August and the start of September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Post mid of September, it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Rugged grey mountains rising at fringes contrasting with bright green meadows",
+        "Alpine lakes with signature royal-blue shade (Nandansar, Laksukhsar)",
+        "Brilliant blue skies reflecting in lakes when clouds part",
+        "Meadows turn golden brown by end of August/start of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "the trail is carpeted with bright green meadows, which are in contrast with the rugged, grey mountains rising at the fringes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Waters of Pir Panjal Lake are deep blue. Look at these lakes from the vantage point, it has this signature royal-blue shade that you see in most of the Kashmir treks’ photos.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "when the clouds part during this time of the year, you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes, especially Nandansar and Laksukhsar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "You will also see a change in the colour of the meadows. They turn golden brown.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "3-4 warm layers required throughout the season",
+        "Evening showers become frequent as season progresses",
+        "Cold increases towards end of August and start of September",
+        "Post mid-September: cold temperatures reduce comfort"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 3-4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "The evening showers become frequent.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Cold sets in as the season progresses to the end of August and the start of September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Post mid of September, it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking comfortable monsoon-season trekking with mild rainfall",
+        "Trekkers wanting to see wildflower-carpeted meadows (mid-July onwards)",
+        "Trekkers wanting to see snow remnants and melting ice at Nandansar (end-June to mid-July)",
+        "Trekkers wanting to see deep royal-blue alpine lakes"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "It’s a boon because it makes for a comfortable trekking experience.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "After mid-July, the Pir Panjal Lakes trek starts revealing itself in full glory.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "When you trek in end of June and early July, you can expect to see remnants of snow by the highest lake on the trek - Nandansar. You may even see melting ice floating in the lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Waters of Pir Panjal Lake are deep blue. Look at these lakes from the vantage point, it has this signature royal-blue shade that you see in most of the Kashmir treks’ photos.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers visiting post mid-September due to cold temperatures",
+        "Trekkers visiting in seasons outside end-June to start of September (too cold, snow-buried trails and meadows)"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "Post mid of September, it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, it’s too cold to trek, the trail and the meadows are buried under snow for the most part.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

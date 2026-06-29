@@ -1,0 +1,226 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "dayara-bugyal-trek",
+  "section_id": "dayara-bugyal-trek::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [
+        "Lagging trekker pulls the entire team back and forces the Trek Leader to slow everyone down",
+        "Trekkers who trained and showed up prepared may react negatively to delays caused by an unfit member",
+        "If a trekker falls behind the group by 45 minutes and is visibly struggling, the Trek Leader may send them back"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "But here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [
+        "Walk, jog, or run 5 km in under 40 minutes (minimum recommended fitness level)",
+        "Build cardiovascular endurance and muscle strength",
+        "Train core, calves, glutes, quadriceps, and hamstrings",
+        "Walking, jogging, or running is the recommended training routine"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "To do the Dayara Bugyal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "To reach any fitness target, there are two things you must work on: Cardiovascular Endurance, Muscle Strength",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "You need to train your core, calves, glutes, quadriceps, and hamstrings. Walking, jogging or running is the best routine for this.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "Track runs on Strava, Nike Run Club, or any similar fitness app",
+        "Take 3 screenshots of runs and upload them to the Indiahikes Dashboard",
+        "Upload screenshots 15 to 20 days before the trek date",
+        "Screenshots must demonstrate meeting the trek's fitness criteria",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Track your runs on Strava, Nike Run Club, or any similar fitness app. Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "6 weeks (Indiahikes free 6-week training plan)",
+        "Upload fitness screenshots 15 to 20 days before the trek date",
+        "Runs must meet fitness criteria at least 3 times in the past month"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Follow this, and you'll be trek-ready in 6 weeks.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Make sure you upload these screenshots 15 to 20 days before your trek date.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [
+        "Children below 14 years are not required to submit fitness records",
+        "Parents must ensure children below 14 remain physically active and prepared for the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "Children below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "risk_if_unfit": {
+      "values": [
+        "Struggle on the trek and fall behind the group",
+        "Miss out on the transformative trek experience",
+        "Pull the entire team back and force the Trek Leader to slow everyone down",
+        "If fitness records are rejected, the Trek Leader and Slope Manager are informed in advance",
+        "If a trekker falls behind by 45 minutes and is visibly struggling, the Trek Leader may send them back"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "If you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "You can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

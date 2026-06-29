@@ -1,0 +1,482 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::packing",
+  "section_type": "packing",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "geography_and_logistics",
+      "field": "permit_required",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "you must digitally upload and carry mandatory documents to get government permits for the trek",
+          "confidence": "high"
+        },
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "the forest department will not issue permissions for your trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "mandatory_documents",
+      "value": [
+        "government photo identity card",
+        "medical certificate"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Original and photocopy of government photo identity card: Anything such as a driver’s license, Aadhar Card, or passport will do. Note This is required by the forest department for your identification.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Medical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "gear_rental_available",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "If you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "rental_cost_estimate_inr",
+      "value": "less than Rs 2000 for the entire trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "It costs less than Rs 2000 for the entire trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "villages_on_trek",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "mountain_environment",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "carrying your own personal backpack reduces your impact on the mountains by 20%",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "no_printing_or_photocopy_facilities_at_basecamp",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "There are no printing or photocopy facilities at the basecamp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "no_printout_or_photocopy_facilities_at_sari",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Please note there is no facility to get printouts and photocopies at Sari.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "age_58_plus_treadmill_test_required",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Treadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "minor_unaccompanied_requirement",
+      "value": "disclaimer certificate signed by parents/guardian, printed and carried to basecamp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "medical_certificate_required",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Medical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "medical_certificate_issuer",
+      "value": "MBBS doctor",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "The medical certificate needs to be filled out by an MBBS doctor",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "medical_certificate_online_consultation_available",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours. Consultation fee: Rs 350",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "trekking_seasons",
+      "value": [
+        "spring",
+        "summer",
+        "monsoon",
+        "autumn",
+        "winter"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "3 layers if you're trekking in spring, summer and monsoon; 4 layers if you're trekking in autumn; 5 layers if you're trekking in winter",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "warm_layers_recommended",
+      "value": {
+        "spring_summer_monsoon": 3,
+        "autumn": 4,
+        "winter": 5
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket); 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket); 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "carrying_own_backpack_expected",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "backpack_carrying_sustainability_impact",
+      "value": "carrying your own personal backpack reduces your impact on the mountains by 20%",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Carrying your own personal backpack reduces your impact on the mountains by 20%.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "acute_mountain_sickness_risk",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Diamox (1 Strip): It is important to carry Diamox as part of the Live Saving Drugs. Read more about Diamox here on how it reduces the chances of Acute Mountain Sickness on the trek.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Digene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "trek_leader_carries_high_altitude_medical_kit",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Our trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "life_saving_drugs_carried_by_trek_leader",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "our trek leaders carry medical kits with 17 medicines including life-saving drugs",
+          "confidence": "high"
+        },
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Our trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "personal_medical_kit_mandatory",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "recommended_personal_medicines",
+      "value": [
+        {
+          "medicine": "Diamox",
+          "purpose": "reduces chances of Acute Mountain Sickness",
+          "quantity": "1 Strip"
+        },
+        {
+          "medicine": "Dolo 650",
+          "purpose": "tackle fever, mild pain",
+          "quantity": "5 tablets"
+        },
+        {
+          "medicine": "Avomine",
+          "purpose": "motion sickness",
+          "quantity": "4 tablets"
+        },
+        {
+          "medicine": "Combiflam",
+          "purpose": "pain reliever for muscle strain, contains paracetamol",
+          "quantity": "5 tablets"
+        },
+        {
+          "medicine": "Digene",
+          "purpose": "undigested food, possible sign of AMS",
+          "quantity": "4 tablets"
+        },
+        {
+          "medicine": "ORS",
+          "purpose": "replenish essential salts lost while trekking",
+          "quantity": "6 packs"
+        },
+        {
+          "medicine": "Knee Brace",
+          "purpose": "knee injury or knee pain",
+          "quantity": "optional"
+        }
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Carry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader. [list follows]",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "prohibited_items",
+      "value": [
+        "wet wipes"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Wet wipes are strictly not allowed on our treks",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "document_protection_required",
+      "value": "keep mandatory documents in plastic bag/cover to prevent getting wet",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Keep them in a plastic bag to keep them safe in your backpack.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Keep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "sustainability_practice",
+      "value": "low impact sustainable trekking",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "Indiahikes practices low impact sustainable trekking in every aspect of the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "village_medicine_donation",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "packing",
+          "source_field": "packing_section",
+          "quote_or_summary": "At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

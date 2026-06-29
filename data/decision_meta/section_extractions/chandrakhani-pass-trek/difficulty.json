@@ -1,0 +1,343 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "chandrakhani-pass-trek",
+  "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers who cannot handle rapid elevation gain and AMS risk",
+        "Trekkers not prepared for uneven ascents/descents and endurance-testing climbs",
+        "Trekkers unable to navigate snow-covered ledges or slushy/mushy forest trails",
+        "Trekkers unwilling to follow safety protocols or disclose pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "You climb more than 3500 ft from Rumsu to Naya Tapru on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents on uneven trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The forest trail from Rumsu climbs relentlessly until you reach the meadows. You gain more than 3500 ft over this 9 km stretch. This can test your endurance.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "There is a long ledge walk leading to the pass, which needs to be navigated carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely on. The forest trail ahead of Rumsu gets especially mushy and difficult to climb.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Fit beginners",
+        "First-time trekkers (subject to AMS risk)",
+        "Experienced trekkers (subject to AMS risk)"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Uneven trails with daily ascents and descents",
+        "Long ledge walk leading to the pass requiring careful navigation",
+        "Relentless forest trail climb from Rumsu to meadows (9 km, 3500+ ft gain)",
+        "Slushy/mushy forest trail ahead of Rumsu after rain",
+        "Snow-covered paths requiring fresh tracks to be cut",
+        "Flooded trails after rainfall"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents on uneven trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "There is a long ledge walk leading to the pass, which needs to be navigated carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The forest trail from Rumsu climbs relentlessly until you reach the meadows. You gain more than 3500 ft over this 9 km stretch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely on. The forest trail ahead of Rumsu gets especially mushy and difficult to climb.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 1 ascent of ~3000 ft from 6700 ft to over 10,000 ft (gradual, not too steep)",
+        "Chaklani to Chandrakhani Pass climb (gradual)",
+        "Rumsu to meadows forest trail: 3500+ ft gain over 9 km, endurance-testing"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of the trek you gain almost 3000 ft in elevation and go from 6700 ft to over 10,000 ft above sea-level. Although the ascent is gradual and not too steep, hydrate well to avoid getting hit by AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The climb from Chaklani to Chandrakhani pass is gradual.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The forest trail from Rumsu climbs relentlessly until you reach the meadows. You gain more than 3500 ft over this 9 km stretch. This can test your endurance.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Micro spikes, gaiters, helmets, ropes provided by Indiahikes where required",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek reaches 12,250 ft (12,185 ft per elevation gain) above sea level",
+        "Day 1 rapid gain of 3500+ ft from Rumsu to Naya Tapru increases AMS susceptibility",
+        "Above 10,000 ft AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers climbing too high too soon are at equal AMS risk",
+        "HAPE and HACE are referenced as altitude-related risks"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The Chandrakhani Pass trek is situated 12,250 ft above sea level.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "You climb more than 3500 ft from Rumsu to Naya Tapru on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Early June snow can make Chaklani to Chandrakhani Pass climb tricky",
+        "Snowfall can obstruct paths and make the ledge to Chandrakhani Pass inaccessible",
+        "Autumn temperatures plummet below zero; strong winds can affect trekkers without proper layering"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "But chances of snow in early June can make it tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow. It can also make the ledge leading to Chandrakhani Pass inaccessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "In the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Indiahikes team monitors weather and may turn back from any campsite if conditions deteriorate",
+        "High-altitude medical kits, oxygen cylinders, and stretchers available",
+        "Closest hospital: Manali (27 km from Rumsu)",
+        "Serious medical issues: Chandigarh (6-hr drive from Manali)",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader",
+        "Limited exit points; must descend to Rumsu before heading to Manali"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "The medical facilities at Manali, just 27 km from Rumsu, are your best bet in case of sudden medical emergencies on the Chandrakhani Pass Trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "In case of a more serious medical issue, the best option is to access medical facilities at Chandigarh, a 6-hr drive from Manali.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Chandrakhani Pass has limited exit points. You need to head down Rumsu before moving on to Manali.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

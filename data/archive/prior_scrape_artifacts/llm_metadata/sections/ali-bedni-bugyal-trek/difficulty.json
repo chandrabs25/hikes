@@ -1,0 +1,566 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::difficulty",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_name",
+      "value": "Ali Bedni Bugyal Trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Closest Hospital to the Ali Bedni Bugyal Trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "base_camp",
+      "value": "Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "retrace your way back to Lohajung (base camp)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "closest_motorable_roadhead",
+      "value": "Wan",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "return to Wan, which has the closest motorable roadhead",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "total_trek_distance_km",
+      "value": 27.2,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 27.2 km in four trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_gain_ft",
+      "value": 5000,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "gain approximately 5,000 ft (7,550 ft to 12,550 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "starting_altitude_ft",
+      "value": 7550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "gain approximately 5,000 ft (7,550 ft to 12,550 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "highest_altitude_ft",
+      "value": 12550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Bedni Top is situated 12,550 ft above sea level",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "emergency_exits",
+      "value": [
+        "Retrace way back to Lohajung (base camp)",
+        "Return to Wan (closest motorable roadhead)",
+        "Descend to Didna village then trek back to Lohajung"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "In case of an emergency, medical or otherwise, the best way is to retrace your way back to Lohajung (base camp). You have to return to Wan, which has the closest motorable roadhead. Descending to Didna village to rest and recuperate there is also an option. But you will have to trek back to Lohajung from Didna.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "medical_facilities",
+      "value": [
+        "Primary Health Care Center in Dewal, about 30 km from the Indiahikes Lohajung Campus (very basic facilities)",
+        "Hospitals in Gopeshwar (Chamoli District HQ), about 120 km by road (4-hour drive) from Lohajung",
+        "Hospitals at Rudraprayag (faster to access, downhill journey from Lohajung)"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "There is a Primary Health Care Center in Dewal, about 30 km from the Indiahikes Lohajung Campus. However, it has very basic facilities. For more serious concerns, you need to approach the hospitals in Gopeshwar, the Headquarters of Chamoli District. It is about 120 km by road (4-hour drive) from Lohajung. Accessing the hospitals at Rudraprayag is faster since it is a downhill journey from Lohajung while Gopeshwar is an uphill drive.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_rating",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Easy-Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "suitable_for",
+      "value": "Fit Beginners",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "trekking_days",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 27.2 km in four trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "terrain_challenges",
+      "value": [
+        "Every day includes steep ascents and descents",
+        "Day 1: gain nearly 3000 ft over 6 km",
+        "Day 3: steep ascent before crossing treeline at onset of Bedni Bugyal (Gehroli Patal to Abin Kharak)",
+        "Several steep sections require alertness and careful trekking"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Every day will include steep ascents and descents. Several steep sections on this trek require you to be alert and trek carefully. On the first day of your trek, you gain nearly 3000 ft in elevation over a 6 km stretch. On Day 3, you will trek from Gehroli Patal to Abin Kharak. This involves a steep ascent before crossing the treeline at the onset of the Bedni Bugyal.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "weather_challenges",
+      "value": [
+        "Snowfall distinct possibility near Bedni Top, especially in winter months, obstructing paths",
+        "Heavy rain may flood trails and campsites or turn them into slippery slush",
+        "Neelganga River crossing risky in heavy rain"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "On this trek, snowfall is a distinct possibility near Bedni Top, especially in the winter months. Snowfall can obstruct previously made paths. Heavy rain may flood trails and campsites or turn them into slippery slush. It can also make the Neelganga River crossing risky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "altitude_challenges",
+      "value": [
+        "Ascend almost 3000 ft from Lohajung to Wan Kharak in one day",
+        "Bedni Top at 12,550 ft; above 10,000 ft every trekker susceptible to Acute Mountain Sickness"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "From Lohajung to Wan Kharak, you ascend almost 3000 ft in one day. Bedni Top is situated 12,550 ft above sea level and at altitudes above 10,000 ft, every trekker is susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "technical_gear_provided",
+      "value": [
+        "micro spikes",
+        "gaiters",
+        "helmets",
+        "ropes"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "suitable_for",
+      "value": "Fit Beginners",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_notes",
+      "value": [
+        "Day 1 steep climb of nearly 3000 ft over 6 km will test fitness",
+        "Fitness helps make trek easier but does not eliminate AMS risk"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "This is a steep climb that will test your fitness. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "suitable_for",
+      "value": "Fit Beginners",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "winter_notes",
+      "value": "Snowfall distinct possibility near Bedni Top, especially in winter months",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "snowfall is a distinct possibility near Bedni Top, especially in the winter months",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "rain_risks",
+      "value": "Heavy rain may flood trails and campsites, turn them to slippery slush, and make Neelganga River crossing risky",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Hours of rainfall or snowfall can completely alter the trek’s dynamics. Heavy rain may flood trails and campsites or turn them into slippery slush. It can also make the Neelganga River crossing risky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "terrain_risks",
+      "value": [
+        "Several steep sections require alertness and careful trekking"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Several steep sections on this trek require you to be alert and trek carefully.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "weather_risks",
+      "value": [
+        "Snowfall obstructs previously made paths, requiring fresh tracks",
+        "Heavy rain may flood trails and campsites or turn them into slippery slush",
+        "Neelganga River crossing risky in heavy rain"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow. Heavy rain may flood trails and campsites or turn them into slippery slush. It can also make the Neelganga River crossing risky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "altitude_risks",
+      "value": [
+        "AMS susceptibility above 10,000 ft",
+        "Even fit person climbing too high too soon runs equal risk of developing AMS"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "at altitudes above 10,000 ft, every trekker is susceptible to Acute Mountain Sickness. even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "emergency_protocols",
+      "value": [
+        "Technical team monitors weather; may turn back from any campsite if weather deteriorates",
+        "Indiahikes equipped with high-altitude medical kits, oxygen cylinders, stretchers",
+        "Inform Trek Leader about any pre-existing medical conditions"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite. The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers. Please inform your Trek Leader about any pre-existing medical conditions or health concerns.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "trekking_days",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "four trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_distance_km",
+      "value": 27.2,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "around 27.2 km in four trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "altitude_range_ft",
+      "value": "7,550 to 12,550",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "7,550 ft to 12,550 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_1_profile",
+      "value": "Lohajung to Wan Kharak, gain nearly 3000 ft over 6 km",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "On the first day of your trek, you gain nearly 3000 ft in elevation over a 6 km stretch. From Lohajung to Wan Kharak, you ascend almost 3000 ft in one day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_3_profile",
+      "value": "Gehroli Patal to Abin Kharak, steep ascent before crossing treeline at onset of Bedni Bugyal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "On Day 3, you will trek from Gehroli Patal to Abin Kharak. This involves a steep ascent before crossing the treeline at the onset of the Bedni Bugyal.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "highest_point",
+      "value": "Bedni Top, 12,550 ft",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Bedni Top is situated 12,550 ft above sea level",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "target_audience",
+      "value": "Fit Beginners",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "organizer_support",
+      "value": [
+        "Trek Leaders and Technical Guides provide guidance, support, and technical gear",
+        "Technical team monitors weather and makes informed decisions about proceeding or aborting",
+        "High-altitude medical kits, oxygen cylinders, and stretchers available"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "safety_note",
+      "value": "Safety is a shared responsibility; trekkers must actively participate and follow safety protocols",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

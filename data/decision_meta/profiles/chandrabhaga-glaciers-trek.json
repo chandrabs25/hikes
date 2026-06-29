@@ -1,0 +1,155 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.398059+00:00",
+  "trek_id": "chandrabhaga-glaciers-trek",
+  "trek_title": "Chandrabhaga Glaciers Trek",
+  "source_url": "https://indiahikes.com/chandrabhaga-glaciers-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 7,
+    "distance_km": 32.0,
+    "highest_altitude_ft": 17200,
+    "min_age": 14,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 32,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "11 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "7 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "Late July to mid-October",
+        "July-August",
+        "September-October"
+      ],
+      "avoid_months": [
+        "After mid-October",
+        "Late season (post mid-October)"
+      ],
+      "snow_or_rain_notes": [
+        "Snow has thawed by late July except in bits/pieces along trail; mountains around Kya Tso and Ga Tso still snow-covered in July-August; lakes partly frozen with thin snow layer in July-August; by September-October most snow has melted except glacier ice; after mid-October snow sets in and region gets cut off",
+        "Lahaul lies in rain shadow of Pir Panjal range; no heavy rains like other parts of Himachal during monsoon/post-monsoon season"
+      ],
+      "temperature_notes": [
+        "July-August: Daytime 8-10°C; nights may drop to 0°C at campsites",
+        "September-October: Daytime 4-6°C; nights drop several degrees below zero at campsites; wind chill makes it feel much colder; 3 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Uneven trails with gradual ascents and descents",
+        "Boulder sections with scree and moraine",
+        "2.5 km long boulder section before Chandrabhaga Glaciers Viewpoint",
+        "Moraine ridges near glacial lakes Kya Tso and Ga Tso",
+        "Multiple stream crossings with glacial streams that can swell abruptly later in the day"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek starts at 16,000 ft and climbs to 17,200 ft, described as the highest on any Indiahikes trek",
+        "Risk of Acute Mountain Sickness (AMS) especially in the first couple of days",
+        "AMS can affect first-time and experienced trekkers alike; fitness does not eliminate risk if ascent is too fast",
+        "Heat exhaustion risk from direct sun exposure in open landscape at 16,000 ft",
+        "Strong winds near glaciers cause bitter cold and wind chill"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek.",
+        "At least 3 runs from the last 1 month must meet the fitness criteria of the trek.",
+        "Use apps like Nike and Strava to record runs; paste a public profile link on your Indiahikes account.",
+        "Fitness profile must be linked; failure to link or to meet the required fitness level at least three times in the past month may lead to rejection."
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week plan to get trek-fit if not currently active"
+      ]
+    },
+    "experience_themes": [
+      "July-August: raw, rugged brown landscape with green patches near streams and snowmelt; snow in bits and pieces along trail (sometimes with icy base); streams full and fast from melting snow; mountains around Kya Tso and Ga Tso still snow-covered; lakes partly frozen with thin snow layer; wildflowers growing from rock cracks",
+      "September-October: classic cold desert with wide open brownish landscapes glowing golden, rust, or purple; loose boulders and pebbles on trail; easier stream crossings; clear blue skies and sharp views; jagged black mountain ridges; glaciers still hold ice; Kya Tso and Ga Tso fully thawed with turquoise blue colour; possible thin transparent ice sheet forming on lakes late in season",
+      "July-August: Sasher Kangri and Chandrabhaga ranges fully white with snow",
+      "September-October: best time for big mountain views; clear blue skies; sharp views; jagged black mountain ridges; glaciers still hold ice creating magical contrast; Kya Tso and Ga Tso turquoise blue",
+      "Snow has thawed by late July except in bits/pieces along trail; mountains around Kya Tso and Ga Tso still snow-covered in July-August; lakes partly frozen with thin snow layer in July-August; by September-October most snow has melted except glacier ice; after mid-October snow sets in and region gets cut off"
+    ],
+    "primary_watchouts": [
+      "July-August: snow base can be ice — tread carefully; streams full and fast from melting snow",
+      "September-October: trail over loose boulders and pebbles requires trained legs; coldest period with significant wind chill",
+      "After mid-October: temperatures drop sharply, water sources dry up, snow sets in and region gets cut off",
+      "Trekkers attempting after mid-October (region gets cut off by snow)",
+      "Trekkers unprepared for sub-zero nights and significant wind chill in September-October",
+      "Trekkers with legs untrained for loose boulder/pebble terrain in September-October"
+    ],
+    "best_for": [
+      "Trekkers seeking dramatic raw, rugged landscape with snow patches and wildflowers (July-August)",
+      "Trekkers seeking best big mountain views, clear skies, and turquoise glacial lakes (September-October)",
+      "Trekkers comfortable with high-altitude cold desert conditions and rain-shadow monsoon trekking"
+    ],
+    "not_ideal_for": [
+      "Trekkers attempting after mid-October (region gets cut off by snow)",
+      "Trekkers unprepared for sub-zero nights and significant wind chill in September-October",
+      "Trekkers with legs untrained for loose boulder/pebble terrain in September-October"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "chandrabhaga-glaciers-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

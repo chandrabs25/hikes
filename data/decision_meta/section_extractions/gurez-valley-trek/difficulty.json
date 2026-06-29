@@ -1,0 +1,288 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "gurez-valley-trek",
+  "section_id": "gurez-valley-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/gurez-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers not prepared for rapid elevation gain and AMS risk",
+        "Trekkers without proper fitness and mental preparation for ascents, descents, and boulder sections"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "there are ascents, descents, and boulder sections that require proper fitness and mental preparation",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Such rapid elevation gain makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Although it is rated as a moderate trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long trekking days, multiple days almost 10 km long",
+        "Last day is a 16 km stretch",
+        "Boulder sections begin on the way to Khaari campsite",
+        "Continuous boulder fields for over 3 km beyond Khaari",
+        "Descent to Patalwansar Lakes from Khari can be tricky",
+        "Climb back up the same boulder fields on the way to Dison"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are multiple days that are almost 10 kms long. On the last day, you trek for 16 kms at a stretch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "You start traversing boulder sections on the way to your Khaari campsite. Beyond Khaari, the actual boulder fields begin and you trek through it continuously for over 3 kms.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The descent to Patalwansar Lakes from Khari can be tricky. The next day, on your way to Dison, you need to climb back up the same boulder fields.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Initial descent to Dwar from Dison is steep and along a narrow, rocky ledge",
+        "Rapid elevation gain of almost 3000 ft over 5 km on day 1"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The initial descent to Dwar from Dison is steep and along a narrow, rocky ledge. Although this section is not too long, it can be tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of your trek, you gain almost 3000 ft in elevation over just 5 km of trekking.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Trek Leaders and Technical Guides provide technical gear such as microspikes, gaiters, helmets, ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc., wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Highest altitude over 13,000 ft above sea level",
+        "Hit 10,000 ft mark on day 1 itself",
+        "Rapid elevation gain makes trekkers susceptible to Acute Mountain Sickness (AMS)",
+        "AMS can affect first-time and experienced trekkers alike; even fit persons climbing too high too soon are at equal risk",
+        "Chances of AMS are real above 10,000 ft"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "reaching a highest altitude of over 13,000 ft above sea level",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "You hit the 10,000 ft mark on this day itself. Such rapid elevation gain makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Sudden rains and snows are a distinct possibility at higher altitudes",
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood campsites or make trails slushy and unsafe",
+        "Snowfall can obstruct paths, requiring fresh tracks to be cut",
+        "Team may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "at higher altitudes, sudden rains and snows are always a distinct possibility.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting hours can change the entire trek dynamic. Rain can flood campsites or make the trails too slushy to walk safely on, while snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only exit point is Dawar",
+        "Closest hospital is at Dawar with a medical facility for emergencies",
+        "Bandipora is the best place for major emergencies",
+        "Srinagar is recommended for serious medical attention",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "the only exit point is Dawar",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "the closest hospital is at Dawar. You have a medical facility to handle emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "For any major emergencies, Bandipora is the best place for getting any treatment.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "If you require serious medical attention, head to Srinagar for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Watch out for symptoms of AMS closely due to single exit point at Dawar",
+        "Safety is a shared responsibility requiring active participation in safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "the only exit point is Dawar. So you need to be alert and watch out for symptoms of AMS closely.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::difficulty_section::001",
+          "quote_or_summary": "safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

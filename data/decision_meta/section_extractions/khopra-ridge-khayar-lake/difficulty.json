@@ -1,0 +1,279 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "khopra-ridge-khayar-lake",
+  "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate - Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Moderate - Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Dense forests, open ridges, and rugged moraine sections",
+        "Rocky and uneven terrain requiring careful footing",
+        "Loose scree on Khayer Lake trail",
+        "Multiple sections prone to landslides and rockfalls"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Trails pass through dense forests, open ridges, and rugged moraine sections. This demands a careful footing, especially on rocky and uneven terrain.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "The trail is rocky and involves trekking on loose scree. There are multiple sections prone to landslides and rockfalls.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Every day includes ascents, descents and boulder sections on steep, uneven trails",
+        "Most days involve longer trekking durations",
+        "Final climb up to Khopra Ridge from Chhistibang is steep, gaining close to 2000 ft in elevation over just 3 km",
+        "Final climb to Khayer Lake involves more than 3000 ft of elevation and takes you over 15,000 ft above sea level"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents and boulder sections on steep, uneven trails. Most days involve longer trekking durations.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "The final climb up to Khopra Ridge, from Chhistibang is steep. You gain close to 2000 ft in elevation over just 3 km. This can test your endurance.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "The final climb to Khayer Lake involves more than 3000 ft of elevation and takes you over 15,000 ft over sea level.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Trek Leaders and Technical Guides provide necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Significant ascent from Tadapani to Khayer Lake via Khopra Ridge with rapid altitude gain increases chance of Acute Mountain Sickness (AMS)",
+        "At altitudes above 10,000 ft, chances of being hit by AMS are real; altitude sickness can happen to anybody including first-time and experienced trekkers",
+        "Snow accumulation at higher altitudes can increase risk of altitude sickness due to colder temperatures",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle altitude-related emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "There is a significant ascent from Tadapani to Khayer Lake via Khopra Ridge. You gain altitude rapidly, increasing your chance of getting hit by Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Snow accumulation can also increase the risk of altitude sickness due to colder temperatures.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Sudden rainfall can make trails muddy and slippery",
+        "Snowfall at higher altitudes (above 12,000 ft) can block paths, requiring new trails to be cut",
+        "Mornings can be chilly with frost and slippery verglas formation",
+        "In October, rain is common, making trails slippery and tricky and increasing force of water at river crossings",
+        "Technical team and Trek Leader constantly monitor weather and may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Sudden rainfall can make trails muddy and slippery. You must carry rain gear and be cautious on wet, unstable paths.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Snowfall at higher altitudes (above 12,000 ft) can block paths, requiring new trails to be cut.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Mornings can be chilly with frost and slippery verglas formation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "In October, rain is a common occurrence. The rain also makes the trail slippery and tricky. Moreover, the force of water at river crossings can increase, making it challenging to cross them.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "In case of emergencies, descend to lower altitudes; villages such as Ghandruk and Tadapani serve as evacuation points",
+        "No easy road access in higher sections; evacuations can take 8-9 hours by foot and vehicle",
+        "Helicopter rescues are an option but depend on weather conditions and availability",
+        "Pokhara (approximately 8-9 hours away by road) has the nearest full-fledged medical facility",
+        "Villages along the trek may have basic clinics providing only first aid, lacking proper equipment for altitude-related or serious medical emergencies",
+        "For serious medical concerns, evacuation to Kathmandu may be required; proper travel insurance covering high-altitude trekking and medical evacuations is crucial",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "In case of emergencies, descend to lower altitudes. Villages along the route, such as Ghandruk and Tadapani, serve as evacuation points.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "There is no easy road access in higher sections. Evacuations can take 8-9 hours by foot and vehicle. Helicopter rescues are an option but depend on weather conditions and availability.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Pokhara (approximately 8-9 hours away by road) has the nearest full-fledged medical facility. Trekkers with severe health issues may need to be transported to Kathmandu for advanced care.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Villages along the trek may have basic clinics, but they only provide first aid. These clinics lack proper equipment for treating altitude-related or serious medical emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "For serious medical concerns, evacuation to Kathmandu may be required. It is crucial to have a proper travel insurance that covers high-altitude trekking and medical evacuations.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers should inform their Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor",
+        "Safety is a shared responsibility requiring active participation and attention to safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

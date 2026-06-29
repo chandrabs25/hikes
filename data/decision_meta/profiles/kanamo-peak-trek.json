@@ -1,0 +1,141 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.404213+00:00",
+  "trek_id": "kanamo-peak-trek",
+  "trek_title": "Kanamo Peak Trek",
+  "source_url": "https://indiahikes.com/kanamo-peak-trek",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 7,
+    "distance_km": 22.0,
+    "highest_altitude_ft": 19553,
+    "min_age": 15,
+    "max_age": 55,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "3 PM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "8 PM",
+    "offloading_available": false,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "late July to mid-October"
+      ],
+      "avoid_months": [
+        "after mid-October"
+      ],
+      "snow_or_rain_notes": [
+        "once snow sets in after mid-October, region cut off until next summer",
+        "Spiti lies in rain shadow of Pir Panjal range; no heavy rains like other parts of Himachal during monsoon/post-monsoon"
+      ],
+      "temperature_notes": [
+        "temperatures drop sharply after mid-October"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Steep ascents and descents on uneven trails",
+        "Boulder sections with scree and moraine",
+        "No vegetation cover above 15,000 ft - continuous open landscape",
+        "Relentless climb over scree, boulder and moraine from base camp to summit",
+        "Arduous terrain on summit day covering ~10 km in 12-14 hours"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek begins at 13,500 ft and climbs to 19,500 ft - the highest Indiahikes goes on any trek in India",
+        "Risk of altitude sickness (AMS) especially in the first couple of days due to starting high and ascending further",
+        "AMS can affect anyone - first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "At altitudes above 10,000 ft, chances of Acute Mountain Sickness are real",
+        "Sunny days: direct harsh sunlight exposure can cause heat exhaustion; hydration is critical"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 10 km in under 60 minutes (minimum recommended fitness level)",
+        "Cardiovascular endurance and muscle strength are the two areas to work on",
+        "Strength training includes 60 standard pushups (or alternatives: 4x25=100 knee pushups or 4x50=200 wall pushups), 80 full squats (or 4x40=160 half squats), jumping lunges (or forward lunges), and planks (split into halves if needed)"
+      ],
+      "approval_requirements": [
+        "Every trekker needs fitness approval from the Indiahikes team; without it you will not be allowed on the trek",
+        "Record at least 3 runs from the last 1 month that meet the fitness criteria",
+        "Fitness record may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6-week plan to get trek-fit if not currently active",
+        "Start the fitness routine 6 to 8 weeks before the trek begins"
+      ]
+    },
+    "experience_themes": [
+      "once snow sets in after mid-October, region cut off until next summer"
+    ],
+    "primary_watchouts": [
+      "water sources begin to dry up after mid-October",
+      "region gets cut off once snow sets in",
+      "Steep ascents and descents on uneven trails",
+      "Boulder sections with scree and moraine",
+      "No vegetation cover above 15,000 ft - continuous open landscape",
+      "Relentless climb over scree, boulder and moraine from base camp to summit"
+    ],
+    "best_for": [],
+    "not_ideal_for": [
+      "First-time trekkers (altitude sickness risk applies to anyone, including first-timers)",
+      "Those without a high order of physical fitness",
+      "Those unable to handle relentless climbs over scree, boulder and moraine at altitude"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "kanamo-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "kanamo-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "kanamo-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "kanamo-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "kanamo-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "kanamo-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "kanamo-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "kanamo-peak-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

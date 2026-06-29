@@ -1,0 +1,457 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "trek_id": "bodpathri-trek",
+  "trek_title": "Bodpathri Trek",
+  "source_url": "https://indiahikes.com/bodpathri-trek",
+  "inferred_at": "2026-06-27T16:40:33.711026+00:00",
+  "has_complete_trek_information": true,
+  "page_title": "Bodpathri Trek 2026 - The new discovery that could be one of the greatest treks in Kashmir - Indiahikes",
+  "h1": "BODPATHRI TREK",
+  "root_text_preview": "Bodpathri - Complete Trek Information share link Share Link We have always wanted trekkers to be well-informed before they go on a Himalayan trek. Knowledge is the difference between a safe trek and a dangerous one. It’s also the difference between a wholesome experience and a superficial experience. Use this section to learn about the Bodpathri Trek. It has in-depth information about each day of the trek, what to expect, and how you need to prepare for it. Many years of expertise have gone into this content. Trekkers find that extremely useful. Quick Itinerary Get your trek plan toggle accordion How Does Each Day Look Complete day-wise guide with photos toggle accordion How Difficult is the Bodpathri Trek? This will tell you just how fit you must be toggle accordion Best Time to do the Bodpathri Trek Time your trek well toggle accordion How to Reach the Base Camp Plan your travel toggle accordion What to Pack for Your Trek Things you must take on the trek toggle accordion Why get fit for Bodpathri Trek Fitness matters for the trek toggle accordion Frequently Asked Questions Get your questions answered here toggle accordion",
+  "anchors": [
+    {
+      "id": "quick-itinerary",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2627,
+      "visible": false
+    },
+    {
+      "id": "detailed-itinerary",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "",
+      "top": 2687,
+      "visible": false
+    },
+    {
+      "id": "howEachDaySection",
+      "tag": "div",
+      "ui_key": "travel",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7 Previous Next1234Day 1 (Pick-up Day): Drive from Srinagar to DoodhpathriDrive Duration: 2.5 hours | Drive Distance: 55 kmAltitude: 8,900 ftThe travel to Doodhpathri can be divided into",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example",
+      "tag": "ul",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 1",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 2",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 2",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 3",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 3",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 4",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 4",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 5",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 5",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 6",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 7",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 1",
+      "tag": "div",
+      "ui_key": "travel",
+      "text_preview": "Previous Next1234Day 1 (Pick-up Day): Drive from Srinagar to DoodhpathriDrive Duration: 2.5 hours | Drive Distance: 55 kmAltitude: 8,900 ftThe travel to Doodhpathri can be divided into two parts. The first part is reachi",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 1 (Pick-up Day): Drive from Srinagar to Doodhpathri",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 2",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 2: Trek from Doodhpathri to Dishkal CampsiteTrek Distance: 6.2 km | Trek Duration: 5-6 hoursAltitude gain: 8,900 ft to 10,606 ftModerate. Gradual to steep ascent walks through forests and meadows.Wat",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 2: Trek from Doodhpathri to Dishkal Campsite",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 3",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous NextDay 3: Trek from Dishkal to Ashtaar ValleyTrek distance: 4.3 km | Trek Duration: 5 hoursAltitude gain: 10,606 ft to 11,525 ftModerate - Difficult. A steep ascent through meadows and a ridge.Treat Dishkal as ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 3: Trek from Dishkal to Ashtaar Valley",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 4",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 4: Trek from Ashtaar valley to GurwansarTrek Distance: 7.1 km | Trek Duration: 5-6 hoursAltitude gain: 11,525 ft to 12,514 ftModerate. Long gradual Ascents on meadows along with river crossing. Water",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 4: Trek from Ashtaar valley to Gurwansar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 5",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous Next123Day 5: Trek from Gurwansar to Duriem via Pamsar lakeTrek Distance: 9 km | Trek Duration: 7 hours Altitude gain: 12,514 ft to 12,621 ft via 13,060 ftModerate- difficult. Long walks and steep ascents throug",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 5: Trek from Gurwansar to Duriem via Pamsar lake",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 6",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 6: Trek from Duriem to Gadtar via Bodsar lake, Tratsar Lake, Navkansar I II & Damamsar lakeTrek Distance: 10.5 km | Trek Duration: 8 hoursAltitude Loss: 12,621 ft to 12,545 ft via 13,000 ftModerate- ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 6: Trek from Duriem to Gadtar via Bodsar lake, Tratsar Lake, Navkansar I II & Damamsar lake",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 7",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 7: Gadtar to Tosamaidan. Drive to SrinagarTrek Distance: 9.5 km | Trek Duration: 5-6 hoursDrive Distance: 80 km | Drive Duration: 3 hoursAltitude loss: 12,545 ft to 10,080 ftModerate. Gentle descents",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 7: Gadtar to Tosamaidan. Drive to Srinagar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "trek-difficulty",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "",
+      "top": 2747,
+      "visible": false
+    },
+    {
+      "id": "best-time",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2807,
+      "visible": false
+    },
+    {
+      "id": "how-to-reach",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2867,
+      "visible": false
+    },
+    {
+      "id": "what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "",
+      "top": 2927,
+      "visible": false
+    },
+    {
+      "id": "trek-what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "Packing ChecklistMandatory DocumentsPersonal Medical KitPacking ChecklistGiven below is a list of all the gear you need for the Bodpathri trek:If you don’t have certain items, you can rent high-quality gear like trekking",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-packing-checklist",
+      "tag": "h3",
+      "ui_key": "packing",
+      "text_preview": "Packing Checklist",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-mandatory-documents",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Mandatory Documents",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-personal-medical-kit",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Personal Medical Kit",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "getting-fit",
+      "tag": "div",
+      "ui_key": "fitness",
+      "text_preview": "",
+      "top": 2987,
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "tag": "div",
+      "ui_key": "faqs",
+      "text_preview": "",
+      "top": 3047,
+      "visible": false
+    }
+  ],
+  "ui_sections": [
+    {
+      "ui_section_id": "bodpathri-trek::ui::001-bodpathri-complete-trek-information",
+      "ui_key": "other",
+      "label": "Bodpathri - Complete Trek Information",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2464
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::002-share-link-share-link",
+      "ui_key": "other",
+      "label": "share link Share Link",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2474
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary Get your trek plan toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2747
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::004-quick-itinerary",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2747
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2807
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::006-how-does-each-day-look",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2807
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::007-how-difficult-is-the-bodpathri-trek-this-will-tell-you-just-",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Bodpathri Trek? This will tell you just how fit you must be toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2867
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::008-how-difficult-is-the-bodpathri-trek",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Bodpathri Trek?",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2867
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::009-best-time-to-do-the-bodpathri-trek-time-your-trek-well-toggl",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Bodpathri Trek Time your trek well toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2927
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::010-best-time-to-do-the-bodpathri-trek",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Bodpathri Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2927
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::011-how-to-reach-the-base-camp-plan-your-travel-toggle-accordion",
+      "ui_key": "travel",
+      "label": "How to Reach the Base Camp Plan your travel toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2987
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::012-how-to-reach-the-base-camp",
+      "ui_key": "other",
+      "label": "How to Reach the Base Camp",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2987
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::013-what-to-pack-for-your-trek-things-you-must-take-on-the-trek-",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek Things you must take on the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3047
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::014-what-to-pack-for-your-trek",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3047
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::015-why-get-fit-for-bodpathri-trek-fitness-matters-for-the-trek-",
+      "ui_key": "fitness",
+      "label": "Why get fit for Bodpathri Trek Fitness matters for the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3107
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::016-why-get-fit-for-bodpathri-trek",
+      "ui_key": "fitness",
+      "label": "Why get fit for Bodpathri Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3107
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3167
+    },
+    {
+      "ui_section_id": "bodpathri-trek::ui::018-frequently-asked-questions",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3167
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.397386+00:00",
+  "trek_id": "buran-ghati",
+  "trek_title": "Buran Ghati Trek",
+  "source_url": "https://indiahikes.com/buran-ghati",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 8,
+    "distance_km": 40.5,
+    "highest_altitude_ft": 15000,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 32,
+    "pickup_city": "Shaktan Homestay Rohru",
+    "pickup_time": "9.30 AM",
+    "dropoff_city": "Shimla Old Bus Stand",
+    "dropoff_time": "11 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-May to end of June",
+        "mid-September to mid-October"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "May: snow at Litham campsite",
+        "June: snow at the last alpine campsite of Dhunda; vast snowfields from Dhunda till the pass; ~150 m rappel section; snow trekking for about an hour after the pass",
+        "Latter part of June: snow melting; snow close to pass may not be enough for big slides",
+        "Autumn: snow in smaller patches; frost at Dhunda campsite; chances of snowfall at Buran Ghati Pass when weather goes bad; chances of first winter snow by October"
+      ],
+      "temperature_notes": [
+        "Summer daytime: 13 °C to 17 °C",
+        "Summer night: drops to zero at higher campsite",
+        "Summer layers: 4 warm layers in May; 3 warm layers towards June",
+        "Autumn daytime: 12 °C to 16 °C",
+        "Autumn night: drops to zero to -4 to -5 °C at higher campsite"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Suitable for Fit Beginners",
+        "Demands good preparation and stamina",
+        "Taxing due to steep ascent at over 13,000 ft and boulder navigation"
+      ],
+      "experience_suitability": [
+        "Fit beginners",
+        "First-time trekkers (subject to AMS risk)",
+        "Experienced trekkers (subject to AMS risk)"
+      ],
+      "terrain_challenges": [
+        "Boulder sections near the pass",
+        "Boulder field just after the pass crossing (snow-covered in May, exposed June onwards)",
+        "Small exposed section overlooking a river near the River campsite",
+        "Steep climb to the pass beyond Dhunda",
+        "Steep descent after the pass"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek starts at over 9,000 ft, higher than usual",
+        "Altitude gain of 5,585 ft (9,415 ft to 15,000 ft) over seven days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker",
+        "Fitness does not eliminate AMS risk if ascent is too fast",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria of the trek",
+        "Fitness record may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week plan is provided to get trek-fit if you are not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Summer: Buran Pass is a dramatic wall of ice in June; rappelling down an ice wall while crossing the pass",
+      "Summer: Vast snowfields from Dhunda till the pass; ~150 m rappel from the top of the pass; trekking in snow for around an hour after crossing the pass; multiple snow slides",
+      "Summer: Snow starts melting in latter part of June; snow close to the pass may not be enough for big slides",
+      "Summer: Trail changes from white to greens and yellows; wildflowers bloom on meadows and around campsites; grasslands turn bright green with bright yellow flowers",
+      "Autumn: Fiery, glorious colours on the trail; shades of green near base camp and through forests/grasslands; yellows, oranges, and browns closer to the pass",
+      "Autumn: Snow in smaller patches; ice on Buran Ghati wall has melted, exposing rocky terrain; trek down rocky patch while descending; no rappelling; trek is a bit easier"
+    ],
+    "primary_watchouts": [
+      "Latter part of June: snow melting; snow close to pass may not be enough for big slides",
+      "Autumn: no snow and no rappelling down the ice wall of Buran Pass in October",
+      "Autumn: chances of snowfall at Buran Ghati Pass when weather goes bad",
+      "Autumn: chances of witnessing the first winter snow of the year by October",
+      "Trekkers specifically wanting to rappel down the Buran Pass ice wall in October (autumn)",
+      "Trekkers wanting big snow slides in the latter part of June (snow melting)"
+    ],
+    "best_for": [
+      "Adventure seekers wanting to rappel down an ice wall at Buran Pass (summer, June)",
+      "Trekkers wanting snowfields, snow slides, and snow trekking (summer)",
+      "Trekkers wanting wildflowers and colourful meadows (summer, May to June)",
+      "Trekkers wanting fiery autumn colours and a slightly easier trek (autumn)"
+    ],
+    "not_ideal_for": [
+      "Trekkers specifically wanting to rappel down the Buran Pass ice wall in October (autumn)",
+      "Trekkers wanting big snow slides in the latter part of June (snow melting)",
+      "Trekkers who cannot prepare well or lack stamina",
+      "Trekkers who climb too high too soon regardless of fitness",
+      "Trekkers who ignore pre-existing medical conditions or safety protocols"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "buran-ghati::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "buran-ghati::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "buran-ghati::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "buran-ghati::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "buran-ghati::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "buran-ghati::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "buran-ghati::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "buran-ghati::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "buran-ghati::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

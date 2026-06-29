@@ -1,0 +1,315 @@
+{
+  "schema_version": "slim_trek_meta_v1",
+  "generated_at": "2026-06-28T03:34:07.912165+00:00",
+  "input_dir": "data/source_packets",
+  "output_dir": "data/slim_meta",
+  "count": 34,
+  "records": [
+    {
+      "trek_id": "ali-bedni-bugyal-trek",
+      "trek_title": "Ali Bedni Bugyal Trek",
+      "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "source_packet_file": "ali-bedni-bugyal-trek.packet.json",
+      "section_count": 27,
+      "meta_json": "ali-bedni-bugyal-trek.meta.json",
+      "meta_md": "ali-bedni-bugyal-trek.meta.md"
+    },
+    {
+      "trek_id": "bali-pass-ruinsara-tal",
+      "trek_title": "Bali Pass Trek",
+      "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "source_packet_file": "bali-pass-ruinsara-tal.packet.json",
+      "section_count": 21,
+      "meta_json": "bali-pass-ruinsara-tal.meta.json",
+      "meta_md": "bali-pass-ruinsara-tal.meta.md"
+    },
+    {
+      "trek_id": "beas-kund",
+      "trek_title": "Beas Kund Trek",
+      "source_url": "https://indiahikes.com/beas-kund",
+      "source_packet_file": "beas-kund.packet.json",
+      "section_count": 16,
+      "meta_json": "beas-kund.meta.json",
+      "meta_md": "beas-kund.meta.md"
+    },
+    {
+      "trek_id": "bhrigu-lake",
+      "trek_title": "Bhrigu Lake Trek",
+      "source_url": "https://indiahikes.com/bhrigu-lake",
+      "source_packet_file": "bhrigu-lake.packet.json",
+      "section_count": 16,
+      "meta_json": "bhrigu-lake.meta.json",
+      "meta_md": "bhrigu-lake.meta.md"
+    },
+    {
+      "trek_id": "bijli-mahadev-trek",
+      "trek_title": "Bijli Mahadev Trek",
+      "source_url": "https://indiahikes.com/bijli-mahadev-trek",
+      "source_packet_file": "bijli-mahadev-trek.packet.json",
+      "section_count": 15,
+      "meta_json": "bijli-mahadev-trek.meta.json",
+      "meta_md": "bijli-mahadev-trek.meta.md"
+    },
+    {
+      "trek_id": "bodpathri-trek",
+      "trek_title": "Bodpathri Trek",
+      "source_url": "https://indiahikes.com/bodpathri-trek",
+      "source_packet_file": "bodpathri-trek.packet.json",
+      "section_count": 20,
+      "meta_json": "bodpathri-trek.meta.json",
+      "meta_md": "bodpathri-trek.meta.md"
+    },
+    {
+      "trek_id": "brahmatal-trek",
+      "trek_title": "Brahmatal Trek",
+      "source_url": "https://indiahikes.com/brahmatal-trek",
+      "source_packet_file": "brahmatal-trek.packet.json",
+      "section_count": 24,
+      "meta_json": "brahmatal-trek.meta.json",
+      "meta_md": "brahmatal-trek.meta.md"
+    },
+    {
+      "trek_id": "brammah-valley-trek",
+      "trek_title": "Brammah Valley Trek",
+      "source_url": "https://indiahikes.com/brammah-valley-trek",
+      "source_packet_file": "brammah-valley-trek.packet.json",
+      "section_count": 15,
+      "meta_json": "brammah-valley-trek.meta.json",
+      "meta_md": "brammah-valley-trek.meta.md"
+    },
+    {
+      "trek_id": "buran-ghati",
+      "trek_title": "Buran Ghati Trek",
+      "source_url": "https://indiahikes.com/buran-ghati",
+      "source_packet_file": "buran-ghati.packet.json",
+      "section_count": 25,
+      "meta_json": "buran-ghati.meta.json",
+      "meta_md": "buran-ghati.meta.md"
+    },
+    {
+      "trek_id": "chandrabhaga-glaciers-trek",
+      "trek_title": "Chandrabhaga Glaciers Trek",
+      "source_url": "https://indiahikes.com/chandrabhaga-glaciers-trek",
+      "source_packet_file": "chandrabhaga-glaciers-trek.packet.json",
+      "section_count": 17,
+      "meta_json": "chandrabhaga-glaciers-trek.meta.json",
+      "meta_md": "chandrabhaga-glaciers-trek.meta.md"
+    },
+    {
+      "trek_id": "chandrakhani-pass-trek",
+      "trek_title": "Chandrakhani Pass Trek",
+      "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+      "source_packet_file": "chandrakhani-pass-trek.packet.json",
+      "section_count": 15,
+      "meta_json": "chandrakhani-pass-trek.meta.json",
+      "meta_md": "chandrakhani-pass-trek.meta.md"
+    },
+    {
+      "trek_id": "dayara-bugyal-trek",
+      "trek_title": "Dayara Bugyal Trek",
+      "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+      "source_packet_file": "dayara-bugyal-trek.packet.json",
+      "section_count": 32,
+      "meta_json": "dayara-bugyal-trek.meta.json",
+      "meta_md": "dayara-bugyal-trek.meta.md"
+    },
+    {
+      "trek_id": "deoriatal-chandrashila-trek",
+      "trek_title": "Deoriatal Chandrashila Trek",
+      "source_url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+      "source_packet_file": "deoriatal-chandrashila-trek.packet.json",
+      "section_count": 24,
+      "meta_json": "deoriatal-chandrashila-trek.meta.json",
+      "meta_md": "deoriatal-chandrashila-trek.meta.md"
+    },
+    {
+      "trek_id": "everest-base-camp-trek-nepal",
+      "trek_title": "Everest Base Camp (Classic Route)",
+      "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+      "source_packet_file": "everest-base-camp-trek-nepal.packet.json",
+      "section_count": 25,
+      "meta_json": "everest-base-camp-trek-nepal.meta.json",
+      "meta_md": "everest-base-camp-trek-nepal.meta.md"
+    },
+    {
+      "trek_id": "gaumukh-tapovan",
+      "trek_title": "Gaumukh Tapovan Trek",
+      "source_url": "https://indiahikes.com/gaumukh-tapovan",
+      "source_packet_file": "gaumukh-tapovan.packet.json",
+      "section_count": 26,
+      "meta_json": "gaumukh-tapovan.meta.json",
+      "meta_md": "gaumukh-tapovan.meta.md"
+    },
+    {
+      "trek_id": "goechala",
+      "trek_title": "Goechala Trek",
+      "source_url": "https://indiahikes.com/goechala",
+      "source_packet_file": "goechala.packet.json",
+      "section_count": 25,
+      "meta_json": "goechala.meta.json",
+      "meta_md": "goechala.meta.md"
+    },
+    {
+      "trek_id": "gurez-valley-trek",
+      "trek_title": "Gurez Valley Trek",
+      "source_url": "https://indiahikes.com/gurez-valley-trek",
+      "source_packet_file": "gurez-valley-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "gurez-valley-trek.meta.json",
+      "meta_md": "gurez-valley-trek.meta.md"
+    },
+    {
+      "trek_id": "hampta-pass",
+      "trek_title": "Hampta Pass Trek",
+      "source_url": "https://indiahikes.com/hampta-pass",
+      "source_packet_file": "hampta-pass.packet.json",
+      "section_count": 22,
+      "meta_json": "hampta-pass.meta.json",
+      "meta_md": "hampta-pass.meta.md"
+    },
+    {
+      "trek_id": "har-ki-dun",
+      "trek_title": "Har Ki Dun",
+      "source_url": "https://indiahikes.com/har-ki-dun",
+      "source_packet_file": "har-ki-dun.packet.json",
+      "section_count": 19,
+      "meta_json": "har-ki-dun.meta.json",
+      "meta_md": "har-ki-dun.meta.md"
+    },
+    {
+      "trek_id": "kanamo-peak-trek",
+      "trek_title": "Kanamo Peak Trek",
+      "source_url": "https://indiahikes.com/kanamo-peak-trek",
+      "source_packet_file": "kanamo-peak-trek.packet.json",
+      "section_count": 15,
+      "meta_json": "kanamo-peak-trek.meta.json",
+      "meta_md": "kanamo-peak-trek.meta.md"
+    },
+    {
+      "trek_id": "kedarkantha-trek",
+      "trek_title": "Kedarkantha Trek",
+      "source_url": "https://indiahikes.com/kedarkantha-trek",
+      "source_packet_file": "kedarkantha-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "kedarkantha-trek.meta.json",
+      "meta_md": "kedarkantha-trek.meta.md"
+    },
+    {
+      "trek_id": "kedartal",
+      "trek_title": "Kedartal Trek",
+      "source_url": "https://indiahikes.com/kedartal",
+      "source_packet_file": "kedartal.packet.json",
+      "section_count": 22,
+      "meta_json": "kedartal.meta.json",
+      "meta_md": "kedartal.meta.md"
+    },
+    {
+      "trek_id": "khopra-ridge-khayar-lake",
+      "trek_title": "Khopra Ridge Trek",
+      "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+      "source_packet_file": "khopra-ridge-khayar-lake.packet.json",
+      "section_count": 18,
+      "meta_json": "khopra-ridge-khayar-lake.meta.json",
+      "meta_md": "khopra-ridge-khayar-lake.meta.md"
+    },
+    {
+      "trek_id": "kuari-pass",
+      "trek_title": "Kuari Pass Trek",
+      "source_url": "https://indiahikes.com/kuari-pass",
+      "source_packet_file": "kuari-pass.packet.json",
+      "section_count": 24,
+      "meta_json": "kuari-pass.meta.json",
+      "meta_md": "kuari-pass.meta.md"
+    },
+    {
+      "trek_id": "miyar-valley-trek",
+      "trek_title": "Miyar Valley",
+      "source_url": "https://indiahikes.com/miyar-valley-trek",
+      "source_packet_file": "miyar-valley-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "miyar-valley-trek.meta.json",
+      "meta_md": "miyar-valley-trek.meta.md"
+    },
+    {
+      "trek_id": "nafran-valley-trek",
+      "trek_title": "Nafran Valley Trek",
+      "source_url": "https://indiahikes.com/nafran-valley-trek",
+      "source_packet_file": "nafran-valley-trek.packet.json",
+      "section_count": 22,
+      "meta_json": "nafran-valley-trek.meta.json",
+      "meta_md": "nafran-valley-trek.meta.md"
+    },
+    {
+      "trek_id": "nag-tibba",
+      "trek_title": "Nag Tibba Weekend Trek",
+      "source_url": "https://indiahikes.com/nag-tibba",
+      "source_packet_file": "nag-tibba.packet.json",
+      "section_count": 8,
+      "meta_json": "nag-tibba.meta.json",
+      "meta_md": "nag-tibba.meta.md"
+    },
+    {
+      "trek_id": "pangarchulla-peak-trek",
+      "trek_title": "Pangarchulla Peak Trek",
+      "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+      "source_packet_file": "pangarchulla-peak-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "pangarchulla-peak-trek.meta.json",
+      "meta_md": "pangarchulla-peak-trek.meta.md"
+    },
+    {
+      "trek_id": "phulara-ridge-trek",
+      "trek_title": "Phulara Ridge Trek",
+      "source_url": "https://indiahikes.com/phulara-ridge-trek",
+      "source_packet_file": "phulara-ridge-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "phulara-ridge-trek.meta.json",
+      "meta_md": "phulara-ridge-trek.meta.md"
+    },
+    {
+      "trek_id": "pin-bhaba-pass-trek",
+      "trek_title": "Pin Bhaba Pass Trek",
+      "source_url": "https://indiahikes.com/pin-bhaba-pass-trek",
+      "source_packet_file": "pin-bhaba-pass-trek.packet.json",
+      "section_count": 20,
+      "meta_json": "pin-bhaba-pass-trek.meta.json",
+      "meta_md": "pin-bhaba-pass-trek.meta.md"
+    },
+    {
+      "trek_id": "pir-panjal-lakes-trek",
+      "trek_title": "Pir Panjal Lakes Trek",
+      "source_url": "https://indiahikes.com/pir-panjal-lakes-trek",
+      "source_packet_file": "pir-panjal-lakes-trek.packet.json",
+      "section_count": 19,
+      "meta_json": "pir-panjal-lakes-trek.meta.json",
+      "meta_md": "pir-panjal-lakes-trek.meta.md"
+    },
+    {
+      "trek_id": "ranthan-kharak-trek",
+      "trek_title": "Ranthan Kharak Trek",
+      "source_url": "https://indiahikes.com/ranthan-kharak-trek",
+      "source_packet_file": "ranthan-kharak-trek.packet.json",
+      "section_count": 24,
+      "meta_json": "ranthan-kharak-trek.meta.json",
+      "meta_md": "ranthan-kharak-trek.meta.md"
+    },
+    {
+      "trek_id": "rupin-pass",
+      "trek_title": "Rupin Pass",
+      "source_url": "https://indiahikes.com/rupin-pass",
+      "source_packet_file": "rupin-pass.packet.json",
+      "section_count": 17,
+      "meta_json": "rupin-pass.meta.json",
+      "meta_md": "rupin-pass.meta.md"
+    },
+    {
+      "trek_id": "sandakphu-phalut",
+      "trek_title": "Sandakphu Phalut Trek",
+      "source_url": "https://indiahikes.com/sandakphu-phalut",
+      "source_packet_file": "sandakphu-phalut.packet.json",
+      "section_count": 26,
+      "meta_json": "sandakphu-phalut.meta.json",
+      "meta_md": "sandakphu-phalut.meta.md"
+    }
+  ]
+}

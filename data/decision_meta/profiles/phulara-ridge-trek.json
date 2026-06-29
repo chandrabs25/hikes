@@ -1,0 +1,141 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.410703+00:00",
+  "trek_id": "phulara-ridge-trek",
+  "trek_title": "Phulara Ridge Trek",
+  "source_url": "https://indiahikes.com/phulara-ridge-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 6,
+    "distance_km": 26.0,
+    "highest_altitude_ft": 12345,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "6.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow patches on the ridge for the first few weeks of May if the previous winter had heavy snowfall",
+        "First spell of snowfall expected for the last groups of November due to western disturbances",
+        "Post-monsoon season (September) follows monsoon outpour, leaving trail lush green"
+      ],
+      "temperature_notes": [
+        "Summer daytime: 12°C to 17°C; night drops to 0°C; 3 warm layers required",
+        "Autumn daytime: 10°C to 14°C; night drops to 0°C to -3°C; 4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Steep ascent through forest sections on day 1 gaining ~3000 ft over 4-5 km",
+        "Exposed and windy ridge requiring layering for wind chill",
+        "Steep climb from Bhoj Gadi to the Phulara Ridge taking close to 1 hour",
+        "Tricky climb onto the ridge in early May or June if there is snow",
+        "Tricky descent from the ridge on the Pushtara side if there is too much snow"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek reaches 12,345 ft; above 10,000 ft AMS risk is real",
+        "Day 1 elevation gain of ~3000 ft over 4-5 km coupled with exertion increases susceptibility to Acute Mountain Sickness",
+        "AMS can affect first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "Itinerary on other days allows gradual elevation gain and acclimatisation",
+        "Rainfall or snowfall lasting hours can significantly alter trek dynamics"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level)",
+        "Cardiovascular Endurance and Muscle Strength (core, calves, glutes, quadriceps, hamstrings)"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-Week Training Plan)"
+      ]
+    },
+    "experience_themes": [
+      "Alpenglow phenomenon in summer",
+      "Blooming rhododendrons in summer",
+      "Vibrant meadows of Pushtara in summer",
+      "Bright flora in May",
+      "Carpet of flowers in full bloom in June",
+      "Lush green trail in September fresh from monsoon"
+    ],
+    "primary_watchouts": [
+      "Phulara Ridge crossing is dependent on snow and weather conditions on the day of crossing",
+      "In bad weather or unsafe ridge conditions, trek leader may decide to return from Bhoj Gadi instead of crossing",
+      "Steep ascent through forest sections on day 1 gaining ~3000 ft over 4-5 km",
+      "Exposed and windy ridge requiring layering for wind chill",
+      "Steep climb from Bhoj Gadi to the Phulara Ridge taking close to 1 hour",
+      "Tricky climb onto the ridge in early May or June if there is snow"
+    ],
+    "best_for": [
+      "Witnessing alpenglow phenomenon",
+      "Viewing blooming rhododendrons and flower-filled meadows",
+      "Stargazing",
+      "Clear mountain views",
+      "Nature lovers"
+    ],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "phulara-ridge-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "phulara-ridge-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "phulara-ridge-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "phulara-ridge-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "phulara-ridge-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "phulara-ridge-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "phulara-ridge-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,427 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pin-bhaba-pass-trek",
+  "section_id": "pin-bhaba-pass_section::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/pin-bhaba-pass-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-July to early-September",
+        "July",
+        "August",
+        "mid-September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the trek is from the month's mid-July to early-September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Pin Bhaba Pass in July and August",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "The month of September, somewhere around the middle of the month, is a fantastic time to do the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "June (high snow near pass, risky)",
+        "late September (first snowfall blocks access)",
+        "third week of September onward (season wound up)"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "We've noticed that during June there is a high amount of snow near the pass making it a risky affair.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Towards the end of September, the pass receives the first snowfall of the season, blocking access to the Spiti region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the trekking season from the third week of September until the next season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Monsoon months are the best time to do the trek",
+        "Lush green meadows with wildflowers blooming, especially at Karah",
+        "Meadows thinning just before Phutsirang",
+        "Transition zone at Phutsirang with colourful moss-like vegetation on soil/rocks",
+        "Stark contrast at the pass between green Kinnaur side and pink Spiti side",
+        "Clearer skies in September",
+        "Lower campsites still green in September; mid-September onward they turn into riot of colours",
+        "Phutsirang campsite especially magnificent in shades of oranges, yellows and reds in September",
+        "Spiti side landscape looks more or less the same in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Monsoon months are the best time to do the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You'll be left astounded by the lush green meadows with wildflowers blooming in abandon. Especially at Karah, which our trekkers rave about after coming back.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You'll notice the meadows thinning just before Phutsirang, though.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Phutsirang is not an alpine zone, but you are at the transition point. It has its charm. Notice the colours and texture of the land and vegetation changing. You don't get grass, but they look like colourful moss on soil or rocks.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Behind you lie the greens of the Kinnaur region, while down below, in front of you, are the pinks of Spiti.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "By September, most of the intermittent showers that hit the Kinnaur side of the pass have passed. The skies, therefore, are much clearer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "The lower campsites are still primarily green. And it's only mid-September and onward that they participate in this riot of colours that the season brings.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "But Phutsirang campsite is especially magnificent in its shades of oranges, yellows and reds.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "While on the other side of the pass, the landscape looks more or less the same.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow present early June to mid-July",
+        "Snow starts melting in later part of July",
+        "No snow in autumn months on Pin Bhaba Pass",
+        "First snowfall of the season towards end of September blocks access to Spiti"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You will find snow during early June to mid-July. The snow starts to melt in the later part of July, giving way to rain showers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You will not find snow in the autumn months on Pin Bhaba Pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Towards the end of September, the pass receives the first snowfall of the season, blocking access to the Spiti region.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Most of the trek lies in the rain shadow area of the Himalayas (Pin valley of Spiti region)",
+        "Region before the pass is drier than the Rohru side of Himachal Pradesh closer to Rupin Pass",
+        "Monsoon treks are usually safe; Indiahikes only runs monsoon treks that are safely navigable in the rains",
+        "Landslides and roadblocks more frequent during monsoon, can cause traffic jams and delays en route to base camp"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Most of the trek lies in the rain shadow area of the Himalayas, like the Pin valley of the Spiti region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "And though one cannot call the region before the pass as lying in the rain shadow area, it is drier than the Rohru side of Himachal Pradesh which is closer to Rupin Pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Yes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "July-August daytime: 16°C to 18°C",
+        "July-August night: 0°C to -2°C",
+        "September daytime: 14°C to 16°C",
+        "September night: -3°C to -5°C",
+        "4 warm layers required in July-August",
+        "5 warm layers required in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 16 °C and 18 °C | Night time temperatures: Will drop to temperatures between 0 °C and -2 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 14 °C and 16 °C | Night time temperature: Will drop to temperatures between -3 °C and -5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Entire trail is green when season begins in June",
+        "Valley turns a shade or two greener in July and August",
+        "Lush green meadows with wildflowers, especially at Karah",
+        "Meadows thin just before Phutsirang",
+        "Phutsirang is a transition zone with colourful moss-like vegetation on soil/rocks",
+        "Sparse vegetation in alpine zone after Phutsirang",
+        "Stark contrast at the pass: green Kinnaur behind, pink Spiti in front",
+        "Spiti region looks desolate compared to Kinnaur region",
+        "Clearer skies in September",
+        "Lower campsites still green in September; mid-September onward they turn into riot of colours",
+        "Phutsirang campsite especially magnificent in shades of oranges, yellows and reds in September",
+        "Spiti side landscape looks more or less the same in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "When the season begins in June, the entire trail is green. With all the snow having melted, the valley turns a shade or two greener in July and August.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You'll be left astounded by the lush green meadows with wildflowers blooming in abandon. Especially at Karah, which our trekkers rave about after coming back.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You'll notice the meadows thinning just before Phutsirang, though.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Phutsirang is not an alpine zone, but you are at the transition point. It has its charm. Notice the colours and texture of the land and vegetation changing. You don't get grass, but they look like colourful moss on soil or rocks.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "After Phutsirang, the steep climb takes you to the alpine zone, and the vegetation is sparse.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Nowhere is the drama of this contrast more apparent than when you're standing at the pass. The Spiti region looks desolate compared to the Kinnaur region from where you started. Behind you lie the greens of the Kinnaur region, while down below, in front of you, are the pinks of Spiti.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "By September, most of the intermittent showers that hit the Kinnaur side of the pass have passed. The skies, therefore, are much clearer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "The lower campsites are still primarily green. And it's only mid-September and onward that they participate in this riot of colours that the season brings.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "But Phutsirang campsite is especially magnificent in its shades of oranges, yellows and reds.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "While on the other side of the pass, the landscape looks more or less the same.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "High snow near the pass in June makes it risky (not impossible)",
+        "Trail gets slightly more comfortable from July onward",
+        "Landslides and roadblocks more frequent during monsoon, can cause traffic jams and delays en route to base camp",
+        "First snowfall towards end of September blocks access to Spiti region",
+        "Indiahikes winds up trekking season from third week of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "We've noticed that during June there is a high amount of snow near the pass making it a risky affair.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Having said that it's not impossible to do the trek in June. But July onward the trail gets slightly more comfortable.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Towards the end of September, the pass receives the first snowfall of the season, blocking access to the Spiti region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the trekking season from the third week of September until the next season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking monsoon treks",
+        "Trekkers wanting lush green meadows and wildflowers (July-August)",
+        "Trekkers wanting clear skies and autumn colours (mid-September)",
+        "Trekkers wanting dramatic contrast between Kinnaur greens and Spiti pinks at the pass"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Monsoon months are the best time to do the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "You'll be left astounded by the lush green meadows with wildflowers blooming in abandon.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "The month of September, somewhere around the middle of the month, is a fantastic time to do the trek. You can take in all the clear skies, the colours and the drama of the trek before the pass shuts down.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Behind you lie the greens of the Kinnaur region, while down below, in front of you, are the pinks of Spiti.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers averse to monsoon-related road delays and landslides",
+        "Trekkers planning tight itineraries without buffer days",
+        "Trekkers wanting to avoid snow risk near the pass (June)"
+      ],
+      "evidence": [
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It's heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "We always recommend two things: Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions. Keep a buffer day after your trek before you plan your return journey.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+          "quote_or_summary": "We've noticed that during June there is a high amount of snow near the pass making it a risky affair.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "seasonal_experiences",
+    "view_or_landscape_notes",
+    "seasonal_watchouts",
+    "best_for",
+    "not_ideal_for"
+  ]
+}

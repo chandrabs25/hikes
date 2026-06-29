@@ -1,0 +1,513 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::faq_group-001",
+  "section_type": "faq_group",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "name",
+      "value": "Ali Bedni Bugyal Trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The section repeatedly refers to the trek as 'Ali Bedni Bugyal trek' and mentions 'Ali Bedni winter trek'.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "terrain_type",
+      "value": "alpine meadow / bugyal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bedni Bugyal is an alpine meadow... Bugyal is a Hindi word that refers to alpine pasture lands or alpine meadows that grow above around 10,500 ft and below 13,000 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "state",
+      "value": "Uttarakhand",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bedni Bugyal is an alpine meadow in the state of Uttarakhand.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "relative_location",
+      "value": "Directly North of Nainital, Kausani, Almora and Gwaldam",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "It lies directly North of popular hill stations like Nainital, Kausani, Almora and Gwaldam.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "meadow_elevation_ft",
+      "value": "10,000 – 11,000",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "You’ll see these meadows at an elevation range of around 10,000 ft – 11,000 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_range_ft",
+      "value": "7,550 – 12,550",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The altitude ranges from 7,550 ft in Lohajung all the way to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "proximity_to_sanctuary",
+      "value": "Just south of the Nanda Devi Sanctuary",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Being just south of the Nanda Devi Sanctuary, these meadows have striking views of the peaks within the sanctuary.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "visible_peaks",
+      "value": [
+        "Mt Nanda Ghunti",
+        "Mt Trishul",
+        "Maiktoli",
+        "Mrigthuni",
+        "Chaukhamba massif"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "peaks within the sanctuary — Mt Nanda Ghunti, Mt Trishul, Maiktoli and Mrigthuni. You also see the Chaukhamba massif from these meadows.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trail_association",
+      "value": "Famous landmarks on the Roopkund trail",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "These meadows are famous for being beautiful landmarks on the Roopkund trail.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "starting_point",
+      "value": "Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "It takes two days of climbing to reach Ali and Bedni Bugyal from Lohajung... The altitude ranges from 7,550 ft in Lohajung...",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "alternate_approach",
+      "value": "From Didna, rough distance of 15 km, takes slightly longer than from Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "If you’re approaching Ali and Bedni Bugyal from Didna, it takes slightly longer (a rough distance of 15 km).",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "open_seasons",
+      "value": "Throughout the year except in monsoons",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bedni Bugyal trek is open throughout the year except in monsoons.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "spring_experience",
+      "value": "Best time for clear skies and grand mountain views",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Spring is the best time to do the trek if what you want is clear skies and grand mountain views.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "summer_experience",
+      "value": "Lush greenery in the meadows and wildflowers growing in abundance",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Summer will give you lush greenery in the meadows and wildflowers growing in abundance.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "winter_experience",
+      "value": "Most beautiful snow cover in the entire country",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "But the Ali Bedni winter trek is the one with the most beautiful snow cover in the entire country.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "primary_attractions",
+      "value": [
+        "Grand mountain views among meadow treks in the country",
+        "Vast meadows",
+        "Rhododendron forests"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bedni Bugyal has the grandest of mountain views among the meadow treks in our country... It has vast meadows and rhododendron forests.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "dominant_visible_peaks",
+      "value": [
+        "Mt Trishul",
+        "Mt Nanda Ghunti"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "You witness the majesty of Mt Trishul and Mt Nanda Ghunti throughout the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "meadow_characteristics",
+      "value": "Vast open lands above the treeline with scenic views of mountains and valleys",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "These alpine meadows are always found above the treeline, so they’re vast open lands, usually with great scenic views of the mountains and valleys around them.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "flora",
+      "value": [
+        "Wildflowers",
+        "Rhododendron forests"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Summer will give you lush greenery in the meadows and wildflowers growing in abundance... It has vast meadows and rhododendron forests.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "trekking_duration_days",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The Ali Bedni Bugyal trek covers around 30 km in 4 days.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_duration_with_travel_days",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "(6 days including the drive to and from the trek).",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_distance_km",
+      "value": "Around 30",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The Ali Bedni Bugyal trek covers around 30 km in 4 days.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "starting_altitude_ft",
+      "value": 7550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The altitude ranges from 7,550 ft in Lohajung all the way to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "maximum_altitude_ft",
+      "value": 12550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "The altitude ranges from 7,550 ft in Lohajung all the way to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "days_to_reach_meadows_from_start",
+      "value": "2 days of climbing from Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "It takes two days of climbing to reach Ali and Bedni Bugyal from Lohajung.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "best_time_for_clear_skies_and_mountain_views",
+      "value": "Spring",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Spring is the best time to do the trek if what you want is clear skies and grand mountain views.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "best_time_for_greenery_and_wildflowers",
+      "value": "Summer",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Summer will give you lush greenery in the meadows and wildflowers growing in abundance.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "best_time_for_snow_cover",
+      "value": "Winter",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "But the Ali Bedni winter trek is the one with the most beautiful snow cover in the entire country.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "notable_distinction",
+      "value": "Grandest mountain views among the meadow treks in the country",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bedni Bugyal has the grandest of mountain views among the meadow treks in our country.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "comparison_axes",
+      "field": "famous_bugyals_in_country",
+      "value": [
+        "Ali Bugyal",
+        "Bedni Bugyal"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Ali Bugyal and Bedni Bugyal are two of the most famous bugyals in our country.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "comparison_axes",
+      "field": "other_bugyals_mentioned",
+      "value": [
+        "Dayara Bugyal",
+        "Gidara Bugyal"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "Dayara Bugyal and Gidara Bugyal are other examples of bugyals in India.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "comparison_axes",
+      "field": "related_trek",
+      "value": "Roopkund trail",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-001",
+          "source_field": "faqs[0:5]",
+          "quote_or_summary": "These meadows are famous for being beautiful landmarks on the Roopkund trail.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

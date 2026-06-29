@@ -1,0 +1,1206 @@
+{
+  "schema_version": "source_packet_v1",
+  "note": "Clean source packet. Facts come from source-derived trek_facts; Playwright contributes rendered structure only.",
+  "generated_at": "2026-06-27T16:43:16.931282+00:00",
+  "trek_id": "phulara-ridge-trek",
+  "trek_title": "Phulara Ridge Trek",
+  "source_url": "https://indiahikes.com/phulara-ridge-trek",
+  "has_complete_trek_information": true,
+  "rendered_structure_file": "phulara-ridge-trek.structure.json",
+  "observed_ui_keys": [
+    "best_time",
+    "camping",
+    "detailed_itinerary",
+    "difficulty",
+    "faqs",
+    "fitness",
+    "other",
+    "packing",
+    "quick_itinerary",
+    "stay",
+    "travel"
+  ],
+  "source_fields_included": [
+    "best_time_section",
+    "day_wise_itinerary",
+    "difficulty_section",
+    "faqs",
+    "fitness_section",
+    "packing_section",
+    "quick_info",
+    "quick_itinerary",
+    "safety_section"
+  ],
+  "source_sections": [
+    {
+      "packet_section_id": "phulara-ridge-trek::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "text_section",
+      "title": "Best Time Section",
+      "content": "There are two great seasons to do the Phulara Ridge trek — Summer and Autumn. Both these two seasons have their own beauty and charm involved.\nPhulara Ridge in Summer\nDay time: Between 12 °C and 17 °C | Night time: Night time temperature: Will drop to zero\nPresence of snow: If the winter season for the year has heavy snowfall, you can expect snow patches on the ridge for the first few weeks of May. The snow starts to recede with the meadows and flowers popping out.\nNo. of warm layers required: 3 layers\nThe best time to do the Phulara Ridge trek would be in the summer– May and June. The snow-capped mountain ranges that dominate the landscape only add to the awe-inspiring scenery while trekking.\nWhat's more, the trek during this season offers the opportunity to witness the rare alpenglow phenomenon, blooming rhododendrons, and the vibrant meadows of Pushtara, making it one of the best times to explore the trail.\nDuring May, the forests and meadows are a sight to behold, adorned with bright and beautiful flora. As you enter June, the landscape turns even more lush with a carpet of flowers in full bloom.\nimage\nhttps://images.prismic.io/indiahike/69429-Phulara-Ridge-Trek-Indiahikes-Bhagavatheesvaran-S.jpg?auto=compress,format\nA trekker enjoying some alone time on the meadows of Phulara ridge trek\n2200\n1320\nYazUxhEAACEAxVwr\n0\n0\n1\n#fff\nPhulara Ridge in Autumn\nDay time: Between 10 °C and 14 °C | Night time: Will drop to temperatures between 0 °C and -3 °C.\nPresence of snow: You can expect the last groups of November to witness the first spell of snowfall due to the western disturbances.\nNo. of warm layers required: 4 layers\nAnother good time to do the Phulara Ridge trek is in the post-monsoon and Autumn season — September to November. The trail is lush green in September, fresh from the monsoon outpour.\nAs you move towards autumn, the region changes hues to dramatic yellows and oranges. The colors on the trek come out alive through each and every section on the trek.\nOne of the most remarkable features of this season is the clear and crisp skies, offering trekkers the best possible views of the mountains. This is also the perfect time for stargazing, making it a delightful experience for nature lovers.\nimage\nhttps://images.prismic.io/indiahike/92378-Phulara-Ridge-Dharun-Viswanathan-Alpine-glow-from-Bhoj-Gadi-campsite.jpg?auto=compress,format\nIndiahikes Pushtara campsite with a hazy golden glow of mountains in the backdrop\n1600\n1067\nYeZmFBIAACYAl2D8\n0\n0\n1\n#fff\nThe Phulara Ridge crossing is very much dependent on how much snow and the weather is for the day of the ridge crossing. In case of bad weather or the ridge not being safe to cross, the trek leader can take a call on returning from Bhoj Gadi.\n5\n6\n9\n10\n11",
+      "text": "There are two great seasons to do the Phulara Ridge trek — Summer and Autumn. Both these two seasons have their own beauty and charm involved.\nPhulara Ridge in Summer\nDay time: Between 12 °C and 17 °C | Night time: Night time temperature: Will drop to zero\nPresence of snow: If the winter season for the year has heavy snowfall, you can expect snow patches on the ridge for the first few weeks of May. The snow starts to recede with the meadows and flowers popping out.\nNo. of warm layers required: 3 layers\nThe best time to do the Phulara Ridge trek would be in the summer– May and June. The snow-capped mountain ranges that dominate the landscape only add to the awe-inspiring scenery while trekking.\nWhat's more, the trek during this season offers the opportunity to witness the rare alpenglow phenomenon, blooming rhododendrons, and the vibrant meadows of Pushtara, making it one of the best times to explore the trail.\nDuring May, the forests and meadows are a sight to behold, adorned with bright and beautiful flora. As you enter June, the landscape turns even more lush with a carpet of flowers in full bloom.\nimage\nhttps://images.prismic.io/indiahike/69429-Phulara-Ridge-Trek-Indiahikes-Bhagavatheesvaran-S.jpg?auto=compress,format\nA trekker enjoying some alone time on the meadows of Phulara ridge trek\n2200\n1320\nYazUxhEAACEAxVwr\n0\n1\n#fff\nPhulara Ridge in Autumn\nDay time: Between 10 °C and 14 °C | Night time: Will drop to temperatures between 0 °C and -3 °C.\nPresence of snow: You can expect the last groups of November to witness the first spell of snowfall due to the western disturbances.\nNo. of warm layers required: 4 layers\nAnother good time to do the Phulara Ridge trek is in the post-monsoon and Autumn season — September to November. The trail is lush green in September, fresh from the monsoon outpour.\nAs you move towards autumn, the region changes hues to dramatic yellows and oranges. The colors on the trek come out alive through each and every section on the trek.\nOne of the most remarkable features of this season is the clear and crisp skies, offering trekkers the best possible views of the mountains. This is also the perfect time for stargazing, making it a delightful experience for nature lovers.\nimage\nhttps://images.prismic.io/indiahike/92378-Phulara-Ridge-Dharun-Viswanathan-Alpine-glow-from-Bhoj-Gadi-campsite.jpg?auto=compress,format\nIndiahikes Pushtara campsite with a hazy golden glow of mountains in the backdrop\n1600\n1067\nYeZmFBIAACYAl2D8\n0\n1\n#fff\nThe Phulara Ridge crossing is very much dependent on how much snow and the weather is for the day of the ridge crossing. In case of bad weather or the ridge not being safe to cross, the trek leader can take a call on returning from Bhoj Gadi.\n5\n6\n9\n10\n11",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::009-best-time-to-do-phulara-ridge-trek-time-your-trek-well-toggl",
+            "ui_key": "best_time",
+            "label": "Best Time To Do Phulara Ridge Trek Time your Trek well toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3374
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::010-best-time-to-do-phulara-ridge-trek",
+            "ui_key": "best_time",
+            "label": "Best Time To Do Phulara Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3374
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1 (Pick-up): Drive from Dehradun to Kotgaon",
+      "content": {
+        "day": "1",
+        "place_title": "Day 1 (Pick-up): Drive from Dehradun to Kotgaon",
+        "difficulty": "",
+        "duration": "Drive Duration: 9-10 hours drive | Drive Distance: 195 km",
+        "altitude": "Altitude: 6,455 ft",
+        "water_sources": "",
+        "description": "Kotgaon, the base camp for this trek, is a small but pretty village with 250 houses. A few dhabas and shops make up the commerce scene in Kotgaon.\nThe drive takes you on narrow mountain roads along the River Yamuna. Within an hour of driving, you reach Mussoorie. Further ahead, the journey takes you past beautiful valleys and forest cover throughout the journey. The 18 km stretch of the dense pine forest after Purola and the drive through the Mori valley alongside River Tons will stay with you for a long time. Do not miss to watch out for them.\nIn peak season, it is usually bustling with trekking activity as it is the base camp for many treks – Kedarkantha, Har Ki Dun, Bali Pass, and Borasu Pass.  The village offers a beautiful view of the sun setting behind the greater Himalayas. The peaks of Swargarohini shimmer in the evening sun, standing tall over the ridges beyond Kotgaon.\nThe drive to Kotgaon will take you through Nainbagh, Naugaon, Purola, Jarmola and Mori Naitwar (a left turn from Naitwar will lead you to Dhaula, which is the base camp for Rupin Pass and Bharadsar lake trek), and finally Kotgaon."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"place_title\": \"Day 1 (Pick-up): Drive from Dehradun to Kotgaon\",\n  \"difficulty\": \"\",\n  \"duration\": \"Drive Duration: 9-10 hours drive | Drive Distance: 195 km\",\n  \"altitude\": \"Altitude: 6,455 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"Kotgaon, the base camp for this trek, is a small but pretty village with 250 houses. A few dhabas and shops make up the commerce scene in Kotgaon.\\nThe drive takes you on narrow mountain roads along the River Yamuna. Within an hour of driving, you reach Mussoorie. Further ahead, the journey takes you past beautiful valleys and forest cover throughout the journey. The 18 km stretch of the dense pine forest after Purola and the drive through the Mori valley alongside River Tons will stay with you for a long time. Do not miss to watch out for them.\\nIn peak season, it is usually bustling with trekking activity as it is the base camp for many treks – Kedarkantha, Har Ki Dun, Bali Pass, and Borasu Pass.  The village offers a beautiful view of the sun setting behind the greater Himalayas. The peaks of Swargarohini shimmer in the evening sun, standing tall over the ridges beyond Kotgaon.\\nThe drive to Kotgaon will take you through Nainbagh, Naugaon, Purola, Jarmola and Mori Naitwar (a left turn from Naitwar will lead you to Dhaula, which is the base camp for Rupin Pass and Bharadsar lake trek), and finally Kotgaon.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Trek from Kotgaon to Akondi",
+      "content": {
+        "day": "2",
+        "place_title": "Day 2: Trek from Kotgaon to Akondi",
+        "difficulty": "Difficulty: Moderate. Trail ascending through the forest section",
+        "duration": "Trek Duration: 5 hours | Trek Distance: 5 kms",
+        "altitude": "Altitude Gain: ⇗ 2,470 ft (6,455 ft to 9,400 ft)",
+        "water_sources": "Highlights: The well laid out trail through the pine forest is a wonderful start for your trek. Listen out to the sounds of the bird as you trek through this section while you cross bridges and some lovely clearings.",
+        "description": "The trek starts from Kotgaon village. Initially, you pass through the village. As you come out of the village, you cross a bridge and enter a lovely pine forest. After about an hour of ascent, you come across a beautiful clearing called Shirpuri.\nFrom Shirpuri, there are two trails. One to the right goes towards Kedarkantha Peak and the one to the left goes towards Hargaon. Take the left trail. A bit of a relaxed trail in the pine forest further leads to Hargaon - another clearing where you can spot shepherds' huts.\nIf you follow the trail straight ahead of Hargaon, it’s the one to the famous Juda Ka Talab. You can either follow this to Juda Ka Talab and then take a left from the lake or the better exciting trail which is to explore the trail to the left from this fork. This takes you through the lovely pine forests. The aroma of the Himalayan Cedar or Deodhar Cedar has filled the area as your legs enjoy a soft crunch through the forest floor. You will hear the tiny bees buzzing, resonating all around the forest. A nice half an hour on the forest path, you reach the main trail. This is the trail that comes from Juda Ka Talab. Take the left here and follow the trail in the forest.\nThere is another good clearing to the left where you can pitch your tents."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"place_title\": \"Day 2: Trek from Kotgaon to Akondi\",\n  \"difficulty\": \"Difficulty: Moderate. Trail ascending through the forest section\",\n  \"duration\": \"Trek Duration: 5 hours | Trek Distance: 5 kms\",\n  \"altitude\": \"Altitude Gain: ⇗ 2,470 ft (6,455 ft to 9,400 ft)\",\n  \"water_sources\": \"Highlights: The well laid out trail through the pine forest is a wonderful start for your trek. Listen out to the sounds of the bird as you trek through this section while you cross bridges and some lovely clearings.\",\n  \"description\": \"The trek starts from Kotgaon village. Initially, you pass through the village. As you come out of the village, you cross a bridge and enter a lovely pine forest. After about an hour of ascent, you come across a beautiful clearing called Shirpuri.\\nFrom Shirpuri, there are two trails. One to the right goes towards Kedarkantha Peak and the one to the left goes towards Hargaon. Take the left trail. A bit of a relaxed trail in the pine forest further leads to Hargaon - another clearing where you can spot shepherds' huts.\\nIf you follow the trail straight ahead of Hargaon, it’s the one to the famous Juda Ka Talab. You can either follow this to Juda Ka Talab and then take a left from the lake or the better exciting trail which is to explore the trail to the left from this fork. This takes you through the lovely pine forests. The aroma of the Himalayan Cedar or Deodhar Cedar has filled the area as your legs enjoy a soft crunch through the forest floor. You will hear the tiny bees buzzing, resonating all around the forest. A nice half an hour on the forest path, you reach the main trail. This is the trail that comes from Juda Ka Talab. Take the left here and follow the trail in the forest.\\nThere is another good clearing to the left where you can pitch your tents.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Akondi to Bhoj Gadi",
+      "content": {
+        "day": "3",
+        "place_title": "Day 3: Trek from Akondi to Bhoj Gadi",
+        "difficulty": "Difficulty: Easy. Gradual climb as you cross the tree line and enter into the higher altitude meadows.",
+        "duration": "Trek Duration: 4-5 hours | Trek Distance: 4.45 km",
+        "altitude": "Altitude Gain: ⇗ 2,245 (8,925 ft ft to 11,170 ft)",
+        "water_sources": "Highlights: Trek through the aromatic Deodhar trees and secluded trail. You will see a mix of pine, oak and dwarf rhododendrons. Turn back to see the famous Kedarkantha Peak. Do not miss the beautiful alpenglow and night sky from Bhoj Gadi.",
+        "description": "You will be surprised to see a ledge to your right. The sunlight cuts across the canopy beautifully here. You start seeing snow-capped peaks being visible now to the left. You will pass a small broken bridge. A stream is flowing down the hill where you can fill your water bottles.\nThe ascent continues from here for another 40 minutes. The Trail has Yellow Marsh Marigold and purple lilies blooming around. You come across a lovely large rock – The Gecko rock. It resembles the shape of a lizard having its head held high. The trail takes the right which leads to the clearing of ‘Sikolta’. A nice meadow patch with broken Gujjar huts.\nA good ascent from Sikolta for about 30 minutes through the forest patch. The forest is a bit dark and dense. Watch out for a few trees fallen on the trail. You spot a bridge down along the trail. A small descent to the bridge and a sharp ascend through a small section of the landslide terrain. This section is just about 100 meters. A nice stream is flowing underneath the bridge where you can fill water. The bridge and the stream separate the valley. Continue the ascend for another 15 minutes to reach a bigger clearing known as ‘Karsu Thatch’. The grass is filled with yellow flowers.\nAs you enter this big clearing, to the right you see the Kedarkantha peak. You see the decline in the tree line from here. You need to take the gradual ascent and keep it to your left. The ascent is a gradual one for another 30 minutes. The rhodo type trees with some Bhoj trees are filled on the trail now. The flowers bloom after the monsoon. The clearings start to open up and you enter the lush green meadows. A treat for your eyes and legs, one can enjoy walking on the green cover now.\nThe Dhunda Top is the highest point of this hill. With a small gradual ascent of 15 minutes and a trek for another 10 minutes on the trail to the left, you enter a nice flat meadow patch. This will be your campsite. You have a stream flowing down the valley. This will be your water source.\nYou can go for an excursion/acclimatization walk to the top of the hill. It’s a long ridge at the top which can take you to Kedarkantha as well. From here you will see the Purola region, the peaks of Kedarkantha, Swargarohini, Devkyara, Lekha Top, Vijay Top and a few others. The sunset, rising of the moon and early sunrise is a beautiful spectacles to watch out for from this campsite."
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"place_title\": \"Day 3: Trek from Akondi to Bhoj Gadi\",\n  \"difficulty\": \"Difficulty: Easy. Gradual climb as you cross the tree line and enter into the higher altitude meadows.\",\n  \"duration\": \"Trek Duration: 4-5 hours | Trek Distance: 4.45 km\",\n  \"altitude\": \"Altitude Gain: ⇗ 2,245 (8,925 ft ft to 11,170 ft)\",\n  \"water_sources\": \"Highlights: Trek through the aromatic Deodhar trees and secluded trail. You will see a mix of pine, oak and dwarf rhododendrons. Turn back to see the famous Kedarkantha Peak. Do not miss the beautiful alpenglow and night sky from Bhoj Gadi.\",\n  \"description\": \"You will be surprised to see a ledge to your right. The sunlight cuts across the canopy beautifully here. You start seeing snow-capped peaks being visible now to the left. You will pass a small broken bridge. A stream is flowing down the hill where you can fill your water bottles.\\nThe ascent continues from here for another 40 minutes. The Trail has Yellow Marsh Marigold and purple lilies blooming around. You come across a lovely large rock – The Gecko rock. It resembles the shape of a lizard having its head held high. The trail takes the right which leads to the clearing of ‘Sikolta’. A nice meadow patch with broken Gujjar huts.\\nA good ascent from Sikolta for about 30 minutes through the forest patch. The forest is a bit dark and dense. Watch out for a few trees fallen on the trail. You spot a bridge down along the trail. A small descent to the bridge and a sharp ascend through a small section of the landslide terrain. This section is just about 100 meters. A nice stream is flowing underneath the bridge where you can fill water. The bridge and the stream separate the valley. Continue the ascend for another 15 minutes to reach a bigger clearing known as ‘Karsu Thatch’. The grass is filled with yellow flowers.\\nAs you enter this big clearing, to the right you see the Kedarkantha peak. You see the decline in the tree line from here. You need to take the gradual ascent and keep it to your left. The ascent is a gradual one for another 30 minutes. The rhodo type trees with some Bhoj trees are filled on the trail now. The flowers bloom after the monsoon. The clearings start to open up and you enter the lush green meadows. A treat for your eyes and legs, one can enjoy walking on the green cover now.\\nThe Dhunda Top is the highest point of this hill. With a small gradual ascent of 15 minutes and a trek for another 10 minutes on the trail to the left, you enter a nice flat meadow patch. This will be your campsite. You have a stream flowing down the valley. This will be your water source.\\nYou can go for an excursion/acclimatization walk to the top of the hill. It’s a long ridge at the top which can take you to Kedarkantha as well. From here you will see the Purola region, the peaks of Kedarkantha, Swargarohini, Devkyara, Lekha Top, Vijay Top and a few others. The sunset, rising of the moon and early sunrise is a beautiful spectacles to watch out for from this campsite.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Bhoj Gadi to Pushtara via Phulara ridge",
+      "content": {
+        "day": "4",
+        "place_title": "Day 4: Trek from Bhoj Gadi to Pushtara via Phulara ridge",
+        "difficulty": "Difficulty: Moderate. Ascend the trail up to the ridge. A flat trail at the ridge followed by a descent to Pushtara.",
+        "duration": "Trek Duration: 6-7 hours | Trek Distance: 8.5 km",
+        "altitude": "Altitude gain/loss: ⇗ 1,175 ft ⇘ 2,485 ft (11,170 ft to 9,860 ft via 12,345 ft)",
+        "water_sources": "Highlights: Trekking on the ridge at around 12,000 feet with mountain views is a unique feeling. As you enter Phustara, take off your shoes and walk on the carpet of grass. Watch your step on the ridge if you have snow or the formation of Verglass.",
+        "description": "The top of the ridge can be seen from the campsite. To start the day, there is a nice ascent. It takes about 45 minutes to reach the top of the ridge. A lot of Himalayan Monals can be spotted on this trail. I saw seven Monals on this day and when approaching the ridge.\nThe view from the ridge is amazing. The view of the snow-peaked mountains of 250 degrees. You can see the ridge going ahead with slight ascents to reach the end of this beautiful trail. As you are trekking, you feel the snow-capped mountains moving along with you.\nAfter another hour of trekking, you come to the end of this trail where it takes a right turn. Few stones kept along the pathway, make you feel like you got a grand entrance to view the majestic view. The peaks from right to left are Hanuman Top, Sarutal Top, DKD, Bandarpoonch, Kalanag, Swargarohini, Hata Peak(HKD), Ranglana, Devkyara valley, Lekha Top, Vijay Top, Kedarkantha. Take the right from this point where the trail leads. An intermittent signal of Vodafone can be caught at the top. You can see multiple descents and ascents one has to take. The base of Sarutal is where you need to cross.\nThe trail takes a bit of descent and follows a gradual ascent. To the right is a drop. In the distance across the tall pine trees, in the valley of Purola. This section is not possible to take during the winter months because of snow. This section also does not have water sources. Crossing the snow section during April, and May itself is a difficult, tricky section. It took about an hour and 50 minutes with snow. Without snow, it would take about 30 minutes to complete and cross the Sarutal section. Watch for wildflowers and Monals through this section.\nOnce you cross this valley, you enter the right side of the hill. Few big mountains right in front of you. Take the descent and keep to your right. You will be blown away by the vastness of Pushtara meadows. It’s on the edge and a beautiful place to set up your campsite.\nIf you cross this valley, you have Taloti. A medium-sized gorgeous lake formed by the melting glaciers. Pushtara has a good amount of water on the right side. A small graveyard by the Gujjars can be seen giving a nice chill to the bones. A good place to come up with stories for the night."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"place_title\": \"Day 4: Trek from Bhoj Gadi to Pushtara via Phulara ridge\",\n  \"difficulty\": \"Difficulty: Moderate. Ascend the trail up to the ridge. A flat trail at the ridge followed by a descent to Pushtara.\",\n  \"duration\": \"Trek Duration: 6-7 hours | Trek Distance: 8.5 km\",\n  \"altitude\": \"Altitude gain/loss: ⇗ 1,175 ft ⇘ 2,485 ft (11,170 ft to 9,860 ft via 12,345 ft)\",\n  \"water_sources\": \"Highlights: Trekking on the ridge at around 12,000 feet with mountain views is a unique feeling. As you enter Phustara, take off your shoes and walk on the carpet of grass. Watch your step on the ridge if you have snow or the formation of Verglass.\",\n  \"description\": \"The top of the ridge can be seen from the campsite. To start the day, there is a nice ascent. It takes about 45 minutes to reach the top of the ridge. A lot of Himalayan Monals can be spotted on this trail. I saw seven Monals on this day and when approaching the ridge.\\nThe view from the ridge is amazing. The view of the snow-peaked mountains of 250 degrees. You can see the ridge going ahead with slight ascents to reach the end of this beautiful trail. As you are trekking, you feel the snow-capped mountains moving along with you.\\nAfter another hour of trekking, you come to the end of this trail where it takes a right turn. Few stones kept along the pathway, make you feel like you got a grand entrance to view the majestic view. The peaks from right to left are Hanuman Top, Sarutal Top, DKD, Bandarpoonch, Kalanag, Swargarohini, Hata Peak(HKD), Ranglana, Devkyara valley, Lekha Top, Vijay Top, Kedarkantha. Take the right from this point where the trail leads. An intermittent signal of Vodafone can be caught at the top. You can see multiple descents and ascents one has to take. The base of Sarutal is where you need to cross.\\nThe trail takes a bit of descent and follows a gradual ascent. To the right is a drop. In the distance across the tall pine trees, in the valley of Purola. This section is not possible to take during the winter months because of snow. This section also does not have water sources. Crossing the snow section during April, and May itself is a difficult, tricky section. It took about an hour and 50 minutes with snow. Without snow, it would take about 30 minutes to complete and cross the Sarutal section. Watch for wildflowers and Monals through this section.\\nOnce you cross this valley, you enter the right side of the hill. Few big mountains right in front of you. Take the descent and keep to your right. You will be blown away by the vastness of Pushtara meadows. It’s on the edge and a beautiful place to set up your campsite.\\nIf you cross this valley, you have Taloti. A medium-sized gorgeous lake formed by the melting glaciers. Pushtara has a good amount of water on the right side. A small graveyard by the Gujjars can be seen giving a nice chill to the bones. A good place to come up with stories for the night.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::005",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5: Trek from Pushtara to Taluka. Drive to Kotgaon",
+      "content": {
+        "day": "5",
+        "place_title": "Day 5: Trek from Pushtara to Taluka. Drive to Kotgaon",
+        "difficulty": "Difficulty: Moderate. Descend through the forest trail all the way to Taluka.",
+        "duration": "Trek Duration: 5 hours trek | Trek Distance: 8.1 km\nDrive Distance: 1.5 hours drive from Taluka to Kotgaon",
+        "altitude": "Altitude loss: ⇘ 2,764 ft (9,860 ft to 6,916 ft)",
+        "water_sources": "Highlights: The last day of the trek is through complete isolation in the thick forests. Listen to the sounds of the bird and keep your eyes open. This day is the best one to spot a Monal. Enjoy the forest section and do not get lost while you reach the signs of the civilization of Tumrikot.",
+        "description": "The trail would be a complete descent to the village of Taluka. The first 30 minutes is the descent through the meadows. You see some broken Gujjar huts here. You see the trail coming from the Taloti valley to the right. Take the descent and join this trail. Keep descending and going towards the right. The tree line starts to increase. The floor is laden with beautiful yellow flowers. It feels like a bed to just lie down.\nOn descent for another 30 minutes, you enter the forest. Wide good trails enter the forest at first. The forest is a big one and is easy to get lost if you go off-trail. Initially, trees are spaced with a good amount of light coming through the cover. Later big pine trees dawn over you. You seem like tiny individual trekking in the big forest. You need to cross some trees which have fallen on the ground. A troop of curious langurs stares at your trekking technique while they jump effortlessly from one tree to another.\nKeep an eye to the right, you see a small village. You won’t be going to this village but reassures you of following the trail. The descent goes for about an hour and 30 mins through this forest. In the last stretch of thick untouched forest and you hear a few bells. You spot a herd of cows, goats grazing and also a few logging activities indicating that you are close to civilization. Follow the same trail and you see a pathway and a collecting pipe from the stream. There is a big water tank and you see wooden huts with stoned roofing. This is the village of Tumrikot. A beautiful village walks for 30 mins and you reach the end of your trek. The small village of Taluka has a couple of shops. You can see a clear marking for the Har Ki Dun trek."
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"place_title\": \"Day 5: Trek from Pushtara to Taluka. Drive to Kotgaon\",\n  \"difficulty\": \"Difficulty: Moderate. Descend through the forest trail all the way to Taluka.\",\n  \"duration\": \"Trek Duration: 5 hours trek | Trek Distance: 8.1 km\\nDrive Distance: 1.5 hours drive from Taluka to Kotgaon\",\n  \"altitude\": \"Altitude loss: ⇘ 2,764 ft (9,860 ft to 6,916 ft)\",\n  \"water_sources\": \"Highlights: The last day of the trek is through complete isolation in the thick forests. Listen to the sounds of the bird and keep your eyes open. This day is the best one to spot a Monal. Enjoy the forest section and do not get lost while you reach the signs of the civilization of Tumrikot.\",\n  \"description\": \"The trail would be a complete descent to the village of Taluka. The first 30 minutes is the descent through the meadows. You see some broken Gujjar huts here. You see the trail coming from the Taloti valley to the right. Take the descent and join this trail. Keep descending and going towards the right. The tree line starts to increase. The floor is laden with beautiful yellow flowers. It feels like a bed to just lie down.\\nOn descent for another 30 minutes, you enter the forest. Wide good trails enter the forest at first. The forest is a big one and is easy to get lost if you go off-trail. Initially, trees are spaced with a good amount of light coming through the cover. Later big pine trees dawn over you. You seem like tiny individual trekking in the big forest. You need to cross some trees which have fallen on the ground. A troop of curious langurs stares at your trekking technique while they jump effortlessly from one tree to another.\\nKeep an eye to the right, you see a small village. You won’t be going to this village but reassures you of following the trail. The descent goes for about an hour and 30 mins through this forest. In the last stretch of thick untouched forest and you hear a few bells. You spot a herd of cows, goats grazing and also a few logging activities indicating that you are close to civilization. Follow the same trail and you see a pathway and a collecting pipe from the stream. There is a big water tank and you see wooden huts with stoned roofing. This is the village of Tumrikot. A beautiful village walks for 30 mins and you reach the end of your trek. The small village of Taluka has a couple of shops. You can see a clear marking for the Har Ki Dun trek.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::day_wise_itinerary::006",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6: Drive from Kotgaon to Dehradun",
+      "content": {
+        "day": "6",
+        "place_title": "Day 6: Drive from Kotgaon to Dehradun",
+        "difficulty": "",
+        "duration": "Drive Duration: 9-10 hours | Drive Distance: 195 km",
+        "altitude": "",
+        "water_sources": "",
+        "description": "Start early in the morning, preferably before 7:00 AM since the journey takes at least 9-10 hours.\nIf you have time to spare at Dehradun, go to Mussoorie or explore around Dehradun."
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"place_title\": \"Day 6: Drive from Kotgaon to Dehradun\",\n  \"difficulty\": \"\",\n  \"duration\": \"Drive Duration: 9-10 hours | Drive Distance: 195 km\",\n  \"altitude\": \"\",\n  \"water_sources\": \"\",\n  \"description\": \"Start early in the morning, preferably before 7:00 AM since the journey takes at least 9-10 hours.\\nIf you have time to spare at Dehradun, go to Mussoorie or explore around Dehradun.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3254
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3134,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "text_section",
+      "title": "Difficulty Section",
+      "content": "Moderate\nSuitable for Fit Beginners\n1721\n1291\nhttps://images.prismic.io/indiahike/aEkeh7NJEFaPX2TQ_difficultyicon_moderate.png?auto=format,compress\naEkeh7NJEFaPX2TQ\n0\n0\n1\ntransparent\nYou will cover a total of around 26 km in four trekking days during which you will gain approximately 5,945 ft (6,400 ft to 12,345 ft). Every day will include ascents and descents. There are certain steep sections spread out, but when well-prepared, they are easy to tackle.\nThe Terrain:\nOn the first day of the Phulara Ridge Trek, you gain almost 3000 ft in elevation over a 4-5 km trek. The trail climbs steeply through forest sections and can be tiring.\nThe initial part of the day from Bhoj Gadi to climbing onto the Phulara Ridge is a steep ascent. It can take you close to 1 hr to just get on the ridge. In the early weeks of May or June, if there is snow, this climb becomes even more tricky.\nOnce you are on the ridge, the ups and downs are gradual. However, the ridge is exposed and windy. Layering up well is key to handling the wind chill.\nPlease Note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall lasting for hours can significantly alter the dynamics of a trek. Rain can turn the forest trails slushy. This makes the strenuous ascent on the first day of your trek trickier.\nSnowfall can block previously established paths, requiring new tracks to be carved through the snow. This can add to the challenge, especially during the climb to the ridge from Bhoj Gadi Campsite. If there is too much snow, the descent from the ridge on the Pushtara side can also get tricky.\nKotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.\nPlease Note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nYou gain almost 3000 ft in elevation over just 4-5 km of trekking on the very first day of your trek. The elevation gain coupled with exertion makes you susceptible to Acute Mountain Sickness .\nOn the other days of the trek, elevation gain is quite gradual and the itinerary of the Phulara Ridge trek allows you to acclimatise well. \nBut, the Phulara Ridge Trek takes you to an altitude of 12,345 ft and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nThere are two exit points on the Phulara Ridge trek – Kotgaon if you haven’t crossed the ridge, and Taluka, if you have crossed the ridge. It takes around 5 hours to descend to Kotgaon from the highest campsite of the trek.\nClosest Hospital to the Phulara Ridge Trek:\nFor mild medical issues, the closest medical assistance can be found in Mori and then in Purola. This includes simple fractures, sprains, etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "text": "Moderate\nSuitable for Fit Beginners\n1721\n1291\nhttps://images.prismic.io/indiahike/aEkeh7NJEFaPX2TQ_difficultyicon_moderate.png?auto=format,compress\naEkeh7NJEFaPX2TQ\n0\n1\ntransparent\nYou will cover a total of around 26 km in four trekking days during which you will gain approximately 5,945 ft (6,400 ft to 12,345 ft). Every day will include ascents and descents. There are certain steep sections spread out, but when well-prepared, they are easy to tackle.\nThe Terrain:\nOn the first day of the Phulara Ridge Trek, you gain almost 3000 ft in elevation over a 4-5 km trek. The trail climbs steeply through forest sections and can be tiring.\nThe initial part of the day from Bhoj Gadi to climbing onto the Phulara Ridge is a steep ascent. It can take you close to 1 hr to just get on the ridge. In the early weeks of May or June, if there is snow, this climb becomes even more tricky.\nOnce you are on the ridge, the ups and downs are gradual. However, the ridge is exposed and windy. Layering up well is key to handling the wind chill.\nPlease Note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall lasting for hours can significantly alter the dynamics of a trek. Rain can turn the forest trails slushy. This makes the strenuous ascent on the first day of your trek trickier.\nSnowfall can block previously established paths, requiring new tracks to be carved through the snow. This can add to the challenge, especially during the climb to the ridge from Bhoj Gadi Campsite. If there is too much snow, the descent from the ridge on the Pushtara side can also get tricky.\nKotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.\nPlease Note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nYou gain almost 3000 ft in elevation over just 4-5 km of trekking on the very first day of your trek. The elevation gain coupled with exertion makes you susceptible to Acute Mountain Sickness .\nOn the other days of the trek, elevation gain is quite gradual and the itinerary of the Phulara Ridge trek allows you to acclimatise well.\nBut, the Phulara Ridge Trek takes you to an altitude of 12,345 ft and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nThere are two exit points on the Phulara Ridge trek – Kotgaon if you haven’t crossed the ridge, and Taluka, if you have crossed the ridge. It takes around 5 hours to descend to Kotgaon from the highest campsite of the trek.\nClosest Hospital to the Phulara Ridge Trek:\nFor mild medical issues, the closest medical assistance can be found in Mori and then in Purola. This includes simple fractures, sprains, etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::007-how-difficult-is-the-phulara-ridge-trek-what-to-expect-in-te",
+            "ui_key": "difficulty",
+            "label": "How Difficult Is the Phulara Ridge Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3314
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::008-how-difficult-is-the-phulara-ridge-trek",
+            "ui_key": "difficulty",
+            "label": "How Difficult Is the Phulara Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3314
+          }
+        ],
+        "anchors": [
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 2",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 2: Trek from Kotgaon to AkondiTrek Duration: 5 hours | Trek Distance: 5 kmsAltitude Gain: ⇗ 2,470 ft (6,455 ft to 9,400 ft)Difficulty: Moderate. Trail ascending through the forest sectionHighlights: ",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 3",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 3: Trek from Akondi to Bhoj GadiTrek Duration: 4-5 hours | Trek Distance: 4.45 kmAltitude Gain: ⇗ 2,245 (8,925 ft ft to 11,170 ft)Difficulty: Easy. Gradual climb as you cross the tree line and enter ",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 4",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 4: Trek from Bhoj Gadi to Pushtara via Phulara ridgeTrek Duration: 6-7 hours | Trek Distance: 8.5 kmAltitude gain/loss: ⇗ 1,175 ft ⇘ 2,485 ft (11,170 ft to 9,860 ft via 12,345 ft)Difficulty: Moderate",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "trek-difficulty",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "",
+            "top": 3194,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is the Phulara Ridge a good first Himalayan trek?",
+      "content": {
+        "question": "Is the Phulara Ridge a good first Himalayan trek?",
+        "answer": "The Phulara Ridge is 4 days long with gradual ascents and each day, you’ll be trekking for an average of 5 hours each on the first two days and longer over the next two days. This means the trek is ideal for a fit beginner.\nHaving said that, it is still a trek in the Himalayas with difficulties in terrain, temperatures, and weather. Therefore, you must train for at least a month before going on the Phulara Ridge trek."
+      },
+      "text": "Q: Is the Phulara Ridge a good first Himalayan trek?\nA: The Phulara Ridge is 4 days long with gradual ascents and each day, you’ll be trekking for an average of 5 hours each on the first two days and longer over the next two days. This means the trek is ideal for a fit beginner.\nHaving said that, it is still a trek in the Himalayas with difficulties in terrain, temperatures, and weather. Therefore, you must train for at least a month before going on the Phulara Ridge trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How fit do I need to be for the Phulara Ridge trek?",
+      "content": {
+        "question": "How fit do I need to be for the Phulara Ridge trek?",
+        "answer": "A Himalayan trek like Phulara Ridge requires a good fitness level. The trek has long climbs and walks daily. As a measure of your fitness, we need you to:\nRun at least 5 km in 35 minutes before your trek. It's a minimum mandatory requirement if you wish to trek with us. Once you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience.\nHow to Get Fit for Your Trek"
+      },
+      "text": "Q: How fit do I need to be for the Phulara Ridge trek?\nA: A Himalayan trek like Phulara Ridge requires a good fitness level. The trek has long climbs and walks daily. As a measure of your fitness, we need you to:\nRun at least 5 km in 35 minutes before your trek. It's a minimum mandatory requirement if you wish to trek with us. Once you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience.\nHow to Get Fit for Your Trek",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I am more than 62 years old. Can I do this trek?",
+      "content": {
+        "question": "I am more than 62 years old. Can I do this trek?",
+        "answer": "Yes you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 35 minutes."
+      },
+      "text": "Q: I am more than 62 years old. Can I do this trek?\nA: Yes you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 35 minutes.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "What are washroom/toilet facilities like on the trek?",
+      "content": {
+        "question": "What are washroom/toilet facilities like on the trek?",
+        "answer": "The guest houses at Kotgaon will have concrete toilets. On the other days, toilet tents will be set up along each campsite. A toilet tent will have a deep pit, where one can answer nature’s call. There will be a mound of soil and a shovel to cover it up. These are dry toilets, where you’ll have to use toilet paper. There will be a room freshener as well. It’s the most hygienic and convenient way to answer nature’s call in the wild.\nPlease use plain toilet paper and refrain from using wet wipes since these are not bio-degradable.\nWhat Happens To Your Poop in the Mountains? | Green Trails | Indiahikes"
+      },
+      "text": "Q: What are washroom/toilet facilities like on the trek?\nA: The guest houses at Kotgaon will have concrete toilets. On the other days, toilet tents will be set up along each campsite. A toilet tent will have a deep pit, where one can answer nature’s call. There will be a mound of soil and a shovel to cover it up. These are dry toilets, where you’ll have to use toilet paper. There will be a room freshener as well. It’s the most hygienic and convenient way to answer nature’s call in the wild.\nPlease use plain toilet paper and refrain from using wet wipes since these are not bio-degradable.\nWhat Happens To Your Poop in the Mountains? | Green Trails | Indiahikes",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How many trekkers are in a single group?",
+      "content": {
+        "question": "How many trekkers are in a single group?",
+        "answer": "On the Phulara Ridge trek, we usually take around 20- 23 trekkers in total."
+      },
+      "text": "Q: How many trekkers are in a single group?\nA: On the Phulara Ridge trek, we usually take around 20- 23 trekkers in total.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::006",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Which is the nearest ATM to the Phulara Ridge Trek?",
+      "content": {
+        "question": "Which is the nearest ATM to the Phulara Ridge Trek?",
+        "answer": "Uttarkashi is the last town en route to Kotgaon where you’ll find ATMs to make some cash withdrawals. All major private and public sector banks have their ATMs and some even have branches in Uttarkashi. However, cash does run out quickly at the Uttarkashi ATMs. Hence, Dehradun is your best bet to make last-minute cash withdrawals.\nWe advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.\nIf you’re an Indiahikes trekker,  there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes."
+      },
+      "text": "Q: Which is the nearest ATM to the Phulara Ridge Trek?\nA: Uttarkashi is the last town en route to Kotgaon where you’ll find ATMs to make some cash withdrawals. All major private and public sector banks have their ATMs and some even have branches in Uttarkashi. However, cash does run out quickly at the Uttarkashi ATMs. Hence, Dehradun is your best bet to make last-minute cash withdrawals.\nWe advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.\nIf you’re an Indiahikes trekker, there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::007",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can I take my child along on this trek? What is the age limit?",
+      "content": {
+        "question": "Can I take my child along on this trek? What is the age limit?",
+        "answer": "Phulara ridge trek is suitable for anyone above the age of 9 years. However, you need to ensure that your child is physically fit for the trek."
+      },
+      "text": "Q: Can I take my child along on this trek? What is the age limit?\nA: Phulara ridge trek is suitable for anyone above the age of 9 years. However, you need to ensure that your child is physically fit for the trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::008",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Will I get a mobile network and charging points during the Phulara Ridge Trek?",
+      "content": {
+        "question": "Will I get a mobile network and charging points during the Phulara Ridge Trek?",
+        "answer": "You will get a Jio network at the base camp but scattered internet connectivity. However, you won’t find any network on the Phulara Ridge Trek.\nAs per electricity, there are charging points on the basecamp but none on the trek."
+      },
+      "text": "Q: Will I get a mobile network and charging points during the Phulara Ridge Trek?\nA: You will get a Jio network at the base camp but scattered internet connectivity. However, you won’t find any network on the Phulara Ridge Trek.\nAs per electricity, there are charging points on the basecamp but none on the trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::009",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can I keep extra luggage at the base camp of Kotgaon?",
+      "content": {
+        "question": "Can I keep extra luggage at the base camp of Kotgaon?",
+        "answer": "Yes, you can keep the extra luggage at the base camp. Once the trek ends, you will be able to collect the luggage. Our team will arrange for this.\nEnsure you do not keep any valuables at the base. Laptops, mobile phones, cash or any important items cannot be kept here."
+      },
+      "text": "Q: Can I keep extra luggage at the base camp of Kotgaon?\nA: Yes, you can keep the extra luggage at the base camp. Once the trek ends, you will be able to collect the luggage. Our team will arrange for this.\nEnsure you do not keep any valuables at the base. Laptops, mobile phones, cash or any important items cannot be kept here.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::faqs::010",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is offloading available on the Phulara Ridge Trek",
+      "content": {
+        "question": "Is offloading available on the Phulara Ridge Trek",
+        "answer": "Having more footprint through porters or mules on any trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe cost of offloading on the Phulara Ridge trek is Rs 1,600 without tax for the trek.\nFind details about the offloading process here."
+      },
+      "text": "Q: Is offloading available on the Phulara Ridge Trek\nA: Having more footprint through porters or mules on any trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe cost of offloading on the Phulara Ridge trek is Rs 1,600 without tax for the trek.\nFind details about the offloading process here.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3734
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3614,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "text_section",
+      "title": "Fitness Section",
+      "content": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Phulara Ridge Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/ah1UZweQX7-eWege_fitnessinfographic.png?auto=format,compress\n874\n690\nah1UZweQX7-eWege\n0\n0\n1\ntransparent\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "text": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Phulara Ridge Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/ah1UZweQX7-eWege_fitnessinfographic.png?auto=format,compress\n874\n690\nah1UZweQX7-eWege\n0\n1\ntransparent\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::019-how-to-get-fit-for-the-phulara-ridge-trek-a-6-week-plan-to-h",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Phulara Ridge Trek A 6-Week Plan to Help You Get Trek-Fit for the Phulara Ridge Trek toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3674
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::020-how-to-get-fit-for-the-phulara-ridge-trek",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Phulara Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3674
+          }
+        ],
+        "anchors": [
+          {
+            "id": "getting-fit",
+            "tag": "div",
+            "ui_key": "fitness",
+            "text_preview": "",
+            "top": 3554,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::packing_section::001",
+      "source_field": "packing_section",
+      "section_type": "text_section",
+      "title": "Packing Section",
+      "content": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDyFwrh8WN-LVdQl_PhularaRidge-V1-.jpg?auto=format,compress\n1600\n1600\naDyFwrh8WN-LVdQl\n0\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Phulara Ridge trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses\nSun cap, preferably with flaps (Available for purchase)\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or Vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet. Please note there is no facility to get printouts and photocopies at Kotgaon.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there.\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\n\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Dehradun every 12 hours (125 mg). Carry on the medication until you descend to Taluka. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Phulara Ridge Trek.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually the mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking.  Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\n| Pro tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "text": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDyFwrh8WN-LVdQl_PhularaRidge-V1-.jpg?auto=format,compress\n1600\naDyFwrh8WN-LVdQl\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Phulara Ridge trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses\nSun cap, preferably with flaps (Available for purchase)\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or Vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet. Please note there is no facility to get printouts and photocopies at Kotgaon.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there.\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Dehradun every 12 hours (125 mg). Carry on the medication until you descend to Taluka. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Phulara Ridge Trek.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually the mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\n| Pro tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::017-packing-list-things-you-must-take-on-the-trek-toggle-accordi",
+            "ui_key": "packing",
+            "label": "Packing List Things you must take on the trek toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3614
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::018-packing-list",
+            "ui_key": "packing",
+            "label": "Packing List",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3614
+          }
+        ],
+        "anchors": [
+          {
+            "id": "what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "",
+            "top": 3494,
+            "visible": false
+          },
+          {
+            "id": "trek-what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "Phulara RidgeSELECT MONTHGenerate my packing checklist",
+            "top": 0,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_info::001",
+      "source_field": "quick_info",
+      "section_type": "structured_facts",
+      "title": "Quick Info",
+      "content": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "6 days / 26 km",
+        "highest_altitude": "12,345 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Kotgaon, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6.00 PM",
+        "packing_checklist": "Click to Generate",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "text": "{\n  \"trek_difficulty\": \"Moderate\",\n  \"trek_duration\": \"6 days / 26 km\",\n  \"highest_altitude\": \"12,345 ft\",\n  \"suitable_for\": \"11 years and above\",\n  \"basecamp\": \"Kotgaon, Uttarakhand\",\n  \"accommodation_type\": \"Tents (2-sharing)\",\n  \"fitness_criteria\": \"5 km in 35 mins\",\n  \"pickup_details\": \"Asli Pappu Da Dhaba, Dehradun at 6.30 AM\",\n  \"dropoff_details\": \"Asli Pappu Da Dhaba, Dehradun at 6.00 PM\",\n  \"packing_checklist\": \"Click to Generate\",\n  \"cloakroom\": \"Available\",\n  \"offloading\": \"Available\"\n}",
+      "rendered_support": {
+        "status": "included_source_field",
+        "reason": "Included because it is source-derived context; not directly mapped from a rendered accordion.",
+        "ui_sections": [],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::001",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1",
+      "content": {
+        "day": "1",
+        "heading": "Drive from Dehradun to Kotgaon (6,455 ft)",
+        "sub_heading": "Drive distance: 195 km | Drive Duration: 9-10 hours | Pick up point for Indiahikes trekkers: Asli Pappu Da Dhaba, Dehradun| Pick up Time: 6.30 am | Location of Indiahikes basecamp: Kotgaon",
+        "details": "We will arrange shared cabs for trekkers to pick you up from Dehradun and drop back after the trek.\nThe transport cost is shared between the trekkers. The cost of the cab will be Rs 1300 (additional 5% GST) per trekker (one-way). The return journey will cost you the same.  Please pre-book your transport through the dashboard before your trek."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"heading\": \"Drive from Dehradun to Kotgaon (6,455 ft)\",\n  \"sub_heading\": \"Drive distance: 195 km | Drive Duration: 9-10 hours | Pick up point for Indiahikes trekkers: Asli Pappu Da Dhaba, Dehradun| Pick up Time: 6.30 am | Location of Indiahikes basecamp: Kotgaon\",\n  \"details\": \"We will arrange shared cabs for trekkers to pick you up from Dehradun and drop back after the trek.\\nThe transport cost is shared between the trekkers. The cost of the cab will be Rs 1300 (additional 5% GST) per trekker (one-way). The return journey will cost you the same.  Please pre-book your transport through the dashboard before your trek.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::002",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2",
+      "content": {
+        "day": "2",
+        "heading": "Trek from Kotgaon to Akondi",
+        "sub_heading": "Trek Distance: 5 km | Trek Duration: 4-5 hours | Altitude gain: 6,455 ft to 9,400 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"heading\": \"Trek from Kotgaon to Akondi\",\n  \"sub_heading\": \"Trek Distance: 5 km | Trek Duration: 4-5 hours | Altitude gain: 6,455 ft to 9,400 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::003",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3",
+      "content": {
+        "day": "3",
+        "heading": "Trek from Akondi to Bhoj Gadi",
+        "sub_heading": "Trek Distance: 4.45 km | Trek Duration: 4-5 hours | Altitude gain: 8,925 ft to 11,170 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"heading\": \"Trek from Akondi to Bhoj Gadi\",\n  \"sub_heading\": \"Trek Distance: 4.45 km | Trek Duration: 4-5 hours | Altitude gain: 8,925 ft to 11,170 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::004",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4",
+      "content": {
+        "day": "4",
+        "heading": "Trek from Bhoj Gadi to Pushtara via Phulara ridge",
+        "sub_heading": "Trek Distance: 8.4 km | Trek Duration: 6-7 hours | Altitude gain and loss: 11,170 ft to 9,860 ft via 12,345 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"heading\": \"Trek from Bhoj Gadi to Pushtara via Phulara ridge\",\n  \"sub_heading\": \"Trek Distance: 8.4 km | Trek Duration: 6-7 hours | Altitude gain and loss: 11,170 ft to 9,860 ft via 12,345 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::005",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5",
+      "content": {
+        "day": "5",
+        "heading": "Trek from Pushtara to Taluka. Drive to Kotgaon",
+        "sub_heading": "Trek Distance: 8.1 km | Trek Duration: 6-7 hours | Drive Duration: 1.5-2 hours | Altitude loss: 9,860 ft to 6,916 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"heading\": \"Trek from Pushtara to Taluka. Drive to Kotgaon\",\n  \"sub_heading\": \"Trek Distance: 8.1 km | Trek Duration: 6-7 hours | Drive Duration: 1.5-2 hours | Altitude loss: 9,860 ft to 6,916 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "phulara-ridge-trek::quick_itinerary::006",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6",
+      "content": {
+        "day": "6",
+        "heading": "Drive from Kotgaon to Dehradun",
+        "sub_heading": "Drive Distance: 195 km | Drive Duration: 9-10 hours | Drop off point: Asli Pappu Da Dhaba, Dehradun | Drop off time: 6 pm",
+        "details": "This transport cost again has to be borne by trekkers. This costs Rs.1300 (additional 5% GST) per trekker (one-way).  Please pre-book your transport through the dashboard before your trek.\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons."
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"heading\": \"Drive from Kotgaon to Dehradun\",\n  \"sub_heading\": \"Drive Distance: 195 km | Drive Duration: 9-10 hours | Drop off point: Asli Pappu Da Dhaba, Dehradun | Drop off time: 6 pm\",\n  \"details\": \"This transport cost again has to be borne by trekkers. This costs Rs.1300 (additional 5% GST) per trekker (one-way).  Please pre-book your transport through the dashboard before your trek.\\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          },
+          {
+            "ui_section_id": "phulara-ridge-trek::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3194
+          }
+        ],
+        "anchors": []
+      }
+    }
+  ]
+}

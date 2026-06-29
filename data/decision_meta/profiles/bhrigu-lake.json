@@ -1,0 +1,161 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.394038+00:00",
+  "trek_id": "bhrigu-lake",
+  "trek_title": "Bhrigu Lake Trek",
+  "source_url": "https://indiahikes.com/bhrigu-lake",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 4,
+    "distance_km": 21.5,
+    "highest_altitude_ft": 14009,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "10 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "4 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "avoid_months": [
+        "May"
+      ],
+      "snow_or_rain_notes": [
+        "Snow patches on ground from mid-June to mid-July",
+        "Snow at Rola Kholi around mid-June",
+        "Snow on final ascent in early July",
+        "Snow closer to Bhrigu Lake in early August",
+        "No snow from mid-August onward"
+      ],
+      "temperature_notes": [
+        "Mid-June to mid-July: Day 15-20°C, Night 1-5°C, 4 warm layers",
+        "Mid-July to mid-August: Day 15-20°C, Night 1-5°C, 3 warm layers",
+        "Mid-August to September: Day 12-15°C, Night 0-3°C, 4 warm layers"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Uneven trails with daily ascents and descents",
+        "Extremely steep climb from Gulaba to Jonker Thatch gaining almost 3500 ft over 2 km",
+        "Continuous descent from Rola Kholi to Gulaba on the last day that is hard on the knees",
+        "Trail fades in meadows making it easy to get lost",
+        "Forest trail ahead of Gulaba gets mushy and difficult to climb in rain"
+      ],
+      "altitude_or_weather_risks": [
+        "Rapid elevation gain of more than 3500 ft from Gulaba to Jonker Thatch on day 1 increases susceptibility to Acute Mountain Sickness",
+        "Bhrigu Lake at 14,009 ft; above 10,000 ft AMS risk is real for first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS",
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them slushy and unsafe"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "You must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.",
+        "Cardiovascular Endurance",
+        "Muscle Strength"
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+        "Your runs don't meet your trek's fitness criteria at least 3 times in the past month."
+      ],
+      "prep_window": [
+        "6 weeks",
+        "15 to 20 days before your trek date"
+      ]
+    },
+    "experience_themes": [
+      "Frozen lake surrounded by snow in early season",
+      "Lake melting in concentric circles as July progresses",
+      "Deep royal blue lake water in August",
+      "Flowers blooming around the lake in August",
+      "Lush green meadows emerging from mid-July onward",
+      "Cloud dance at Rola Kholi during peak monsoon"
+    ],
+    "primary_watchouts": [
+      "Heavy snow in May makes final ascent to lake difficult",
+      "Frequent rains and unannounced clouds during peak monsoon (mid-July to mid-August)",
+      "Landslides and roadblocks in monsoon can cause delays en route to base camp",
+      "Indiahikes monitors weather and trail conditions daily and may reroute, reschedule, or cancel treks",
+      "Trekkers visiting in May due to heavy snow blocking final ascent",
+      "Trekkers unable to buffer travel days around monsoon road disruptions"
+    ],
+    "best_for": [
+      "Trekkers seeking frozen lake and snow scenery (mid-June)",
+      "Trekkers wanting blooming flowers and deep blue lake (August)",
+      "Trekkers seeking lush meadows and clear mountain views (mid-August to September)",
+      "Trekkers comfortable with monsoon conditions"
+    ],
+    "not_ideal_for": [
+      "Trekkers visiting in May due to heavy snow blocking final ascent",
+      "Trekkers unable to buffer travel days around monsoon road disruptions"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "bhrigu-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "bhrigu-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "bhrigu-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "bhrigu-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "bhrigu-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "bhrigu-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "bhrigu-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "bhrigu-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "bhrigu-lake::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

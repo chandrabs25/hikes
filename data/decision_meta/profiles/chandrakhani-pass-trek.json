@@ -1,0 +1,175 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.398842+00:00",
+  "trek_id": "chandrakhani-pass-trek",
+  "trek_title": "Chandrakhani Pass Trek",
+  "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+  "filter_index": {
+    "trek_difficulty": "Easy-Moderate",
+    "duration_days": 5,
+    "distance_km": 26.0,
+    "highest_altitude_ft": 12185,
+    "min_age": 8,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 40,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "3 PM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "6 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "avoid_months": [
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "snow_or_rain_notes": [
+        "June: high snow depth from Chaklani onward, on both sides of the pass",
+        "July: snow melting rapidly, good patches remain on higher reaches of the pass",
+        "August: most snow gone, except some patches near Chandrakhani Pass",
+        "September: no snow on the trail",
+        "Monsoon showers begin mid-July and last until mid-September"
+      ],
+      "temperature_notes": [
+        "June: daytime 15–20°C, nighttime 1–5°C; 3 warm layers required",
+        "July and August: daytime 15–20°C, nighttime 1–5°C; 3 warm layers required",
+        "September: daytime 12–15°C, nighttime 0–3°C; 4 warm layers required",
+        "Early October: nippy air, early winter chill, night temperatures below zero at most camps, icy cold at higher camps"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Suitable for Fit Beginners"
+      ],
+      "experience_suitability": [
+        "Fit beginners",
+        "First-time trekkers (subject to AMS risk)",
+        "Experienced trekkers (subject to AMS risk)"
+      ],
+      "terrain_challenges": [
+        "Uneven trails with daily ascents and descents",
+        "Long ledge walk leading to the pass requiring careful navigation",
+        "Relentless forest trail climb from Rumsu to meadows (9 km, 3500+ ft gain)",
+        "Slushy/mushy forest trail ahead of Rumsu after rain",
+        "Snow-covered paths requiring fresh tracks to be cut"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek reaches 12,250 ft (12,185 ft per elevation gain) above sea level",
+        "Day 1 rapid gain of 3500+ ft from Rumsu to Naya Tapru increases AMS susceptibility",
+        "Above 10,000 ft AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers climbing too high too soon are at equal AMS risk",
+        "HAPE and HACE are referenced as altitude-related risks"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "You must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for."
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+        "Your runs don't meet your trek's fitness criteria at least 3 times in the past month."
+      ],
+      "prep_window": [
+        "you'll be trek-ready in 6 weeks"
+      ]
+    },
+    "experience_themes": [
+      "June: snow patches and snow-bound sections near Chaklani and above",
+      "July: snow melting rapidly, first monsoon showers, wildflowers sprouting in the green belt on the Kullu side, trekkers wade through beds of wildflowers",
+      "Mid-July to end of August: vibrant green grasslands, slopes alive with swaying wildflowers, cloudy skies, good showers",
+      "Post-mid-September: skies clear, early autumn colours on slopes, most colourful pass, gorgeous sunrises and sunsets, snow-clad mountains against deep blue skies",
+      "Monsoon: lush forests, full streams, trails come alive",
+      "Mid-July to end of August: vibrant green grasslands, slopes alive with swaying wildflowers"
+    ],
+    "primary_watchouts": [
+      "High snow depth in June makes pass-crossing challenging",
+      "Monsoon brings landslides, roadblocks, traffic jams and delays en route to base camp",
+      "Early October: streams dry up, water sources become increasingly difficult",
+      "Indiahikes may reroute, reschedule, or cancel treks in unforeseen monsoon situations",
+      "Trekkers averse to monsoon showers and cloudy skies",
+      "Trekkers needing reliable water sources (early October)"
+    ],
+    "best_for": [
+      "Trekkers seeking wildflowers and lush green landscapes (mid-July to end of August)",
+      "Trekkers seeking clear skies, autumn colours, and mountain views (post-mid-September)",
+      "Trekkers comfortable with monsoon showers and cloudy skies"
+    ],
+    "not_ideal_for": [
+      "Trekkers averse to monsoon showers and cloudy skies",
+      "Trekkers needing reliable water sources (early October)",
+      "Trekkers uncomfortable with high snow depth on the pass (June)",
+      "Trekkers who cannot handle rapid elevation gain and AMS risk",
+      "Trekkers not prepared for uneven ascents/descents and endurance-testing climbs"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

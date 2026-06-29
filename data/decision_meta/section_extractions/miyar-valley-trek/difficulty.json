@@ -1,0 +1,258 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "miyar-valley-trek",
+  "section_id": "miyar-valley-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/miyar-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long trekking days of 7-8 hours covering 9-10 km daily at ~12,000 ft",
+        "Multiple river/stream crossings including glacial streams with freezing cold water",
+        "Boulder sections requiring hopping, skipping, and balancing",
+        "Uneven trails with daily ascents and descents"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Long days are the biggest challenge on the trek. Almost every day, you'll cover 9 to 10 kilometers. This requires you to trek 7-8 hours daily. This is no mean feat at 12,000 ft above sea-level.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are several river crossings on this trek. Palpu, where you camp on the fourth day of your trek, is situated in a river delta area. You need to cross a stream to get to this campsite and the current can catch you off-guard.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Even ahead of Palpu, you have two more stream crossings to navigate before reaching Kesar Yon Choo. These are glacial streams and the water is freezing cold.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are boulder sections on this trek as well. You need to hop, skip, and balance across them. This can get tricky if you don't have strong legs.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "every day will include ascents and descents on uneven trails. The days are long and you will be trekking for 7-8 hours daily.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep uphill climb right after Khanjer leading to a high-altitude cricket ground (gateway into Miyar Valley); described as tiring and requiring proper pacing"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Right after you step out of Khanjer, a steep uphill climb awaits you. It leads to a high-altitude cricket ground, your gateway into the Miyar Valley. This initial ascent can be quite tiring. Please pace yourself properly in this section",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as micro spikes, gaiters, helmets, ropes wherever required, along with Trek Leader and Technical Guide support"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek starts high at 11,564 ft and climbs to 13,202 ft, making trekkers susceptible to altitude sickness in the first couple of days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft applies to both first-time and experienced trekkers; even fit people climbing too high too soon are at equal risk",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers for altitude-related emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Miyar Valley trek starts rather high at 11,564 ft. During the trek, you climb to 13,202 feet. This high start makes you susceptible to altitude sickness in the first couple of days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Early season (June) brings a lot of snow on the trail, making it tricky",
+        "July and August rain is common, making boulder sections slippery",
+        "Heavy rains significantly increase water force at river crossings, making them more challenging",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Early in the season, in June, there is a lot of snow on the trail. It can get tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "In July and August, rain is a common occurrence. This makes the boulder sections slippery.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Heavy rains also significantly increase the force of water at river crossings. This makes river crossings even more challenging.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorate, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Limited exit points; in case of injury trekkers must retrace to Khanjer and then travel to Udaipur (31 km away)",
+        "Closest hospital is Udaipur Community Health Center; better facilities require a 3-hour drive back to Manali from Khanjer",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns, however minor"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Miyar Valley trek has limited exit points. In case of any injury, you need to retrace your way back to Khanjer and then travel to Udaipur, 31 km away.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Udaipur Community Health Center is the closest hospital in case of an emergency. For better facilities, you need to travel all the way back to Manali, a 3 hr drive from Khanjer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Boulder sections can be tricky for those without strong legs",
+        "Glacial stream crossings demand physical and mental preparedness (going barefoot into freezing water)",
+        "Stream crossing at Palpu campsite has a current that can catch trekkers off-guard"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are boulder sections on this trek as well. You need to hop, skip, and balance across them. This can get tricky if you don't have strong legs.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "These are glacial streams and the water is freezing cold. Going barefoot into these streams demands physical and mental preparedness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::difficulty_section::001",
+          "quote_or_summary": "You need to cross a stream to get to this campsite and the current can catch you off-guard.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

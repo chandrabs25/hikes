@@ -1,0 +1,328 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "chandrakhani-pass-trek",
+  "section_id": "chandrakhani-pass-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The very best time to do this trek is between May and September. You may extend it till October.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The Chandrakhani Pass Trek can be done for almost five months in the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "During other months of the year, the snow is too high for a comfortable pass-crossing.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "June: snow patches and snow-bound sections near Chaklani and above",
+        "July: snow melting rapidly, first monsoon showers, wildflowers sprouting in the green belt on the Kullu side, trekkers wade through beds of wildflowers",
+        "Mid-July to end of August: vibrant green grasslands, slopes alive with swaying wildflowers, cloudy skies, good showers",
+        "Post-mid-September: skies clear, early autumn colours on slopes, most colourful pass, gorgeous sunrises and sunsets, snow-clad mountains against deep blue skies",
+        "Monsoon: lush forests, full streams, trails come alive"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "In June expect a lot of snow from Chaklani onward. You will find good snow slightly after Chaklani camp right until the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The valley starts to get its first monsoon showers. Wildflowers begin to sprout in the entire green belt on the Kullu side. Sometimes trekkers have to wade through a bed of wildflowers on either side of the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "If there is a favourite time to do the trek, then mid-July to the end of August is the best time to do the Chandrakhani Pass trek. The grasslands are a vibrant green. The slopes are alive with swaying wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Post-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Chandrakhani Pass is at its most colourful. The sunrises and sunsets are gorgeous, the snow-clad mountains stand tall against the deep blue skies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Trekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "June: high snow depth from Chaklani onward, on both sides of the pass",
+        "July: snow melting rapidly, good patches remain on higher reaches of the pass",
+        "August: most snow gone, except some patches near Chandrakhani Pass",
+        "September: no snow on the trail"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "In June expect a lot of snow from Chaklani onward. You will find good snow slightly after Chaklani camp right until the pass. You’ll get snow even until you get down on the other side of the pass. The depth of snow on both sides is quite high.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "In July the snow starts to melt rapidly but stays in good patches on the higher reaches of the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "By August most of the snow is gone, except for some patches near Chandrakhani Pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "You will not find snow in the month of September on the trail.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon showers begin mid-July and last until mid-September",
+        "Skies generally cloudy mid-July to end of August",
+        "Landslides and roadblocks more frequent in monsoon, causing traffic jams and delays en route to base camp"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The valley starts to get its first monsoon showers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The rains last until the mid of September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "On the other hand, the skies are generally cloudy though. Be game for good showers on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "June: daytime 15–20°C, nighttime 1–5°C; 3 warm layers required",
+        "July and August: daytime 15–20°C, nighttime 1–5°C; 3 warm layers required",
+        "September: daytime 12–15°C, nighttime 0–3°C; 4 warm layers required",
+        "Early October: nippy air, early winter chill, night temperatures below zero at most camps, icy cold at higher camps"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "By the end of the first week of October, the air is nippier. The early winter chill is felt. Night temperatures will fall below zero in most camps. At the higher camps, it could be icy cold.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Mid-July to end of August: vibrant green grasslands, slopes alive with swaying wildflowers",
+        "Post-mid-September: most colourful pass, gorgeous sunrises and sunsets, snow-clad mountains against deep blue skies",
+        "Early October: browner earth, starker boulders, dried streams"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The grasslands are a vibrant green. The slopes are alive with swaying wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Post-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Chandrakhani Pass is at its most colourful. The sunrises and sunsets are gorgeous, the snow-clad mountains stand tall against the deep blue skies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The earth is browner. The boulders were starker.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "High snow depth in June makes pass-crossing challenging",
+        "Monsoon brings landslides, roadblocks, traffic jams and delays en route to base camp",
+        "Early October: streams dry up, water sources become increasingly difficult",
+        "Indiahikes may reroute, reschedule, or cancel treks in unforeseen monsoon situations"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "During other months of the year, the snow is too high for a comfortable pass-crossing.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The depth of snow on both sides is quite high.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The streams dry up and water sources become increasingly difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking wildflowers and lush green landscapes (mid-July to end of August)",
+        "Trekkers seeking clear skies, autumn colours, and mountain views (post-mid-September)",
+        "Trekkers comfortable with monsoon showers and cloudy skies"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "If there is a favourite time to do the trek, then mid-July to the end of August is the best time to do the Chandrakhani Pass trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "Post-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Chandrakhani Pass is at its most colourful.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers averse to monsoon showers and cloudy skies",
+        "Trekkers needing reliable water sources (early October)",
+        "Trekkers uncomfortable with high snow depth on the pass (June)"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "On the other hand, the skies are generally cloudy though. Be game for good showers on the trek.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The streams dry up and water sources become increasingly difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrakhani-pass-trek::best_time_section::001",
+          "quote_or_summary": "The depth of snow on both sides is quite high.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

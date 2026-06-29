@@ -1,0 +1,140 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.400721+00:00",
+  "trek_id": "everest-base-camp-trek-nepal",
+  "trek_title": "Everest Base Camp (Classic Route)",
+  "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 15,
+    "distance_km": 111.0,
+    "highest_altitude_ft": 18200,
+    "min_age": 15,
+    "max_age": 55,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Kathmandu (Drive to Ramechhap starts",
+    "pickup_time": "1 AM on Day 2)",
+    "dropoff_city": "Kathmandu (Drive to Ramechhap starts",
+    "dropoff_time": "1 AM on Day 2)",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": null
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "April",
+        "October"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow patches may be present on the trail in Spring (April), generally above 12,000 feet",
+        "No snow on the trek in Autumn (October)",
+        "Spring (April): rain or sun behind clouds can drop daytime temperature to around 12 °C",
+        "Autumn (October): rain or slight drizzle brings down daytime temperature by a few degrees"
+      ],
+      "temperature_notes": [
+        "Spring (April) daytime: 18 °C to 24 °C; nighttime: 5 °C to 0 °C; 4 warm layers required",
+        "Autumn (October) daytime: 12 °C to 15 °C; nighttime: -5 °C to -10 °C; 5 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult Trek"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Long distances over 100 km across 12 days",
+        "Boulder sections on steep, uneven trails",
+        "Boulder fields and glacial moraines (Dingboche to Lobuche)",
+        "Glacial moraine walks (Gorakshep to Everest Base Camp)",
+        "Uneven terrain punishing on knees (Tengboche descent)"
+      ],
+      "altitude_or_weather_risks": [
+        "Acute Mountain Sickness (AMS) risk from Day 2 (Phakding to Namche Bazaar, ~3000 ft gain)",
+        "Very high altitudes up to 18,200 ft at Kala Patthar",
+        "AMS risk remains even with acclimatization stops at Namche Bazaar and Dingboche",
+        "AMS risk above 10,000 ft applies to anyone including first-time and experienced trekkers",
+        "Risk of HAPE and HACE referenced"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 10 km in under 60 minutes (minimum recommended fitness level)",
+        "Trekking primarily uses lungs, core, calves, glutes, quads, and hamstrings"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek",
+        "Only running, jogging, or walking are accepted as fitness proofs; cross-training workouts are not considered valid",
+        "At least 3 runs from the last 1 month must meet the trek's fitness criteria",
+        "Fitness records may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week plan is provided for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Spring (April) is moist with slightly warmer daytime temperatures and possible snow patches above 12,000 feet",
+      "Autumn (October) is dry and crisp with no snow on the trek and colder nights",
+      "Snow patches may be present on the trail in Spring (April), generally above 12,000 feet",
+      "No snow on the trek in Autumn (October)"
+    ],
+    "primary_watchouts": [
+      "Spring (April): rain or cloud cover can drop daytime temperature to around 12 °C",
+      "Autumn (October): nights are chilly, dipping to -5 °C; rain/drizzle lowers daytime temperature; keep a jacket handy",
+      "Long distances over 100 km across 12 days",
+      "Boulder sections on steep, uneven trails",
+      "Boulder fields and glacial moraines (Dingboche to Lobuche)",
+      "Glacial moraine walks (Gorakshep to Everest Base Camp)"
+    ],
+    "best_for": [],
+    "not_ideal_for": [
+      "first-time trekkers",
+      "trekkers without prior high-altitude experience",
+      "trekkers without adequate trek insurance",
+      "trekkers with pre-existing medical conditions (must be disclosed)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "everest-base-camp-trek-nepal::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,161 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.411884+00:00",
+  "trek_id": "pir-panjal-lakes-trek",
+  "trek_title": "Pir Panjal Lakes Trek",
+  "source_url": "https://indiahikes.com/pir-panjal-lakes-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 7,
+    "distance_km": 48.3,
+    "highest_altitude_ft": 13727,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar",
+    "pickup_time": "8 AM",
+    "dropoff_city": "12 PM",
+    "dropoff_time": null,
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "end-June to start of September"
+      ],
+      "avoid_months": [
+        "Post mid of September",
+        "All other seasons outside end-June to start of September"
+      ],
+      "snow_or_rain_notes": [
+        "Upper reaches under heavy snow until mid-June; lower meadows open earlier",
+        "End-June to mid-July: remnants of snow at highest lake (Nandansar), melting ice floating in lake",
+        "Mid-July onwards: snow has almost melted",
+        "Mild rainfall in Jammu during monsoon due to Pir Panjal range blocking most rain clouds",
+        "Evening showers pick up from mid-July onwards"
+      ],
+      "temperature_notes": [
+        "End-June to mid-July: Day 19-24°C, Night 3-5°C",
+        "Mid-July to start of September: Day 20-25°C, Night 2-4°C",
+        "Cold sets in as season progresses to end of August and start of September",
+        "Post mid-September: cold temperatures make it less comfortable"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate - Difficult",
+        "Suitable for Experienced Trekkers"
+      ],
+      "experience_suitability": [
+        "Suitable for experienced trekkers"
+      ],
+      "terrain_challenges": [
+        "Long trekking days of 7-8 hours almost every day",
+        "Boulder sections on multiple days",
+        "Unmarked trail over big boulders and loose rocks at Khabi ki Gali",
+        "Slushy forest trails in rain",
+        "Slippery bouldery sections in rain"
+      ],
+      "altitude_or_weather_risks": [
+        "Day 1 altitude gain of more than 3,000 ft from ~6,000 ft to ~10,000 ft increases susceptibility to Acute Mountain Sickness (AMS)",
+        "Above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon",
+        "Best done in monsoon when meadows and lakes are at their best",
+        "Heavy rain can flood campsites and make forest trails slushy"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "Without fitness approval, trekkers will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria",
+        "Use apps like Nike or Strava to record runs",
+        "Paste a public profile link on the Indiahikes account"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week fitness plan available for currently inactive trekkers"
+      ]
+    },
+    "experience_themes": [
+      "End-June to mid-July: remnants of snow at highest lake Nandansar, melting ice floating in lake, lower meadows open earlier, upper reaches under heavy snow",
+      "Mid-July to start of September: bright green meadows carpeted with wildflowers (violet, purple, yellow, white), deep blue alpine lakes (royal-blue shade), evening showers, brilliant blue skies reflecting in lakes, meadows turning golden brown by end of August/start of September, flowers wilting",
+      "Rugged grey mountains rising at fringes contrasting with bright green meadows",
+      "Alpine lakes with signature royal-blue shade (Nandansar, Laksukhsar)",
+      "Brilliant blue skies reflecting in lakes when clouds part",
+      "Meadows turn golden brown by end of August/start of September"
+    ],
+    "primary_watchouts": [
+      "3-4 warm layers required throughout the season",
+      "Evening showers become frequent as season progresses",
+      "Cold increases towards end of August and start of September",
+      "Post mid-September: cold temperatures reduce comfort",
+      "Trekkers visiting post mid-September due to cold temperatures",
+      "Trekkers visiting in seasons outside end-June to start of September (too cold, snow-buried trails and meadows)"
+    ],
+    "best_for": [
+      "Trekkers seeking comfortable monsoon-season trekking with mild rainfall",
+      "Trekkers wanting to see wildflower-carpeted meadows (mid-July onwards)",
+      "Trekkers wanting to see snow remnants and melting ice at Nandansar (end-June to mid-July)",
+      "Trekkers wanting to see deep royal-blue alpine lakes"
+    ],
+    "not_ideal_for": [
+      "Trekkers visiting post mid-September due to cold temperatures",
+      "Trekkers visiting in seasons outside end-June to start of September (too cold, snow-buried trails and meadows)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "pir-panjal-lakes-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

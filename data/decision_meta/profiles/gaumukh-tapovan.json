@@ -1,0 +1,162 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.401303+00:00",
+  "trek_id": "gaumukh-tapovan",
+  "trek_title": "Gaumukh Tapovan Trek",
+  "source_url": "https://indiahikes.com/gaumukh-tapovan",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 8,
+    "distance_km": 41.0,
+    "highest_altitude_ft": 14203,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 32,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "5.00 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "8.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-May to end-June",
+        "mid-September to mid-October"
+      ],
+      "avoid_months": [
+        "July",
+        "August",
+        "late October onward"
+      ],
+      "snow_or_rain_notes": [
+        "Snow remains till Gaumukh and sometimes beyond until mid-May",
+        "Pre-winter snows at higher elevation campsites (Bhojbasa and above) sometime in October",
+        "Unpredictable precipitation in summer",
+        "Pre-monsoon rains add to river force",
+        "Monsoon downpours in July cause landslides and rockfalls on trail sections"
+      ],
+      "temperature_notes": [
+        "Summer day: 15°C to 20°C; night drops to almost 0°C",
+        "Autumn day: around 15°C; night at Tapovan can go 3-5°C below 0°C",
+        "3 warm layers recommended in summer",
+        "4-5 warm layers recommended in autumn"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Suitable for experienced trekkers",
+        "Several difficult sections on this trek that require you to be alert and trek carefully"
+      ],
+      "experience_suitability": [
+        "Experienced trekkers"
+      ],
+      "terrain_challenges": [
+        "Large boulder crossing between Gangotri and Chirbasa with a drop into the river",
+        "Unstable 'Kachha Dhaang' sections between Chirbasa and Bhojbasa prone to landslides",
+        "Bhagirathi River crossing after Bhojbasa via government-provided trolleys/pulleys",
+        "Final ascent to Tapovan along lateral moraines of Gangotri glacier, rockfall-prone",
+        "Daily ascents and descents over ~41 km in six trekking days"
+      ],
+      "altitude_or_weather_risks": [
+        "Gangotri basecamp at 10,050 ft makes trekkers susceptible to Acute Mountain Sickness (AMS)",
+        "Trek goes over 14,000 ft at Tapovan; AMS risk is real above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike; fitness does not eliminate risk if ascent is too fast",
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy",
+        "Snowfall can obstruct existing paths, requiring fresh tracks to be cut"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "At least 3 runs from the last 1 month must meet the trek's fitness criteria"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week plan is provided for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Snow on trail and natural snow bridges over Bhagirathi in early summer",
+      "Receding snow and sparse vegetation turning green by mid-summer",
+      "Swelled Bhagirathi river from melting snow and pre-monsoon rains",
+      "Autumn colours (yellows, browns, maroons) on vegetation en route to Chirbasa",
+      "Deeper blue, gentler-flowing Bhagirathi in autumn",
+      "Clear skies and stable weather in autumn"
+    ],
+    "primary_watchouts": [
+      "Monsoon landslides and rockfalls on trail sections in July",
+      "Trail to Tapovan untenable in monsoons",
+      "Pre-winter snows at higher campsites (Bhojbasa and above) from October",
+      "Heavy pilgrim traffic on trail until Gaumukh in summer and continuing into July-August",
+      "Autumn season is short (barely 4-5 weeks)",
+      "Trekking in July/August due to monsoon landslides and rockfalls"
+    ],
+    "best_for": [
+      "Trekkers drawn to trekking in snow (summer)",
+      "Excellent valley views (autumn)",
+      "Experiencing autumn colours and stable clear skies (autumn)",
+      "Trekkers preferring fewer crowds (autumn)"
+    ],
+    "not_ideal_for": [
+      "Trekking in July/August due to monsoon landslides and rockfalls",
+      "Tapovan section during monsoons (untenable)",
+      "Trekking after mid-October due to pre-winter snows at higher campsites",
+      "Trekkers seeking solitude in summer (heavy pilgrim traffic)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "gaumukh-tapovan::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "gaumukh-tapovan::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "gaumukh-tapovan::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "gaumukh-tapovan::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "gaumukh-tapovan::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "gaumukh-tapovan::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "gaumukh-tapovan::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "gaumukh-tapovan::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "gaumukh-tapovan::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

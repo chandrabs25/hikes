@@ -1,0 +1,152 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.399468+00:00",
+  "trek_id": "dayara-bugyal-trek",
+  "trek_title": "Dayara Bugyal Trek",
+  "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+  "filter_index": {
+    "trek_difficulty": "Easy-Moderate",
+    "duration_days": 6,
+    "distance_km": 21.0,
+    "highest_altitude_ft": 11830,
+    "min_age": 8,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 40,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "6.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [],
+      "avoid_months": [
+        "Monsoon months (unspecified)"
+      ],
+      "snow_or_rain_notes": [
+        "Snow present from base camp towards end of December",
+        "Upper reaches under snow until mid-April",
+        "No snow on the trek in autumn",
+        "Trek is closed/avoided during monsoons; trek is open for about 8 months in a year"
+      ],
+      "temperature_notes": [
+        "Winter: Day 8–12 °C, Night -5 to -10 °C; 5 warm layers required",
+        "Spring: Day 13–17 °C, Night drops to 0 °C; 3–4 warm layers required",
+        "Summer: Day 18–20 °C, Night drops to 5 °C; 3 warm layers required",
+        "Autumn: Day 12–15 °C, Night drops to 2 °C; 4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Easy-Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Beginners"
+      ],
+      "terrain_challenges": [
+        "Initial climb into the forest from Raithal is steep",
+        "Final climb to Dayara top is steep",
+        "Daily ascents and descents, mostly gradual and steady except the summit climb on Day 4",
+        "Snow section near the top gets steeper as you approach the top",
+        "Snow deposits on the meadow are often several feet deep"
+      ],
+      "altitude_or_weather_risks": [
+        "Trail from Raithal to Gui climbs 2,478 ft within 4.5 km; trekkers should stay alert for signs of Acute Mountain Sickness",
+        "Above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon",
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them too slushy to walk safely"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 5 km in under 40 minutes (minimum recommended fitness level)",
+        "Build cardiovascular endurance and muscle strength",
+        "Train core, calves, glutes, quadriceps, and hamstrings",
+        "Walking, jogging, or running is the recommended training routine"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting the trek's fitness criteria",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-week training plan)",
+        "Upload fitness screenshots 15 to 20 days before the trek date",
+        "Runs must meet fitness criteria at least 3 times in the past month"
+      ]
+    },
+    "experience_themes": [
+      "Winter: snow-covered landscape, powdery snowflakes on pine trees, possible snowfall, snowball fights",
+      "Spring: last of winter snow, melting snow in upper reaches, green grass in lower meadows, tiny flowers, blooming rhododendrons, colour contrasts of snow/greenery/flowers",
+      "Summer: bright green meadows, summer fragrance under oaks and maples, snow-capped mountain views on clear days, easiest trek conditions",
+      "Autumn: clearest skies, sharp mountain views (Gangotri range, Bandarpoonch), golden meadows, fiery red maple leaves, crisp pine-scented air, photography-friendly",
+      "Summer: hazy atmosphere with dust and pollen reduces sharpness of views; snow-capped mountains visible on clear days",
+      "Autumn: clearest skies with sharp mountain views of Gangotri range and Bandarpoonch over golden meadows; best for photography"
+    ],
+    "primary_watchouts": [
+      "Winter: snow raises trek difficulty by a notch; prepare well",
+      "Summer: hazy atmosphere with dust and pollen reduces view sharpness",
+      "Monsoon season (trek not done)",
+      "Summer: those seeking sharp, clear mountain views (due to haze/dust/pollen)",
+      "Initial climb into the forest from Raithal is steep",
+      "Final climb to Dayara top is steep"
+    ],
+    "best_for": [
+      "Winter: snow experience, snowfall, snowball fights",
+      "Spring: colour contrasts of snow, greenery and flowers; rhododendron blooms",
+      "Summer: easiest trek conditions; family batches and introducing children to the Himalayas",
+      "Autumn: sharp mountain views, photography, autumn colours (golden meadows, fiery red maple leaves)"
+    ],
+    "not_ideal_for": [
+      "Monsoon season (trek not done)",
+      "Summer: those seeking sharp, clear mountain views (due to haze/dust/pollen)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "dayara-bugyal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "dayara-bugyal-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

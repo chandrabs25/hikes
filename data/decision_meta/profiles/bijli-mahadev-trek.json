@@ -1,0 +1,146 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.394842+00:00",
+  "trek_id": "bijli-mahadev-trek",
+  "trek_title": "Bijli Mahadev Trek",
+  "source_url": "https://indiahikes.com/bijli-mahadev-trek",
+  "filter_index": {
+    "trek_difficulty": "Easy",
+    "duration_days": 2,
+    "distance_km": 10.0,
+    "highest_altitude_ft": 8120,
+    "min_age": 7,
+    "max_age": null,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "6 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "9 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "September to mid-November (Autumn)",
+        "mid-November to February (Winter)",
+        "March to April (Spring)",
+        "May to June (Summer)",
+        "July to September (Monsoon)"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "January and February: possible snow on surrounding mountains (Pir Panjal range); trail itself usually does not have snow",
+        "March: snow may still be present but melts by April",
+        "Monsoon (July to September): trail can be slippery and somewhat challenging due to rain",
+        "Landslides and roadblocks more frequent during monsoon, can cause traffic jams and delays en route to base camp",
+        "Monsoon treks are usually safe and Indiahikes only runs monsoon treks that are safely navigable in the rains"
+      ],
+      "temperature_notes": [
+        "Autumn (Sep–mid-Nov): daytime 14–18°C, night 8–10°C; 2 warm layers",
+        "Winter (mid-Nov–Feb): daytime 12–16°C, night 2–3°C; 4 warm layers",
+        "Spring (Mar–Apr): daytime 14–18°C, night 7–10°C; 3–4 warm layers",
+        "Summer (May–Jun): daytime 20–24°C, night 12–16°C; 2–3 warm layers",
+        "Monsoon (Jul–Sep): daytime 18–22°C, night 12–14°C; 2–3 warm layers (colder if it rains)"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Easy"
+      ],
+      "experience_suitability": [
+        "Suitable for Beginners",
+        "Suitable for children / introducing children to trekking in the Himalayas"
+      ],
+      "terrain_challenges": [
+        "Mostly flat trail winding through rolling hills",
+        "Occasional gradual ascents and descents",
+        "Initial 10-15 minutes of ascent through Kot Village is steep",
+        "Trails can get slushy and uncomfortable to walk on during heavy rain",
+        "Initial 10-15 minutes of ascent through Kot Village is steep and can test mental preparedness"
+      ],
+      "altitude_or_weather_risks": [
+        "Can get sunny, especially during spring and summer",
+        "Heavy rain can make trails slushy and uncomfortable",
+        "Team monitors weather and may turn back if conditions deteriorate",
+        "Dehydration is common if fluids are insufficient while walking up the slope"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 5 km in under 60 minutes (recommended fitness target)"
+      ],
+      "approval_requirements": [
+        "No formal Fitness Approval Process required",
+        "Screenshots of walks/runs do not need to be submitted"
+      ],
+      "prep_window": [
+        "6 weeks (per Indiahikes' free 6-Week Training Plan)"
+      ]
+    },
+    "experience_themes": [
+      "Autumn: clean landscapes, clear skies, vibrant green forest, orange hues by November, villagers preparing for winter",
+      "Winter: peaceful and calm atmosphere, light snow dusting on surrounding Pir Panjal range, green deodar forests contrasting with snowy peaks, crisp air",
+      "Spring: lush green deodar forests, distant snow-capped Pir Panjal peaks, calm and peaceful trail",
+      "Summer: warm but pleasant, cool shaded deodar forest trail, vibrant village life",
+      "Monsoon: vibrant green paradise, mist and fog, mystical cloud-covered trails, lush greenery, full streams",
+      "Autumn: clean landscapes, clear skies, vibrant green forest turning orange by November"
+    ],
+    "primary_watchouts": [
+      "Monsoon: slippery and challenging trail due to rain",
+      "Monsoon: landslides and roadblocks en route to base camp causing delays",
+      "Monsoon: reach pickup town a day earlier and keep a buffer day after trek",
+      "Winter nights drop to 2–3°C requiring 4 warm layers",
+      "Mostly flat trail winding through rolling hills",
+      "Occasional gradual ascents and descents"
+    ],
+    "best_for": [
+      "Autumn: photography enthusiasts wanting clean landscapes and clear skies; those wanting to see mountains clearly",
+      "Winter: trekkers wanting winter trekking experience without harsh snow conditions",
+      "Spring: beginners wanting Himalayan beauty without extreme conditions",
+      "Summer: trekkers wanting to experience mountain village life",
+      "Monsoon: trekkers seeking lush greenery, misty trails, and a unique experience"
+    ],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "bijli-mahadev-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "bijli-mahadev-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

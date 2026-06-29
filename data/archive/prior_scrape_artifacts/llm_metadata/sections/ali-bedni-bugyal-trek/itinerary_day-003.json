@@ -1,0 +1,414 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-003",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_id",
+      "value": "ali-bedni-bugyal-trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Day 3: Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "trek_title",
+      "value": "Ali Bedni Bugyal Trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Ali Bedni Bugyal Trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "section_type",
+      "value": "itinerary_day",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Day 3: Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "start_point",
+      "value": "Gehroli Patal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Day 3: Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "end_point",
+      "value": "Abin Kharak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Day 3: Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "via_points",
+      "value": [
+        "Bedni Bugyal",
+        "Bedni Top",
+        "Ali Bugyal"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "leading you straight to Bedni Bugyal... just 800 metres away is the highest point on the trek, the Bedni Top... Now leisurely walk your way to Ali Bugyal, 2 km away",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "campsites",
+      "value": [
+        "Abin Kharak"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "From Ali Bugyal, Abin Kharak campsite is on the left side of the ridge and in a depression in the bugyal. Stay the night here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_sources",
+      "value": "No water sources on the way. Carry sufficient water.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Water sources: Carry sufficient water. No water sources on the way.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_distance_km",
+      "value": 5.7,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Trek Duration: 4 hours | Trek Distance: 5.70 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_duration_hours",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Trek Duration: 4 hours | Trek Distance: 5.70 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_profile",
+      "value": {
+        "start_altitude_ft": 10350,
+        "end_altitude_ft": 11145,
+        "max_altitude_ft": 12550,
+        "max_altitude_location": "Bedni Top"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Altitude gain: 10,350 ft to 11,145 ft via 12,550 ft... just 800 metres away is the highest point on the trek, the Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "terrain_type",
+      "value": [
+        "oak and rhododendron forest",
+        "rolling meadows",
+        "bugyal",
+        "ledge hugging mountains"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Start your day with a climb through the oak and Rhododendron forest... Short climb with rolling meadows... leading you straight to Bedni Bugyal... Takes a sharp turn on the ledge hugging the mountains",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trail_description",
+      "value": "Climb through oak and rhododendron forest, steep ascent crossing tree line to Bedni Bugyal, 800 metre ascent to Bedni Top, descend to main trail (Roopkund trail), sharp turn on ledge hugging mountains, gradual descent to Ali Bugyal 2 km away, reach Abin Kharak in a depression on left side of ridge",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Start your day with a climb through the oak and Rhododendron forest. The trail takes a steep ascent and crosses the tree line, leading you straight to Bedni Bugyal... just 800 metres away is the highest point on the trek, the Bedni Top... From Bedni Top, descend down to the main trail. You need to stick to this main trail. This is the trail which takes one to the famous trek of Roopkund... Takes a sharp turn on the ledge hugging the mountains... Now leisurely walk your way to Ali Bugyal, 2 km away... From Ali Bugyal, Abin Kharak campsite is on the left side of the ridge and in a depression in the bugyal.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_rating",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Difficulty: Easy-Moderate.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "gradient_description",
+      "value": "Short climb with rolling meadows followed by a slightly steep ascent to Bedni Top and a gradual descent to Abin Kharak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Difficulty: Easy-Moderate. Short climb with rolling meadows followed by a slightly steep ascent to Bedni Top and a gradual descent to Abin Kharak.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "scenery_and_landmarks",
+      "value": [
+        "Bedni Kund (hundreds of meters from Bedni Bugyal)",
+        "Views of Mt Trishul and Mt Nanda Ghunti from Bedni Top",
+        "Ali Bugyal",
+        "Clouds drifting in from below, gliding over ridge and sliding down either side",
+        "Countless horses grazing on meadows",
+        "Foals running across turf"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Far ahead, hundreds of meters is the famous Bedni Kund... Mt Trishul and Mt Nanda Ghunti appear right in front of you... The opposite side is Ali Bugyal... Clouds drift in from below, glide over the ridge and slide down either side... You watch countless horses grazing on the bounty of nature. Foals tearing themselves across the turf in an uninhibited abandon",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "unique_experiences",
+      "value": [
+        "Reaching highest point on trek at Bedni Top (12,550 ft)",
+        "Walking through oak and rhododendron forest and crossing tree line",
+        "Watching cloud movements from ridge"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "just 800 metres away is the highest point on the trek, the Bedni Top... Start your day with a climb through the oak and Rhododendron forest. The trail takes a steep ascent and crosses the tree line... Clouds drift in from below, glide over the ridge and slide down either side, all in a slow, swift motion.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "weather_risks",
+      "value": [
+        "Weather fluctuates rapidly between sunshine and cloud cover",
+        "Rain may last from a few minutes to a few hours"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "The weather fluctuates in these parts and you can have moments of wild sunshine followed by anxious cloud cover... Sometimes it rains for a few minutes leaving you frustrated, at times it could rain for a few hours.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "gear_recommendations",
+      "value": [
+        "Keep raincoat handy"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Keep your raincoat handy.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "navigation_and_trail_risks",
+      "value": [
+        "Must stick to main trail (which leads to Roopkund)",
+        "Sharp turn on ledge hugging mountains"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "You need to stick to this main trail. This is the trail which takes one to the famous trek of Roopkund... Takes a sharp turn on the ledge hugging the mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_number",
+      "value": 3,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "\"day\": \"3\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_title",
+      "value": "Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Day 3: Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "key_activities",
+      "value": [
+        "Trek from Gehroli Patal to Abin Kharak via Bedni Top",
+        "Climb through oak and rhododendron forest",
+        "Ascend to Bedni Bugyal",
+        "Ascend 800 metres to Bedni Top (highest point on trek)",
+        "Descend to main trail",
+        "Walk 2 km to Ali Bugyal",
+        "Reach Abin Kharak campsite on left side of ridge in depression"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Start your day with a climb through the oak and Rhododendron forest... leading you straight to Bedni Bugyal... just 800 metres away is the highest point on the trek, the Bedni Top... From Bedni Top, descend down to the main trail... Now leisurely walk your way to Ali Bugyal, 2 km away... From Ali Bugyal, Abin Kharak campsite is on the left side of the ridge and in a depression in the bugyal. Stay the night here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "altitude_gain_loss_description",
+      "value": "10,350 ft to 11,145 ft via 12,550 ft",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-003",
+          "source_field": "day_wise_itinerary[2]",
+          "quote_or_summary": "Altitude gain: 10,350 ft to 11,145 ft via 12,550 ft",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

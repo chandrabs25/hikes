@@ -1,0 +1,970 @@
+{
+  "schema_version": "source_packet_v1",
+  "note": "Clean source packet. Facts come from source-derived trek_facts; Playwright contributes rendered structure only.",
+  "generated_at": "2026-06-27T16:43:15.361417+00:00",
+  "trek_id": "bhrigu-lake",
+  "trek_title": "Bhrigu Lake Trek",
+  "source_url": "https://indiahikes.com/bhrigu-lake",
+  "has_complete_trek_information": true,
+  "rendered_structure_file": "bhrigu-lake.structure.json",
+  "observed_ui_keys": [
+    "best_time",
+    "camping",
+    "detailed_itinerary",
+    "difficulty",
+    "faqs",
+    "fitness",
+    "other",
+    "quick_itinerary",
+    "stay",
+    "travel"
+  ],
+  "source_fields_included": [
+    "best_time_section",
+    "day_wise_itinerary",
+    "difficulty_section",
+    "faqs",
+    "fitness_section",
+    "packing_section",
+    "quick_info",
+    "quick_itinerary",
+    "safety_section"
+  ],
+  "source_sections": [
+    {
+      "packet_section_id": "bhrigu-lake::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "text_section",
+      "title": "Best Time Section",
+      "content": "Bhrigu Lake is a high-altitude trek and it can be done for almost four months in a year. The very best time would be between June and September. You can extend it to the end of October.\nSenior Trek Leader, Nitesh Kumar says, \"Early in the season when I was there, the lake was completely frozen. The lake was surrounded by snow. Slowly as the season progressed I saw the lake melting. Later into the season, in August you see the deep blue water in Bhrigu Lake. During this time, flowers are blooming all around the lake.\"\nIn May you will find a lot of snow during your final ascent to Bhrigu lake. This makes it difficult to reach the lake. So, it’s advisable to trek to Bhrigu Lake between June and September.\nThe terrain changes colours and texture even during this window which ideally begins from mid-June.\nBhrigu Lake from mid-June to mid-July\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Despite it being summer, expect snow patches on the ground.\nNo. of warm layers required: 4 warm layers\nAt the beginning of the season, around mid-June, you will find a lot of snow at Rola Kholi. The trek is just starting to emerge from the snow. During this time, you will find many traces of winter lingering on the trek.\nThe most prominent being a frozen Bhrigu Lake, surrounded by snow. The ice begins to thaw only as July descends.\nEven though the meadows are a highlight of this trek, they emerge only as the monsoon season deepens.\nBhrigu Lake from mid-July to mid-August\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Snow starts melting away as we move into August. You will still find snow closer to Bhrigu Lake.\nNo. of warm layers required: 3 warm layers\nAs the season progresses into July, the blanket of snow starts lifting. You still find some snow on your final ascend to Bhrigu Lake, especially in early July, but most snow on the trek has melted.\nThe frozen Bhrigu Lake has also started melting in small concentric circles. Parts of it are still icy, but the ice is thinning. Meadows around the lake also start emerging as you pass mid-July.\nNow, the monsoon is also at its peak. Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail. You get to see a beautiful dance of clouds when at Rola Kholi.\nBhrigu Lake from mid-August to September\nDay time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.\nPresence of snow: The snow is gone, and the terrain is replaced with lush greenery.\nNo. of warm layers required: 4 warm layers\nLike a climax, the last leg of the season is set up on a grand stage with lush meadows.\nThe snow is gone. Bhrigu Lake flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.\nMonsoon is receding now and blue skies have started peeping out. It’s a great time to catch the arresting views of the underrated mountains of Himachal Pradesh.\nWhen you camp at Rola Kholi, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.\nIs trekking in monsoon safe?\nYes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure.\n6\n7\n8\n9",
+      "text": "Bhrigu Lake is a high-altitude trek and it can be done for almost four months in a year. The very best time would be between June and September. You can extend it to the end of October.\nSenior Trek Leader, Nitesh Kumar says, \"Early in the season when I was there, the lake was completely frozen. The lake was surrounded by snow. Slowly as the season progressed I saw the lake melting. Later into the season, in August you see the deep blue water in Bhrigu Lake. During this time, flowers are blooming all around the lake.\"\nIn May you will find a lot of snow during your final ascent to Bhrigu lake. This makes it difficult to reach the lake. So, it’s advisable to trek to Bhrigu Lake between June and September.\nThe terrain changes colours and texture even during this window which ideally begins from mid-June.\nBhrigu Lake from mid-June to mid-July\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Despite it being summer, expect snow patches on the ground.\nNo. of warm layers required: 4 warm layers\nAt the beginning of the season, around mid-June, you will find a lot of snow at Rola Kholi. The trek is just starting to emerge from the snow. During this time, you will find many traces of winter lingering on the trek.\nThe most prominent being a frozen Bhrigu Lake, surrounded by snow. The ice begins to thaw only as July descends.\nEven though the meadows are a highlight of this trek, they emerge only as the monsoon season deepens.\nBhrigu Lake from mid-July to mid-August\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Snow starts melting away as we move into August. You will still find snow closer to Bhrigu Lake.\nNo. of warm layers required: 3 warm layers\nAs the season progresses into July, the blanket of snow starts lifting. You still find some snow on your final ascend to Bhrigu Lake, especially in early July, but most snow on the trek has melted.\nThe frozen Bhrigu Lake has also started melting in small concentric circles. Parts of it are still icy, but the ice is thinning. Meadows around the lake also start emerging as you pass mid-July.\nNow, the monsoon is also at its peak. Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail. You get to see a beautiful dance of clouds when at Rola Kholi.\nBhrigu Lake from mid-August to September\nDay time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.\nPresence of snow: The snow is gone, and the terrain is replaced with lush greenery.\nNo. of warm layers required: 4 warm layers\nLike a climax, the last leg of the season is set up on a grand stage with lush meadows.\nThe snow is gone. Bhrigu Lake flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.\nMonsoon is receding now and blue skies have started peeping out. It’s a great time to catch the arresting views of the underrated mountains of Himachal Pradesh.\nWhen you camp at Rola Kholi, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.\nIs trekking in monsoon safe?\nYes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure.\n6\n7\n8\n9",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::009-best-time-to-do-the-bhrigu-lake-trek-time-your-trek-well-tog",
+            "ui_key": "best_time",
+            "label": "Best Time to do the Bhrigu Lake Trek Time your trek well toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3394
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::010-best-time-to-do-the-bhrigu-lake-trek",
+            "ui_key": "best_time",
+            "label": "Best Time to do the Bhrigu Lake Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3394
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1: Arrive at Manali. Drive from Manali to Gulaba Roadhead, and Trek to Jonker Thatch",
+      "content": {
+        "day": "1",
+        "place_title": "Day 1: Arrive at Manali. Drive from Manali to Gulaba Roadhead, and Trek to Jonker Thatch",
+        "difficulty": "Difficulty: Moderate ascent. Well-marked road followed by forest trails.",
+        "duration": "Drive Duration: 1 hour | Trek Duration: 1.5 hours\nDrive Distance: 24 km | Trek Distance: 1.5 km",
+        "altitude": "Altitude Gain: 6,725 ft to 10,285 ft",
+        "water_sources": "",
+        "description": "The Bhrigu Lake trek begins at Gulaba. The 24 km route to Gulaba takes you on the Manali-Rohtang Pass road, past Kolang, Palchan and Kothi. You get fabulous views of pine forests and mountains as soon as you cross Kothi.\nOnce a quiet hamlet, Gulaba is now buzzing with tourists in transit to Rohtang Pass.\nVehicles drop you off at the road and head near the Gulaba check post.\nTrek steadily underneath forest cover, passing through open grasslands now and then. You will reach the Jonker Thatch campsite in about an hour and fifteen minutes."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"place_title\": \"Day 1: Arrive at Manali. Drive from Manali to Gulaba Roadhead, and Trek to Jonker Thatch\",\n  \"difficulty\": \"Difficulty: Moderate ascent. Well-marked road followed by forest trails.\",\n  \"duration\": \"Drive Duration: 1 hour | Trek Duration: 1.5 hours\\nDrive Distance: 24 km | Trek Distance: 1.5 km\",\n  \"altitude\": \"Altitude Gain: 6,725 ft to 10,285 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"The Bhrigu Lake trek begins at Gulaba. The 24 km route to Gulaba takes you on the Manali-Rohtang Pass road, past Kolang, Palchan and Kothi. You get fabulous views of pine forests and mountains as soon as you cross Kothi.\\nOnce a quiet hamlet, Gulaba is now buzzing with tourists in transit to Rohtang Pass.\\nVehicles drop you off at the road and head near the Gulaba check post.\\nTrek steadily underneath forest cover, passing through open grasslands now and then. You will reach the Jonker Thatch campsite in about an hour and fifteen minutes.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3154,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Trek from Jonker Thatch to Rola Kholi",
+      "content": {
+        "day": "2",
+        "place_title": "Day 2: Trek from Jonker Thatch to Rola Kholi",
+        "difficulty": "Difficulty: Moderate. Steep ascent throughout followed by an undulating walk for the last 30 minutes.",
+        "duration": "Trek Duration: 3-4 hours | Trek Distance: 5 km",
+        "altitude": "Altitude Gain: ⇗ 10,285 ft to 12,590 ft",
+        "water_sources": "",
+        "description": "The trail begins with a steep ascent. Make note of brown oak, cedar and birch trees on the trail here. These are a few of the most prominent trees in the Himalayas. After around 20 minutes, the trail enters an open meadow where shepherds camp.\nObserve Mt Hanuman Tibba towering over the meadow in the background. Below Hanuman Tibba are the Seven Sister peaks seated in the Beas Kund Valley. Turn right from the upper ridge of the meadow and head south. The second forested cover begins here.\nRola Kholi is a scenic grazing ground used by local shepherds. Located at the base of Bhrigu Lake, it makes for an ideal camping spot. The water source here is Chor Nallah, which flows across the camping ground.\n\"The clouds are so dramatic on this trek. They keep popping like cotton candy in the valley. When you reach the Rola Kholi campsite, you see these floating clouds below you. Especially early in the morning, with sun rays dancing on the clouds. To see this is very rare. After Sandakphu, I think this is the next trek which offers such a spectacular cloud experience,\" says Senior Trek Leader, Nitesh Kumar."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"place_title\": \"Day 2: Trek from Jonker Thatch to Rola Kholi\",\n  \"difficulty\": \"Difficulty: Moderate. Steep ascent throughout followed by an undulating walk for the last 30 minutes.\",\n  \"duration\": \"Trek Duration: 3-4 hours | Trek Distance: 5 km\",\n  \"altitude\": \"Altitude Gain: ⇗ 10,285 ft to 12,590 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"The trail begins with a steep ascent. Make note of brown oak, cedar and birch trees on the trail here. These are a few of the most prominent trees in the Himalayas. After around 20 minutes, the trail enters an open meadow where shepherds camp.\\nObserve Mt Hanuman Tibba towering over the meadow in the background. Below Hanuman Tibba are the Seven Sister peaks seated in the Beas Kund Valley. Turn right from the upper ridge of the meadow and head south. The second forested cover begins here.\\nRola Kholi is a scenic grazing ground used by local shepherds. Located at the base of Bhrigu Lake, it makes for an ideal camping spot. The water source here is Chor Nallah, which flows across the camping ground.\\n\\\"The clouds are so dramatic on this trek. They keep popping like cotton candy in the valley. When you reach the Rola Kholi campsite, you see these floating clouds below you. Especially early in the morning, with sun rays dancing on the clouds. To see this is very rare. After Sandakphu, I think this is the next trek which offers such a spectacular cloud experience,\\\" says Senior Trek Leader, Nitesh Kumar.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3154,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Rola Kholi to Bhrigu Lake, and back to Rola Kholi",
+      "content": {
+        "day": "3",
+        "place_title": "Day 3: Trek from Rola Kholi to Bhrigu Lake, and back to Rola Kholi",
+        "difficulty": "Difficulty: Moderate. Starts on a stony trail. Initial steep ascent for 2 hours followed by a 10 minutes descent. Level walk for 15 minutes followed by an hour's steep ascent to the lake.",
+        "duration": "Duration: 7-8 hours | Trek Distance: 10 km",
+        "altitude": "Altitude Gain and Loss: 12,590 ft to 14,009 ft and back",
+        "water_sources": "",
+        "description": "Start early as you have a lot of distance to cover today. You have to trek a height of around 1,348 ft to reach Bhrigu Lake.\nBhrigu Lake rests between two high-altitude ridges. You begin with hiking to the first ridge, which is an hour away. In June, the trail is usually covered in snow. In July, as the snow melts on the lower reaches, you see the trail slowly turning from green to brown and white. As you reach the ridge, look for an oval glacial lake in the distance. Depending on the season, the lake is either surrounded by snow or fresh grass, along with alpine flowers.\n\"If you climb over the ridge on the side of Bhrigu Lake and look down, you see the three campsites of Hampta Pass trek - Chikha, Jwara, and Balu ka Ghera -  laid out in front of you. But be careful as you climb over the ridge. From the edge, it is a nerve-wracking steep drop into the valley,\" says Arjun Majumdar, Founder and CEO.\nOn a clear day, you can catch a stunning panoramic view of the Pir Pinjal and Dhauladhar ranges. Also, Hanuman Tibba stands majestically before you. The lake is normally enveloped in fog which can make finding the route tricky. It is always advisable to hire a local guide.\nAfter spending time at the lake, retrace your way to Rola Kholi."
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"place_title\": \"Day 3: Trek from Rola Kholi to Bhrigu Lake, and back to Rola Kholi\",\n  \"difficulty\": \"Difficulty: Moderate. Starts on a stony trail. Initial steep ascent for 2 hours followed by a 10 minutes descent. Level walk for 15 minutes followed by an hour's steep ascent to the lake.\",\n  \"duration\": \"Duration: 7-8 hours | Trek Distance: 10 km\",\n  \"altitude\": \"Altitude Gain and Loss: 12,590 ft to 14,009 ft and back\",\n  \"water_sources\": \"\",\n  \"description\": \"Start early as you have a lot of distance to cover today. You have to trek a height of around 1,348 ft to reach Bhrigu Lake.\\nBhrigu Lake rests between two high-altitude ridges. You begin with hiking to the first ridge, which is an hour away. In June, the trail is usually covered in snow. In July, as the snow melts on the lower reaches, you see the trail slowly turning from green to brown and white. As you reach the ridge, look for an oval glacial lake in the distance. Depending on the season, the lake is either surrounded by snow or fresh grass, along with alpine flowers.\\n\\\"If you climb over the ridge on the side of Bhrigu Lake and look down, you see the three campsites of Hampta Pass trek - Chikha, Jwara, and Balu ka Ghera -  laid out in front of you. But be careful as you climb over the ridge. From the edge, it is a nerve-wracking steep drop into the valley,\\\" says Arjun Majumdar, Founder and CEO.\\nOn a clear day, you can catch a stunning panoramic view of the Pir Pinjal and Dhauladhar ranges. Also, Hanuman Tibba stands majestically before you. The lake is normally enveloped in fog which can make finding the route tricky. It is always advisable to hire a local guide.\\nAfter spending time at the lake, retrace your way to Rola Kholi.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3154,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Rola Kholi to Gulaba. Drive back to Manali",
+      "content": {
+        "day": "4",
+        "place_title": "Day 4: Trek from Rola Kholi to Gulaba. Drive back to Manali",
+        "difficulty": "Difficulty: Easy. Mostly descending.",
+        "duration": "Trek Duration: 3-4 hours | Trek Distance: 5 km",
+        "altitude": "Altitude Loss: ⇘ 12,590 ft to 9,875 ft",
+        "water_sources": "",
+        "description": "Today’s trek is an easy one. You get back to Gulaba through the meadows you came up from. The descent can be a bit steep but is good on your legs given you are always in the meadows.\nIt takes 3-4 hours to reach Gulaba. Gulaba at around 9,875 ft is a better exit for your knees and feet as compared to Vasisht at 7,000 ft."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"place_title\": \"Day 4: Trek from Rola Kholi to Gulaba. Drive back to Manali\",\n  \"difficulty\": \"Difficulty: Easy. Mostly descending.\",\n  \"duration\": \"Trek Duration: 3-4 hours | Trek Distance: 5 km\",\n  \"altitude\": \"Altitude Loss: ⇘ 12,590 ft to 9,875 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"Today’s trek is an easy one. You get back to Gulaba through the meadows you came up from. The descent can be a bit steep but is good on your legs given you are always in the meadows.\\nIt takes 3-4 hours to reach Gulaba. Gulaba at around 9,875 ft is a better exit for your knees and feet as compared to Vasisht at 7,000 ft.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3274
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3154,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "text_section",
+      "title": "Difficulty Section",
+      "content": "Moderate\nSuitable for Fit Beginners\n1721\n1291\nhttps://images.prismic.io/indiahike/aEkeh7NJEFaPX2TQ_difficultyicon_moderate.png?auto=format,compress\naEkeh7NJEFaPX2TQ\n0\n0\n1\ntransparent\nYou will cover a total of around 21.5 km in four trekking days during which you will gain approximately 7,284 ft (6,725 ft to 14,009 ft). Every day will include ascents and descents on uneven trails.\nTerrain:\nThe climb from Gulaba to Jonker Thatch is extremely steep. You gain almost 3500 ft in elevation over just 2 km of trekking.\nOn the last day of the trek, you descend continuously to Gulaba all the way from Rola Kholi. While this makes the trek a little easier than the usual 4000 ft descent to Vashisht, it is still hard on your knees.\nThe trail fades in meadows. It is easy to get lost, making solo trekking risky.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic.\nRain can flood the trails or make them too slushy to walk safely on. The forest trail ahead of Gulaba gets especially mushy and difficult to climb.\nSnowfall in early weeks of June can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nIn Monsoon, the trail becomes slippery. Wear shoes with good grip to avoid falls, especially on narrow sections above deep valleys.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nYou climb more than 3500 ft from Gulaba to Jonker Thatch on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.\nBhrigu Lake is situated 14,009 ft above sea level. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nIn case of an AMS emergency before or after reaching Bhrigu Lake, you will need to return to Gulaba. If a medical emergency occurs before or after the lake, then Manali is where you would need to go to get to a hospital. Manali is an hour’s drive from Gulaba\nClosest Hospital to the Bhrigu Lake Trek:\nThe medical facilities at Manali, just 15 km from the Gulaba roadhead, are your best bet in case of sudden medical emergencies on the Bhrigu Lake Trek. In case of a more serious medical issue, the best option is to access medical facilities at Chandigarh, a 6-hr drive from Manali.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.\nSafety on the Bhrigu Lake Trek",
+      "text": "Moderate\nSuitable for Fit Beginners\n1721\n1291\nhttps://images.prismic.io/indiahike/aEkeh7NJEFaPX2TQ_difficultyicon_moderate.png?auto=format,compress\naEkeh7NJEFaPX2TQ\n0\n1\ntransparent\nYou will cover a total of around 21.5 km in four trekking days during which you will gain approximately 7,284 ft (6,725 ft to 14,009 ft). Every day will include ascents and descents on uneven trails.\nTerrain:\nThe climb from Gulaba to Jonker Thatch is extremely steep. You gain almost 3500 ft in elevation over just 2 km of trekking.\nOn the last day of the trek, you descend continuously to Gulaba all the way from Rola Kholi. While this makes the trek a little easier than the usual 4000 ft descent to Vashisht, it is still hard on your knees.\nThe trail fades in meadows. It is easy to get lost, making solo trekking risky.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic.\nRain can flood the trails or make them too slushy to walk safely on. The forest trail ahead of Gulaba gets especially mushy and difficult to climb.\nSnowfall in early weeks of June can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nIn Monsoon, the trail becomes slippery. Wear shoes with good grip to avoid falls, especially on narrow sections above deep valleys.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nYou climb more than 3500 ft from Gulaba to Jonker Thatch on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.\nBhrigu Lake is situated 14,009 ft above sea level. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nIn case of an AMS emergency before or after reaching Bhrigu Lake, you will need to return to Gulaba. If a medical emergency occurs before or after the lake, then Manali is where you would need to go to get to a hospital. Manali is an hour’s drive from Gulaba\nClosest Hospital to the Bhrigu Lake Trek:\nThe medical facilities at Manali, just 15 km from the Gulaba roadhead, are your best bet in case of sudden medical emergencies on the Bhrigu Lake Trek. In case of a more serious medical issue, the best option is to access medical facilities at Chandigarh, a 6-hr drive from Manali.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.\nSafety on the Bhrigu Lake Trek",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::007-how-difficult-is-the-bhrigu-lake-trek-what-to-expect-in-term",
+            "ui_key": "difficulty",
+            "label": "How Difficult is the Bhrigu Lake Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3334
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::008-how-difficult-is-the-bhrigu-lake-trek",
+            "ui_key": "difficulty",
+            "label": "How Difficult is the Bhrigu Lake Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3334
+          }
+        ],
+        "anchors": [
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 2",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 2: Trek from Jonker Thatch to Rola KholiTrek Duration: 3-4 hours | Trek Distance: 5 kmAltitude Gain: ⇗ 10,285 ft to 12,590 ftDifficulty: Moderate. Steep ascent throughout followed by an undulating wa",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 3",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 3: Trek from Rola Kholi to Bhrigu Lake, and back to Rola KholiDuration: 7-8 hours | Trek Distance: 10 kmAltitude Gain and Loss: 12,590 ft to 14,009 ft and backDifficulty: Moderate. Starts on a stony ",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 4",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 4: Trek from Rola Kholi to Gulaba. Drive back to ManaliTrek Duration: 3-4 hours | Trek Distance: 5 kmAltitude Loss: ⇘ 12,590 ft to 9,875 ftDifficulty: Easy. Mostly descending.Today’s trek is an easy ",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "trek-difficulty",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "",
+            "top": 3214,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How do I get to Bhrigu Lake?",
+      "content": {
+        "question": "How do I get to Bhrigu Lake?",
+        "answer": "The Bhrigu Lake trek starts from Gulaba, which is 24 km from Manali. Indiahikes organizes transport for trekkers from Manali to Gulaba on Day 1 of the trek. Manali is well connected to Delhi.\nIf you take an overnight bus from Delhi, it will take you 12-14 hours to reach Manali. Tickets can be booked online at www. redbus.in We recommend travelling by bus with Lakshmi Holidays. They are clean, affordable and usually run on time.\nNote: Since Delhi-Manali is a long journey, most private buses leave Delhi between 5.00 pm and 6.00 pm. The last government bus leaves at 8.30 pm from ISBT Kashmere Gate."
+      },
+      "text": "Q: How do I get to Bhrigu Lake?\nA: The Bhrigu Lake trek starts from Gulaba, which is 24 km from Manali. Indiahikes organizes transport for trekkers from Manali to Gulaba on Day 1 of the trek. Manali is well connected to Delhi.\nIf you take an overnight bus from Delhi, it will take you 12-14 hours to reach Manali. Tickets can be booked online at www. redbus.in We recommend travelling by bus with Lakshmi Holidays. They are clean, affordable and usually run on time.\nNote: Since Delhi-Manali is a long journey, most private buses leave Delhi between 5.00 pm and 6.00 pm. The last government bus leaves at 8.30 pm from ISBT Kashmere Gate.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is trekking in monsoon safe?",
+      "content": {
+        "question": "Is trekking in monsoon safe?",
+        "answer": "Yes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure."
+      },
+      "text": "Q: Is trekking in monsoon safe?\nA: Yes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How long is Bhrigu Lake trek?",
+      "content": {
+        "question": "How long is Bhrigu Lake trek?",
+        "answer": "Starting from Gulaba (24 km from Manali), the Bhrigu Lake treks is approximately 22 km which you may cover over 4 days.\nHere’s a quick itinerary to give you an idea:\nDay 1: Drive from Manali to Gulaba. Then an hour trek to the campsite (Jonker Thatch).\nDay 2: Jonker Thatch (10,285 ft) to Rola Kholi (12,950 ft); 3-4 hours, 5 km\nDay 3: Rola Kholi (12,950 ft) to Bhrigu Lake (14,009 ft) and back to Rola Kholi; 5-6 hours, 10 km\nDay 4: Rola Kholi (12,950 ft) to Gulaba (9,875 ft); 3-4 hours, 5 km. Drive to Manali. You are expected to reach Manali by 3:30 PM."
+      },
+      "text": "Q: How long is Bhrigu Lake trek?\nA: Starting from Gulaba (24 km from Manali), the Bhrigu Lake treks is approximately 22 km which you may cover over 4 days.\nHere’s a quick itinerary to give you an idea:\nDay 1: Drive from Manali to Gulaba. Then an hour trek to the campsite (Jonker Thatch).\nDay 2: Jonker Thatch (10,285 ft) to Rola Kholi (12,950 ft); 3-4 hours, 5 km\nDay 3: Rola Kholi (12,950 ft) to Bhrigu Lake (14,009 ft) and back to Rola Kholi; 5-6 hours, 10 km\nDay 4: Rola Kholi (12,950 ft) to Gulaba (9,875 ft); 3-4 hours, 5 km. Drive to Manali. You are expected to reach Manali by 3:30 PM.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is Bhrigu Lake trek difficult?",
+      "content": {
+        "question": "Is Bhrigu Lake trek difficult?",
+        "answer": "The Bhrigu Lake trek is classified as a trek of moderate difficulty. You start from an altitude of 8,530 ft at Gulaba and you reach the highest point of the trek at 14,009 ft.\nThis means you gain around 5,480 ft over just two days of trekking. This can make the trek quite demanding. So, it is necessary to train well for the trek. Focus on cardiovascular and strength training if you are planning to go for the Bhrigu Lake trek."
+      },
+      "text": "Q: Is Bhrigu Lake trek difficult?\nA: The Bhrigu Lake trek is classified as a trek of moderate difficulty. You start from an altitude of 8,530 ft at Gulaba and you reach the highest point of the trek at 14,009 ft.\nThis means you gain around 5,480 ft over just two days of trekking. This can make the trek quite demanding. So, it is necessary to train well for the trek. Focus on cardiovascular and strength training if you are planning to go for the Bhrigu Lake trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is there network, connectivity and electricity on Bhrigu Lake trek?",
+      "content": {
+        "question": "Is there network, connectivity and electricity on Bhrigu Lake trek?",
+        "answer": "You won’t find any electricity after you set off from Manali. Even the network starts getting sketchy. But you may find Vodafone and Jio network at Rola Kholi campsite. And, 100 metres from Rola Kholi sometimes you even find Airtel. But all these are subjective to the weather. The network gets affected when clouds roll into the valley."
+      },
+      "text": "Q: Is there network, connectivity and electricity on Bhrigu Lake trek?\nA: You won’t find any electricity after you set off from Manali. Even the network starts getting sketchy. But you may find Vodafone and Jio network at Rola Kholi campsite. And, 100 metres from Rola Kholi sometimes you even find Airtel. But all these are subjective to the weather. The network gets affected when clouds roll into the valley.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::006",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Where to find the last ATM on Bhrigu Lake trek?",
+      "content": {
+        "question": "Where to find the last ATM on Bhrigu Lake trek?",
+        "answer": "Manali is your last stop for an ATM. You won’t come across any ATM after Manali. So, if you need cash, withdraw it from Manali and only then set off for Gulaba."
+      },
+      "text": "Q: Where to find the last ATM on Bhrigu Lake trek?\nA: Manali is your last stop for an ATM. You won’t come across any ATM after Manali. So, if you need cash, withdraw it from Manali and only then set off for Gulaba.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::007",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is it safe in Manali?",
+      "content": {
+        "question": "Is it safe in Manali?",
+        "answer": "Yes, Manali is a safe hill station to be in because it is a popular tourist destination, buzzing with people from various nationalities almost throughout the year. You will find a range of hotels (for all budgets), cafes, and eateries popping up at every turn."
+      },
+      "text": "Q: Is it safe in Manali?\nA: Yes, Manali is a safe hill station to be in because it is a popular tourist destination, buzzing with people from various nationalities almost throughout the year. You will find a range of hotels (for all budgets), cafes, and eateries popping up at every turn.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::008",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I am more than 58 years old. Can I do this trek?",
+      "content": {
+        "question": "I am more than 58 years old. Can I do this trek?",
+        "answer": "Yes, you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 35 minutes."
+      },
+      "text": "Q: I am more than 58 years old. Can I do this trek?\nA: Yes, you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 35 minutes.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::faqs::009",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is Offloading available on this trek?",
+      "content": {
+        "question": "Is Offloading available on this trek?",
+        "answer": "Having too many mules on a trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe total cost of offloading on the Bhrigu Lake trek is Rs 1,680 including tax.\nFind details about the offloading process here."
+      },
+      "text": "Q: Is Offloading available on this trek?\nA: Having too many mules on a trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe total cost of offloading on the Bhrigu Lake trek is Rs 1,680 including tax.\nFind details about the offloading process here.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::022-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3754
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3634,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "text_section",
+      "title": "Fitness Section",
+      "content": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Bhrigu Lake Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/ah1UZweQX7-eWege_fitnessinfographic.png?auto=format,compress\n874\n690\nah1UZweQX7-eWege\n0\n0\n1\ntransparent\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "text": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Bhrigu Lake Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/ah1UZweQX7-eWege_fitnessinfographic.png?auto=format,compress\n874\n690\nah1UZweQX7-eWege\n0\n1\ntransparent\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::019-how-to-get-fit-for-the-bhrigu-lake-trek-a-6-week-plan-to-hel",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Bhrigu Lake Trek A 6-Week Plan to Help You Get Trek-Fit for the Bhrigu Lake Trek toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3694
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::020-how-to-get-fit-for-the-bhrigu-lake-trek",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Bhrigu Lake Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3694
+          }
+        ],
+        "anchors": [
+          {
+            "id": "getting-fit",
+            "tag": "div",
+            "ui_key": "fitness",
+            "text_preview": "",
+            "top": 3574,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::packing_section::001",
+      "source_field": "packing_section",
+      "section_type": "text_section",
+      "title": "Packing Section",
+      "content": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDx_57h8WN-LVdPj_BhriguLake-V2-.jpg?auto=format,compress\n1600\n1600\naDx_57h8WN-LVdPj\n0\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Bhrigu Lake trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses\nSun cap, preferably with flaps (Available for purchase)\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain-jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there. However, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend to Gulaba. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Bhrigu Lake trek.\nDolo 650 (4 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (3 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (5 packs): Consume a pack of ORS water at least once a day, usually mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking.  Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\nPro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "text": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDx_57h8WN-LVdPj_BhriguLake-V2-.jpg?auto=format,compress\n1600\naDx_57h8WN-LVdPj\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Bhrigu Lake trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses\nSun cap, preferably with flaps (Available for purchase)\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain-jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there. However, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend to Gulaba. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Bhrigu Lake trek.\nDolo 650 (4 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (3 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (5 packs): Consume a pack of ORS water at least once a day, usually mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\nPro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [],
+        "anchors": [
+          {
+            "id": "what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "",
+            "top": 3514,
+            "visible": false
+          },
+          {
+            "id": "trek-what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "Bhrigu LakeSELECT MONTHGenerate my packing checklist",
+            "top": 0,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::quick_info::001",
+      "source_field": "quick_info",
+      "section_type": "structured_facts",
+      "title": "Quick Info",
+      "content": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "4 days/21.5 km",
+        "highest_altitude": "14,009 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Palchan, Beas Bridge, Manali",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Beas Bridge, Manali at 10 AM",
+        "dropoff_details": "Beas Bridge, Manali at 4 PM",
+        "packing_checklist": "Click to Generate",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "text": "{\n  \"trek_difficulty\": \"Moderate\",\n  \"trek_duration\": \"4 days/21.5 km\",\n  \"highest_altitude\": \"14,009 ft\",\n  \"suitable_for\": \"11 years and above\",\n  \"basecamp\": \"Palchan, Beas Bridge, Manali\",\n  \"accommodation_type\": \"Tents (2-sharing)\",\n  \"fitness_criteria\": \"5 km in 35 mins\",\n  \"pickup_details\": \"Beas Bridge, Manali at 10 AM\",\n  \"dropoff_details\": \"Beas Bridge, Manali at 4 PM\",\n  \"packing_checklist\": \"Click to Generate\",\n  \"cloakroom\": \"Available\",\n  \"offloading\": \"Available\"\n}",
+      "rendered_support": {
+        "status": "included_source_field",
+        "reason": "Included because it is source-derived context; not directly mapped from a rendered accordion.",
+        "ui_sections": [],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::quick_itinerary::001",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1",
+      "content": {
+        "day": "1",
+        "heading": "Arrive at Manali. Drive from Manali to Gulaba Roadhead via Palchan. Trek to Jonker Thatch",
+        "sub_heading": "Drive Distance: 24 km | Drive Duration: 1 hour |Trek Distance: 1.5 km | Trek Duration: 1.5 hrs\nAltitude Gain: 6,725 ft to 10,285 ft",
+        "details": "Leave from Beas Bridge, Manali, Manali at 10.00 AM for Gulaba. En route, at Palchan, drop your cloakroom bag and collect your rentals. You will meet your trek leader here where he will brief you about the trek. Make sure that you complete your lunch before reaching Gulaba.\nIndiahikes will arrange transport for the transfer from Manali to Gulaba. This pickup costs ₹900 (additional 5% GST) per trekker one way from Manali to Gulaba (₹1800 for onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\nYour trek starts from Gulaba. From there, you reach the first campsite at Jonker Thatch around 3.30 PM."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"heading\": \"Arrive at Manali. Drive from Manali to Gulaba Roadhead via Palchan. Trek to Jonker Thatch\",\n  \"sub_heading\": \"Drive Distance: 24 km | Drive Duration: 1 hour |Trek Distance: 1.5 km | Trek Duration: 1.5 hrs\\nAltitude Gain: 6,725 ft to 10,285 ft\",\n  \"details\": \"Leave from Beas Bridge, Manali, Manali at 10.00 AM for Gulaba. En route, at Palchan, drop your cloakroom bag and collect your rentals. You will meet your trek leader here where he will brief you about the trek. Make sure that you complete your lunch before reaching Gulaba.\\nIndiahikes will arrange transport for the transfer from Manali to Gulaba. This pickup costs ₹900 (additional 5% GST) per trekker one way from Manali to Gulaba (₹1800 for onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\\nYour trek starts from Gulaba. From there, you reach the first campsite at Jonker Thatch around 3.30 PM.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::quick_itinerary::002",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2",
+      "content": {
+        "day": "2",
+        "heading": "Trek from Jonker Thatch to Rola Kholi",
+        "sub_heading": "Trek Distance: 5 km | Trek Duration: 3-4 hours | Altitude Gain: 10,285 ft to 12,590 ft",
+        "details": "Moderate. Steep ascent throughout followed by an undulating walk for the last 30 minutes."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"heading\": \"Trek from Jonker Thatch to Rola Kholi\",\n  \"sub_heading\": \"Trek Distance: 5 km | Trek Duration: 3-4 hours | Altitude Gain: 10,285 ft to 12,590 ft\",\n  \"details\": \"Moderate. Steep ascent throughout followed by an undulating walk for the last 30 minutes.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::quick_itinerary::003",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3",
+      "content": {
+        "day": "3",
+        "heading": "Trek from Rola Kholi to Bhrigu Lake, and back to Rola Kholi",
+        "sub_heading": "Trek Distance: 10 km | Trek Duration: 7-8 hours | Altitude Gain and Loss: 12,590 ft to 14,009 ft and back",
+        "details": "Moderate. Starts on a stony trail. Initial ascent for 2 hours followed by 10 minutes descent. Level walk for 15 minutes followed by an hour’s steep ascent to the lake."
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"heading\": \"Trek from Rola Kholi to Bhrigu Lake, and back to Rola Kholi\",\n  \"sub_heading\": \"Trek Distance: 10 km | Trek Duration: 7-8 hours | Altitude Gain and Loss: 12,590 ft to 14,009 ft and back\",\n  \"details\": \"Moderate. Starts on a stony trail. Initial ascent for 2 hours followed by 10 minutes descent. Level walk for 15 minutes followed by an hour’s steep ascent to the lake.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "bhrigu-lake::quick_itinerary::004",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4",
+      "content": {
+        "day": "4",
+        "heading": "Trek from Rola Kholi to Gulaba. Drive back to Manali",
+        "sub_heading": "Trek Distance: 5 km | Trek Duration: 3-4 hours\nAltitude Loss: 12,590 ft to 9,875 ft",
+        "details": "Easy. Mostly descending all the way to Gulaba.\nIndiahikes will arrange transport for the drop-off to Manali from Gulaba. This drop-off costs ₹900 (additional 5% GST) per trekker one way from Gulaba to Manali (₹1800 for onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\nOn the way back, stop at Palchan, collect your cloakroom and return rentals.\nYou are expected to reach Manali by 4 PM.\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"heading\": \"Trek from Rola Kholi to Gulaba. Drive back to Manali\",\n  \"sub_heading\": \"Trek Distance: 5 km | Trek Duration: 3-4 hours\\nAltitude Loss: 12,590 ft to 9,875 ft\",\n  \"details\": \"Easy. Mostly descending all the way to Gulaba.\\nIndiahikes will arrange transport for the drop-off to Manali from Gulaba. This drop-off costs ₹900 (additional 5% GST) per trekker one way from Gulaba to Manali (₹1800 for onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\\nOn the way back, stop at Palchan, collect your cloakroom and return rentals.\\nYou are expected to reach Manali by 4 PM.\\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "bhrigu-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          },
+          {
+            "ui_section_id": "bhrigu-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3214
+          }
+        ],
+        "anchors": []
+      }
+    }
+  ]
+}

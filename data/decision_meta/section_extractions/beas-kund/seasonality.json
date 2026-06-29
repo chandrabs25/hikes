@@ -1,0 +1,305 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "beas-kund",
+  "section_id": "beas-kund::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/beas-kund",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-June to mid-July",
+        "mid-July to mid-August",
+        "mid-August to September"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Beas Kund from mid-June to mid-July",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Beas Kund from mid-July to mid-August",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Beas Kund from mid-August to September",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Frozen Beas Kund surrounded by snow in mid-June, ice begins to thaw as July descends",
+        "Snow patches on the ground in summer despite it being summer",
+        "Meadows emerge as monsoon season deepens",
+        "Frozen Beas Kund melting in small concentric circles in mid-July, ice thinning, meadows around lake emerging past mid-July",
+        "Lush greenery replacing snow from mid-August to September",
+        "Beas Kund flaunts deep royal blue colour with green grass and flowers blooming around it in mid-August to September",
+        "Monsoon receding with blue skies peeping out, arresting views of underrated mountains of Himachal Pradesh",
+        "Views of Dhauladhar range with seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar from Lohali camp under brilliant blue sky as autumn emerges in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "The most prominent being a frozen Beas Kund, surrounded by snow. The ice begins to thaw only as July descends.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Even though the meadows are a highlight of this trek, they emerge only as the monsoon season deepens.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "The frozen Beas Kund has also started melting in small concentric circles. Parts of it are still icy, but the ice is thinning. Meadows around the lake also start emerging as you pass mid-July.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "The snow is gone. Beas Kund flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Monsoon is receding now and blue skies have started peeping out. It’s a great time to catch the arresting views of the underrated mountains of Himachal Pradesh.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "When you camp at Lohali, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow present at Palchhani Thatch and on trek in mid-June, traces of winter lingering",
+        "Snow patches on the ground in summer (mid-June to mid-July)",
+        "Some snow on final ascend to Beas Kund in early July, most snow melted by mid-July",
+        "Snow gone from mid-August to September"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "At the beginning of the season, around mid-June, you will find a lot of snow at Palchhani Thatch. The trek is just starting to emerge from the snow. During this time, you will find many traces of winter lingering on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Despite it being summer, expect snow patches on the ground.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "You still find some snow on your final ascend to Beas Kund, especially in early July, but most snow on the trek has melted.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "The snow is gone, and the terrain is replaced with lush greenery.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Heavy rain in the afternoon from mid-July to mid-August; carrying a poncho is compulsory",
+        "Monsoon at its peak from mid-July to mid-August with frequent rains and unannounced clouds shrouding the lake and trail",
+        "Monsoon receding from mid-August to September"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Expect heavy rain in the afternoon. Carrying a poncho is compulsory.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Now, the monsoon is also at its peak. Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Monsoon is receding now and blue skies have started peeping out.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Mid-June to mid-July: Day 15-20 °C, Night 1-5 °C",
+        "Mid-July to mid-August: Day 13-18 °C, Night 1-5 °C",
+        "Mid-August to September: Day 12-15 °C, Night 0-3 °C",
+        "4 warm layers recommended across all three windows; cold subject to wind, moisture and other factors"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Temperature in Summer: Day time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Day time: Between 13 °C and 18 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Number of warm layers recommended in Summer: 4 layers (cold is subject to wind, moisture and other factors.)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Meadows are a highlight and emerge as monsoon deepens",
+        "Beas Kund shows deep royal blue colour with green grass and flowers blooming around it from mid-August to September",
+        "Dhauladhar range with seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar visible from Lohali camp under brilliant blue sky as autumn emerges in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Even though the meadows are a highlight of this trek, they emerge only as the monsoon season deepens.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Beas Kund flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "When you camp at Lohali, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Snow patches on the ground in mid-June to mid-July despite summer",
+        "Heavy afternoon rain and compulsory poncho from mid-July to mid-August",
+        "Frequent rains and unannounced clouds shrouding lake and trail at monsoon peak (mid-July to mid-August)",
+        "Cold is subject to wind, moisture and other factors; 4 warm layers recommended"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Despite it being summer, expect snow patches on the ground.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Expect heavy rain in the afternoon. Carrying a poncho is compulsory.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "cold is subject to wind, moisture and other factors.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Catching arresting views of underrated mountains of Himachal Pradesh under blue skies (mid-August to September)",
+        "Experiencing lush meadows and royal blue Beas Kund with blooming flowers (mid-August to September)",
+        "Seeing frozen Beas Kund surrounded by snow (mid-June)"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "It’s a great time to catch the arresting views of the underrated mountains of Himachal Pradesh.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "Beas Kund flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::best_time_section::001",
+          "quote_or_summary": "The most prominent being a frozen Beas Kund, surrounded by snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

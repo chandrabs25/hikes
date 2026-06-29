@@ -1,0 +1,357 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "brahmatal-trek",
+  "section_id": "brahmatal-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/brahmatal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "October (after Dusshera/Diwali and before winter)",
+        "November"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "It remains open from December to February and then into spring.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "For a magical experience, trek to Brahmatal in early spring (March).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "For a quiet experience, aim for dates after Dusshera/Diwali vacation and before winter sets in.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "Monsoon months (July-August implied)",
+        "Mid-April onwards (snow melted)",
+        "Summer (not a great season)"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Although you can access Brahmatal in summers, it’s not a great season to experience the trek. During monsoons, the trek becomes inaccessible due to the rains.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "By mid-April, most of the snow on the trail and around it has melted.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Winter: snow-covered landscape, Narnia-like vibe from snow-laden oak and rhododendron trees, frozen Bekaltal lake, snow camping at Tilandi with sunrises/sunsets",
+        "Autumn: clear post-monsoon mountain views, Trishul range over Ali Bugyal, views of Mt Chaukhamba, Mt Neelkanth, Mt Hathi Ghoda from Jhandi top, vibrant crimson sunsets and golden sunrises at Tilandi, empty trails",
+        "Spring: rhododendron (Buransh) blooms in dark pink and crimson, receding snow, rhodo canopy between Bekaltal and Tilandi, blooms near Khorurai"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "In winters, oak and rhododendron trees stoop under the weight of the snow lending a Narnia-like vibe to the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "the sight of the frozen Bekaltal lake is mesmerising.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "camping on the snow at Tilandi with spectacular sunrises and sunsets.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "the mountain views. They’re the highlight in autumn, at their clearest post-monsoon when the air is free from haze.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "brilliant mountain views of Mt Chaukhamba, Mt Neelkanth, and Mt Hathi Ghoda open up under the blue autumn sky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "The sun splashes vibrant crimson hues across the sky. And the next morning, wake up early to watch the golden sunrise on the other side.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Its slopes are lined with rhododendrons (Buransh). And in spring, the slopes look fiery with rhodos blooming dark pink and crimson.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "just as you step out of Bekaltal, you enter a rhodo forest and the blooming flowers form a canopy over your head as you trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "From end of December at base camp; entire landscape white in peak winter (January-February); upper reaches still under snow in spring; snow recedes to higher altitudes (around Brahmatal lake at 12,250 ft) as spring progresses; mostly melted by mid-April"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "You will find snow from the base camp towards the end of December. The entire landscape and valley will be in white",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "The upper reaches of Brahmatal are still under snow",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "you will find snow in sections upwards of Tilandi. As the season goes by, snow recedes to the higher altitude, around the Brahmatal lake which lies at 12,250 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "By mid-April, most of the snow on the trail and around it has melted.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon makes the trek inaccessible due to rains"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "During monsoons, the trek becomes inaccessible due to the rains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter: Day 8-10°C, Night 0 to -8°C; 5 warm layers required",
+        "Autumn: Day 10-15°C, Night 0 to -5°C; 4 warm layers required",
+        "Spring: Day 15-18°C, Night 0 to 5°C; 3 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 10 °C | Night time: Will drop to temperatures between 0 °C and -8 °C. No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 10 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and -5 °C. No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 15 °C and 18 °C | Night time: Will drop to temperatures between 0 °C and 5 °C. No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Autumn offers clearest post-monsoon mountain views; Trishul range visible from ridge parallel to Ali Bugyal; Mt Chaukhamba, Mt Neelkanth, Mt Hathi Ghoda visible from Jhandi top; vibrant crimson sunsets and golden sunrises at Tilandi ridge"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "the mountain views. They’re the highlight in autumn, at their clearest post-monsoon when the air is free from haze.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "From here you can see the grand Trishul range rise over Asia’s largest meadow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "brilliant mountain views of Mt Chaukhamba, Mt Neelkanth, and Mt Hathi Ghoda open up under the blue autumn sky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "The sun splashes vibrant crimson hues across the sky. And the next morning, wake up early to watch the golden sunrise on the other side.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Do not step on frozen Bekaltal lake — ice may not support weight depending on month",
+        "Brahmatal lake/top may not be accessible in peak winter due to snow",
+        "Winter trek is a notch more difficult due to snow",
+        "Summer is not a great season despite access; monsoon makes trek inaccessible"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "But be careful about stepping on this frozen lake. Depending on the month, the ice may or may not be hard enough to support your weight.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Brahmatal lake or top may not be accessible in the peak winters due to snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Although it makes the trek a notch more difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Although you can access Brahmatal in summers, it’s not a great season to experience the trek. During monsoons, the trek becomes inaccessible due to the rains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Snow lovers and winter trekkers (Dec-Feb)",
+        "Trekkers seeking solitude (autumn, after Dusshera/Diwali and before winter)",
+        "Photographers of vibrant sunrises/sunsets (autumn at Tilandi)",
+        "Rhododendron bloom seekers (spring, especially early March for snow + flowers)",
+        "Trekkers wanting clear Himalayan views (autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "winter snow is heavenly on the Brahmatal trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "autumn is also a great season if you like empty trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "sunrises and sunsets. They are the most vibrant during autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Brahmatal too is a charming trek to do in spring. Its slopes are lined with rhododendrons (Buransh).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "For a magical experience, trek to Brahmatal in early spring (March). So that you get to trek on snow even as you see the flowers in bloom.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers seeking rhododendrons in autumn (flowers have wilted)",
+        "Trekkers wanting snow in autumn (no snow)",
+        "Trekkers visiting in summer (not a great season)",
+        "Trekkers visiting during monsoon (inaccessible)",
+        "Trekkers wanting to reach Brahmatal lake/top in peak winter (may be inaccessible)"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "The flowers you witnessed in spring would have wilted and vanished in autumn",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "You will not find any snow in the autumn season",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Although you can access Brahmatal in summers, it’s not a great season to experience the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "During monsoons, the trek becomes inaccessible due to the rains.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::best_time_section::001",
+          "quote_or_summary": "Brahmatal lake or top may not be accessible in the peak winters due to snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "avoid_months: monsoon months and mid-April are inferred from context, not explicitly named by month",
+    "snow_window: end of December phrasing is approximate"
+  ]
+}

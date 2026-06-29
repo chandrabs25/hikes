@@ -1,0 +1,150 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.407219+00:00",
+  "trek_id": "miyar-valley-trek",
+  "trek_title": "Miyar Valley",
+  "source_url": "https://indiahikes.com/miyar-valley-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 60.2,
+    "highest_altitude_ft": 13202,
+    "min_age": 14,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "6 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "8 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow patches on trail in Summer (June-July) with hard snow closer to Miyar Glacier",
+        "No snow on trek in Monsoon except at Miyar Glacier",
+        "Monsoon season (August-September) brings moist conditions and rain/drizzle that lowers temperatures",
+        "Summer rain can drop daytime temperatures to around 15 °C"
+      ],
+      "temperature_notes": [
+        "Summer (June-July) daytime: 18-20 °C; nighttime: 5-10 °C",
+        "Monsoon (August-September) daytime: 15-18 °C; nighttime: 0-5 °C, dipping to 0 °C in September",
+        "3 warm layers required in both seasons"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Long trekking days of 7-8 hours covering 9-10 km daily at ~12,000 ft",
+        "Multiple river/stream crossings including glacial streams with freezing cold water",
+        "Boulder sections requiring hopping, skipping, and balancing",
+        "Uneven trails with daily ascents and descents",
+        "Steep uphill climb right after Khanjer leading to a high-altitude cricket ground (gateway into Miyar Valley); described as tiring and requiring proper pacing"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek starts high at 11,564 ft and climbs to 13,202 ft, making trekkers susceptible to altitude sickness in the first couple of days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft applies to both first-time and experienced trekkers; even fit people climbing too high too soon are at equal risk",
+        "Early season (June) brings a lot of snow on the trail, making it tricky",
+        "July and August rain is common, making boulder sections slippery",
+        "Heavy rains significantly increase water force at river crossings, making them more challenging"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level)",
+        "Cardiovascular Endurance",
+        "Muscle Strength"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting the trek's fitness criteria",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (free 6-week training plan designed by Prathima Chhabria and Gautam Singh)"
+      ]
+    },
+    "experience_themes": [
+      "Summer (June-July) is dry and crisp with snow patches on the trail and hard snow closer to Miyar Glacier",
+      "Monsoon (August-September) is moist with no snow on the trek except at Miyar Glacier",
+      "Snow patches on ground above 10,000 feet in Summer after winter has left the slopes",
+      "Snow patches on trail in Summer (June-July) with hard snow closer to Miyar Glacier",
+      "No snow on trek in Monsoon except at Miyar Glacier"
+    ],
+    "primary_watchouts": [
+      "Night temperatures dip to near zero in both seasons",
+      "Rain or drizzle in Monsoon lowers temperatures further",
+      "Keep a jacket handy during Monsoon",
+      "Long trekking days of 7-8 hours covering 9-10 km daily at ~12,000 ft",
+      "Multiple river/stream crossings including glacial streams with freezing cold water",
+      "Boulder sections requiring hopping, skipping, and balancing"
+    ],
+    "best_for": [],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "miyar-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "miyar-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "miyar-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "miyar-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "miyar-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "miyar-valley-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "altitude_risk_notes",
+    "approval_or_proof_requirements",
+    "avoid_months",
+    "best_for",
+    "emergency_or_medical_notes",
+    "exceptions_or_age_notes",
+    "experience_suitability",
+    "fitness_benchmark",
+    "group_watchouts",
+    "not_ideal_for",
+    "prep_window",
+    "risk_if_unfit",
+    "state_difficulty",
+    "steep_or_strenuous_sections",
+    "technical_or_equipment_notes",
+    "terrain_challenges",
+    "weather_risk_notes"
+  ]
+}

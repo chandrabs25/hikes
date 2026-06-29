@@ -1,0 +1,175 @@
+{
+  "schema_version": "slim_trek_meta_v1",
+  "generated_at": "2026-06-28T03:34:07.873867+00:00",
+  "trek_id": "gurez-valley-trek",
+  "trek_title": "Gurez Valley Trek",
+  "source_url": "https://indiahikes.com/gurez-valley-trek",
+  "source_packet_file": "gurez-valley-trek.packet.json",
+  "quick_facts": {
+    "trek_difficulty": "Moderate",
+    "trek_duration": "7 days / 37.6 km",
+    "highest_altitude": "13,188 ft",
+    "suitable_for": "11 to 62 years",
+    "basecamp": "Dawar",
+    "accommodation_type": "Tents (2-sharing)",
+    "pickup_details": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar at 7 AM",
+    "dropoff_time": "6 PM",
+    "cloakroom": "Available",
+    "offloading": "Not Available",
+    "gear_rentals": "Click to Generate"
+  },
+  "sections": [
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "seasonality",
+      "title": "Seasonality",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "The best time to be on this trek is from the beginning of July to the middle of September. That’s the only time you can trek here. In all the other seasons, Kashmir trails are buried under snow.\nThis season brings up many questions in the mind of a trekker. Primarily because it is monsoon in the rest of the country, will it rain heavily on the trek? Well, most trails in Uttarakhand are shut during this time. But things are different in Kashmir.\nIf you observe the map, you see the Pir Panjal range separating Kashmir from the rest of the Indian subcontinent. This range is 288 km long and 40-50 km wide. It blocks most rain clouds from crossing over into the Kashmir Valley.\nThis divide determines the nature of precipitation and the vegetation in this rainshadow area. All of which stand very different from the rest of the country.\nJuly to September is peak summer, transitioning to Autumn and the best time to trek in Kashmir. The landscape comes alive during this window. And even though the window is tight, you notice the landscape changing colour and texture as the months proceed.\nGurez Valley in early July\nDay time temperature: Between 15 °C and 20 °C | Night time temperature : Between 2 °C and 7 °C\nPresence of snow: Snow remains at higher altitudes. But the trek is more or less accessible. As the snow melts, colourful flowers start appearing on the meadows. You see flowers throughout the Kashmir trekking season. But the colours of these flowers vary based on the month. The landscape has lush green meadows punctuated with alpine lakes that are still frozen in parts.\nNo. of warm layers required: 3-4 warm layers\nThis is peak summer in Kashmir. The upper reaches of the trek start crawling out of the snow blanket in July. It’s warm, and you experience light evening showers during this month.\nThe trail to Gurez Valley opens in the first week of July. Snow remains at higher altitudes. But the trek is more or less accessible.\nAs the snow melts, colourful flowers start appearing on the meadows. You see flowers throughout the Kashmir trekking season. But the colours of these flowers vary based on the month.\nThe landscape has lush green meadows punctuated with alpine lakes that are still frozen in parts.\nGurez Valley from mid-July to third week of August\nDay time temperature: Between 15 °C and 20 °C | Night time temperature : Between 4 °C and 8 °C\nPresence of snow: Most snow has melted by now. Frozen chunks of ice in Patalwansar I & II would have melted.\nNo. of warm layers required: 3-4 warm layers\nAfter mid-July, a robust trekking season begins in Gurez Valley. Expect bright sunny mornings with some evening showers. Rains are still mild compared to rains in Himachal Pradesh and Uttarakhand.\nThe trail is carpeted with green meadows everywhere. The best part is that these meadows are densely dotted with wildflowers!\nGurez Valley from Aug-end to second week of September\nDay time temperature: Between 14 °C and 18 °C | Night time temperature : Between 0 °C and 5 °C\nPresence of snow: You can expect snowfall during the second week of September\nNo. of warm layers required: 4 warm layers\nAfter the end of August, cold sets in. Rains reduce, giving way to one of the best times to do the trek. The clouds part during this time of the year, and you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes.\nAnother stark change that happens in early September is the change in the colour of the meadows. The grass no longer retains the soft, fresh green tinge. The flowers change. And yet, there's a beauty to this change of tone.\nWe usually stop our trek after the second week of September. It turns colder, and the chances of snowfall increase. That raises the trek's difficulty, and crossing the pass is no longer possible. The trail on the other side becomes inaccessible.\nAny"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1 (Pick-up day) - Srinagar to Dawar (Gurez)",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"1\",\n\"place_title\": \"Day 1 (Pick-up day) - Srinagar to Dawar (Gurez)\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 6-7 hours | Drive Distance: 141 km\",\n\"altitude\": \"Altitude gain: 5,220 ft to 7,870 ft via 11,550 ft\",\n\"water_sources\": \"\",\n\"description\": \"Gurez (Dawar) is about 140 km north from Srinagar taking around 6-7 hours for the entire journey.\\nThe travel to Gurez can be divided into two parts. 1) The upward travel to Razdan Pass at 11,550 ft. 2) The second leg of your travel will be from Razdan Pass down to the base town of Dawar at 7,870 ft.\\nFirst section of the drive takes you through Srinagar city and the city outskirts. The drive is about an hour away. Once you cross the city, you have the Kashmir valley opening up. The drive becomes extremely picturesque hereone. You drive through crisp pin forests, valleys and mountain passes. It is anything unlike Kashmir. The drive ends at the beautiful Dawar Valley on your right.\\nExpect to reach Dawar by 4pm.\\nNote: If you are travelling in Kashmir before Day 1, please ensure you reach the campsite well before time.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Trek from Dawar to Dison",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"2\",\n\"place_title\": \"Day 2: Trek from Dawar to Dison\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 5-6 hours | Trek Distance: 5 km\",\n\"altitude\": \"Altitude gain: 7,870 ft to 10,340 ft\",\n\"water_sources\": \"\",\n\"description\": \"Today is a short but exciting day! You start by walking for a short distance of around 500 metres along the Dawar Valley till you reach a football ground on your left. This is where the ascent starts.\\nYou trek for another 800 metres in grasslands before coming across some treeline. This is where the forest starts. It's a refreshing zig-zag climb into the pine forest. The forest you see in Kashmir is not as dense as those in Uttarakhand or Himachal Pradesh. It's airy and sparse.\\nAfter 2 kilometres of ascending, you pop into a wide meadow clearing. This is Gurez Valley. As you climb for another 15 minutes - you'll reach a viewpoint, and on your left, you'll witness the Habba Khatoon mountain and a few villages. This viewpoint has the best view of the mountain. The LOC border is also precisely here- dividing the villages into India and Pakistan!\\nFrom this viewpoint, descend down for 10 minutes. You'll see a shepherd hut. This is where you'll camp for the day. Camp close to the shepherd hut.\\nThe day is easy on the legs, so after setting up camp, explore the surrounding area. You see massive silver birch trees surrounding you.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Dison to Khaari",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"3\",\n\"place_title\": \"Day 3: Trek from Dison to Khaari\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 6 hours | Trek Distance: 8 km\",\n\"altitude\": \"Altitude gain: 11,340 ft to 11,300 ft via 11,700 ft\",\n\"water_sources\": \"\",\n\"description\": \"Today you’ll start inching towards the higher altitude of 11,300 ft. Though it is a gradual ascent and descent.\\nStart your trek by ascending from the Dison campsite to a high point of Dawar Heights at 11,700 ft. The trail is extremely well laid and green.\\nTurn and descend to your left and trek for 3 kilometres on a ridge before reaching a shepherd hut.\\nFrom the Shepherd hut, you’ll see an army camp on your left. It's a small walk towards the camp.\\nAs you reach and trek from the Army camp, you’ll notice a diversion. The one that is straight ahead takes you to Patalwansar Pass. You have to take the right.\\nRight as you snake through this diversion, you see small boulders. This is Khaari. You will be camping here today.\\nAfter setting up camp, explore the surrounding area. Go up the Patalwansar Pass. Walk along the horse trail around the campsite.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Khaari to Patalwansar Lake I via Patalwansar Lake II",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"4\",\n\"place_title\": \"Day 4: Trek from Khaari to Patalwansar Lake I via Patalwansar Lake II\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 6-7 hours | Trek Distance: 8 km\",\n\"altitude\": \"Altitude gain: 11,300 ft to 12,650 ft via 12,795 ft\",\n\"water_sources\": \"\",\n\"description\": \"Today is an adventurous day! You’ll trek to Patalwansar I lake via Patalwansar II. Both lakes are completely different. The Patalwansar II lake is huge while the Patalwansar I is as long as your eyes can see!\\nStart today by trekking on massive boulders. It will be 3 km long. So make you warm up well before starting the trek. Again, as you reach the end of the boulder section, you’ll come across a mountain that is a diversion. One leading to Patalwansar I lake on the right and the other leading to Patalwansar II straight ahead. Take the straight.\\nAscend for around 2 km straight and turn right to reach Patalwansar II lake. The scale of this lake is huge.Spend some quiet serene moments here.\\nFrom here, head towards Patalwansar I Lake. You will have a moderate ascend of about 1.4 km before reaching a viewpoint. From here you’ll start seeing a blue coloured tail snaking towards the right.\\nFrom here, you have a steep 200 metre descent. As you descend, follow the tail to see a huge long lake opening up and presenting itself. This is Patalwansar I Lake. Walk another 500 metres around the lake. You will be camping here today right next to the lake.\\nAfter setting up camp, explore the surrounding area. Walk around the Patalwansar II Lake. It’s absolutely surreal.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::005",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5: Trek from Patalwansar I to Dison",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"5\",\n\"place_title\": \"Day 5: Trek from Patalwansar I to Dison\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 7 hours | Trek DIstance: 12 km\",\n\"altitude\": \"Altitude loss: 12,650 ft to 10,340 ft\",\n\"water_sources\": \"\",\n\"description\": \"Today is a long day. You will be trekking for almost 12 km, all in descent.\\nStart of the trek by leaving Patalwansar I Lake campsite to Khaari. The trail is 3.5 kms long and full of boulders.\\nFrom Khaari you will head to Dison campsite. The trail is completely meadowy with long descent walks of about 9 kilometres. The trail is extremely green and enjoyable.\\nCamp at Dison cmapsite. After setting up camp, explore the surrounding area again. You see massive silver birch trees surrounding you, Habba Khatoon mountian and enjoy the sunset.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::006",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6: Trek Dison to Dawar. Drive from Dawar to Srinagar",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"6\",\n\"place_title\": \"Day 6: Trek Dison to Dawar. Drive from Dawar to Srinagar\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Duration: 3 hours | Trek Distance: 4.6 km\\nDrive Duration: 6-7 hours | Drive Distance: 141 km\",\n\"altitude\": \"Altitude loss: 10,340 ft to 5,220 ft\",\n\"water_sources\": \"\",\n\"description\": \"It’s the last day of the trek today. But it’s a challenging day, and you’ll end the trek on a high!\\nThe day begins with a steep descent from Dison to Dawar from the other side. You descend along a ledge surrounded entirely by rocks and pine forests. The descent is 2 km long. Witness the view of Dawar from here. It's absolutely stunning!\\nOnce the descent ends, walk along Dawar for another 2 km before having lunch.\\nHead back to Srinagar after lunch.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::day_wise_itinerary::007",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 7: Buffer Day",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"7\",\n\"place_title\": \"Day 7: Buffer Day\",\n\"difficulty\": \"\",\n\"duration\": \"\",\n\"altitude\": \"\",\n\"water_sources\": \"\",\n\"description\": \"For all your travel plans include a buffer day to accommodate bad weather on the trek/political instability. This depends completely on the circumstances of the trek and the situation in Kashmir. The buffer day is mandatory to keep in your itinerary.\\nIf the buffer day is used, you have to pay us Rs 1,800 per day +5% GST. The money will be collected by the Trek Leader only if we use the buffer day.\"\n}"
+    },
+    {
+      "section_id": "gurez-valley-trek::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "difficulty",
+      "title": "Difficulty",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Moderate\nSuitable for Fit Beginners\nYou will cover a total of around 37.6 km in five trekking days, reaching a highest altitude of over 13,000 ft above sea level. Although it is rated as a moderate trek, there are ascents, descents, and boulder sections that require proper fitness and mental preparation.\nThe Terrain:\nThe trek involves long days of trekking. There are multiple days that are almost 10 kms long. On the last day, you trek for 16 kms at a stretch. This requires good stamina and preparation.\nYou start traversing boulder sections on the way to your Khaari campsite. Beyond Khaari, the actual boulder fields begin and you trek through it continuously for over 3 kms. This requires strong legs and careful footing.\nThe descent to Patalwansar Lakes from Khari can be tricky. The next day, on your way to Dison, you need to climb back up the same boulder fields. These will test your preparation.\nThe initial descent to Dwar from Dison is steep and along a narrow, rocky ledge. Although this section is not too long, it can be tricky.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc., wherever required.\nWeather:\nThe Gurez Valley Trek is ideal for monsoons because it sits in a rainshadow region. However, at higher altitudes, sudden rains and snows are always a distinct possibility.\nRainfall or snowfall lasting hours can change the entire trek dynamic. Rain can flood campsites or make the trails too slushy to walk safely on, while snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nPlease note: The safety of our trekkers is paramount. In conjunction with the Trek Leader, our technical team constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nOn the first day of your trek, you gain almost 3000 ft in elevation over just 5 km of trekking. You hit the 10,000 ft mark on this day itself. Such rapid elevation gain makes you very susceptible to Acute Mountain Sickness.\nAt altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high, too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountain Sickness, HAPE and HACE\nPlease note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nOn the Gurez Valley Trek, the only exit point is Dawar. So you need to be alert and watch out for symptoms of AMS closely.\nClosest Hospital to the Gurez Valley Trek:\nIn case of a medical emergency, the closest hospital is at Dawar. You have a medical facility to handle emergencies. For any major emergencies, Bandipora is the best place for getting any treatment.\nIf you require serious medical attention, head to Srinagar for better facilities.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take necessary precautions and ensure your safety throughout the trek."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "What does an Indiahikes Assisted DIY trek mean?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: What does an Indiahikes Assisted DIY trek mean?\nA: A DIY trek, as the name suggests, is a Do-It-Yourself trek. You manage everything — you set up camp where you want to, you cook your own meals, you navigate the trail using GPS maps, and you trek at your own pace.\nA Trek Leader from Indiahikes accompanies you on the trek. Their job is to look into your safety. They carry all emergency safety equipment, including life-saving drugs.\nRead this article to know more about this trek."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "What will happen if my trek gets cancelled at the last minute?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: What will happen if my trek gets cancelled at the last minute?\nA: Security concerns and government orders often lead to last-minute cancellations in Jammu & Kashmir. While we make all the preparations to run the trek, we cannot guarantee that the trek will run. If such a situation occurs, we will try to organize an alternate trek within J&K or Himachal Pradesh, wherever possible. If not, we will cancel the trek and our cancellation policy will apply.\nSuch circumstances are under nobody's control, but it's best to be well-prepared. As trekkers ourselves, we understand the loss that you go through when such circumstances arise. To protect against such circumstances, we have the Indiahikes Shield - where you can avail a return of your full trek fee by paying a small additional charge.\nWe suggest you opt for the Indiahikes Shield, which will protect your trek fee during such uncertainties. You will find the option during the registration process."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How many lakes will I see on the Gurez Valley?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: How many lakes will I see on the Gurez Valley?\nA: On the Gurez Valley Trek, you'll come across 2 pristine alpine lakes. They are turquoise blue. You’ll get to witness all these lakes on Day 4 at almost 13,188 ft and youll even be camping next to one!\nPatalwansar I\nPatalwansar II"
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How long is the Gurez Valley Trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: How long is the Gurez Valley Trek?\nA: On the Gurez Valley Trek, you cover around 36 km in 5 days (6 days including the drive to and from the trek). The altitude ranges from 7,870 ft in Srinagar to Patalwansar II lake at 13,188 ft. You’ll trek long distances, around 7 km on average, every day."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is the Gurez Valley Safe?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: Is the Gurez Valley Safe?\nA: A lot of poeple are enquiring about the safety of The Gurez Valley trek. We want to say that this trail is completely safe even though its next to POK. It is in the remote regions of Kashmir, away from the hotbed of turmoil. Theres also high military presence around the trek. So the trekking trail itself is completely safe.\nHowever, political unrest, curfews and clampdowns have occurred in the past during our trekking season. We have tackled these efficiently, never compromising on the safety of trekkers. We travel during non-curfew hours and take measures to safely pick up or drop trekkers at the airport.\nSometimes, we call off treks if the situation is too serious (for instance when Burhan Wani was shot and the political situation in Kashmir was out of control). Calling off a trek is a worst-case scenario and has not occurred too many times in the past.\nKeep in mind that if we are running the Bodpathri Meadows Trek, you can assume that it is safe. We would not compromise on anyone’s safety and run it during dangerous times."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::006",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How fit do I need to be for Gurez Valley Trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: How fit do I need to be for Gurez Valley Trek?\nA: A Himalayan trek like Gurez Valley requires a good fitness level. The trek has long climbs and walks daily. As a measure of your fitness, we need you to:\nRun at least 5 km in 35 minutes before your trek. Consistency of your workout also matters, so aim to jog 20 km a week or 80 km in a month. It's a minimum mandatory requirement if you wish to trek with us\nOR\nAlternatively, cycle for at least 22 km in 60 minutes. Aim to cycle 110 km a week or 440 km in a month. However, running is better suited for your trek preparation.\nOnce you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience.\nHow to Get Fit for Your Trek"
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::007",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I’m more than 62 years old. Can I do this trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: I’m more than 62 years old. Can I do this trek?\nA: Yes, you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 45 minutes."
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::008",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can I offload on this trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: Can I offload on this trek?\nA: Having more footprints through porters or mules on any trail isn’t good for the ecosystem. Keeping this and the spirit of trekking in mind, there will be no offloading available on this trek.\nCheck out ways to make carrying your backup easier"
+    },
+    {
+      "section_id": "gurez-valley-trek::faqs::009",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can I keep extra luggage at the basecamp?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: Can I keep extra luggage at the basecamp?\nA: We have a cloakroom facility available at the basecamp for extra luggage. It costs Rs 200 per luggage. You can keep up to 10 kg.\n(The luggage could be a backpack/suitcase/duffel bag or anything similar.)."
+    },
+    {
+      "section_id": "gurez-valley-trek::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "fitness",
+      "title": "Fitness",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "We recommend walking/jogging/running as the best routine to get fit for any trek. It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nIt helps increase your stamina gradually if done consistently. It is also an easy routine that does not require any equipment or tools.\nWhy Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\nIndiahikes\nYouTube\n<iframe width=\"200\" height=\"113\" src=\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\"></iframe>\nFitness Target\nTo do the Gurez Valley Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.\nTrekking is a sport that primarily uses your lungs, core, calves, glutes, quads and hamstrings. Being fit will help you enjoy the trek and will keep you safe.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular endurance\nMuscle strength\nIf you are not currently active, follow the below schedule to get trek fit in 6 weeks!\nA 6-Week Plan to Help You Get Trek-Fit for the Gurez Valley Trek\nGurez Valley Trek Fitness Plan\n(6-Week Fitness Plan: Running)\nGurez Valley Trek Fitness Plan\n(6-Week Fitness Plan: Walking)\nPro Tip: Warming up and cooling down before and after your workout is important. Do not miss that.\n| Note: If you are not a regular runner, do not start running all of a sudden.\nStrength Training Schedule:\nGurez Valley Trek Strength Training\n5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\nIndiahikes\nYouTube\n<iframe width=\"200\" height=\"113\" src=\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\"></iframe>\nNote:\nAlternatives to 40 Standard Pushups = (4 x 20 = 80 knee pushups) = (4 x 40 = 160 wall pushups)\nAlternative to 60 full squats = (4 x 30 = 120 half squats)\nAlternative to jumping lunges = forward lunges (same count)\nIf you are not able to complete 1 full set of any plank, divide it into 2 halves and complete it with a rest break in between. For example: If you are not able to complete 1 minute of a standard plank, divide it into 2 sets of 30 seconds each.\nAfter completing a few weeks of training, if you can progress, you may increase the number of sets or reps for desired results.\nImportant note: We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid. We've suggested cross training options to help keep your fitness journey engaging and fun, allowing you to explore activities you enjoy and to avoid inconsistency. So make sure to record at least 3 runs from the last 1 month to meet the fitness criteria of the trek.\nNote: Use apps like Nike and Strava to record your runs.\nWhat happens if you are not fit:\nYou do not enjoy the trek\nYou struggle to be a part of the team because you’re slow.\nYou miss out on a deep, transformative experience that Indiahikes specially designs for you.\nWhat Happens If You Are Not Fit For A Trek | Indiahikes\nIndiahikes\nYouTube\n<iframe width=\"200\" height=\"113\" src=\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Happens If You Are Not Fit For A Trek | Indiahikes\"></iframe>\nThe good part is it is not difficult. All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.\nWe are here to help you in this fitness journey. Just start slow and as long as you are committed and consistent with your routine, you are in for an unforgettable trek experience.\nHow to Get Fitness Approval from the Indiahikes Team:\nEvery trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.\nWhat Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\nIndiahikes\nYouTube\n<iframe width=\"200\" height=\"113\" src=\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\"></iframe>\nNote: Use apps like Nike and Strava to record your runs.\nWhat to Upload:\nUse fitness tracking apps such as Strava, Nike Run Club, or similar to log your runs and workouts.\nPaste your profile's link on your Indiahikes account (your profile has to be public).\nEnsure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.\nInstances we may reject your fitness record:\nIf you fail to link your fitness profile\nIf you do not meet the required fitness level at least three times in the past month\nImportant Notes:\nChildren below 14 years are not required to submit fitness records.\nHowever, parents must ensure that children remain physically active and prepared for the trek.\nAny"
+    }
+  ]
+}

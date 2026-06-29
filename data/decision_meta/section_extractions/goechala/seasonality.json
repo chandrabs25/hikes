@@ -1,0 +1,260 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "goechala",
+  "section_id": "goechala::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/goechala",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "April",
+        "May",
+        "September",
+        "October"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "There are two distinct seasons for the Goechala trek – April-May (Spring) and September-October (Autumn).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Spring: blooming rhododendrons in varied shades (pink, scarlet, yellow, white) along the trail from Bakhim through Tshoka to Phedang, forming a rhododendron tunnel",
+        "Spring: misty forests with romantic, dreamy look",
+        "Spring: possible snowfall at higher campsites like Dzongri after rain on lower slopes",
+        "Autumn: dark mossy forest under brilliant blue autumn sky with deep reds and browns",
+        "Autumn: sharp, clear views from Tshoka, Dzongri, Thansing and ViewPoint 1",
+        "Autumn: piercing star-lit sky, good for night-sky photography"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "The beauty of doing this trek in spring lies in witnessing the blooming rhododendrons, especially in April. In Spring, the misty forests on the Goechala trail come alive with varied shades of pink and scarlet.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "The trail from Tshoka (9,790 ft) to Phedang (12,105 ft) is the Rhododendron belt. The entire stretch has rhododendrons lined and laid out to form a rhodo tunnel under which you walk.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "Goechala has a wider variety of flowers. So you will see Rhodos in various shades, from pink to scarlet to even yellow and white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "In autumn, there are no Rhodos. But now, something else lends colour to the trek – it's the dark, mossy forest under the brilliant blue autumn sky. The vibrant colours are inching towards deep reds and browns.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "The air is washed clean of the haze. So when you step out of the dark canopy, you see sharp views from Tshoka, Dzongri, Thansing and ViewPoint 1 of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "You also witness a piercing star-lit sky during this season. And it's a great time to be on the Goechala trek, especially if you are interested in night-sky photography.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Spring (April-May): snow present closer to Viewpoint 1; snowfall possible at higher campsites like Dzongri after rain on lower slopes; patches of snow at higher altitude",
+        "Autumn (October-November): no snow at higher campsites"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow as you get closer to Viewpoint 1. A bout of rain on the lower slopes would increase the chances of snowfall at higher campsites like Dzongri.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "In spring, you may notice patches of snow at a higher altitude, but not as much as you would see on treks in Uttarakhand or Himachal Pradesh.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will not find snow at higher campsites in autumn.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Spring: rain on lower slopes can trigger snowfall at higher campsites like Dzongri"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "A bout of rain on the lower slopes would increase the chances of snowfall at higher campsites like Dzongri.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Spring (April-May): daytime 12°C to 15°C; nighttime 0°C to -3°C; 3 warm layers required",
+        "Autumn (October-November): daytime 8°C to 12°C; nighttime -5°C to -10°C; 5 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 12 °C and 15 °C | Night time temperature: Will drop to temperatures between 0 °C and -3 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 8 °C and 12 °C | Night time temperature: Will drop to temperatures between -5 °C and -10 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Spring: romantic, dreamy look with misty forests and blooming rhododendrons",
+        "Autumn: sharp, clear views from Tshoka, Dzongri, Thansing and ViewPoint 1 due to haze-free air",
+        "Autumn: piercing star-lit sky"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "While spring is known for its romantic, dreamy look, autumn is loved for its sharp views.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "The air is washed clean of the haze. So when you step out of the dark canopy, you see sharp views from Tshoka, Dzongri, Thansing and ViewPoint 1 of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "You also witness a piercing star-lit sky during this season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Spring: less snow than comparable treks in Uttarakhand or Himachal Pradesh",
+        "Autumn: no rhododendrons; colder nights than spring"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "In spring, you may notice patches of snow at a higher altitude, but not as much as you would see on treks in Uttarakhand or Himachal Pradesh.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "In autumn, there are no Rhodos.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Spring: witnessing blooming rhododendrons and a romantic, dreamy forest experience",
+        "Autumn: sharp mountain views and night-sky photography"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "The beauty of doing this trek in spring lies in witnessing the blooming rhododendrons, especially in April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "While spring is known for its romantic, dreamy look, autumn is loved for its sharp views.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::best_time_section::001",
+          "quote_or_summary": "And it's a great time to be on the Goechala trek, especially if you are interested in night-sky photography.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

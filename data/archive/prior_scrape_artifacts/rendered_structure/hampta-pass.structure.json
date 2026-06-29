@@ -1,0 +1,461 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "trek_id": "hampta-pass",
+  "trek_title": "Hampta Pass Trek",
+  "source_url": "https://indiahikes.com/hampta-pass",
+  "inferred_at": "2026-06-27T16:41:38.140789+00:00",
+  "has_complete_trek_information": true,
+  "page_title": "Hampta Pass Trek 2026 - Himachal’s Most Famous Pass Crossing",
+  "h1": "HAMPTA PASS",
+  "root_text_preview": "Hampta Pass - Complete Trek Information share link Share Link We have always wanted trekkers to be well-informed before they go on a Himalayan trek. Knowledge is the difference between a safe trek and a dangerous one. It’s also the difference between a wholesome experience and a superficial experience. Use this section to learn about the Hampta Pass trek. It has in-depth information about each day of the trek, what to expect, and how you need to prepare for it. Many years of expertise have gone into this content. Trekkers find that extremely useful. Quick Itinerary Get your trek plan toggle accordion How Does Each Day Look Complete day-wise guide with pictures toggle accordion How Difficult is the Hampta Pass Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion Best Time to do the Hampta Pass Trek Time your trek well toggle accordion How to Plan Your Travel for the Hampta Pass Trek Flight, Train, Bus and All Essential Travel Details toggle accordion What is the Indiahikes Camping Experience Like ? Stay, Food, Toilet and Safety on an Indiahikes Trek toggle accordion Stay Options for Hampta Pass Trek Budget and Premium Stay Options that Trekkers Reco",
+  "anchors": [
+    {
+      "id": "quick-itinerary",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2782,
+      "visible": false
+    },
+    {
+      "id": "detailed-itinerary",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "",
+      "top": 2842,
+      "visible": false
+    },
+    {
+      "id": "howEachDaySection",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6 Previous Next1234Day 1: Arrive at Indiahikes Jungle Line Campus, Manali by 8.00 am. Drive to Jobra Roadhead, and Trek to JobraDrive Duration: 1 hour 20 minutes | Trek Duration: 1 hoursAltit",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example",
+      "tag": "ul",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 1",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 2",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 2",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 3",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 3",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 4",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 4",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 5",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 5",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 6",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 1",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 1: Arrive at Indiahikes Jungle Line Campus, Manali by 8.00 am. Drive to Jobra Roadhead, and Trek to JobraDrive Duration: 1 hour 20 minutes | Trek Duration: 1 hoursAltitude: 8965 ftArrive at Manali a ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 1: Arrive at Indiahikes Jungle Line Campus, Manali by 8.00 am. Drive to Jobra Roadhead, and Trek to Jobra",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 2",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous Next1234Day 2: Trek from Jobra to JwaraTrek Duration:4 hours | Trek Distance: 4.50 km Altitude Gain: 8965 ft to 11005 ftDifficulty: Easy-moderate. Easy walk to Chika for about an hour followed by 2 hours of asce",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 2: Trek from Jobra to Jwara",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 3",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous Next1234Day 3: Trek from Jwara to Balu Ka GheraTrek Duration: 4 hours | Trek Distance :5 kmAltitude Gain: 11005 ft to 12220 ftDifficulty: Moderate. Short meadow walk followed by boulder section for a couple of h",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 3: Trek from Jwara to Balu Ka Ghera",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 4",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous Next1234Day 4: Trek from Balu ka Ghera to Shea Goru via Hampta PassTrek Duration: 9 hours | Trek Distance: 8 kmAltitude Gain and Loss: 12220 ft to 12695 ft via 14,065 ftDifficulty: Moderate. An hour of gradual a",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 4: Trek from Balu ka Ghera to Shea Goru via Hampta Pass",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 5",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "Previous Next1234Day 5: Trek from Shea Goru to Chhatru. Trek Duration: 4.5 hours | Trek Distance: 6 kmDrive Duration: 2 hours | Drive Distance: 50 kmAltitude Loss: 12695 ft to 10785 ftDifficulty: Moderate. 2-2.5 hours of",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 5: Trek from Shea Goru to Chhatru.",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 6",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 6: Chhatru to Manali via Chandratal (depends on accessibility)Drive Distance: 160 km (including Chandratal) | Drive Duration: 9-10 hoursAfter an early morning debriefing, bid the Lahaul Valley goodby",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 6: Chhatru to Manali via Chandratal (depends on accessibility)",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "trek-difficulty",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "",
+      "top": 2902,
+      "visible": false
+    },
+    {
+      "id": "best-time",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2962,
+      "visible": false
+    },
+    {
+      "id": "how-to-reach",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 3022,
+      "visible": false
+    },
+    {
+      "id": "camping_experience",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 3082,
+      "visible": false
+    },
+    {
+      "id": "stay_options",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 3142,
+      "visible": false
+    },
+    {
+      "id": "what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "",
+      "top": 3202,
+      "visible": false
+    },
+    {
+      "id": "trek-what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "Hampta PassSELECT MONTHGenerate my packing checklist",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "getting-fit",
+      "tag": "div",
+      "ui_key": "fitness",
+      "text_preview": "",
+      "top": 3262,
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "tag": "div",
+      "ui_key": "faqs",
+      "text_preview": "",
+      "top": 3322,
+      "visible": false
+    }
+  ],
+  "ui_sections": [
+    {
+      "ui_section_id": "hampta-pass::ui::001-hampta-pass-complete-trek-information",
+      "ui_key": "other",
+      "label": "Hampta Pass - Complete Trek Information",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2576
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::002-share-link-share-link",
+      "ui_key": "other",
+      "label": "share link Share Link",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2607
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary Get your trek plan toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2902
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::004-quick-itinerary",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2902
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2962
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::006-how-does-each-day-look",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2962
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::007-how-difficult-is-the-hampta-pass-trek-what-to-expect-in-term",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Hampta Pass Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3022
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::008-how-difficult-is-the-hampta-pass-trek",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Hampta Pass Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3022
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::009-best-time-to-do-the-hampta-pass-trek-time-your-trek-well-tog",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Hampta Pass Trek Time your trek well toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3082
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::010-best-time-to-do-the-hampta-pass-trek",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Hampta Pass Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3082
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::011-how-to-plan-your-travel-for-the-hampta-pass-trek-flight-trai",
+      "ui_key": "travel",
+      "label": "How to Plan Your Travel for the Hampta Pass Trek Flight, Train, Bus and All Essential Travel Details toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3142
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::012-how-to-plan-your-travel-for-the-hampta-pass-trek",
+      "ui_key": "travel",
+      "label": "How to Plan Your Travel for the Hampta Pass Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3142
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::013-what-is-the-indiahikes-camping-experience-like-stay-food-toi",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ? Stay, Food, Toilet and Safety on an Indiahikes Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3202
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::014-what-is-the-indiahikes-camping-experience-like",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ?",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3202
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::015-stay-options-for-hampta-pass-trek-budget-and-premium-stay-op",
+      "ui_key": "stay",
+      "label": "Stay Options for Hampta Pass Trek Budget and Premium Stay Options that Trekkers Recommend toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3262
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::016-stay-options-for-hampta-pass-trek",
+      "ui_key": "stay",
+      "label": "Stay Options for Hampta Pass Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3262
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::017-what-to-pack-for-your-trek-things-you-must-take-on-the-trek-",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek Things you must take on the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3322
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::018-what-to-pack-for-your-trek",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3322
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::019-how-to-get-fit-for-the-hampta-pass-trek-a-6-week-plan-to-hel",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Hampta Pass Trek A 6-Week Plan to Help You Get Trek-Fit for the Hampta Pass Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3382
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::020-how-to-get-fit-for-the-hampta-pass-trek",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Hampta Pass Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3382
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 3442
+    },
+    {
+      "ui_section_id": "hampta-pass::ui::022-frequently-asked-questions",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 3442
+    }
+  ]
+}

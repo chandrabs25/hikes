@@ -1,0 +1,372 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "gaumukh-tapovan",
+  "section_id": "gaumukh-tapovan::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/gaumukh-tapovan",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-May to end-June",
+        "mid-September to mid-October"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Gaumukh Tapovan in Summer (mid-May to end-June)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Gaumukh Tapovan in Autumn (mid-September to mid-October)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the summer season by the end of June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "after mid-October, the weather makes trekking untenable. It is time to wind up the season again until the summer next year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August",
+        "late October onward"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "As we approach July, the monsoons are in full swing. The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The trail to Tapovan though is untenable in monsoons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The region experiences pre-winter snows sometime in October. More so at higher elevation campsites like Bhojbasa and above. So, after mid-October, the weather makes trekking untenable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Snow on trail and natural snow bridges over Bhagirathi in early summer",
+        "Receding snow and sparse vegetation turning green by mid-summer",
+        "Swelled Bhagirathi river from melting snow and pre-monsoon rains",
+        "Autumn colours (yellows, browns, maroons) on vegetation en route to Chirbasa",
+        "Deeper blue, gentler-flowing Bhagirathi in autumn",
+        "Clear skies and stable weather in autumn",
+        "Excellent views of the entire valley in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "In early summers, you will find snow along the trail. This is also the time when you cross the Bhagirathi river over the natural snow bridges. The snow remains till Gaumukh and sometimes even beyond until the mid of May.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "But by mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley. The little vegetation that you find on the trail (most of which lies on the way to Chirbasa) starts turning green.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "At this time, the melting snow adds to the swell of the Bhagirathi river that begins to flow with its full might. You’ll notice this at Suryakund itself in Gangotri.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The pre-monsoon rains in the valley only add to the force of the river.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Autumn also brings colours to the trail. The vegetation en route to Chirbasa turns into shades of yellows, browns and maroons. The Bhagirathi too turns a deeper shade of blue. Its flow is gentler compared to summers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Snow/Rain: The weather is stable with clear skies. Low chances of precipitation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "This is the best season to do the Gaumukh Tapovan trek for excellent views of the entire valley.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow remains till Gaumukh and sometimes beyond until mid-May",
+        "Pre-winter snows at higher elevation campsites (Bhojbasa and above) sometime in October"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The snow remains till Gaumukh and sometimes even beyond until the mid of May.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The region experiences pre-winter snows sometime in October. More so at higher elevation campsites like Bhojbasa and above.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Unpredictable precipitation in summer",
+        "Pre-monsoon rains add to river force",
+        "Monsoon downpours in July cause landslides and rockfalls on trail sections",
+        "Trail to Tapovan untenable in monsoons",
+        "Low chances of precipitation in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Snow/Rain in Summer: You will find receding snow on the trail. Unpredictable precipitation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The pre-monsoon rains in the valley only add to the force of the river.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "As we approach July, the monsoons are in full swing. The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The trail to Tapovan though is untenable in monsoons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Snow/Rain: The weather is stable with clear skies. Low chances of precipitation.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer day: 15°C to 20°C; night drops to almost 0°C",
+        "Autumn day: around 15°C; night at Tapovan can go 3-5°C below 0°C",
+        "3 warm layers recommended in summer",
+        "4-5 warm layers recommended in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Day Time Temperature: Between 15 °C to 20 °C | Night Time Temperature: At night, the temperature drops to almost 0 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Daytime Temperature: Around 15 °C | Night Time Temperature: Tapovan temperatures can go as low as 3-5 °C below 0 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Number of warm layers recommended in Summer: 3 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Number of warm layers recommended in Autumn: 4-5 layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Excellent views of the entire valley in autumn",
+        "Autumn colours on vegetation en route to Chirbasa (yellows, browns, maroons)",
+        "Bhagirathi turns a deeper shade of blue with gentler flow in autumn",
+        "Sparse vegetation of the valley visible by mid-summer"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "This is the best season to do the Gaumukh Tapovan trek for excellent views of the entire valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Autumn also brings colours to the trail. The vegetation en route to Chirbasa turns into shades of yellows, browns and maroons. The Bhagirathi too turns a deeper shade of blue. Its flow is gentler compared to summers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "But by mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Monsoon landslides and rockfalls on trail sections in July",
+        "Trail to Tapovan untenable in monsoons",
+        "Pre-winter snows at higher campsites (Bhojbasa and above) from October",
+        "Heavy pilgrim traffic on trail until Gaumukh in summer and continuing into July-August",
+        "Autumn season is short (barely 4-5 weeks)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The trail to Tapovan though is untenable in monsoons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The region experiences pre-winter snows sometime in October. More so at higher elevation campsites like Bhojbasa and above. So, after mid-October, the weather makes trekking untenable.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The summer season is not just popular among trekkers, but also among pilgrims. It is the busiest season for the Chardham Yatra. Therefore expect a lot of pilgrims on the trail until Gaumukh. This flow of pilgrims heading to the Gaumukh glacier continues even in the monsoon months of July and August.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Compared to summer, the autumn season on the Gaumukh Tapovan trail is shorter. It’s barely 4-5 weeks long.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers drawn to trekking in snow (summer)",
+        "Excellent valley views (autumn)",
+        "Experiencing autumn colours and stable clear skies (autumn)",
+        "Trekkers preferring fewer crowds (autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Summer is a popular time to do the Gaumukh Tapovan trek, especially for trekkers who are drawn to trekking in snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "This is the best season to do the Gaumukh Tapovan trek for excellent views of the entire valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Snow/Rain: The weather is stable with clear skies. Low chances of precipitation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "Tapovan is generally not as popular with pilgrims and you’ll notice lesser crowds in autumn.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekking in July/August due to monsoon landslides and rockfalls",
+        "Tapovan section during monsoons (untenable)",
+        "Trekking after mid-October due to pre-winter snows at higher campsites",
+        "Trekkers seeking solitude in summer (heavy pilgrim traffic)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "As we approach July, the monsoons are in full swing. The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "The trail to Tapovan though is untenable in monsoons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "after mid-October, the weather makes trekking untenable.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::best_time_section::001",
+          "quote_or_summary": "It is the busiest season for the Chardham Yatra. Therefore expect a lot of pilgrims on the trail until Gaumukh.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

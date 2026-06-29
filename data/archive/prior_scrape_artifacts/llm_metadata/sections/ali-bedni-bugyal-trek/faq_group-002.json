@@ -1,0 +1,426 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::faq_group-002",
+  "section_type": "faq_group",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_name_variants",
+      "value": [
+        "Ali Bedni trek",
+        "Ali Bedni Bugyal",
+        "Ali Bedni Buygal"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Ali Bedni trek is rated as a Easy-Moderate trek. / Ali Bedni Bugyal is a 6 day trek. / Ali Bedni Buygal is a easy-moderate trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "duration_days",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Ali Bedni Bugyal is a 6 day trek. / this 6-day trek climbs from 7,550 ft to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "base_camp_location",
+      "value": "Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The stay on Day 1 and Day 5, at Lohajung, will be in a guest house.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_start_ft",
+      "value": 7550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "this 6-day trek climbs from 7,550 ft to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_max_ft",
+      "value": 12550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "this 6-day trek climbs from 7,550 ft to 12,550 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_gain_ft",
+      "value": 5000,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "That’s almost an altitude gain of 5,000 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_rating",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Ali Bedni trek is rated as a Easy-Moderate trek. / Ali Bedni Buygal is a easy-moderate trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "trail_condition",
+      "value": "well laid out",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The entire trail is well laid out.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "navigation_requirement",
+      "value": "No special skill or help is required for navigation.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "No special skill or help is required for navigation.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "prior_himalayan_experience_required",
+      "value": false,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Although the prior experience of trekking in the Himalayas is not required, it helps in accustoming you to the hardship.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "major_challenges",
+      "value": [
+        "altitude gain of 5,000 ft"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "That’s almost an altitude gain of 5,000 ft. This climb is one of the major challenges on the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_level_required",
+      "value": "good",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "A Himalayan trek like Ali Bedni requires a good fitness level.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "daily_activity_description",
+      "value": "long climbs and walks daily",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The trek has long climbs and walks daily.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_benchmark",
+      "value": "Run, walk or jog at least 5 km in 40 minutes",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Run, walk or jog at least 5 km in 40 minutes before your trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_benchmark_mandatory",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "It's a minimum mandatory requirement if you wish to trek with us.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_support_provided",
+      "value": "team will assist in putting you through a fitness plan",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Our team will also assist in putting you through a fitness plan.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "minimum_age_years",
+      "value": 8,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The minimum age for eligibility is 8 years.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "children_allowed",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "If your child meets this criterion and is physically fit, you can take her/him along.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "children_allowed_conditions",
+      "value": "must meet minimum age criterion (8 years) and be physically fit",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "If your child meets this criterion and is physically fit, you can take her/him along.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "snow_likely_months",
+      "value": [
+        "December",
+        "January",
+        "February"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "You are likely to find snow on this trail in December, January and February.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "snow_possible_extension",
+      "value": "March",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Sometimes, you can get lucky and find snow well into March.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_duration_days",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Ali Bedni Bugyal is a 6 day trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "accommodation_day_1",
+      "value": "guest house at Lohajung (shared rooms)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The stay on Day 1 and Day 5, at Lohajung, will be in a guest house, where you will share rooms with fellow trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "accommodation_day_5",
+      "value": "guest house at Lohajung (shared rooms)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "The stay on Day 1 and Day 5, at Lohajung, will be in a guest house, where you will share rooms with fellow trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "accommodation_other_days",
+      "value": "tents",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Stay on all other days of the trek in tents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "tent_occupancy_count",
+      "value": 2,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "Each tent accommodates 2 trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "toilet_facilities",
+      "value": "toilet tents",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-002",
+          "source_field": "faqs[5:10]",
+          "quote_or_summary": "A sufficient number of toilet tents will be set up for the convenience of trekkers.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

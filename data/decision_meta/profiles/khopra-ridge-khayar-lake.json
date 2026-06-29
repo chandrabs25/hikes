@@ -1,0 +1,132 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.406047+00:00",
+  "trek_id": "khopra-ridge-khayar-lake",
+  "trek_title": "Khopra Ridge Trek",
+  "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 9,
+    "distance_km": 58.2,
+    "highest_altitude_ft": 15300,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 32,
+    "pickup_city": "Pokhara Top and Top Hotel, Pokhara",
+    "pickup_time": null,
+    "dropoff_city": "Pokhara by 7 PM",
+    "dropoff_time": null,
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Teahouses (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "April",
+        "October"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow patches may be present on the trail in Spring (April) above 12,000 feet",
+        "No snow on the trek in Autumn (October)",
+        "Spring: rain can occur if clouds cover the sun, dropping temperatures to around 15 °C",
+        "Autumn: rain or slight drizzle can occur and brings down daytime temperature by a few degrees"
+      ],
+      "temperature_notes": [
+        "Spring (April) daytime: 20 °C to 24 °C",
+        "Spring (April) nighttime: 10 °C to 5 °C, dipping to almost zero",
+        "Autumn (October) daytime: 15 °C to 18 °C",
+        "Autumn (October) nighttime: 5 °C to -5 °C, dipping to 0 °C in October"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate - Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Dense forests, open ridges, and rugged moraine sections",
+        "Rocky and uneven terrain requiring careful footing",
+        "Loose scree on Khayer Lake trail",
+        "Multiple sections prone to landslides and rockfalls",
+        "Every day includes ascents, descents and boulder sections on steep, uneven trails"
+      ],
+      "altitude_or_weather_risks": [
+        "Significant ascent from Tadapani to Khayer Lake via Khopra Ridge with rapid altitude gain increases chance of Acute Mountain Sickness (AMS)",
+        "At altitudes above 10,000 ft, chances of being hit by AMS are real; altitude sickness can happen to anybody including first-time and experienced trekkers",
+        "Snow accumulation at higher altitudes can increase risk of altitude sickness due to colder temperatures",
+        "Sudden rainfall can make trails muddy and slippery",
+        "Snowfall at higher altitudes (above 12,000 ft) can block paths, requiring new trails to be cut"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 5 km in under 32 minutes",
+        "At least 3 runs from the last 1 month must meet the trek's fitness criteria"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "Only running, jogging, or walking are accepted as fitness proofs; cross-training workouts are not considered valid"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week plan is provided for trekkers who are not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Spring is moist; Autumn is dry and crisp",
+      "Spring has slightly warmer daytime temperatures than Autumn",
+      "Spring may have hard snow patches at higher altitudes; Autumn has no snow on the trek",
+      "Spring is when winter has just left the slopes with snow patches above 12,000 feet",
+      "Snow patches may be present on the trail in Spring (April) above 12,000 feet",
+      "No snow on the trek in Autumn (October)"
+    ],
+    "primary_watchouts": [
+      "Spring: 3 warm layers required",
+      "Autumn: 4 warm layers required",
+      "Autumn: keep a jacket handy due to rain/drizzle cooling",
+      "Spring: rain under cloud cover can drop daytime temperature to ~15 °C",
+      "Dense forests, open ridges, and rugged moraine sections",
+      "Rocky and uneven terrain requiring careful footing"
+    ],
+    "best_for": [],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "khopra-ridge-khayar-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "khopra-ridge-khayar-lake::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

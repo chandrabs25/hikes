@@ -1,0 +1,144 @@
+{
+  "schema_version": "slim_trek_meta_v1",
+  "generated_at": "2026-06-28T03:34:07.863227+00:00",
+  "trek_id": "chandrakhani-pass-trek",
+  "trek_title": "Chandrakhani Pass Trek",
+  "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+  "source_packet_file": "chandrakhani-pass-trek.packet.json",
+  "quick_facts": {
+    "trek_difficulty": "Easy-Moderate",
+    "trek_duration": "5 days / 26 km",
+    "highest_altitude": "12,185 ft",
+    "suitable_for": "8 years and above",
+    "basecamp": "Manali (Indiahikes Jungle Line Campus), Himachal Pradesh",
+    "accommodation_type": "Tents (2-sharing)",
+    "fitness_criteria": "5 km in 40 mins",
+    "pickup_details": "Beas Bridge, Manali  at 3 PM",
+    "dropoff_details": "Beas Bridge, Manali at 6 PM",
+    "cloakroom": "Available",
+    "offloading": "Available",
+    "packing_checklist": "Click to Generate"
+  },
+  "sections": [
+    {
+      "section_id": "chandrakhani-pass-trek::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "seasonality",
+      "title": "Seasonality",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "The Chandrakhani Pass Trek can be done for almost five months in the year. The very best time to do this trek is between May and September. You may extend it till October.\nDuring other months of the year, the snow is too high for a comfortable pass-crossing.\nChandrakhani Pass in June\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Despite it being summers, expect snow patches on the ground. Especially close to Chaklani and above it is still snow bound.\nNo. of warm layers required: 3 warm layers\nIn June expect a lot of snow from Chaklani onward. You will find good snow slightly after Chaklani camp right until the pass. You’ll get snow even until you get down on the other side of the pass. The depth of snow on both sides is quite high.\nChandrakhani Pass in July and August\nDay time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.\nPresence of snow: Snow starts to melt as we enter July. By August most of the snow is gone, except for some patches near Chandrakhani Pass.\nNo. of warm layers required: 3 warm layers\nIn July the snow starts to melt rapidly but stays in good patches on the higher reaches of the pass. But different magic starts to unfold from mid-July onward.\nThe valley starts to get its first monsoon showers. Wildflowers begin to sprout in the entire green belt on the Kullu side. Sometimes trekkers have to wade through a bed of wildflowers on either side of the trail.\nIf there is a favourite time to do the trek, then mid-July to the end of August is the best time to do the Chandrakhani Pass trek. The grasslands are a vibrant green. The slopes are alive with swaying wildflowers. On the other hand, the skies are generally cloudy though. Be game for good showers on the trek. The rains last until the mid of September.\nChandrakhani Pass in September\nDay time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.\nPresence of snow: You will not find snow in the month of September on the trail.\nNo. of warm layers required: 4 warm layers\nPost-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Chandrakhani Pass is at its most colourful. The sunrises and sunsets are gorgeous, the snow-clad mountains stand tall against the deep blue skies. The trek is at its most perfect.\nAt Indiahikes we wind up the Chandrakhani Pass season at the end of September.\nBy the end of the first week of October, the air is nippier. The early winter chill is felt. Night temperatures will fall below zero in most camps. At the higher camps, it could be icy cold. The streams dry up and water sources become increasingly difficult. The earth is browner. The boulders were starker.\nIs trekking in monsoon safe?\nYes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1: Reach Indiahikes Jungle Line Campus at Manali",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"1\",\n\"place_title\": \"Day 1: Reach Indiahikes Jungle Line Campus at Manali\",\n\"difficulty\": \"\",\n\"duration\": \"\",\n\"altitude\": \"\",\n\"water_sources\": \"\",\n\"description\": \"The process of your registration, health screening, and document verification will take place with your rental gear collection.\\nYou will be staying at our Manali Campus for the night. The next day, the team will leave at 7 am in the morning and drive to Rumsu. The drive will take around an hour.\"\n}"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Trek from Rumsu to Ghan Kuradi",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"2\",\n\"place_title\": \"Day 2: Trek from Rumsu to Ghan Kuradi\",\n\"difficulty\": \"\",\n\"duration\": \"Drive Duration: 25 minutes | Trek Duration: 3 hours Drive Distance: 9 km | Trek Distance: 3 km\",\n\"altitude\": \"Altitude Gain: 6,745 ft to 8,930 ft\",\n\"water_sources\": \"\",\n\"description\": \"The trek starts from Rumsu village. You start your day early from Indiahikes Manali Campus to reach this village situated 9 km away. This drive will take around half an hour. The architecture of the houses here remind you of the Kathkuni architecture that you come across in Jiskun on the Rupin Pass trek. Rumsu is well connected with Nagar and Malana. People at Rumsu worship the same deity as Malana. The culture and practices are also very similar.\\nCross the Rumsu village to enter the forest trail. It's a mixed forest with Deodar, pine and walnut trees. The forest here is dense and the trail ascends gradually through it. After about an hour and a half of climb, you reach a small clearing called Stiling. This is your first resting point. There is a small stream flowing nearby. Refill your water bottles here.\\nA gradual ascent in the forest trail for about 20 minutes takes you to another clearing called Ghan Kuradi. This beautiful clearing surrounded by pine, deodar, Rai, maple, chestnut, green and yellow oaks offers stunning views of the Kullu valley. This is where you will be making your campsite for the day. Since a water source is close by, this is the perfect camping spot for DIY trekkers too.\\nOn a clear day, you can see mountains like Hanuman Tibba, Shikar Beh and Mukar Beh.\"\n}"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Ghan Kuradi to Chaklani via Naya Tapru",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"3\",\n\"place_title\": \"Day 3: Trek from Ghan Kuradi to Chaklani via Naya Tapru\",\n\"difficulty\": \"This will tell you just how fit you must be\",\n\"duration\": \"Trek Distance: 4 km | Trek Duration: 4 hours\",\n\"altitude\": \"Altitude Gain: 8,930 ft to 11,368 ft\",\n\"water_sources\": \"\",\n\"description\": \"From Ghan Kuradi, a series of three short climbs lead you to Naya Tapru. This is used to be an older campsite of Indiahikes. But due to acute water shortage, we had to change it.\\nAs you gradually ascend in the mixed forest trail, the views of the valley start unfolding behind you. It takes about an hour to reach Naya Tapru. This is a huge clearing and offers far reaching views of the villages around Manali. You get grand views of snow clad peaks too.\\nThe trail goes in the South-East direction from Naya Tapru.\\nFrom Naya Tapru to Chaklani, ascend in the zig zag trail. The trail is not very steep. As the treeline gets sparse, you start getting a wider view of the surroundings. This trail is dominated by rhododendron trees.\\nYou see a mountain ridge in the South-East direction behind which is the Chandrakhani Pass. In about 2.5 hours from Naya Tapru, you reach the second campsite, Chaklani.\\nChaklani is a small clearing located at an altitude of 11,368 ft. Next to the campsite, there is a small water stream. Explore around a bit. Rest well as tomorrow will be a long day.\"\n}"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Chaklani to Chandrakhani Pass Top and back to Naya Tapru",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"4\",\n\"place_title\": \"Day 4: Trek from Chaklani to Chandrakhani Pass Top and back to Naya Tapru\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Distance: 9.5 km | Trek Duration: 10 hours\",\n\"altitude\": \"Altitude Gain/Loss: 11,368 ft to 10,430 ft via 12,185 ft\",\n\"water_sources\": \"\",\n\"description\": \"Today is the most adventurous day of the entire trek. It's a trek to the highest point of the Pass!\\nNote: Replenish your water supplies before starting your trek. There are no water sources until you come back to the campsite.\\nFrom Chaklani, the trail goes diagonally in the South-East direction. You gradually gain altitude as you ascend to the highest point of the trek, the Chandrakhani Pass. It’s about an hour and a half of an ascent from Chaklani. Once you reach the Chandrakhani pass, it’s almost a kilometre walk till the highest point at the pass. This ridge walk is what makes this trek different compared to the other pass treks in the Himalayas.\\nFrom the ridge, on your left, you see Dhauladhar range. On your right, lies the Pir Panjal range that further stretches into the Parvathi range. You see Mt Hanuman Tibba, Friendship Peak, Shikar Beh, Indrasan Peak and many more. Along with these snow capped ranges, panoramic views of the numerous forested rolling hills of Kullu valley elevates the beauty of this whole place. You also get the far reaching views of the villages of Kullu and Manali.\\nAfter spending some time at the highest point, you start making your way back to Naya Tapru.\\nFrom here, it’s a long descent for about 6 km to reach Naya Tapru Campsite. You pass through Chaklani where you can fill in your water bottles. You get the chance to revisit the perfect grasslands and spend some more time through the rhododendron forests. Rest well at Naya Tapru for the night.\"\n}"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::day_wise_itinerary::005",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5: Trek from Naya Tapru to Rumsu",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "{\n\"day\": \"5\",\n\"place_title\": \"Day 5: Trek from Naya Tapru to Rumsu\",\n\"difficulty\": \"\",\n\"duration\": \"Trek Distance: 4.8 km | Trek Duration: 5 hours\",\n\"altitude\": \"Altitude Loss: 10,430 ft to 6,745 ft\",\n\"water_sources\": \"\",\n\"description\": \"Take the same route that you took on day 2. After filling up your water bottles, start by descending the three steep sections near the Naya Tapru campsite. Soon you will come across the forest section of Ghan Kuradi. After which you will reach Stiling clearing to take a rest. Traverse through the dense forest sections of deodar, pine and walnut trees to finally reach Rumsu.\\nDrive back to our campus, have lunch, return your rentals and collect your cloakroom luggage.\\nDrive back to Manali on the same day.\"\n}"
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "difficulty",
+      "title": "Difficulty",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Suitable for Fit Beginners\nYou will cover a total of around 26 km in four trekking days during which you will gain approximately 5,440 ft (6,745 ft to 12,185 ft). Every day will include ascents and descents on uneven trails.\nTerrain:\nOn the first day of the trek you gain almost 3000 ft in elevation and go from 6700 ft to over 10,000 ft above sea-level. Although the ascent is gradual and not too steep, hydrate well to avoid getting hit by AMS.\nThe climb from Chaklani to Chandrakhani pass is gradual. But chances of snow in early June can make it tricky.\nThere is a long ledge walk leading to the pass, which needs to be navigated carefully.\nThe forest trail from Rumsu climbs relentlessly until you reach the meadows. You gain more than 3500 ft over this 9 km stretch. This can test your endurance.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic.\nRain can flood the trails or make them too slushy to walk safely on. The forest trail ahead of Rumsu gets especially mushy and difficult to climb.\nSnowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow. It can also make the ledge leading to Chandrakhani Pass inaccessible.\nIn the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nYou climb more than 3500 ft from Rumsu to Naya Tapru on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.\nThe Chandrakhani Pass trek is situated 12,250 ft above sea level. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nChandrakhani Pass has limited exit points. You need to head down Rumsu before moving on to Manali.\nClosest Hospital to the Chandrakhani Pass Trek:\nThe medical facilities at Manali, just 27 km from Rumsu, are your best bet in case of sudden medical emergencies on the Chandrakhani Pass Trek. In case of a more serious medical issue, the best option is to access medical facilities at Chandigarh, a 6-hr drive from Manali.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "1. Do I get any mobile network on the trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 1. Do I get any mobile network on the trek?\nA: Yes. On the Chandrakhani Pass trek, the major network providers such as jio and airtel work almost throughout the trek."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is trekking in monsoon safe?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: Is trekking in monsoon safe?\nA: Yes, monsoon treks are usually safe. At Indiahikes, we only run those treks in monsoon that are safely navigable in the rains.\nWe keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind. It is always our first priority.\nThat said, the monsoon brings its own moods — not just on the trails, but also on the way to get there. Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp. It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way.\nSo we always recommend two things:\n* Reach your pickup town a day earlier if possible. It gives you a buffer against unpredictable road conditions.\n* Keep a buffer day after your trek before you plan your return journey. The mountains can often move at their own pace.\nTrekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive. But to truly enjoy it, give yourself a little breathing room. A little extra time can make all the difference between a stressful journey and a memorable adventure."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "2. Where will I find ATMs on the trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 2. Where will I find ATMs on the trek?\nA: The nearest town to Rumsu, is Nagar which is 4 km away. This is the nearest place where you can find ATMs. But, if you need cash, we recommend withdrawing from Manali."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "3. Will there be electricity at the campsites on the trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 3. Will there be electricity at the campsites on the trek?\nA: There is no electricity throughout the trek. The only place you’ll find a plug to charge your phone or camera batteries will be Manali before and after the trek.\nTherefore use your electronic equipment wisely. Fully charge your batteries before leaving your hotel and use your electronic equipment minimally.\nAnother thing to note is that cold temperatures drain the batteries faster. Having extra batteries or a power bank helps."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "4. Is Offloading available on this trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 4. Is Offloading available on this trek?\nA: Having too many mules on a trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe total cost of offloading on the Chandrakhani Pass trek is Rs 1,600.\nFind details about the offloading process here."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::006",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "5. Is Manali Safe?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 5. Is Manali Safe?\nA: Yes, Manali is a safe hill station to be in because it is a popular tourist destination, buzzing with people from various nationalities almost throughout the year. You will find a range of hotels (for all budgets), cafes, and eateries popping up at every turn."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::faqs::007",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "6. I am more than 62 years old. Can I do this trek?",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Q: 6. I am more than 62 years old. Can I do this trek?\nA: Yes you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 40 minutes."
+    },
+    {
+      "section_id": "chandrakhani-pass-trek::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "fitness",
+      "title": "Fitness",
+      "rendered_support_status": "rendered_structure_matched",
+      "text": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Chandrakhani Pass Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny"
+    }
+  ]
+}

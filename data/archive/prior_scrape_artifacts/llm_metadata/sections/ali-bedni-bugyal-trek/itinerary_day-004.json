@@ -1,0 +1,528 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-004",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "day_number",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "day",
+          "quote_or_summary": "\"day\": \"4\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_title",
+      "value": "Trek from Abin Kharak to Tithak via Ali Top",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "\"place_title\": \"Day 4: Trek from Abin Kharak to Tithak via Ali Top\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "start_point",
+      "value": "Abin Kharak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "\"Day 4: Trek from Abin Kharak to Tithak via Ali Top\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "end_point",
+      "value": "Tithak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "\"Day 4: Trek from Abin Kharak to Tithak via Ali Top\"",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "reach your campsite for the day- Tithak",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "via_point",
+      "value": "Ali Top",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "\"Day 4: Trek from Abin Kharak to Tithak via Ali Top\"",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "When you reach Ali Top, you are at the highest point of the day",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "highest_point_of_day",
+      "value": "Ali Top",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "When you reach Ali Top, you are at the highest point of the day",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_profile",
+      "value": {
+        "start_ft": 11145,
+        "end_ft": 10515,
+        "max_ft": 11600,
+        "description": "11,145 ft to 10,515 ft via 11,600 ft"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "altitude",
+          "quote_or_summary": "\"Altitude loss: 11,145 ft to 10,515 ft via 11,600 ft\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_distance_km",
+      "value": 5.7,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "duration",
+          "quote_or_summary": "\"Trek Duration: 5 hours | Trek Distance: 5.7 km\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_duration_hours",
+      "value": 5,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "duration",
+          "quote_or_summary": "\"Trek Duration: 5 hours | Trek Distance: 5.7 km\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_sources",
+      "value": "Streams intermittently; carry sufficient water",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "water_sources",
+          "quote_or_summary": "\"Water sources: Carry sufficient water. You will cross streams intermittently where you can refill your water bottles.\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "terrain_types",
+      "value": [
+        "undulating meadows",
+        "ridge",
+        "small mound",
+        "stone huts",
+        "shepherd's hut",
+        "thick forest",
+        "clearing"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "difficulty",
+          "quote_or_summary": "A level walk on an undulating meadow to begin with and gradual descent through the forest section",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "You are on the top of a ridge... stone huts... small mound... shepherd's hut... thick forest... small clearing in the middle of the forest",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "campsites",
+      "value": {
+        "start": "Abin Kharak",
+        "end": "Tithak"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "Trek from Abin Kharak to Tithak",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "reach your campsite for the day- Tithak",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "visible_peaks",
+      "value": [
+        "Mt. Chaukhamba",
+        "Mt Trishul",
+        "Mt Nanda Ghunti"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "you’ll see Mt. Chaukhamba standing tall in the distance... Mt Trishul and Mt Nanda Ghunti stand infront of you",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "level",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "difficulty",
+          "quote_or_summary": "\"Difficulty: Easy-Moderate\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "description",
+      "value": "A level walk on an undulating meadow to begin with and gradual descent through the forest section",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "difficulty",
+          "quote_or_summary": "\"Difficulty: Easy-Moderate. A level walk on an undulating meadow to begin with and gradual descent through the forest section.\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "primary_themes",
+      "value": [
+        "alpine_meadow_exploration",
+        "mountain_views",
+        "forest_trek"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "soak in the mesmerizing sight of the undulating meadows of Ali Bugyal... Today's trek is all about exploring Abin Bugyal... thick forest",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "visual_highlights",
+      "value": [
+        "Undulating meadows of Ali Bugyal",
+        "Mt. Chaukhamba",
+        "Mt Trishul",
+        "Mt Nanda Ghunti",
+        "Thick forest layers",
+        "Ali Top panorama"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "mesmerizing sight of the undulating meadows of Ali Bugyal... Mt. Chaukhamba... Mt Trishul and Mt Nanda Ghunti... thick forest stretches endlessly — layer after layer of trees",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "notable_descriptions",
+      "value": [
+        "One of the most picturesque trails",
+        "Photo-frame worthy views",
+        "Vast open grasslands that feel endless"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "This is one of the most picturesque trail that we have come across... click some pictures that can be put up on a photo frame... You've probably never seen meadows this wide, this endless",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "water_management",
+      "value": "Carry sufficient water; streams are intermittent",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "water_sources",
+          "quote_or_summary": "\"Water sources: Carry sufficient water. You will cross streams intermittently where you can refill your water bottles.\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "trail_cautions",
+      "value": [
+        "Walk slowly through the thick forest"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "Walk slowly through this thick forest for about 2 kilometres",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "terrain_notes",
+      "value": "Gradual descent through forest section; do not divert into the forest prematurely",
+      "status": "supported",
+      "confidence": "medium",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "difficulty",
+          "quote_or_summary": "gradual descent through the forest section",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "description",
+          "quote_or_summary": "But don't get pulled in just yet. Keep walking on the undulating meadows ahead",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_number",
+      "value": 4,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "day",
+          "quote_or_summary": "\"day\": \"4\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_type",
+      "value": "trekking_day",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "\"Day 4: Trek from Abin Kharak to Tithak via Ali Top\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "start_point",
+      "value": "Abin Kharak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "Trek from Abin Kharak",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "end_point",
+      "value": "Tithak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "to Tithak",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "via",
+      "value": "Ali Top",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "place_title",
+          "quote_or_summary": "via Ali Top",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "distance_km",
+      "value": 5.7,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "duration",
+          "quote_or_summary": "Trek Distance: 5.7 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "duration_hours",
+      "value": 5,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "duration",
+          "quote_or_summary": "Trek Duration: 5 hours",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "difficulty",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "difficulty",
+          "quote_or_summary": "\"Difficulty: Easy-Moderate\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "altitude_profile",
+      "value": "11,145 ft to 10,515 ft via 11,600 ft",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[3]",
+          "source_field": "altitude",
+          "quote_or_summary": "\"Altitude loss: 11,145 ft to 10,515 ft via 11,600 ft\"",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

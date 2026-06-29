@@ -1,0 +1,370 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "everest-base-camp-trek-nepal",
+  "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "first-time trekkers",
+        "trekkers without prior high-altitude experience",
+        "trekkers without adequate trek insurance",
+        "trekkers with pre-existing medical conditions (must be disclosed)"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "But, if you are not equipped with an adequate Trek Insurance, this can burn a hole in your pocket.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult Trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Difficult Trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "These long distances and high altitudes make Everest Base Camp a difficult trek, suitable only for experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "These long distances and high altitudes make Everest Base Camp a difficult trek, suitable only for experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long distances over 100 km across 12 days",
+        "Boulder sections on steep, uneven trails",
+        "Boulder fields and glacial moraines (Dingboche to Lobuche)",
+        "Glacial moraine walks (Gorakshep to Everest Base Camp)",
+        "Uneven terrain punishing on knees (Tengboche descent)",
+        "Muddy and slippery trails at lower elevations after rainfall",
+        "Slippery trails in rainy or snowy conditions near Namche Bazaar"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "You trek for more than 100 km over 12 days straight, climbing from 8600 ft to a whooping 18,200 ft at Kalapathar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents and boulder sections on steep, uneven trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "You trek through boulder fields and glacial moraines, experiencing strong winds along the Khumbu Glacier ridge.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The final leg of the trek from Gorakshep (16,942 ft) to Everest Base Camp (17,598 ft) is demanding, with steep ascents and long boulder walks through glacial moraine.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "its uneven terrain can be punishing on your knees",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Rainfall at the lower elevations like Namche Bazaar and Tengboche, can lead to muddy and slippery trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "This climb can be challenging, especially in rainy or snowy conditions, making the trail slippery.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "600-meter ascent over 2 km just before Namche Bazaar",
+        "Steep descent from Namche Bazaar to Phunki Thanga",
+        "Sharp climb from Phunki Thanga to Tengboche (12,687 ft)",
+        "Steep ascent from Dingboche (14,340 ft) to Lobuche (16,210 ft)",
+        "Steep climb to Kala Patthar (18,200 ft) typically done in early morning",
+        "Steep ascents and long boulder walks from Gorakshep (16,942 ft) to Everest Base Camp (17,598 ft)",
+        "Long trekking hours most days"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "You need to negotiate a 600-meter ascent over 2 km just before reaching Namche Bazaar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "From Namche Bazaar, the trail drops steeply to Phunki Thanga before climbing sharply to Tengboche (12,687 ft).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The steep ascent from Dingboche (14,340 ft) to Lobuche (16,210 ft) is one of the most challenging sections of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The trek to Kala Patthar (18,200 ft) is the journey's highest point. This steep climb is typically done in the early morning",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The final leg of the trek from Gorakshep (16,942 ft) to Everest Base Camp (17,598 ft) is demanding, with steep ascents and long boulder walks through glacial moraine.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Most days involve trekking for long hours.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Micro spikes, gaiters, helmets, ropes provided by Indiahikes where required",
+        "Layering required to tackle wind chill at Khumbu Glacier ridge and Kala Patthar"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The Khumbu Glacier ridge and Kala Patthar are known for strong winds. Layer up well to tackle the wind chill.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Acute Mountain Sickness (AMS) risk from Day 2 (Phakding to Namche Bazaar, ~3000 ft gain)",
+        "Very high altitudes up to 18,200 ft at Kala Patthar",
+        "AMS risk remains even with acclimatization stops at Namche Bazaar and Dingboche",
+        "AMS risk above 10,000 ft applies to anyone including first-time and experienced trekkers",
+        "Risk of HAPE and HACE referenced"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "On the second day of your trek, you gain close to 3000 ft in elevation from Phakding to Namche Bazar. This makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "At the Kala Patthar summit, you stand more than 18,000 ft above sea level. Even with acclimatization stops at Namche Bazaar and Dingboche, Acute Mountain Sickness remains a real risk.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Here's a Complete guide to Acute Mountains Sickness, HAPE and HACE",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Spring snowfall likely at higher altitudes (Kala Patthar, Lobuche) making navigation difficult",
+        "Rainfall at lower elevations (Namche Bazaar, Tengboche) causing muddy/slippery trails",
+        "Possible verglas on Kala Patthar trail in cold early-morning conditions",
+        "Strong winds at Khumbu Glacier ridge and Kala Patthar",
+        "Trek may be aborted or turned back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "If you are trekking in Spring, snowfall is very likely at the higher altitudes, particularly at Kala Patthar and Lobuche, making navigation difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Rainfall at the lower elevations like Namche Bazaar and Tengboche, can lead to muddy and slippery trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "cold temperatures and possible verglas on the trail add to the challenge.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The Khumbu Glacier ridge and Kala Patthar are known for strong winds.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team",
+        "Fastest evacuation by helicopter from Gorak Shep or Pheriche (weather/availability dependent)",
+        "Nearest hospitals in Lukla and Kathmandu",
+        "Basic medical aid at lower-altitude villages like Namche Bazaar",
+        "Primary health centres in Namche Bazaar for immediate attention",
+        "Trekkers must descend to Lukla quickly in emergencies",
+        "Trek insurance strongly advised due to potential helicopter evacuation costs",
+        "Pre-existing medical conditions must be disclosed to Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The fastest evacuation route is by helicopter from Gorak Shep or Pheriche, depending on the severity of the emergency.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "The nearest hospitals are in Lukla and Kathmandu. Basic medical aid is available at lower-altitude villages like Namche Bazaar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "there are a few primary health centres in Namche Bazaar. In case of an emergency, you must head down to Lukla as quickly as possible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "if you are not equipped with an adequate Trek Insurance, this can burn a hole in your pocket.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader",
+        "Trek may be turned back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

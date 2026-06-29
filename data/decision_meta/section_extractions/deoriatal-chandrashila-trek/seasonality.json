@@ -1,0 +1,319 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "deoriatal-chandrashila-trek",
+  "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is accessible for 10 months of the year except for July and August (the peak rainy in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Spring in Deoriatal Chandrashila starts in early March and goes on till the end of April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The forests and meadows look bright and sunny during May-June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The next best time to do the trek would be in the post-monsoon months of September, October and November.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The entire landscape and valley will be in white from December to the end of February",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is accessible for 10 months of the year except for July and August (the peak rainy in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Winter: snow-covered landscape, powdery snow on pine trees, possible snowfall, snowball fights, mighty mountain views",
+        "Spring: last of winter snow, receding snow at lower campsites, snow still on upper reaches (Chandrashila, Tungnath) until mid-April, green meadows, blooming tiny flowers, rhododendrons on trees, colour contrasts of snow/greenery/flowers",
+        "Summer: bright green forests and meadows, lush flora after early June light showers, easiest trek conditions, escape from plains heat",
+        "Autumn: post-monsoon clear skies, washed-clean views, clearest views of the Garhwal Himalayas"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Deoriatal Chandrashila to experience snow and the mighty views from the trek. The landscape again changes colour when draped in the white snow. Soft, powdery snowflakes loosely hang from pine trees offering a tinge of Christmas-y feel. Perfect for snowball fights and an experience of snowfall if you're lucky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Great time to experience the last of the winter snow. The snow starts to recede from the lower campsites when spring sets. The upper reaches of Chandrashila and Tungnath are still under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The snows start to melt in the upper reaches while the grass begins to turn green in the lower meadows. Tiny flowers make their heads out of the grass while rhododendrons bloom on the trees The upper reaches of the trek are usually under snow until mid-April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Summers bring out a green colour palette on this trek, one that you might not witness in any other season. The forests and meadows look bright and sunny during May-June. Early in June, slopes may receive light summer showers and the flora turns lush.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Post monsoon, the sky is washed clean of all the haze. And it's a perfect time for the Deoriatal Chandrashila trek which is known for the stunning views of the Garhwal Himalayas. It is in autumn that you get the clearest views of these mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow from the base camp towards January. The entire landscape and valley will be in white from December to the end of February",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The upper reaches of the trek are usually under snow until mid-April.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Peak monsoon in July and August closes the trek; early June may bring light summer showers on slopes"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is accessible for 10 months of the year except for July and August (the peak rainy in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Early in June, slopes may receive light summer showers and the flora turns lush.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter: daytime 8–14 °C, nighttime -6 to -10 °C; 5 warm layers required",
+        "Spring: daytime 13–17 °C, nighttime drops to zero; 3–4 warm layers required",
+        "Summer: daytime 18–24 °C, nighttime 3–8 °C; 2 warm layers required",
+        "Autumn: daytime 10–15 °C, nighttime drops to zero; 3–4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 14 °C | Night time: Will drop to temperatures between -6 °C and -10 °C. No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 13 °C and 17 °C | Night time temperature: Will drop to zero. No. of warm layers required: 3-4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 18 °C and 24 °C | Night time temperature: Will drop around 3-8 °C. No. of warm layers required: 2 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 10 °C and 15 °C | Night time temperature: Will drop to zero. No. of warm layers required: 3-4 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Winter: white snow-covered landscape and valley",
+        "Spring: colour contrasts of snow, greenery, and flowers on meadows",
+        "Summer: bright green forests and meadows, lush flora",
+        "Autumn: clearest views of the Garhwal Himalayas with washed-clean post-monsoon skies"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The entire landscape and valley will be in white from December to the end of February",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Summers bring out a green colour palette on this trek, one that you might not witness in any other season. The forests and meadows look bright and sunny during May-June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Post monsoon, the sky is washed clean of all the haze. And it's a perfect time for the Deoriatal Chandrashila trek which is known for the stunning views of the Garhwal Himalayas. It is in autumn that you get the clearest views of these mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Winter: snow raises trek difficulty by a notch; requires good preparation",
+        "July–August: peak monsoon in Uttarakhand; trek not accessible"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "However, snow raises the difficulty of the trek by a notch. So, prepare well if you are going in winter.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is accessible for 10 months of the year except for July and August (the peak rainy in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Snow experience and winter landscapes (Dec–Feb)",
+        "Colour contrasts of snow, greenery, and flowers (Mar–Apr)",
+        "Easiest trek conditions, lush green landscapes, family/children introduction to Himalayas (May–Jun)",
+        "Clearest Garhwal Himalaya views (Sep–Nov)"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Deoriatal Chandrashila to experience snow and the mighty views from the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is at its easiest and is a great getaway from the summer heat of the plains. It also makes for the perfect time to introduce children to the Himalayas during the summer vacations.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "It is in autumn that you get the clearest views of these mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Travellers planning in July or August due to peak monsoon closure"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+          "quote_or_summary": "The trek is accessible for 10 months of the year except for July and August (the peak rainy in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,318 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "sandakphu-phalut",
+  "section_id": "sandakphu-phalut::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/sandakphu-phalut",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The Sandakphu trek can be done for about 8 months of the year barring only the rainy months of May to August.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Sandakphu is a great trek to do all 8 months of the year when it is open.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Through the monsoon season, from May to August the trek remains closed to visitors.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Spring: Rhododendrons and Magnolias in bloom along the trail",
+        "Autumn: Crisp air, clear mountain views, golden colours at sunrise/sunset, bird watching in the national park",
+        "Winter: Mild snowfall at Sandakphu and Phalut, colourful twilight skies, sunrise and sunset below the clouds, solitude on the trail"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "starting with the Rhododendrons and magnolias in the spring to crisp golden views of autumn and finally the mild snowy setting of winter",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Red, pink Rhododendrons and white Magnolias dominate the landscape.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Autumn in Sandakphu is also fantastic for its golden colours, especially during the sunsets and sunrises.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "This is also a great time to spot the varied varieties of birds in the national park.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "the mild snowy setting of winter",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Very few treks come close when we talk about skies at twilight.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "January",
+        "February"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "You will find snow at Phalut and Sandakphu in the peak winter months of January and February.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Trek closed May to August due to monsoon",
+        "Mid-April onwards rains become more frequent, making the trek less enjoyable",
+        "Spring showers can cause fog and obscure long-distance peak views"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Through the monsoon season, from May to August the trek remains closed to visitors.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "By mid-April, the rains become more frequent. You might still be able to trek. But it’s not as much fun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Occasional showers might turn the trail foggy or prevent the views of long-distance peaks and ranges.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter daytime: 8°C to 12°C; nighttime: 0°C to -3°C; 5 warm layers required",
+        "Spring daytime: 15°C to 20°C; nighttime: 1°C to 5°C; 4 warm layers required",
+        "Autumn daytime: 13°C to 18°C; nighttime: 5°C to 0°C; 4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 12 °C; Night time: Will drop to temperatures between 0 °C and -3 °C; No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Day time: Between 15 °C and 20 °C; Night time: Will drop to temperatures between 1 °C and 5 °C; No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Day time: Between 13 °C and 18 °C; Night time: Will drop to temperatures between 5 °C and 0 °C; No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Winter: Some of the best twilight skies; sun rises and sets below the clouds",
+        "Spring: Views may be limited by fog and showers, but flowers compensate",
+        "Autumn: Clearest air and best long-distance peak views; golden sunrise/sunset colours"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Some of the best twilight skies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The sun rises and sets below you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The flowers more than makeup for the lack of views owing to frequent showers that come down on the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The air is clear and the view of peaks far away is amazing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Mountain views are the best at this time.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Mid-April: increasing rain frequency reduces trek enjoyment",
+        "October: heavy crowds due to Durga Puja holidays and Land Rover tourists from Bengal",
+        "Winter: roads become difficult to drive on, reducing tourist numbers"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "By mid-April, the rains become more frequent. You might still be able to trek. But it’s not as much fun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The Durga Puja holidays in October see a big number of tourists taking the Land Rovers and coming to Sandakphu.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Hardly any tourists as the roads become difficult to drive on and fewer vehicles on the trail.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Bird watching year-round (described as one of the Best Himalayan treks for Bird Watching)",
+        "Experiencing rhododendron and magnolia blooms in spring",
+        "Clear long-distance peak views and golden sunrise/sunset colours in autumn",
+        "Mild snow experience and solitude in winter",
+        "Colourful twilight skies in winter"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "It is one of the Best Himalayan treks for Bird Watching.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Rhododendrons and Magnolias are in full bloom. This is the best time to see the flowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "Mountain views are the best at this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The good thing about snowfall at Sandakphu is that it is mild. Good enough to experience snow but not bad enough that the trail gets blocked.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "there is a greater sense of solitude in winters",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Mid-to-late April due to frequent rains",
+        "October for those seeking solitude, due to Durga Puja crowds"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "By mid-April, the rains become more frequent. You might still be able to trek. But it’s not as much fun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::best_time_section::001",
+          "quote_or_summary": "The only flip side of trekking to Sandakphu in Autumn, especially October is the number of people on the trail.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,179 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.411274+00:00",
+  "trek_id": "pin-bhaba-pass-trek",
+  "trek_title": "Pin Bhaba Pass Trek",
+  "source_url": "https://indiahikes.com/pin-bhaba-pass-trek",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 9,
+    "distance_km": 50.0,
+    "highest_altitude_ft": 16105,
+    "min_age": 15,
+    "max_age": 55,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Old Bus Stand, Shimla",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "8 PM",
+    "offloading_available": true,
+    "cloakroom_available": false,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-July to early-September",
+        "July",
+        "August",
+        "mid-September"
+      ],
+      "avoid_months": [
+        "June (high snow near pass, risky)",
+        "late September (first snowfall blocks access)",
+        "third week of September onward (season wound up)"
+      ],
+      "snow_or_rain_notes": [
+        "Snow present early June to mid-July",
+        "Snow starts melting in later part of July",
+        "No snow in autumn months on Pin Bhaba Pass",
+        "First snowfall of the season towards end of September blocks access to Spiti",
+        "Most of the trek lies in the rain shadow area of the Himalayas (Pin valley of Spiti region)"
+      ],
+      "temperature_notes": [
+        "July-August daytime: 16°C to 18°C",
+        "July-August night: 0°C to -2°C",
+        "September daytime: 14°C to 16°C",
+        "September night: -3°C to -5°C",
+        "4 warm layers required in July-August"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Boulder fields on certain days",
+        "River crossings with strong currents (Bhaba tributary between Yangpa and Mulling, Pin River after the pass)",
+        "Extensive scree zones before and after Pin Bhaba Pass",
+        "Moraine and loose scree on Pass Crossing Day",
+        "Rockfall zones on Pass Crossing Day"
+      ],
+      "altitude_or_weather_risks": [
+        "Pin Bhaba Pass at 16,105 ft above sea level",
+        "Camping at Phutsirang over 13,000 ft before the pass crossing",
+        "Risk of Acute Mountain Sickness (AMS) even with an extra acclimatisation day",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team",
+        "Rainfall or snowfall lasting hours can change trek dynamics"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 10 km in under 60 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "Without approval you will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria",
+        "Record runs using apps like Nike or Strava",
+        "Paste your public fitness profile link on your Indiahikes account"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week plan provided for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Monsoon months are the best time to do the trek",
+      "Lush green meadows with wildflowers blooming, especially at Karah",
+      "Meadows thinning just before Phutsirang",
+      "Transition zone at Phutsirang with colourful moss-like vegetation on soil/rocks",
+      "Stark contrast at the pass between green Kinnaur side and pink Spiti side",
+      "Clearer skies in September"
+    ],
+    "primary_watchouts": [
+      "High snow near the pass in June makes it risky (not impossible)",
+      "Trail gets slightly more comfortable from July onward",
+      "Landslides and roadblocks more frequent during monsoon, can cause traffic jams and delays en route to base camp",
+      "First snowfall towards end of September blocks access to Spiti region",
+      "Indiahikes winds up trekking season from third week of September",
+      "Trekkers averse to monsoon-related road delays and landslides"
+    ],
+    "best_for": [
+      "Trekkers seeking monsoon treks",
+      "Trekkers wanting lush green meadows and wildflowers (July-August)",
+      "Trekkers wanting clear skies and autumn colours (mid-September)",
+      "Trekkers wanting dramatic contrast between Kinnaur greens and Spiti pinks at the pass"
+    ],
+    "not_ideal_for": [
+      "Trekkers averse to monsoon-related road delays and landslides",
+      "Trekkers planning tight itineraries without buffer days",
+      "Trekkers wanting to avoid snow risk near the pass (June)",
+      "Trekkers who are not experienced",
+      "Trekkers not prepared for long days of more than 10 km at high altitude"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "pin-bhaba-pass-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "best_for",
+    "not_ideal_for",
+    "seasonal_experiences",
+    "seasonal_watchouts",
+    "view_or_landscape_notes"
+  ]
+}

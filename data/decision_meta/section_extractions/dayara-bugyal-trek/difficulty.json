@@ -1,0 +1,261 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "dayara-bugyal-trek",
+  "section_id": "dayara-bugyal-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Easy-Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Easy-Moderate Trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Initial climb into the forest from Raithal is steep",
+        "Final climb to Dayara top is steep",
+        "Daily ascents and descents, mostly gradual and steady except the summit climb on Day 4",
+        "Snow section near the top gets steeper as you approach the top",
+        "Snow deposits on the meadow are often several feet deep"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The initial climb into the forest from Raithal is steep. Although there is a well-laid trail, this section will test your stamina.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The final climb to Dayara top is steep. And it gets even more challenging in snow during the winters. Dayara being a meadow, the snow deposits are often several feet deep. This snow section continues until you get to the top, getting steeper as you approach the top.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. But, they are mostly gradual and steady, except the summit climb on Day 4.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Initial climb from Raithal into the forest is steep and tests stamina",
+        "Final climb to Dayara top is steep and gets steeper near the summit",
+        "Summit climb on Day 4 is the main strenuous exception to otherwise gradual daily ascents/descents"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The initial climb into the forest from Raithal is steep. Although there is a well-laid trail, this section will test your stamina.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The final climb to Dayara top is steep.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "This snow section continues until you get to the top, getting steeper as you approach the top.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "they are mostly gradual and steady, except the summit climb on Day 4",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, and ropes wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trail from Raithal to Gui climbs 2,478 ft within 4.5 km; trekkers should stay alert for signs of Acute Mountain Sickness",
+        "Above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The trail from Raithal to Gui climbs 2,478 ft within just 4.5 km distance. Stay alert for any signs of Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them too slushy to walk safely",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Emergency exit at or before Chilapada is to return to Raithal",
+        "Near the top, descend to Barsu; evacuation can take 7-8 hours from the farthest point",
+        "Closest hospital is District Hospital in Uttarkashi, reachable within an hour from Raithal or Barsu",
+        "For major medical emergencies, the nearest hospital is in Mussoorie or Dehradun, almost 8-9 hours from base camp",
+        "Trekkers should inform the Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "In case of an emergency at or before Chilapada, you will need to return to Raithal.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "If you are near the top, descend to Barsu. These are long distances and evacuation can take 7-8 hours from the farthest point.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "the District Hospital in Uttarkashi is the closest to you. Uttarkashi can be reached within an hour if you drive from Raithal or Barsu.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively participate in and follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

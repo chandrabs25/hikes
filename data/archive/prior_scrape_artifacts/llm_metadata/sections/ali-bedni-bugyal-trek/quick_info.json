@@ -1,0 +1,198 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::quick_info",
+  "section_type": "quick_info",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "geography_and_logistics",
+      "field": "basecamp",
+      "value": "Lohajung, Uttarakhand",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "basecamp",
+          "quote_or_summary": "basecamp: Lohajung, Uttarakhand",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "highest_altitude",
+      "value": "12,550 ft",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "highest_altitude",
+          "quote_or_summary": "highest_altitude: 12,550 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "pickup_details",
+      "value": "Live free hostel, Rishikesh at 5.00 AM",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "pickup_details",
+          "quote_or_summary": "pickup_details: Live free hostel, Rishikesh at 5.00 AM",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "dropoff_details",
+      "value": "Live free hostel, Rishikesh at 7.00 PM",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "dropoff_details",
+          "quote_or_summary": "dropoff_details: Live free hostel, Rishikesh at 7.00 PM",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "accommodation_type",
+      "value": "Tents (2-sharing)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "accommodation_type",
+          "quote_or_summary": "accommodation_type: Tents (2-sharing)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "cloakroom",
+      "value": "Available",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "cloakroom",
+          "quote_or_summary": "cloakroom: Available",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "offloading",
+      "value": "Available",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "offloading",
+          "quote_or_summary": "offloading: Available",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "trek_difficulty",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_difficulty",
+          "quote_or_summary": "trek_difficulty: Easy-Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_criteria",
+      "value": "5 km in 40 mins",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "fitness_criteria",
+          "quote_or_summary": "fitness_criteria: 5 km in 40 mins",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "minimum_age",
+      "value": "8 years and above",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "suitable_for",
+          "quote_or_summary": "suitable_for: 8 years and above",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "duration",
+      "value": "6 days",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_duration",
+          "quote_or_summary": "trek_duration: 6 days / 27.2 kms",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "distance",
+      "value": "27.2 kms",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_duration",
+          "quote_or_summary": "trek_duration: 6 days / 27.2 kms",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": [
+    "identity",
+    "seasonality",
+    "experience_themes",
+    "risks_and_watchouts",
+    "recommendation_profile",
+    "comparison_axes"
+  ]
+}

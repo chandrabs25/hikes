@@ -1,0 +1,248 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "brammah-valley-trek",
+  "section_id": "brammah-valley-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/brammah-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "May",
+        "June",
+        "September"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "It is in the months of May, June and September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Greener valley with patches of snow in upper reaches in May and June",
+        "Clearer skies with light showers expected at end of June",
+        "Trekking under shade of tall pine trees next to the gushing Nath River",
+        "Lush green valley after monsoons in September",
+        "Clearer air offering better views of surrounding landscapes in September",
+        "Crisp chill in the air as autumn arrives",
+        "High mountain peaks experiencing odd snowfall",
+        "Greens turning brown and then golden by October and November"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "In the months of May and June, the whole valley is greener and there are patches of snow in the upper reaches. The skies are clearer and you can expect light showers at the end of June. Trekking under the shade of tall pine trees next to the gushing Nath River is an experience cherished by everyone to date.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "In September you'll notice the monsoons have turned the valley into a lush green. The air is also clearer offering you a better view of the surrounding landscapes. You might get occasional showers at early September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "As autumn arrives, the temperatures start dropping and there is a crisp chill in the air. You'll observe the high mountain peaks experiencing the odd snowfall or two. But down in the valley, the greens start turning to a shade of brown until they're golden in October and November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow in upper reaches in May and June (not necessarily on the trail)",
+        "No snow on the trail in September",
+        "Odd snowfall on high mountain peaks as autumn arrives"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: Snow in the upper reaches. Not necessarily on the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will not find snow on the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "You'll observe the high mountain peaks experiencing the odd snowfall or two.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Light showers expected at end of June",
+        "Occasional showers possible in early September"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "you can expect light showers at the end of June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "You might get occasional showers at early September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "May–June daytime: 18–24 °C; nighttime: 3–8 °C",
+        "September daytime: 8–10 °C; nighttime: 0 to -5 °C",
+        "2 warm layers required in May–June",
+        "5 warm layers required in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 18 °C and 24 °C | Night time: Will drop to temperatures between 3 °C and 8 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 10 °C | Night time: Will drop to temperatures between 0 °C and -5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 2 warm layers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Clearer skies in May and June",
+        "Clearer air in September offering better views of surrounding landscapes",
+        "Greens turning brown then golden by October and November"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "The skies are clearer",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "The air is also clearer offering you a better view of the surrounding landscapes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "the greens start turning to a shade of brown until they're golden in October and November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Very short accessibility window during the year",
+        "Light showers at end of June",
+        "Occasional showers in early September",
+        "Sub-zero night temperatures in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "There is a very short window during the whole year when the Brammah Valley trek is accessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "you can expect light showers at the end of June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "You might get occasional showers at early September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::best_time_section::001",
+          "quote_or_summary": "Night time: Will drop to temperatures between 0 °C and -5 °C.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

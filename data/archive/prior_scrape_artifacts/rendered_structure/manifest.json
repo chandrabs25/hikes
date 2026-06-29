@@ -1,0 +1,218 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "generated_at": "2026-06-27T16:42:59.963230+00:00",
+  "source": "playwright_rendered_structure",
+  "count": 35,
+  "records": [
+    {
+      "trek_id": "ali-bedni-bugyal-trek",
+      "url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "bali-pass-ruinsara-tal",
+      "url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "beas-kund",
+      "url": "https://indiahikes.com/beas-kund",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "bhrigu-lake",
+      "url": "https://indiahikes.com/bhrigu-lake",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "bijli-mahadev-trek",
+      "url": "https://indiahikes.com/bijli-mahadev-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "bodpathri-trek",
+      "url": "https://indiahikes.com/bodpathri-trek",
+      "status": "ok",
+      "ui_sections": 18
+    },
+    {
+      "trek_id": "brahmatal-trek",
+      "url": "https://indiahikes.com/brahmatal-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "brammah-valley-trek",
+      "url": "https://indiahikes.com/brammah-valley-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "buran-ghati",
+      "url": "https://indiahikes.com/buran-ghati",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "chandrabhaga-glaciers-trek",
+      "url": "https://indiahikes.com/chandrabhaga-glaciers-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "chandrakhani-pass-trek",
+      "url": "https://indiahikes.com/chandrakhani-pass-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "dayara-bugyal-trek",
+      "url": "https://indiahikes.com/dayara-bugyal-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "deoriatal-chandrashila-trek",
+      "url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "everest-base-camp-trek-nepal",
+      "url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+      "status": "ok",
+      "ui_sections": 18
+    },
+    {
+      "trek_id": "gaumukh-tapovan",
+      "url": "https://indiahikes.com/gaumukh-tapovan",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "goechala",
+      "url": "https://indiahikes.com/goechala",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "gurez-valley-trek",
+      "url": "https://indiahikes.com/gurez-valley-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "hampta-pass",
+      "url": "https://indiahikes.com/hampta-pass",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "har-ki-dun",
+      "url": "https://indiahikes.com/har-ki-dun",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "kanamo-peak-trek",
+      "url": "https://indiahikes.com/kanamo-peak-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "kashmir-great-lakes",
+      "url": "https://indiahikes.com/kashmir-great-lakes",
+      "status": "skipped_missing_anchor",
+      "ui_sections": 0
+    },
+    {
+      "trek_id": "kedarkantha-trek",
+      "url": "https://indiahikes.com/kedarkantha-trek",
+      "status": "ok",
+      "ui_sections": 26
+    },
+    {
+      "trek_id": "kedartal",
+      "url": "https://indiahikes.com/kedartal",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "khopra-ridge-khayar-lake",
+      "url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+      "status": "ok",
+      "ui_sections": 18
+    },
+    {
+      "trek_id": "kuari-pass",
+      "url": "https://indiahikes.com/kuari-pass",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "miyar-valley-trek",
+      "url": "https://indiahikes.com/miyar-valley-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "nafran-valley-trek",
+      "url": "https://indiahikes.com/nafran-valley-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "nag-tibba",
+      "url": "https://indiahikes.com/nag-tibba",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "pangarchulla-peak-trek",
+      "url": "https://indiahikes.com/pangarchulla-peak-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "phulara-ridge-trek",
+      "url": "https://indiahikes.com/phulara-ridge-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "pin-bhaba-pass-trek",
+      "url": "https://indiahikes.com/pin-bhaba-pass-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "pir-panjal-lakes-trek",
+      "url": "https://indiahikes.com/pir-panjal-lakes-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "ranthan-kharak-trek",
+      "url": "https://indiahikes.com/ranthan-kharak-trek",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "rupin-pass",
+      "url": "https://indiahikes.com/rupin-pass",
+      "status": "ok",
+      "ui_sections": 22
+    },
+    {
+      "trek_id": "sandakphu-phalut",
+      "url": "https://indiahikes.com/sandakphu-phalut",
+      "status": "ok",
+      "ui_sections": 22
+    }
+  ]
+}

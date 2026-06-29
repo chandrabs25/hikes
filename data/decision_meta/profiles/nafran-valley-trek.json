@@ -1,0 +1,163 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.408884+00:00",
+  "trek_id": "nafran-valley-trek",
+  "trek_title": "Nafran Valley Trek",
+  "source_url": "https://indiahikes.com/nafran-valley-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 7,
+    "distance_km": 41.0,
+    "highest_altitude_ft": 13789,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar",
+    "pickup_time": "8 AM",
+    "dropoff_city": "8 PM",
+    "dropoff_time": null,
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "Second week of July to the beginning of September",
+        "July",
+        "August",
+        "September"
+      ],
+      "avoid_months": [
+        "Other seasons (outside July-September) due to cold and snow-covered trail and meadows"
+      ],
+      "snow_or_rain_notes": [
+        "Upper reaches under heavy snow until first week of July; lower meadows open earlier",
+        "Remnants of snow by Harnag and Harbhagwan lakes in July",
+        "Snow almost melted after mid-July",
+        "No snow from end of August to first week of September",
+        "Kashmir receives only mild rainfall in July and August due to Pir Panjal range blocking rain clouds"
+      ],
+      "temperature_notes": [
+        "Early July: Day 15-20°C, Night 4-8°C",
+        "Mid-July to third week of August: Day 15-20°C, Night 4-8°C",
+        "End of August to first week of September: Day 12-18°C, Night 2-6°C; cold sets in as season progresses",
+        "End of September may not be the most comfortable time due to cold temperatures"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate-Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for fit beginners and experienced trekkers"
+      ],
+      "terrain_challenges": [
+        "Significant elevation changes throughout the trail",
+        "Challenging climb to Harnag Pass at 12,500 ft that is steep and rocky",
+        "Large boulders and uneven terrain near Harnag Pass increasing risk of slips and falls",
+        "Strenuous climbs and descents on the trail to Harbhagwan Lake at 13,789 ft",
+        "Long trekking days, some exceeding 10 kilometers"
+      ],
+      "altitude_or_weather_risks": [
+        "Altitude gain is quick, exceeding 11,000 ft within two trekking days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft, affecting first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS",
+        "Early-season trails can be wet and muddy after snowmelt",
+        "Streams flow at full force early in the season, making river crossings tricky"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "Without fitness approval, trekkers will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria",
+        "Use apps like Nike and Strava to record runs",
+        "Paste the public profile link on the Indiahikes account"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week fitness plan available for running and walking",
+        "Strength training schedule provided"
+      ]
+    },
+    "experience_themes": [
+      "Early July: remnants of snow by Harnag and Harbhagwan lakes, possible melting ice floes in early July",
+      "Mid-July to third week of August: bright green meadows carpeting the trail, wildflowers in Shul Margi and Bhaj Margi plains (violet, red, blue, purple, yellow, white), deep blue alpine lake waters, evening showers",
+      "End of August to first week of September: meadows turning golden brown, flowers wilting, brilliant blue skies when clouds part, deeper blue lake reflections, frequent evening showers, cold setting in",
+      "Rugged grey mountains rising at the fringes contrasting with green meadows",
+      "Alpine lakes Harnag and Harbhagwan with deep blue waters",
+      "Brilliant blue skies reflected in alpine lakes when clouds part"
+    ],
+    "primary_watchouts": [
+      "Upper reaches under heavy snow until first week of July",
+      "Evening showers become frequent from end of August",
+      "Cold sets in as season progresses to end of August",
+      "End of September may not be the most comfortable time due to cold temperatures",
+      "Trekking outside July-September window due to cold and snow-covered trail/meadows",
+      "End of September trekking due to cold temperatures (though doable)"
+    ],
+    "best_for": [
+      "Trekkers seeking comfortable monsoon-season trekking with mild rainfall",
+      "Trekkers wanting to see wildflower-dotted green meadows (mid-July to third week of August)",
+      "Trekkers interested in seeing snow remnants and frozen lake scenery (early July)",
+      "Trekkers wanting brilliant blue skies and golden-brown meadow tones (end of August to first week of September)"
+    ],
+    "not_ideal_for": [
+      "Trekking outside July-September window due to cold and snow-covered trail/meadows",
+      "End of September trekking due to cold temperatures (though doable)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "nafran-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "nafran-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "nafran-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "nafran-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "nafran-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "nafran-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "nafran-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "nafran-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "nafran-valley-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

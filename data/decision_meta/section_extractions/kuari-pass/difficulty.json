@@ -1,0 +1,256 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kuari-pass",
+  "section_id": "kuari-pass::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/kuari-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascent on day 1 of about 1500 ft over 2.75 km",
+        "Overhanging narrow trail for about 1 km overlooking Dhak valley between Tali and Gorson Bugyal, tricky in winter or rainy days",
+        "Unmarked trail entry into pine forests of Auli from Gorson Bugyal, easy to go astray, tricky on misty/foggy days with low visibility"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "You have a steep ascent on the first day of the trek. You climb about 1500 ft over a stretch of just 2.75 km.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "While approaching Gorson Bugyal from Tali, you trek on an overhanging narrow trail for about 1 km overlooking the Dhak valley. Especially around winter or rainy days, this stretch can get tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "The trail going into the pine forests of Auli from Gorson Bugyal is not well marked. If you miss the exact entry point to the forest, it is easy to go astray. On a misty or foggy day with low visibility, this can be tricky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 1 steep ascent of ~1500 ft over 2.75 km",
+        "Daily ascents and descents across four trekking days covering ~22 km with cumulative gain of ~4,731 ft (7,785 ft to 12,516 ft)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "You have a steep ascent on the first day of the trek. You climb about 1500 ft over a stretch of just 2.75 km.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 22 km in four trekking days during which you will gain approximately 4,731 ft (7,785 ft to 12,516 ft). Every day will include ascents and descents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes wherever required",
+        "Trek Leaders and Technical Guides provide necessary guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Day 1 steep ascent of ~1500 ft over 2.75 km can increase susceptibility to Acute Mountain Sickness",
+        "Trek reaches 12,500 ft; above 10,000 ft AMS risk is real for both first-time and experienced trekkers",
+        "Even fit persons climbing too high too soon are at equal risk of AMS"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "The ascent of about 1500 ft over a stretch of just 2.75 km. It is steep, and this exertion on the very first day of your trek, can make you more prone to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "On the Kuari Pass trek, you reach an altitude of 12,500 ft and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Prolonged rainfall or snowfall can change trek dynamics; Tali campsite is extremely prone to flooding",
+        "Rain can make forest trails slushy and unsafe to walk on",
+        "Snowfall can obstruct existing paths, requiring fresh tracks to be cut",
+        "Autumn/winter temperatures may plummet below zero; strong winds can be taxing without proper layering",
+        "Khullara campsite is one of the coldest campsites among Indiahikes treks; appropriate layering is extremely important"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. The Tali campsite is extremely prone to flooding and rain can also make the forest trails too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "In the Autumn and winter seasons, the temperatures may plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "The Khullara campsite is one of the coldest campsites among all the treks that we run at Indiahikes. Appropriate layering is extremely important here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers for altitude-related emergencies",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate",
+        "Closest Primary Healthcare Center is in Joshimath, 20 km by road from Karchi",
+        "For serious concerns, Dehradun is the best option, a 7-8 hour drive from both Karchi and Auli",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "The closest Primary Healthcare Center is in Joshimath, just 20 kms by road from Karchi. However, for any serious concern, heading to Dehradun is the best option. Dehradun is a 7-8 hr drive from both Karchi and Auli.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Several difficult sections require trekkers to be alert and trek carefully",
+        "Overhanging narrow trail near Dhak valley is tricky in winter or rainy days",
+        "Unmarked forest entry near Auli is easy to miss, especially in mist/fog with low visibility",
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "There are several difficult sections on this trek that require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "Especially around winter or rainy days, this stretch can get tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "On a misty or foggy day with low visibility, this can be tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

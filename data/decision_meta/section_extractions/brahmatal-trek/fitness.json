@@ -1,0 +1,191 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "brahmatal-trek",
+  "section_id": "brahmatal-trek::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/brahmatal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [
+        "If you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down.",
+        "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "If you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [
+        "To do the Brahmatal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "To do the Brahmatal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "Track your runs on Strava, Nike Run Club, or any similar fitness app.",
+        "Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard.",
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Track your runs on Strava, Nike Run Club, or any similar fitness app.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "Follow this, and you'll be trek-ready in 6 weeks."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Follow this, and you'll be trek-ready in 6 weeks.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [
+        "Children below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Children below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "risk_if_unfit": {
+      "values": [
+        "If you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind.",
+        "Your fitness records will be rejected for one of two reasons: You haven't uploaded your 3 screenshots to your dashboard. Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+        "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety."
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "If you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "Your fitness records will be rejected for one of two reasons: You haven't uploaded your 3 screenshots to your dashboard. Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::fitness_section::001",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,228 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "nag-tibba",
+  "section_id": "nag-tibba::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/nag-tibba",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The best time to do the trek would be in the post-monsoon months of September, October and November.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The next best time to do Nag Tibba is in Winter. It provides a great time for snow experience on the Nag Tibba trek in the month of December-January-February.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Spring in Nag Tibba starts by mid March and goes on till the end of April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The forests and meadows look bright and sunny during May-June.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Autumn: post-monsoon clear skies, brown/orange leaves, crisp pine-scented air",
+        "Winter: snow experience, camping and trekking in snow",
+        "Spring: melting snow at upper reaches, green grass, tiny flowers, rhododendron bloom",
+        "Summer: green colour palette, coniferous and oak trees, bright sunny forests and meadows"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Post monsoon, the sky is washed clean of all the haze. It's a great time to do Nag Tibba as leaves turn brown making the trek look orange in colour. Witness these as you trek, inhaling the crisp, pine-scented autumn air.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "It provides a great time for snow experience on the Nag Tibba trek in the month of December-January-February. The snow isn't too thick to block the trail. It isn't so thin that it disappears within a few days either. It's a wonderful time to camp and trek in the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The snows start to melt at the upper reaches while the grass begins to turn green throughout the trek. Tiny flowers make their heads out of the grass while rhododendrons bloom on the trees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Summers bring out a green colour palette on this trek, one that you might not witness in any other season. You will witness tonnes of Coniferous and oak trees. The forests and meadows look bright and sunny during May-June.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "December",
+        "January",
+        "February"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "It provides a great time for snow experience on the Nag Tibba trek in the month of December-January-February. The snow isn't too thick to block the trail. It isn't so thin that it disappears within a few days either.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Post-monsoon clear skies washed clean of haze",
+        "Autumn: orange/brown colour palette from leaves",
+        "Spring: green grass, tiny flowers, rhododendrons on trees",
+        "Summer: green colour palette with coniferous and oak trees, bright sunny forests and meadows"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Post monsoon, the sky is washed clean of all the haze.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "leaves turn brown making the trek look orange in colour",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "the grass begins to turn green throughout the trek. Tiny flowers make their heads out of the grass while rhododendrons bloom on the trees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Summers bring out a green colour palette on this trek... You will witness tonnes of Coniferous and oak trees. The forests and meadows look bright and sunny during May-June.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [
+        "Snow experience and camping in snow (December-February)",
+        "Autumn scenery with clear skies and orange/brown foliage (September-November)",
+        "Spring blooms including rhododendrons and wildflowers (mid-March to April)",
+        "Easy trek and family/children introduction to the Himalayas (May-June)",
+        "Summer getaway from plains heat (May-June)"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "It provides a great time for snow experience on the Nag Tibba trek in the month of December-January-February.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The best time to do the trek would be in the post-monsoon months of September, October and November.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "Spring in Nag Tibba starts by mid March and goes on till the end of April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::best_time_section::001",
+          "quote_or_summary": "The trek is at its easiest and is a great getaway from the summer heat of the plains. It also makes for the perfect time to introduce children to the Himalayas during their summer vacations.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

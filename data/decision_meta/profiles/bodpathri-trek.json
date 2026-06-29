@@ -1,0 +1,160 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.395473+00:00",
+  "trek_id": "bodpathri-trek",
+  "trek_title": "Bodpathri Trek",
+  "source_url": "https://indiahikes.com/bodpathri-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 7,
+    "distance_km": 48.1,
+    "highest_altitude_ft": 13060,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar",
+    "pickup_time": null,
+    "dropoff_city": null,
+    "dropoff_time": null,
+    "offloading_available": null,
+    "cloakroom_available": null,
+    "accommodation_type": null
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "July",
+        "August",
+        "September"
+      ],
+      "avoid_months": [
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March"
+      ],
+      "snow_or_rain_notes": [
+        "Snow remains at higher altitudes in early July; most snow melted by mid-July to third week of August; snowfall can be expected during the second week of September",
+        "Light evening showers in early July; some evening showers mid-July to third week of August; rains reduce after end of August; Pir Panjal range blocks most rain clouds so rains are mild compared to Himachal Pradesh and Uttarakhand"
+      ],
+      "temperature_notes": [
+        "Early July: daytime 15-20°C, nighttime 2-7°C; Mid-July to third week of August: daytime 15-20°C, nighttime 4-8°C; Aug-end to second week of September: daytime 14-18°C, nighttime 0-5°C"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate-difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Boulder sections on almost all days of the trek",
+        "Long descent on the last day with patches requiring care",
+        "Marginally longer trekking days hovering at altitudes of around 12,000 feet on most of the days",
+        "Trekking 7-8 km on average every day"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek climbs to 13,060 ft",
+        "Risk of AMS on any day even though altitude gain per day is not too much",
+        "Check BP and oxygen saturation at every campsite at least twice",
+        "Diamox can be taken as a curative course if feeling uneasy",
+        "Do not proceed further if not feeling normal after a few hours or overnight"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Cover 5 km in under 32 minutes",
+        "Run 5 km in 32 mins consistently for at least 2 weeks before the trek"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team 20 days before the trek date is required",
+        "A minimum of 3 screenshots of runs/jogs/walks/cycling must be uploaded",
+        "Monthly summary of the fitness routine must be uploaded"
+      ],
+      "prep_window": [
+        "At least 6-8 weeks of preparation is required",
+        "Start jogging at least 4 days a week",
+        "If unable to run 5 km, start with 2 km and increase to 5 km over 2-3 weeks"
+      ]
+    },
+    "experience_themes": [
+      "Early July: snow remains at higher altitudes, trek accessible, colourful flowers appearing on meadows, lush green meadows, alpine lakes still frozen in parts, light evening showers",
+      "Mid-July to third week of August: most snow melted, frozen ice in lakes melted, bright sunny mornings with some evening showers, green meadows densely dotted with wildflowers",
+      "Aug-end to second week of September: cold sets in, rains reduce, brilliant blue skies, deep blue alpine lakes, meadows change colour from fresh green to a different tone, flowers change",
+      "Lush green meadows punctuated with alpine lakes still frozen in parts (early July); meadows densely dotted with wildflowers (mid-July to third week of August); brilliant blue skies reflecting in deep blue alpine lakes, meadows change colour from fresh green to a different tone, flowers change (Aug-end to second week of September)",
+      "Snow remains at higher altitudes in early July; most snow melted by mid-July to third week of August; snowfall can be expected during the second week of September"
+    ],
+    "primary_watchouts": [
+      "Evening showers may occur; cross the pass early and reach next campsite by 4 PM; snowfall chances increase after second week of September making the pass uncrossable and the trail on the other side inaccessible; trek is usually stopped after the second week of September",
+      "Trekkers looking for snow trekking; trekking outside the July to mid-September window as trails are buried under snow",
+      "Boulder sections on almost all days of the trek",
+      "Long descent on the last day with patches requiring care",
+      "Marginally longer trekking days hovering at altitudes of around 12,000 feet on most of the days",
+      "Trekking 7-8 km on average every day"
+    ],
+    "best_for": [
+      "Trekkers seeking a short monsoon-season window with mild rains, wildflower meadows, and changing alpine landscapes in Jammu & Kashmir"
+    ],
+    "not_ideal_for": [
+      "Trekkers looking for snow trekking; trekking outside the July to mid-September window as trails are buried under snow",
+      "Trekkers who are not confident in placing their footing"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "bodpathri-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "bodpathri-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "bodpathri-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "bodpathri-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "bodpathri-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "bodpathri-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "bodpathri-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "bodpathri-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "bodpathri-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "bodpathri-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

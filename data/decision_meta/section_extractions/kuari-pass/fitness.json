@@ -1,0 +1,203 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kuari-pass",
+  "section_id": "kuari-pass::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/kuari-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [
+        "Lagging trekkers pull the entire team back and force the Trek Leader to slow the group, risking missed summits or viewpoints for prepared trekkers.",
+        "If a trekker falls behind by 45 minutes and is visibly struggling, the Trek Leader may send them back for the safety of the individual and the team."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [
+        "Must be able to walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level).",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "Track runs on Strava, Nike Run Club, or any similar fitness app.",
+        "Take 3 screenshots of runs and upload them to the Indiahikes Dashboard.",
+        "Upload screenshots 15 to 20 days before the trek date to demonstrate consistent preparation.",
+        "Screenshots must demonstrate meeting the trek's fitness criteria."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Track your runs on Strava, Nike Run Club, or any similar fitness app.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Make sure you upload these screenshots 15 to 20 days before your trek date.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "6 weeks (using Indiahikes' free 6-Week Training Plan).",
+        "Screenshots must be uploaded 15 to 20 days before the trek date.",
+        "Runs must meet the fitness criteria at least 3 times in the past month."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Follow this, and you'll be trek-ready in 6 weeks.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Make sure you upload these screenshots 15 to 20 days before your trek date.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [
+        "Children below 14 years are not required to submit fitness records; parents must ensure children remain physically active and prepared."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Children below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "risk_if_unfit": {
+      "values": [
+        "Unfit trekkers will struggle, fall behind, and miss out on the transformative trek experience.",
+        "If fitness records are rejected, the Trek Leader and Slope Manager are informed in advance; the trekker may be sent back if they fall 45 minutes behind and are visibly struggling."
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "If you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::fitness_section::001",
+          "quote_or_summary": "Your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

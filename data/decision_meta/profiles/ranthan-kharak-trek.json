@@ -1,0 +1,168 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.412532+00:00",
+  "trek_id": "ranthan-kharak-trek",
+  "trek_title": "Ranthan Kharak Trek",
+  "source_url": "https://indiahikes.com/ranthan-kharak-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 38.0,
+    "highest_altitude_ft": 12887,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Kathgodam Railway station",
+    "pickup_time": "5.30 AM",
+    "dropoff_city": "Kathgodam Railway station",
+    "dropoff_time": "7.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October"
+      ],
+      "avoid_months": [
+        "July",
+        "August",
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "snow_or_rain_notes": [
+        "Snow can start during the early weeks of November",
+        "Late weeks of April: snow towards Ranthan Kharak",
+        "May: snow starts to recede at higher altitudes",
+        "Spring: patches of snow as you ascend higher on the trek",
+        "End of October/start of November: chances of witnessing the first winter snowfall of the year if weather turns bad"
+      ],
+      "temperature_notes": [
+        "Autumn: 12°C to 18°C (day); night can drop to 0°C; 4-5 warm layers required",
+        "Summer: 15°C to 20°C (day); night drops to almost 2°C; 3 warm layers required",
+        "Spring: 10°C to 15°C (day); night can hit sub-zero; 4-5 warm layers required; chilling winds after crossing Bajimanian Kharak"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Tricky climb to Thal Tok on Day 4",
+        "Tricky moraine section on Day 4",
+        "Steep ascent through rugged, boulder-strewn terrain on Day 5",
+        "Final climb to Ranthan Top is the most demanding part of the trek",
+        "Day 5 summit climb is steep and demanding"
+      ],
+      "altitude_or_weather_risks": [
+        "From Namik to Baji Kharak, ascend over 2,300 feet; stay well-hydrated to lower risk of Acute Mountain Sickness",
+        "Ranthan Top is at 12,887 ft; above 10,000 ft AMS risk is real",
+        "Altitude sickness can affect first-time and experienced trekkers alike; even fit persons climbing too high too soon are at equal risk",
+        "During Spring, pack 4-5 warm layers; layering helps against chilling winds, especially after crossing Bajimanian Kharak",
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy and unsafe"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "To do the Ranthan Kharak Trek comfortably, you must be able to walk, jog or run 5 km in 35 minutes. This is the minimum recommended fitness level that you must aim for."
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+        "Your runs don't meet your trek's fitness criteria at least 3 times in the past month."
+      ],
+      "prep_window": [
+        "Follow this, and you'll be trek-ready in 6 weeks.",
+        "Make sure you upload these screenshots 15 to 20 days before your trek date."
+      ]
+    },
+    "experience_themes": [
+      "Autumn: sharper, crisper mountain views from Ranthan Top; trail changes from greens near base camp to yellows, oranges, and browns in meadows; magnificent ridge walk views",
+      "Summer: shades of green throughout the trek; wildflowers blooming on meadows and campsites in June; bright green grasslands with bright yellow flowers; mountain views open up on clear days",
+      "Spring: lush green forests with rhododendrons, trees, mushrooms, birds and animals; hidden waterfalls and water trickling through thickets; budding green grass with wildflowers; possible Rhododendron bloom (reds and pinks) at end of spring/beginning of summer",
+      "Autumn: mountain views from Ranthan Top are stunning; sharper and crisper views than summer; magnificent views on both sides of the ridge walk",
+      "Summer: mountain views start opening up on clear days",
+      "Spring: views of far-off mountains will not be crystal clear, but proximity gives a magnified view"
+    ],
+    "primary_watchouts": [
+      "Early Spring: may not be able to go all the way to Ranthan Kharak or may have to tackle/navigate sections of snow",
+      "End of October/start of November: weather can turn bad with chances of first winter snowfall",
+      "After crossing Bajimanian Kharak in Spring: chilling winds on exposed parts",
+      "Autumn season is shorter compared to summer",
+      "Trekkers wanting to go all the way to Ranthan Kharak in early Spring (snow may block or limit access)",
+      "Trekkers seeking crystal-clear far-off mountain views in Spring"
+    ],
+    "best_for": [
+      "Autumn trekkers seeking sharp, crisp mountain views from Ranthan Top and ridge walk vistas",
+      "Summer trekkers wanting wildflowers, lush green meadows, and clear-day mountain views",
+      "Spring trekkers seeking Rhododendron blooms, lush green forests, hidden waterfalls, and biodiversity"
+    ],
+    "not_ideal_for": [
+      "Trekkers wanting to go all the way to Ranthan Kharak in early Spring (snow may block or limit access)",
+      "Trekkers seeking crystal-clear far-off mountain views in Spring"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "ranthan-kharak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "ranthan-kharak-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "avoid_months",
+    "rain_or_monsoon_risk"
+  ]
+}

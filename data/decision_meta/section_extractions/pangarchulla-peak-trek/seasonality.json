@@ -1,0 +1,253 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pangarchulla-peak-trek",
+  "section_id": "pangarchulla-peak-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "April"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Pangarchulla Peak trek is accessible for only one month of the year — that is in April. This covers the Spring Season of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "All months other than April"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "The trek is not open during the other months of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Spring season with snow melting giving way to lush meadows",
+        "Meadows flowering and Rhododendrons blooming",
+        "Snow present from Auli all the way to the summit",
+        "Campsites free of snow with hard snow deposited above 12,000 ft"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "In April, it is proper Spring on the Pangarchulla trek. At this time, the snow is melting, giving way to lush meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "April is also the season of flowers. You see meadows flowering and Rhodos blooming during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow starting from Auli, all the way to the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "The campsites are free of snow but there is plenty of deposited hard snow above 12,000 ft.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "April (summit climb window)",
+        "Hard snow above 12,000 ft in April",
+        "Snow from Auli to summit in April"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "The month of April offers the right amount of snow for a successful climb to the Pangarchulla summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "The campsites are free of snow but there is plenty of deposited hard snow above 12,000 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow starting from Auli, all the way to the summit.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Day time temperature: 12 °C to 15 °C",
+        "Night time temperature: 0 °C to -5 °C",
+        "5 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 12 °C and 15 °C | Night time temperature: Will drop to temperatures between 0 °C and -5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Lush meadows as snow melts",
+        "Flowering meadows and blooming Rhododendrons",
+        "Snow-covered landscape from Auli to summit"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "the snow is melting, giving way to lush meadows",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "You see meadows flowering and Rhodos blooming during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "You will find snow starting from Auli, all the way to the summit.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Before April: too much snow for summit climb",
+        "After April: snow melts leaving exposed boulders with large gaps, making traversing exhausting and unsafe",
+        "Summit climb only safe in the small April window"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Before April, the trek has too much snow for the summit climb to be possible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "After April, the snow melts away leaving the route to the summit unsafe with exposed boulders. These boulders are big and have a lot of gaps between them, making traversing them quite challenging for any trekker. It is easily exhausting and very unsafe as well.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "the summit climb is best done during this small window.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Summit climb of Pangarchulla Peak",
+        "Experiencing spring blooms (Rhododendrons and flowering meadows)",
+        "Trekkers seeking a snow trek with manageable snow conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "The month of April offers the right amount of snow for a successful climb to the Pangarchulla summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "spring offers the best of both worlds — the perfect window for the summit climb and the time to see fresh blooms.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Summit climb outside April (too much snow before, unsafe exposed boulders after)",
+        "Trekkers seeking a longer trekking season (summit climb window is only one month)"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Before April, the trek has too much snow for the summit climb to be possible. After April, the snow melts away leaving the route to the summit unsafe with exposed boulders.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::best_time_section::001",
+          "quote_or_summary": "Pangarchulla Peak trek is accessible for only one month of the year — that is in April.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

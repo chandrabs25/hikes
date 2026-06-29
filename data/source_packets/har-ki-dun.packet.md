@@ -1,0 +1,709 @@
+# Har Ki Dun - Source Packet Review
+
+> Facts below come from source-derived `trek_facts`; Playwright only confirms rendered UI structure.
+
+- Trek ID: `har-ki-dun`
+- Source URL: https://indiahikes.com/har-ki-dun
+- Has `#complete-trek-information`: `True`
+- Observed UI keys: `best_time, camping, detailed_itinerary, difficulty, faqs, fitness, other, quick_itinerary, stay, travel`
+- Source fields included: `best_time_section, day_wise_itinerary, difficulty_section, faqs, fitness_section, packing_section, quick_info, quick_itinerary, safety_section`
+- Source sections: `28`
+
+## Sections
+
+### Best Time Section
+
+- Packet section ID: `har-ki-dun::best_time_section::001`
+- Source field: `best_time_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Best Time to do the Har Ki Dun Trek Time your trek well toggle accordion; Best Time to do the Har Ki Dun Trek`
+
+```text
+One of the best things about Har Ki Dun Trek is that it can be done almost seven months in a year.
+Starting in the spring month of March, you can trek through the summer until late June. Then the monsoon arrives, shutting down the Govind Pashu Vihar Sanctuary for about 3 months.
+Thereafter the trekking season resumes in September continuing till the end of November. The heavy snow-laden trail thereafter makes it impossible to trek for the rest of the winter until later in Spring. The forest department of Uttarakhand also shuts the Har Ki Dun trek for visitors post-December until mid-March.
+Watch this video to know more about the best time to trek and how the trek looks during different seasons-
+embed
+https://youtu.be/uOzBmKrZUes
+video
+1.0
+Best Time To Do The Har Ki Dun - Ruinsara Tal Trek | Indiahikes
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/uOzBmKrZUes/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/uOzBmKrZUes?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen title="Best Time To Do The Har Ki Dun - Ruinsara Tal Trek | Indiahikes"></iframe>
+Har Ki Dun trek in Spring/Summer (March to June)
+Day time: Between 18 °C and 24 °C | Night time: Will drop to temperatures between 3 °C and 8 °C.
+Presence of snow: You will not find any snow in the summer season.
+No. of warm layers required: 2 warm layers.
+The trek opens in mid-March. In March, you’ll see the valley covered in patches of snow. Especially starting from Kalkatiyadhar to Devsu Thatch.
+The snow patches are remnants of the winter gone by. The reason for the snow this late in the season is that the valleys leading to Har Ki Dun are narrow.
+As you head into the summer months of April and May, the snow melts the few grasslands along the trail and starts turning brown and then green. April and May are also Spring which sees an abundance of flowers blooming in the woods and the meadows.
+If there is a popular season then March to June is the best time to do the Har Ki Dun trek.
+But as the monsoon month draws closer, rains start getting more frequent in the valley. Frequent showers starting in late May turn the valley greener and greener in late June.
+The trek then closes for the monsoon season.
+Har Ki Dun trek in Autumn/Winter (September to November)
+Day time: Between 8 °C and 10 °C | Night time: Will drop to temperatures between 0 °C and -5 °C.
+Presence of snow: There are high chances of witnessing the first snowfall of the winter season either during the end of October or in the month of November.
+No. of warm layers required: 5 warm layers.
+It is in September that the valley reopens again for the trekkers.
+There are lesser people on the trail as compared to the spring and summer. The views are equally spectacular.
+If you’re someone looking for solitude then September to December is the best time to do Har Ki Dun.
+In September you’ll notice the monsoons have turned the valley into a lush green. The air is also clearer offering you a better view of the surrounding landscapes.
+As autumn arrives, the temperatures start dropping and there is a crisp chill in the air. You’ll observe the high mountain peaks experiencing the odd snowfall or two.
+But down in the valley, the greens start turning to a shade of brown until they’re golden in October and November.
+The valley experiences its first snowfall usually in mid-December. It is a wonderful feeling to experience the first snowfall of the season.
+Making snowmen and having snowball fights is something that trekkers cherish and remember for a long time.
+At Indiahikes, we wind up the trek for the year by the end of November.
+Beyond November, the snowfall gets heavy and tends to accumulate up to several feet. This blocks the trail to campsites beyond Kalkathiyadhar and it is virtually impossible to complete the trek.
+The forest department of Uttarakhand also shuts the Har Ki Dun trek for visitors post-December until mid-March during the migration of animals in the Govind Pashu Vihar National Park and Wildlife Sanctuary.
+3
+4
+5
+6
+9
+10
+11
+480
+320
+a group of trekkers treading through ankle deep snow besides a pine forest section
+https://images.prismic.io/indiahike/f899f10d-ea98-4d69-bb31-e63f3ca24b6c_snow+on+har+ki+dun+Indiahikes.png?auto=compress,format&rect=0,33,800,533&w=480&h=320
+Y-zEThAAAB4AxnYi
+0
+-20
+0.6
+transparent
+230
+155
+two friends walking through the Har ki dun trail
+https://images.prismic.io/indiahike/2398654c-b091-4388-9bc9-a7d33f357b2c_Har+ki+Dun+-+Vishal+Sinha+%28Original%29+-+September+-+Indiahikes.jpg?auto=compress,format&rect=0,63,1600,1078&w=230&h=155
+YwdZoBIAAMtDtc29
+0
+-9
+0.14375
+#fff
+```
+
+### Day 1 (Pick-up Day): Drive from Dehradun to Kotgaon
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::001`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "1",
+  "place_title": "Day 1 (Pick-up Day): Drive from Dehradun to Kotgaon",
+  "difficulty": "",
+  "duration": "Drive Distance: 195 km | Drive Duration: 9-10 hours",
+  "altitude": "",
+  "water_sources": "",
+  "description": "The Drive\nThe first half of the journey gradually ascends through Dehradun (and later Mussoorie) with boarding schools and farms on either side of the road. Later, the scenery is replaced by chandelier-like pines covering large expanses of sloping mountains.\nFar off you may spot snow-capped peaks.\nThe breeze is cool. You'll pass pushcarts selling plums, apricots, peaches, rhododendron juice, local tea, etc.\nGreen Trails Tip: Make sure you get your own mug to avoid using a plastic or paper cup. This will prevent you from generating waste.\nYou'll pass several villages, namely, Naugaon, Mori, and Purola. The Naitwar village marks the beginning of the Govind Pashu Vihar National Park and Wildlife Sanctuary. You'll spot the Har ki Dun along with several other peaks of the Garhwal Himalayas.\nThe Supin and Rupin rivers merge to form river Tons. The greenish waters of River Tons accompany you for a while. Spot Rupin at Naitwar and later, Supin at Sankri.\nThe Basecamp\nKotgaon is a small but pretty village with 250 houses. A few dhabas and shops contribute to the economy of this quaint village.\nThe village offers a beautiful view of the sun setting behind the greater Himalayas. The peaks of Swargarohini shimmer in the evening sun, standing tall over the ridges beyond Kotgaon.\nOn arriving at Kotgaon—your destination for the day—a row of vibrant houses with little cafes and shops emerge in view. The structures in the village are made of wood to keep warm since temperature drops can be harsh.\nThe Indiahikes homestay is three-storied with decks on the floors above. It overlooks the tiny, colourful houses of the village.\nNotice how the birds begin singing at 5 am. You hear them throughout the day, especially in the mornings and evenings.\nThe village also has a long-held tradition of beating the drums at night, indicating bedtime, and in the morning, prompting everyone to wake up.\nWant to know what the drive from Dehradun to Kotgaon looks like? Read more on the Deep Dive Page."
+}
+```
+
+### Day 2: Drive from Kotgaon to Dharkot. Trek from Dharkot to Gangaad.
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::002`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "2",
+  "place_title": "Day 2: Drive from Kotgaon to Dharkot. Trek from Dharkot to Gangaad.",
+  "difficulty": "Difficulty: Easy-Moderate | Gradual descent from Dharkot to Gangaad.",
+  "duration": "Drive Duration: 1.5 to 2 hours\nTrek Duration:  1.5 hours | Trek Distance: 2.6 km",
+  "altitude": "Altitude Change: 8265 ft to 7767 ft",
+  "water_sources": "",
+  "description": "The Drive:\nYour journey begins with a drive from Kotgaon to Dharkot. It is a small village, roughly 23 km away from Kotgaon. The road to Dharkot passes through some beautiful mountain bends, with views of Mount Swargarohini and Mount Rangalana. You will also see sights of many hanging Himalayan villages on the mountain edges.\nNotice the houses you pass by. They are built using a technique called Koti-Banal architecture, which uses a combination of wood, stone, and slate. Such construction protects against seismic forces and the harsh climatic conditions prevalent in the region.\nAround 4 km from Kotgaon, you reach Sankri. Sankri is famously known as the base camp of the Kedarkantha trek. In winter, it is packed with trekkers. This is your last stop to buy any last-minute trekking gear. After this, you step into remote villages with no shops/markets.\nTo travel to Dharkot on your own: Hire a jeep locally from Kotgaon or Sankri. Remember that this is a landslide-prone route and is often closed during the monsoons. So, plan accordingly.\nWhat to expect on the trek:\nThe trail immediately sets off from Dhatmeer (a small village en route) onwards till Dharkot on a muddy jeep track. Follow this route for around 4 km. Dense coniferous forests surround you, with several water channels crisscrossing your path.\nAt Dharkot, spot a small Shiva temple. You’ll find open ground on the temple premises where you can break for lunch. Rhododendron, malta, and seabuckthorn are popular seasonal juices sold in the dhaba next door.\nPost-lunch, the trek picks up pace with a descent down to the Thamsa River. Throughout this 1.5 - 2 km, you trek past millet and potato fields, two crops that form the staple diet of the region.\nAfter a quick descent, you reach Thamsa, a river that will be your companion through most of the Har Ki Dun trek. Thamsa is a tributary of the Yamuna, which takes its birth in the upper ranges of Mt. Bandarpoonch. During the day, the sands glimmer along the riverbank. Notice the numerous gleaming rocks of mica covering the terrain.\nWith the river on your left, spot a shepherd’s trail descending beside it. Around 10 minutes into the descent, spot a cemented bridge over a small stream.\nWithin 15 minutes of a gradual descent, you reach a wooden bridge. Fill your bottles here. Then walk uphill for 15 minutes till you see a small clearing next to the river. You can set up an emergency camp here if need be.\nAnother 10-15 minutes later, you’ll come across a spot where you can descend to a tributary of the Thamsa River. Here, facing the inner part of the valley, locate two trails, one moving upwards and another going straight ahead. Take the second route straight ahead.\nThe trail from here may be in bad condition, as it is prone to landslides. After 10-15 minutes of a level walk, you’ll come across land cleared by shepherds. This is to set up temporary night shelters.\nTen minutes into the climb, look out for another landslide-prone section. You may have to come down the river and cross the section that has caved in due to landslides. 20 minutes on this trail, will lead you to a wooden bridge to cross the Thamsa River. From here, a 7 to 10-minute climb will lead you to the homestay. You will now have arrived at the village of Gangaad.\nLife at Gangaad:\nThe first thing you’ll notice about Gangaad is that the wooden houses are two or three-storied. Take a closer look at them when you get a chance, because these houses are architectural marvels. They are so in harmony with their mountainous surroundings that there is a remarkable amount of modernity and wisdom in their construction.\nFor instance, all houses face the east, ensuring they maximise sunlight even in the cold winters. The roofs of these houses are made of heavy stone sheets called ‘Patali’. These are intricately put together to make angled roofs so that snow/rain slides off easily. The weight of the stones also protects the homes from the wind and other harsh weather conditions.\nBut what they do further to regulate heat will baffle you. Cattle are reared at lower levels. Sheep and goats are in the middle level, and humans are at the top-most level. Heat trapped in the lower levels from the cattle helps regulate the temperature above, keeping the whole building warm in the winter.\nLooking beyond the homes, in the heart of this ancient hamlet are a primary school and a temple dedicated to Someshwar Mahadev. You may often find the temple closed. This is because the residents believe that the gods move from one temple to another during different seasons. But when open, the temple has strong traditional practices, including the sacrificial goat. Every time an individual leaves the village in pursuit of better prospects and opportunities or when a special occasion arises, a goat is sacrificed and cooked, which is then shared among all the villagers.\nBeyond the village, you’ll notice that the mountain across the valley is rife with greenery, mostly spruce, whereas the side you’re standing on is mostly barren and ridged. You’ll notice this in many parts of the Himalayas. It is mostly caused by different factors like exposure to sunlight, moisture from rain/snow, and the type of soil."
+}
+```
+
+### Day 3: Trek from Gangaad to Kalkatiyadhar via Osla
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::003`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "3",
+  "place_title": "Day 3: Trek from Gangaad to Kalkatiyadhar via Osla",
+  "difficulty": "Difficulty: Easy-Moderate | Initial descent of 15 minutes followed by a mostly level walk for about 90 minutes. Steep climb for 15 minutes followed by a level walk and boulder section, finishing off with a gradually ascending trail.",
+  "duration": "Trek Distance: 8.4 km | Trek Duration: 6 hours",
+  "altitude": "Altitude Change: 7767 ft to 9983 ft",
+  "water_sources": "",
+  "description": "The path from Gangaad to Kalkatiyadhaar is relatively rockier than other sections of the trail.\nThere are stretches where the trail is overlaid with sizable rocks—it’s easy to sprain your ankle in these sections. In these sections, the trick is to move ahead by using the edge of rocks as a foothold—the edge is the line that juts out at the top. This provides a good grip for your shoe to move forward from without angling the ankle at all. During descents, make sure you land softly on each foot since the impact of walking on such a terrain for hours on end is bound to make your knees hurt—so try lowering the impact as much as possible. Further, walk in a meandering or zigzag fashion to alternate the pressure on each knee—this helps a lot! Moreover, wearing kneecaps may prove to be very useful since it partially absorbs the impact.\nDescend from Gangaad and cross a bridge that leads you to the other side of the river. The river, which now falls on the left, is notably wider and more forceful than any other tract you may traverse along during the trek. After a half an hour walk, notice the campsite on the right. This is Chilurgarh. Walk ahead and spot a little sheltered gazebo-like structure by a wooden bridge. Such shelters usually serve as a place where people light up bonfires to warm themselves up. However, Indiahikes does not allow bonfires owing to its environmental repercussions, so refrain from starting one.\nAfter a while, look for a diversion to your right. It takes you to a dhaba by a wooden bridge. Behind the dhaba is a small hut. Go and witness a fascinating process: the locals use the momentum of water (hydroelectricity) to run a mechanical turbine that grinds cereal into flour. Just 25 metres before the wooden bridge, on the right, is Pauni Garaat.\nAn alternative for the Puani Garaat campsite: Those who want to camp at Osla will have to cross the wooden bridge. Get onto the left side of River Thumsa and trek along the river to reach Osla.\nAn alternative route from Puani Garaat: To reach Seema, trek straight up on the true right of the river to Seema. There are a few steep ascents, but the trail often relaxes into a gradual walk. The landscape and the terrain will remain so for around 90 minutes.\nFrom Seema, walk towards a bridge over Thumsa to the left side of the valley. Look for a small, cemented bridge, some 60 metres above you. A broken trail leads to this bridge. Walk across and get on the trail leading to Osla on the left.\nAlong the way, observe a rich foliage of purple poppies and other alpines with motley butterflies fluttering around in clusters of indigo, orange, white, brown, and black. A series of rhododendron trees tinted red, pink, and white, either in bloom or wound up, is a sight of unparalleled beauty. The local tea, called Chora, gets its special aftertaste from red rhododendrons (the white ones are poisonous). At several places, innocent-looking plants like Nettle and Poison Ivy splotch the ground underneath. Nettle leaves, clever in its design, sting the fingertips when touched, and you are left scratching your head looking for the pointy thorn that pricked you. Numerous white wild roses with sappy little leaves on both sides of the trail will be discernable through and through. Admire the tiny offshoots of yellow and purple flowers springing from rocky crevices and clumps of grass on the trail.\nPerceive the mountains in view with frozen glaciers cleaving through the upper slopes; notice the stark contrast of glazing whiteness with the dark green overlay surrounding it. Leap from boulder to boulder to cross the pouring waterfalls, which will mellow down at places and make for shallow rivulets submerging only the soles of your boots.\nAfter a considerable ascent, enter the village of Osla. It is a tiny village with vast open spaces. The children here play cricket using a washing bat and a rolled-up ball made by stringing together disparate pieces of cloth. A huge, sheltered place stands beside an open ground by the temple of Someshwar Devata. The ground is where the children play! It is notable that trash lying around near the villages is much more than along the trails, so make sure to collect maximum waste from here.\nFrom Osla, trek for an hour or more. A large meadow thriving with crops of millet will come into view. With a backdrop of green hills, people rearing cattle, and travellers lazing around on rocks and the two wooden beams making an “L” beside a quirky dhaba makes for an appropriate resting place and a darling treat to the eye. Lie back and observe the endless peaks, valleys, and rivers harmonise in a beautiful, dreamy view. Explore the crops, the rocks, and bask in the afternoon sunshine or the shadow of the passing clouds, depending on the weather.\nMoving on from here, after a few twists and turns and a bridge and another dhaba (drink Chora tea from here), begin your ascent to your first campsite, Kalkatiyadhar. The splendid views from the campsite involve sights of our two surreal valleys—Har ki Dun. The entirety of Hatta peaks dominates the skies, along with the Black peak (Kalanaag), Bandarpunch 1, and Bandarpunch 2. Devsu Thach, our last campsite, is also visible from here.\nSprawled all over the campsite will be tents and mats and farms and flocks of sheep chasing one another. Cows and dogs will moo and bark at one another while you are highly encouraged to stupidly bleat at the sheep who will respond with judgemental stares and look around confusedly. As much as you might love animals, do not separate any lamb from its peers (even for a selfie)—the poor thing gets very anxious."
+}
+```
+
+### Day 4: Trek from Kalkatiyadhar to Har Ki Dun to Boslo
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::004`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "4",
+  "place_title": "Day 4: Trek from Kalkatiyadhar to Har Ki Dun to Boslo",
+  "difficulty": "Difficulty: Moderate | The ridge walk from Kalkatiyadhar to Boslo can get a bit tricky. Once you pass Boslo, it is a gradual walk till Har Ki Dun and back.",
+  "duration": "Trek Distance: 10.5 km | Trek Duration: 6 hours",
+  "altitude": "Altitude Change: 9,983 ft to 11,600 ft to 10,502 ft",
+  "water_sources": "",
+  "description": "It’s the most exciting day of the trek!\nThe itinerary for the day involves trekking from Kalkatiyadhar to Har ki Dun via Boslo. The road to Boslo begins with a gentle ascent of 40–45 minutes, after which follows a flat trail. Notice the Bhojpatra trees on either side of the trail, the trunks of which will seem misshapen compared to the tall, vertical pines. The peeling nature of the trunk adds to its gnarly composition. They only grow above a certain elevation, i.e., above 10,000 ft.\nLook for a magnificent waterfall which you may either cross by stepping on big boulders or by walking on thin wooden beams in a wobbly balancing act. Right by it is a dhaba big enough to accommodate 20 people. Even though it’s tempting to stop and drink chai at every stop, it’s important keep in mind that the fuel source used is not too efficient. At places where gas cylinders are not readily available, wood is the main source of fuel which is highly toxic for the environment.\nBehind the dhaba is a wooden bridge, after which follows a gradual ascent till a lightning-struck tree, followed by a soothing descent of an hour or more. The walk is pleasant and relieving after all the burn your quads have endured. After the descent, turn right. Our next campsite will emerge in view.\nEven though every campsite has its unique features which makes it supreme in its own way, Boslo is undoubtedly the best if one was forced to pick a “favourite”. The campsite consists of a soft, damp ground underneath which the river tends to pass—making it a natural waterbed. The expanse of the campsite is a limitless stretch from one side where the four peaks of Hatta rise along with Har ki Dun, to another side that goes towards —Ruinsara. The campsite is long and wide on all sides and consists of huge boulders to sit and ponder, scattered across the landscape. The river rushes down at an energetic pace, circumventing the rocks and boulderstones in its way which are thrust into the ground with a determined firmness. The formidable mounts ahead are very still and intimidating, making it all one of the most humbling experiences, culminating in the realisation of human fragility.\nThe mornings at Boslo makes the place the very archetype of Paradise on Earth when the sun floods the village with bright golden light and the birds call and respond to one another with their constant twitters.\nSince it’s the summit day, everyone will carry day packs. From Boslo, the summit is attempted through a considerable ascent of 1.5–2 hours, throughout which you will meet a lot of trekkers returning from the summit and wishing you luck on the way. The surroundings are thriving with birch trees. After a while, look for a thach ahead of you. You may rest and snack on nuts to keep up the energy. Once you reach a flat expanse at the end of your ascent, notice Thumsa on your right, as clear as day and shallow enough for you to cross to the other end.\nA series of patchy lightning-struck trees on the right of the river loom ominously. On your left will rise sturdy mountains, unclimbable through normal means. Right ahead, marking the summit is a small temple of Lord Shiva, encasing a huge Shivling, and a GMVH rest house just beside it. Massive boulders are scattered across the landscapes underneath which notice the trekkers warming themselves up. After a certain distance, cross a wooden bridge and begin your final ascent to reach the summit. You can either go up to the temple and take a right or traverse the grassy area without any marked trails to directly reach at the top.\nA beautiful world unravels itself. On the right, get a glimpse of Swargarohini 1, 2, & 3 (4 is on the other side of the valley, and hence, not visible). Behold the Hatta peaks along with a splendid view of the Jaundhar glacier and Maninda Tal, from where Thumsa originates. It’s a sheer impossibility to comprehend the sublimity of the prospects before you. A panoramic view of the most renowned peaks contouring the skyline puts you in a trance where all you are aware of is the senses perceiving the landscape and the awareness of the self becomes an intangibility—your consciousness is an aspect wholly devoted to discerning the vistas and everything else dissolves into oblivion.\nDescending to Boslo is a reward on its own, since, after a long day, you need a place like this to hold you.\nCurious why Swargarohini is the biggest highlight of Har Ki Dun? Find out on the Deep Dive Page."
+}
+```
+
+### Day 5: Trek from Boslo to Devsu Thatch
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::005`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "5",
+  "place_title": "Day 5: Trek from Boslo to Devsu Thatch",
+  "difficulty": "Difficulty: Easy-Moderate | Gradual descent from Boslo to Devsu Thatch.",
+  "duration": "Trek Distance: 5.1 km | Trek Duration: 5 hours",
+  "altitude": "Altitude change: 10,502 ft to 9,878 ft",
+  "water_sources": "",
+  "description": "The route from Boslo to Devsu Thatch is a cakewalk compared to what you have accomplished. It’s mostly a levelled trail where trekking will feel more like a stroll. Initially, there’s a beautiful forest stretch which you must experience by staying mindful and engaging your senses. Pay attention to the smells and how they change throughout the stretch. Listen to the birds chirruping to one another. If the air is cold, let the chill and the goosebumps overwhelm you. Notice the wandering butterflies and observe the rocks you step on. This flourishing extent will have so much to give so take it all in.\nTowards the end of the forest, observe the snow-capped mountains reflecting a blinding whiteness under the sun. On your left is Swargarohini along with other peaks. The legend in the region tells of the impossibility of climbing Swargarohini—the mountain through which the Pandavas achieved their ascent to heaven. It says that whoever attempted to climb the magnificent peak has had to return owing to some snowstorm or rainsquall, however, no-one has ever met their demise during the climb.\nThe trail to Devsu Thach mostly consists of a levelled trail with a few descents and ascents on the way. There is a forest stretch after which, ascend to a bridge across the Kyarakoti river and attempt the steepest ascent of the trek. The ascent will take around half an hour and one will require multiple halts in between. Make sure you make good use of the trekking pole/s to partially take off the burden off your legs. It is a meandering ascent with large vein-like roots protruding out of the ground—they make for good footholds. There is a short, levelled trail in between where you may catch your breath.\nAfter the ascent, vast meadows with trees and shrubs and boulders pockmarking the scene will greet you and relieve you of the anticipation for an opportunity to plump yourselves down with exhaustion as you reach the campsite. Devsu Thach is a great expanse with tall conifer trees at the beginning followed by a plain grassland near the slopes, overlooking the mountains on the other side. Look for the mules and cows grazing and loafing around with the herdsmen scattered all over. The campsite at Kalkatiyadhar along with the meadow on the top is clearly visible from here. The campsite is ideal for a night trek!"
+}
+```
+
+### Day 6: Trek from Devsu Thatch to Dharkot. Drive from Dharkot to Kotgaon.
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::006`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "6",
+  "place_title": "Day 6: Trek from Devsu Thatch to Dharkot. Drive from Dharkot to Kotgaon.",
+  "difficulty": "Difficulty: Moderate | Gradual descent till Gangaad and a steep ascent to Dharkot.",
+  "duration": "Trek Distance: 10.3 km | Trek Duration: 6-7 hours",
+  "altitude": "Altitude Change: 9,878 ft to 8,265 ft",
+  "water_sources": "",
+  "description": "The trail will take you back in time. From here, trace the former trail across the valley till Gangaad. The campsites and villages you have passed will flit across your memory when you recognise them with their little landmarks and quirks. A little ahead is a dhaba. Rest up, rehydrate yourselves, and eat (try omelettes and egg bhurjis). Moving ahead, Gangaad will soon emerge in view.\nFrom Gangaad, take the trail that goes to the left. It's an ascent through the lovely secluded forest section. In no time, you will reach Dharkot - your stay for the night."
+}
+```
+
+### Day 7: Drive from Kotgaon to Dehradun.
+
+- Packet section ID: `har-ki-dun::day_wise_itinerary::007`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with pictures toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "7",
+  "place_title": "Day 7: Drive from Kotgaon to Dehradun.",
+  "difficulty": "",
+  "duration": "Drive Distance: 195 km  | Drive Duration: 9-10 hours",
+  "altitude": "",
+  "water_sources": "",
+  "description": "Clear your rentals and merchandise, and drive back to Dehradun. Since this is your last day as a team, talk and express gratitude towards one another."
+}
+```
+
+### Difficulty Section
+
+- Packet section ID: `har-ki-dun::difficulty_section::001`
+- Source field: `difficulty_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Difficult is the Har Ki Dun Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion; How Difficult is the Har Ki Dun Trek`
+- Matched anchors: `uncontrolled-tab-example-tabpane-Day 2; uncontrolled-tab-example-tabpane-Day 3; uncontrolled-tab-example-tabpane-Day 4; uncontrolled-tab-example-tabpane-Day 5; uncontrolled-tab-example-tabpane-Day 6`
+
+```text
+Moderate
+Suitable for Fit Beginners
+1721
+1291
+https://images.prismic.io/indiahike/aEkeh7NJEFaPX2TQ_difficultyicon_moderate.png?auto=format,compress
+aEkeh7NJEFaPX2TQ
+0
+1
+transparent
+You will cover a total of around 37 km in five trekking days during which you will gain approximately 5,500 ft (6,400 ft to 11,600 ft). Every day will include ascents and descents. Most days involve longer trekking durations.
+The Terrain:
+The Har Ki Dun trail follows the Thamsa River almost entirely, with streams and rivers accompanying you throughout. While wooden or cement bridges aid crossings, they’re sometimes washed away, requiring a rope and pulley system to get across.
+You negotiate a steep ascent on the way to Kalkatiyadhar from Gangaad. You will also need to walk on a ledge and multiple boulder sections on this stretch.
+Please Note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.
+Weather:
+If you’re trekking to Har Ki Dun in winter (December), and the year’s winter snow has already come in, expect to start seeing snow as soon as you enter the trail (sometimes even from Taluka).
+Rainfall or snowfall lasting for hours can significantly alter the dynamics of a trek. Rain can turn the trails slushy and difficult to navigate safely, while snowfall can block previously established paths, requiring new tracks to be carved through the snow. Accumulation of snow can make certain parts of the Har ki Dun Valley completely inaccessible.
+Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.
+Please Note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.
+Altitude:
+The Har Ki Dun trek starts at 6,900 ft and climbs to 11,600 ft. You may feel that the trek does not climb very high. However, you must not overlook the fact that you reach as high as 10,032 on the second day of the trek at Kalkathiyadhar.
+The Har Ki Dun trek also has long distances to cover every day making it a bit tiring for someone who is not adequately prepared. For these reasons you may be prone to Acute Mountain Sickness (AMS).
+At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.
+Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE
+Please Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.
+Emergency Exits:
+Har Ki Dun trek has only one exit which is retracing your way back to Taluka and Kotgaon.
+From Taluka, you can hire a jeep to Purola. Evacuation may take up to 24 hours since you are deep in the valley and the roads connecting Kotgaon and Purola are notoriously bad.
+Closest Hospital to the Har Ki Dun Trek:
+For mild medical issues, the closest medical assistance can be found in Mori and then in Purola. This includes simple fractures, sprains, etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.
+The Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.
+Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.
+```
+
+### What will the pick up point be? How is travel arranged?
+
+- Packet section ID: `har-ki-dun::faqs::001`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: What will the pick up point be? How is travel arranged?
+A: Indiahikes will organise transport to and from Asli Pappu Da Dhaba, Dehradun, and the base camp at Kotgaon on the first day of the trek. This will be in 5-6 seater vehicles. The cost of each vehicle transport one way is Rs 6000. A 10-12 seater vehicle costs Rs 9,000 one way. It will be shared among co trekkers in the same vehicle.
+```
+
+### How do I prepare for the trek, it is my first trek. What is the difficulty level?
+
+- Packet section ID: `har-ki-dun::faqs::002`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How do I prepare for the trek, it is my first trek. What is the difficulty level?
+A: Har Ki Dun is considered a moderate trek. This is because the distance covered on most days is long, an average of around 10 km. Also, the trek itself is 8 days which makes it very tiring. It is a good trek for fit first-timers. You need to make sure you are physically fit to walk 10 km on average in the mountains.
+You will need at least 4 weeks of good preparation for this trek. You can begin preparation by going for brisk walks and then doing brisk jogs to improve your cardio. Your target should be to cover 5 km in 35 minutes comfortably by the start of the trek.
+```
+
+### What do I need to bring on the trek, and what can I rent with Indiahikes?
+
+- Packet section ID: `har-ki-dun::faqs::003`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: What do I need to bring on the trek, and what can I rent with Indiahikes?
+A: You will need to bring everything mentioned on the things to take tab. We have trek poles, shoes, backpacks and padded jackets on rent.
+All rental gear needs to be booked and paid for online on your dashboard. It will be provided to you at the base camp before you begin the trek.
+```
+
+### How to reach the pick up point, that is Dehradun? Any hotels you recommend?
+
+- Packet section ID: `har-ki-dun::faqs::004`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How to reach the pick up point, that is Dehradun? Any hotels you recommend?
+A: Dehradun is connected by air to most major cities in India. You can either fly directly to Dehradun and spend the night before the pickup. Another option is to fly to Delhi and take an overnight train the Nanda Devi Express (Kota SSN Express) to Dehradun. Do not take the Mussoorie express as it is always late.
+You can look at Hotel Drona and Hotel Grand. They are both close to the railway station as well.
+```
+
+### Is Cloakroom facility available on the Har Ki Dun trek?
+
+- Packet section ID: `har-ki-dun::faqs::005`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Is Cloakroom facility available on the Har Ki Dun trek?
+A: For your Har Ki Dun Trek , you have the opportunity to drop your luggage at the base camp for the duration of the trek.
+At the end of the trek, the cloak room belongings can be picked up at the base camp on your return.
+Please do ensure that you do not leave valuable belongings in our cloak room facility. If you do so, do inform our staff so that they can take the necessary precautions to keep it safe.
+Every trekker is permitted to leave behind one piece of luggage at no charge. Anything beyond one piece of luggage is chargeable at Rs 500 per luggage. (The luggage could be a backpack / suitcase / duffel bag or anything similar.).
+```
+
+### I am more than 62 years old. Can I do this trek?
+
+- Packet section ID: `har-ki-dun::faqs::006`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: I am more than 62 years old. Can I do this trek?
+A: Yes you can!
+If you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 45 minutes.
+```
+
+### Is Offloading available on this trek?
+
+- Packet section ID: `har-ki-dun::faqs::007`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Is Offloading available on this trek?
+A: Having more footprint through porters or mules on any trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.
+But if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.
+The cost of offloading on the Har ki Dun trek is Rs 2,000 for the trek.
+Find details about the offloading process here.
+```
+
+### Will there be electricity at the campsite/s on the trek?
+
+- Packet section ID: `har-ki-dun::faqs::008`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Will there be electricity at the campsite/s on the trek?
+A: Kotgaon are the last points that are electrically connected. However, the electricity is extremely intermittent and can be absent for the most part of the day during winter/late summer (when the monsoon starts to set in).
+So, we strongly encourage you to bring additional batteries for your cameras and a power bank with more than 10,000 mAh to last you the entire trek.
+```
+
+### Where will I find ATMs on the trek?
+
+- Packet section ID: `har-ki-dun::faqs::009`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get Your Questions Answered Here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Where will I find ATMs on the trek?
+A: The last ATM en route to the base camp is in Mori. Mori has an SBI bank with an ATM attached to it. However, the ATM has been found to be empty of cash many times.
+In such a case, you may head out to an SBI authorized cash withdrawal center. You can swipe your card and get cash from the person servicing the desk. This center is located on the first floor, two buildings to the right of SBI.
+Although Mori has this possibility, we strongly encourage trekkers to bring cash or to withdraw cash from the 3 ATMs available in Purola (SBC, ICICI and Axis Bank ATMs).
+```
+
+### Fitness Section
+
+- Packet section ID: `har-ki-dun::fitness_section::001`
+- Source field: `fitness_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How to Get Fit for the Har Ki Dun Trek A 6-Week Plan to Help You Get Trek-Fit for the Har Ki Dun Trek toggle accordion; How to Get Fit for the Har Ki Dun Trek`
+- Matched anchors: `getting-fit`
+
+```text
+Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.
+On a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.
+Walking, jogging or running is the best routine for this.
+It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.
+Here’s Why Running is the Best Exercise To Get Fit for a Trek
+Fitness Target
+To do the Har Ki Dun Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for.
+image
+https://images.prismic.io/indiahike/ah1UZweQX7-eWege_fitnessinfographic.png?auto=format,compress
+874
+690
+ah1UZweQX7-eWege
+0
+1
+transparent
+To reach any fitness target, there are two things you must work on:
+Cardiovascular Endurance
+Muscle Strength
+If you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.
+They have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.
+Click here to Download our Free 6-Week Training Plan
+Frequently Asked Questions
+1. Why get fit before your trek?
+If you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.
+But here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.
+Here’s What Happens When you Don’t Get Fit Before Your Trek
+2. What is the fitness approval process at Indiahikes?
+Track your runs on Strava, Nike Run Club, or any similar fitness app.
+Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard.
+Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.
+Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.
+Here’s What the Fitness Approval Process at Indiahikes Looks Like
+3. When can your fitness records get rejected?
+Your fitness records will be rejected for one of two reasons:
+You haven't uploaded your 3 screenshots to your dashboard.
+Your runs don't meet your trek's fitness criteria at least 3 times in the past month.
+Check both before you submit. It'll save you the back and forth.
+4. What happens if your fitness records get rejected?
+You can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.
+5. Do children need fitness approvals before a trek?
+Children below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.
+Any
+```
+
+### Packing Section
+
+- Packet section ID: `har-ki-dun::packing_section::001`
+- Source field: `packing_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched anchors: `what-to-pack; trek-what-to-pack`
+
+```text
+Packing list
+image
+https://images.prismic.io/indiahike/aDyDBbh8WN-LVdQZ_HarKiDun-V1-.jpg?auto=format,compress
+1600
+aDyDBbh8WN-LVdQZ
+0
+1
+transparent
+Before you purchase any gear, visit the Crosstrek Rental store, where you can rent high-quality gear at 5% of the buying cost.
+You can rent trekking shoes, backpacks, padded jackets, trekking poles, rainwear and headlamps for less than Rs 2000 for the entire duration of your trek. Visit our Crosstrek Rentals store here.
+Here is a list of everything you need for your trek.
+Shoes and a backpack
+Trekking shoes with ankle support (Available on rent)
+45-55 Ltr Backpack with rain cover (Available on rent)
+Warm Layers and Clothes
+1 fleece
+1 pair of thermals
+1 sweater/fleece/thermal
+1 padded jacket (Available on rent)
+3 full-sleeved T-shirts (Wear one, carry two)
+2 quick-dry trek pants (Wear one, carry one)
+Waterproof gloves (Available for purchase)
+Balaclava/ Bandana (Neck Warmer Available for purchase)
+Woollen socks (2 pairs of Dry fit + 1 pair of Woollen) (Waterproof Trekking Socks Available for purchase)
+High Ankle synthetic/cotton socks (carry based on number of trekking days)
+Accessories
+Sunglasses (Available on rent)
+Sun cap (Available for purchase), preferably with flaps
+Headlamp (Available on rent)
+Trekking poles (Available on rent)
+Rain jacket + pants / poncho (Rain Jacket Available on rent) (All Weather Shel Jacket Available for purchase)
+Toiletries:
+Sunscreen
+Light towel
+Lip balm or vaseline
+Toilet paper (Wet wipes are strictly not allowed on our treks)
+Toothbrush
+Toothpaste
+Reusable plastic covers (for used clothes)
+Cutlery:
+1 Steel lunch box (Available on rent)
+1 Spoon
+1 Coffee mug (Available on rent)
+Two water bottles or Hydration Pack (Water Bottles Available on rent) (Thermos Flask Available on rent)
+Once you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.
+Our only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.
+Nevertheless, we understand that some gears that cannot be rented due to hygiene issues. So visit our Crosstrek Merchandise Store for exclusive trekking gear, accessories and apparel.
+embed
+https://www.youtube.com/watch?v=PFtBdafs_PM
+video
+1.0
+What to take on a high altitude trek | Indiahikes
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/PFtBdafs_PM/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/PFtBdafs_PM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="What to take on a high altitude trek | Indiahikes"></iframe>
+Keep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.
+Mandatory Documents
+These are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.
+Original and photocopy of government photo identity card: Anything such as a driver’s license, Aadhar Card, or passport will do. Note This is required by the forest department for your identification.
+Treadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.
+Disclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there. However, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download Disclaimer Certificate
+Medical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate
+Note: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.
+Consultation fee: Rs 350
+Any
+Personal Medical Kit
+Carry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.
+Diamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend to Kotgaon. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Har Ki Dun trek.
+Dolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain
+Avomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.
+Combiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.
+Digene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.
+ORS (6 packs): Consume a pack of ORS water at least once a day, usually mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.
+Knee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.
+Our trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.
+Pro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.
+```
+
+### Quick Info
+
+- Packet section ID: `har-ki-dun::quick_info::001`
+- Source field: `quick_info`
+- Section type: `structured_facts`
+- Rendered support: `included_source_field`
+
+```text
+{
+  "trek_difficulty": "Moderate",
+  "trek_duration": "7 days / 37 km",
+  "highest_altitude": "11,600 ft",
+  "suitable_for": "11 years and above",
+  "basecamp": "Kotgaon, Uttarakhand",
+  "accommodation_type": "Tents (2-sharing), Homestays (gender-based)",
+  "fitness_criteria": "5 km in 35 mins",
+  "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+  "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6 PM",
+  "packing_checklist": "Click to Generate",
+  "cloakroom": "Available",
+  "offloading": "Available"
+}
+```
+
+### Day 1
+
+- Packet section ID: `har-ki-dun::quick_itinerary::001`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "1",
+  "heading": "Drive from Dehradun to Kotgaon",
+  "sub_heading": "Drive Distance: 195 km | Drive Duration: 9-10 hours | Pick up for Indiahikes trekkers: Place - Asli Pappu Da Dhaba, Dehradun (6.30 am) | Indiahikes basecamp Location: Kotgaon",
+  "details": "Transport will be organised from Asli Pappu Da Dhaba, Dehradun, at 6.30 AM.  The cost is Rs.1300/- (additional 5% GST) per trekker (one-way). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek."
+}
+```
+
+### Day 2
+
+- Packet section ID: `har-ki-dun::quick_itinerary::002`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "2",
+  "heading": "Drive from Kotgaon to Dharkot. Trek from Dharkot to Gangaad",
+  "sub_heading": "Drive Duration: 1.5 to 2 hours | Trek Distance: 2.6 km | Trek Duration: 1.5 hours | Altitude Change: 8265 ft to 7767 ft",
+  "details": "Difficulty: Easy-Moderate | Gradual descent from Dharkot to Gangaad."
+}
+```
+
+### Day 3
+
+- Packet section ID: `har-ki-dun::quick_itinerary::003`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "3",
+  "heading": "Trek from Gangaad to Kalkatiyadhar via Osla",
+  "sub_heading": "Trek Distance: 8.4 km | Trek Duration: 6 hours | Altitude Change: 7767 ft to 9983 ft",
+  "details": "Difficulty: Easy-Moderate | Initial descent of 15 minutes followed by a mostly level walk for about 90 minutes. Steep climb for 15 minutes followed by a level walk and boulder section, finishing off with a gradually ascending trail."
+}
+```
+
+### Day 4
+
+- Packet section ID: `har-ki-dun::quick_itinerary::004`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "4",
+  "heading": "Trek from Kalkatiyadhar to Har Ki Dun to Boslo",
+  "sub_heading": "Trek Distance: 10.5 km | Trek Duration: 6 hours | Altitude Change: 9,983 ft to 11,600 ft to 10,502 ft",
+  "details": "Difficulty: Moderate | The ridge walk from Kalkatiyadhar to Boslo can get a bit tricky. Once you pass Boslo, it is a gradual walk till Har Ki Dun and back."
+}
+```
+
+### Day 5
+
+- Packet section ID: `har-ki-dun::quick_itinerary::005`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "5",
+  "heading": "Trek from Boslo to Devsu Thatch",
+  "sub_heading": "Trek Distance: 5.1 km | Trek Duration: 5 hours | Altitude change: 10,502 ft to 9,878 ft",
+  "details": "Difficulty: Easy-Moderate | Gradual descent from Boslo to Devsu Thatch."
+}
+```
+
+### Day 6
+
+- Packet section ID: `har-ki-dun::quick_itinerary::006`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "6",
+  "heading": "Trek from Devsu Thatch to Dharkot. Drive from Dharkot to Kotgaon.",
+  "sub_heading": "Trek Distance: 10.3 km | Trek Duration: 6-7 hours | Altitude Change: 9,878 ft to 8,265 ft",
+  "details": "Difficulty: Moderate | Gradual descent till Gangaad and a steep ascent to Dharkot."
+}
+```
+
+### Day 7
+
+- Packet section ID: `har-ki-dun::quick_itinerary::007`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "7",
+  "heading": "Drive from Kotgaon to Dehradun",
+  "sub_heading": "Drive Distance: 195 km  | Drive Duration: 9-10 hours | Drop off for Indiahikes trekkers: Place - Asli Pappu Da Dhaba, Dehradun | Drop off time: 7 pm",
+  "details": "This transport cost has to be borne by trekkers and paid directly to the driver. The cost is Rs.1300/- (additional 5% GST) per trekker (one-way). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\nPlease note: The distance between campsites may vary by 100 meters depending on the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\nYou’re not just walking from one campsite to another—there’s a lot more the trail reveals. To go deeper into the geography and culture of the Har Ki Dun trail and Kotgaon, head to our Deep Dive page."
+}
+```

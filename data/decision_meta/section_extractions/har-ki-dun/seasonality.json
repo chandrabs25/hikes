@@ -1,0 +1,352 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "har-ki-dun",
+  "section_id": "har-ki-dun::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/har-ki-dun",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Starting in the spring month of March, you can trek through the summer until late June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "the trekking season resumes in September continuing till the end of November",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "March to June is the best time to do the Har Ki Dun trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "September to December is the best time to do Har Ki Dun",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August",
+        "December",
+        "January",
+        "February"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "the monsoon arrives, shutting down the Govind Pashu Vihar Sanctuary for about 3 months",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The heavy snow-laden trail thereafter makes it impossible to trek for the rest of the winter until later in Spring",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The forest department of Uttarakhand also shuts the Har Ki Dun trek for visitors post-December until mid-March",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Patches of snow in March from Kalkatiyadhar to Devsu Thatch",
+        "Abundance of flowers blooming in woods and meadows in April and May",
+        "Greener valley with frequent showers in late May and late June",
+        "Lush green valley in September after monsoons with clearer air",
+        "Greens turning brown then golden in October and November",
+        "First snowfall usually in mid-December with snowmen and snowball fights"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "In March, you'll see the valley covered in patches of snow. Especially starting from Kalkatiyadhar to Devsu Thatch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "April and May are also Spring which sees an abundance of flowers blooming in the woods and the meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Frequent showers starting in late May turn the valley greener and greener in late June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "In September you'll notice the monsoons have turned the valley into a lush green. The air is also clearer offering you a better view of the surrounding landscapes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "down in the valley, the greens start turning to a shade of brown until they're golden in October and November.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The valley experiences its first snowfall usually in mid-December. It is a wonderful feeling to experience the first snowfall of the season. Making snowmen and having snowball fights is something that trekkers cherish and remember for a long time.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "March (patches of snow from Kalkatiyadhar to Devsu Thatch)",
+        "End of October or November (first snowfall possible)",
+        "Mid-December (first snowfall usually)",
+        "Post-November heavy snow blocks trail beyond Kalkathiyadhar"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "In March, you'll see the valley covered in patches of snow. Especially starting from Kalkatiyadhar to Devsu Thatch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "There are high chances of witnessing the first snowfall of the winter season either during the end of October or in the month of November.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The valley experiences its first snowfall usually in mid-December.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Beyond November, the snowfall gets heavy and tends to accumulate up to several feet. This blocks the trail to campsites beyond Kalkathiyadhar and it is virtually impossible to complete the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon shuts down Govind Pashu Vihar Sanctuary for about 3 months",
+        "Frequent showers starting in late May",
+        "Monsoon arrives after late June"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "the monsoon arrives, shutting down the Govind Pashu Vihar Sanctuary for about 3 months",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Frequent showers starting in late May turn the valley greener and greener in late June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The trek then closes for the monsoon season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Spring/Summer (March to June): Day 18-24°C, Night 3-8°C, 2 warm layers",
+        "Autumn/Winter (September to November): Day 8-10°C, Night 0 to -5°C, 5 warm layers"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Day time: Between 18 °C and 24 °C | Night time: Will drop to temperatures between 3 °C and 8 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 2 warm layers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 10 °C | Night time: Will drop to temperatures between 0 °C and -5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Clearer air in September offering better view of surrounding landscapes",
+        "Spectacular views in autumn/winter with fewer people",
+        "Snow patches in narrow valleys persist into March"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The air is also clearer offering you a better view of the surrounding landscapes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "There are lesser people on the trail as compared to the spring and summer. The views are equally spectacular.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The reason for the snow this late in the season is that the valleys leading to Har Ki Dun are narrow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Monsoon closes the trek for about 3 months",
+        "Heavy snow post-November blocks trail beyond Kalkathiyadhar making trek virtually impossible",
+        "Forest department shuts trek post-December until mid-March due to animal migration in Govind Pashu Vihar National Park and Wildlife Sanctuary",
+        "Indiahikes winds up trek operations by end of November"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "the monsoon arrives, shutting down the Govind Pashu Vihar Sanctuary for about 3 months",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Beyond November, the snowfall gets heavy and tends to accumulate up to several feet. This blocks the trail to campsites beyond Kalkathiyadhar and it is virtually impossible to complete the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The forest department of Uttarakhand also shuts the Har Ki Dun trek for visitors post-December until mid-March during the migration of animals in the Govind Pashu Vihar National Park and Wildlife Sanctuary.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the trek for the year by the end of November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Popular season trekkers (March to June)",
+        "Solitude seekers (September to December)",
+        "Flower and meadow lovers (April and May)",
+        "First snowfall and snow play enthusiasts (mid-December)"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "If there is a popular season then March to June is the best time to do the Har Ki Dun trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "If you're someone looking for solitude then September to December is the best time to do Har Ki Dun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "April and May are also Spring which sees an abundance of flowers blooming in the woods and the meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "Making snowmen and having snowball fights is something that trekkers cherish and remember for a long time.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers during monsoon (July-August)",
+        "Trekkers during deep winter (December-February) when trail is blocked by heavy snow and forest department closure"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The trek then closes for the monsoon season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::best_time_section::001",
+          "quote_or_summary": "The heavy snow-laden trail thereafter makes it impossible to trek for the rest of the winter until later in Spring.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

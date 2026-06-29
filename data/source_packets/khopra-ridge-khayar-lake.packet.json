@@ -1,0 +1,1244 @@
+{
+  "schema_version": "source_packet_v1",
+  "note": "Clean source packet. Facts come from source-derived trek_facts; Playwright contributes rendered structure only.",
+  "generated_at": "2026-06-27T16:43:16.609690+00:00",
+  "trek_id": "khopra-ridge-khayar-lake",
+  "trek_title": "Khopra Ridge Trek",
+  "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+  "has_complete_trek_information": true,
+  "rendered_structure_file": "khopra-ridge-khayar-lake.structure.json",
+  "observed_ui_keys": [
+    "best_time",
+    "detailed_itinerary",
+    "difficulty",
+    "faqs",
+    "fitness",
+    "other",
+    "quick_itinerary",
+    "travel"
+  ],
+  "source_fields_included": [
+    "best_time_section",
+    "day_wise_itinerary",
+    "difficulty_section",
+    "faqs",
+    "fitness_section",
+    "packing_section",
+    "quick_info",
+    "quick_itinerary",
+    "safety_section"
+  ],
+  "source_sections": [
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "text_section",
+      "title": "Best Time Section",
+      "content": "There are two distinct seasons for the Khopra Ridge trek – April (Spring) and October (Autumn).\nKhopra Ridge in Spring (April)\nDay time: Between 20 °C and 24 °C | Night time: Will drop to temperatures between 10 °C and 5 °C.\nPresence of snow: You may find snow patches on the trail.\nNo. of warm layers required: 3 warm layers\nIn Spring, although you will find patches of hard snow at higher altitudes, the temperature during the day will be slightly warmer than that in Autumn, when there won’t be any snow on the trek.\nEven the air is different. While Spring is moist, Autumn is dry and crisp.\nIt’s that time of the year when winter has left the slopes. But, you will still find snow patches on the ground above 12,000 feet.\nIn Spring, expect pleasant daytime temperatures around 20 °C. But at night it dips to almost zero levels.\nDuring the day if the sun goes behind the clouds and there is about of rain, then the temperature can fall to around 15 °C.\nKhopra Ridge in Autumn (October)\nDay time: Between 15 °C and 18 °C | Night time: Will drop to temperatures between 5 °C and -5 °C.\nPresence of snow: You will not find snow at this time of the year.\nNo. of warm layers required: 4 warm layers\nAutumn is slightly like winter. Colder than Summer, although you won’t find patches of snow.\nNights in Autumn get chilly. In October the temperature dips to 0° C.\nDuring the day, you will experience temperatures around 15° C. But any rain or slight drizzle brings down the temperature by a few degrees. So keep a jacket handy with you always.\n4\n9",
+      "text": "There are two distinct seasons for the Khopra Ridge trek – April (Spring) and October (Autumn).\nKhopra Ridge in Spring (April)\nDay time: Between 20 °C and 24 °C | Night time: Will drop to temperatures between 10 °C and 5 °C.\nPresence of snow: You may find snow patches on the trail.\nNo. of warm layers required: 3 warm layers\nIn Spring, although you will find patches of hard snow at higher altitudes, the temperature during the day will be slightly warmer than that in Autumn, when there won’t be any snow on the trek.\nEven the air is different. While Spring is moist, Autumn is dry and crisp.\nIt’s that time of the year when winter has left the slopes. But, you will still find snow patches on the ground above 12,000 feet.\nIn Spring, expect pleasant daytime temperatures around 20 °C. But at night it dips to almost zero levels.\nDuring the day if the sun goes behind the clouds and there is about of rain, then the temperature can fall to around 15 °C.\nKhopra Ridge in Autumn (October)\nDay time: Between 15 °C and 18 °C | Night time: Will drop to temperatures between 5 °C and -5 °C.\nPresence of snow: You will not find snow at this time of the year.\nNo. of warm layers required: 4 warm layers\nAutumn is slightly like winter. Colder than Summer, although you won’t find patches of snow.\nNights in Autumn get chilly. In October the temperature dips to 0° C.\nDuring the day, you will experience temperatures around 15° C. But any rain or slight drizzle brings down the temperature by a few degrees. So keep a jacket handy with you always.\n4\n9",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::009-best-time-to-do-the-khopra-ridge-trek-time-your-trek-well-to",
+            "ui_key": "best_time",
+            "label": "Best Time to do the Khopra Ridge Trek Time your trek well toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2560
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::010-best-time-to-do-the-khopra-ridge-trek",
+            "ui_key": "best_time",
+            "label": "Best Time to do the Khopra Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2560
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1: Reach Pokhara from Kathmandu",
+      "content": {
+        "day": "1",
+        "place_title": "Day 1: Reach Pokhara from Kathmandu",
+        "difficulty": "",
+        "duration": "Drive Duration: 7 hours | Drive Distance: 215 km",
+        "altitude": "Altitude: 2,760 ft",
+        "water_sources": "Highlights: The drive through the rolling hills of Nepal. The lakeside near the hotel.",
+        "description": "Reach Pokhara on your own before 4.00 PM. You can find different ways to reach Pokhara in the ‘Reaching the Basecamp’ section of the trek page.\nYour stay in Pokhara Top and Top Hotel, Pokhara will be booked by Indiahikes. You don’t need to pay extra for this.\nYou will meet the rest of the team at the hotel. The briefing will be conducted at the hotel at 6.00 PM on Day 1.\nGo for a walk by the lakeside after the briefing and retire early after dinner. You’ll need to conserve energy for the long trek ahead!"
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"place_title\": \"Day 1: Reach Pokhara from Kathmandu\",\n  \"difficulty\": \"\",\n  \"duration\": \"Drive Duration: 7 hours | Drive Distance: 215 km\",\n  \"altitude\": \"Altitude: 2,760 ft\",\n  \"water_sources\": \"Highlights: The drive through the rolling hills of Nepal. The lakeside near the hotel.\",\n  \"description\": \"Reach Pokhara on your own before 4.00 PM. You can find different ways to reach Pokhara in the ‘Reaching the Basecamp’ section of the trek page.\\nYour stay in Pokhara Top and Top Hotel, Pokhara will be booked by Indiahikes. You don’t need to pay extra for this.\\nYou will meet the rest of the team at the hotel. The briefing will be conducted at the hotel at 6.00 PM on Day 1.\\nGo for a walk by the lakeside after the briefing and retire early after dinner. You’ll need to conserve energy for the long trek ahead!\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Drive from Pokhara to Kimsee. Trek to Ghandruk",
+      "content": {
+        "day": "2",
+        "place_title": "Day 2: Drive from Pokhara to Kimsee. Trek to Ghandruk",
+        "difficulty": "Difficulty: Easy – Moderate. Gradual ascent from Kimsee to Ghandruk.",
+        "duration": "Drive Distance: 56 km | Trek Duration: 2.5 hours\nTrek Distance: 3.7 km | Trek Duration: 2 hours",
+        "altitude": "",
+        "water_sources": "Highlights: The up close views of majestic mountains.",
+        "description": "We’ll leave the hotel at 8.00 AM. The drive from Pokhara to Kimsee will take around 2.5 hours. You cover around  60 km during this time.\nHave lunch at Kimsee before you begin the trek to Ghandruk.\nThe initial trail from Kimsee is narrow and runs through a village. The river to your left is Modi Khola. On the opposite side of the mountain, you can spot the trail for the Mardi Himal trek. Ghandruk becomes visible after 1.5 hours of trekking.\nThe trail continues to ascend gradually.\nAs you approach Ghandruk, after about another hour, the view starts opening up. You see Mt Himculi and Mt Annapurna south. This is just the beginning of mountain views. As you ascend some more, Mt Machapuchare (the ‘fishtail’ mountain) welcomes you. This is also an indication that you are very close to your first tea house.\nGhandruk is the largest village in the Annapurna Conservation Area (ACA). You will see old stone and slate-roofed houses lining the slope. You will also find a lot of tea houses spread through the entire village."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"place_title\": \"Day 2: Drive from Pokhara to Kimsee. Trek to Ghandruk\",\n  \"difficulty\": \"Difficulty: Easy – Moderate. Gradual ascent from Kimsee to Ghandruk.\",\n  \"duration\": \"Drive Distance: 56 km | Trek Duration: 2.5 hours\\nTrek Distance: 3.7 km | Trek Duration: 2 hours\",\n  \"altitude\": \"\",\n  \"water_sources\": \"Highlights: The up close views of majestic mountains.\",\n  \"description\": \"We’ll leave the hotel at 8.00 AM. The drive from Pokhara to Kimsee will take around 2.5 hours. You cover around  60 km during this time.\\nHave lunch at Kimsee before you begin the trek to Ghandruk.\\nThe initial trail from Kimsee is narrow and runs through a village. The river to your left is Modi Khola. On the opposite side of the mountain, you can spot the trail for the Mardi Himal trek. Ghandruk becomes visible after 1.5 hours of trekking.\\nThe trail continues to ascend gradually.\\nAs you approach Ghandruk, after about another hour, the view starts opening up. You see Mt Himculi and Mt Annapurna south. This is just the beginning of mountain views. As you ascend some more, Mt Machapuchare (the ‘fishtail’ mountain) welcomes you. This is also an indication that you are very close to your first tea house.\\nGhandruk is the largest village in the Annapurna Conservation Area (ACA). You will see old stone and slate-roofed houses lining the slope. You will also find a lot of tea houses spread through the entire village.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Ghandruk to Tadapani",
+      "content": {
+        "day": "3",
+        "place_title": "Day 3: Trek from Ghandruk to Tadapani",
+        "difficulty": "Difficulty: Moderate. Mix of gradual ascent and level walk on forest trails.",
+        "duration": "Trek Duration: 4.5 hours | Trek Distance: 6.40 km",
+        "altitude": "Altitude Gain:6,561 ft to 8,705 ft",
+        "water_sources": "Highlights: Beautiful rhododendron forests.",
+        "description": "To go to Tadapani from Ghandruk, begin by walking through the narrow path running through the village. Within 5 minutes, you reach a junction. From here, the ACA is divided into two parts – Central ACA AND Western ACA. Central ACA leads to Kommorong and further ahead to ABC. For Tadapani, proceed on the Western ACA.\nThe trail here consists of steps cut into the rocks. After climbing for 10 minutes on these steps, you will reach the first viewpoint. This is the “Lovely viewpoint”. From here, you will be able to sight Mt Annapurna South, Mt Himchuli, Mt Ganga Purna, Mt Annapurna III and Mt Machapuchare (fishtail). These mountains stay with you on your right as you move ahead.\nAs you proceed on the trail, you enter a forest trail dominated by a variety of tall trees. Very soon you hear the faint sounds of a waterfall in the distance. The dense canopy of the trees above coupled with moist air from the flowing stream gives you a fresh respite. Rhododendron trees also make an appearance here. You will see big red flowers on these if you are trekking here in April.\nFollow the forest trail till you reach a small bridge. From here you get a perfect view of the source of the stream. Take a break here and refill your water bottles. The next section is a steep ascent for about 45 minutes.\nAs you climb up along the small waterfall, you will reach Bhaisi Kharka, a small village in the far western region of Nepal. This is 5 km from Ghandruk.\nThe rest of the day’s hike will take you through similar but denser forest trails. Rhododendrons dominate here. These are unusually high if you have only seen the shorter trees in the Indian Himalayas. At certain places, the branches of the trees intertwine on the top to form a gateway for the trail ahead.\nAnother 2 hours of trekking brings you to the tea houses at Tadapani. Have lunch here. End the day with a perfect sunset view of Mt Machapuchare."
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"place_title\": \"Day 3: Trek from Ghandruk to Tadapani\",\n  \"difficulty\": \"Difficulty: Moderate. Mix of gradual ascent and level walk on forest trails.\",\n  \"duration\": \"Trek Duration: 4.5 hours | Trek Distance: 6.40 km\",\n  \"altitude\": \"Altitude Gain:6,561 ft to 8,705 ft\",\n  \"water_sources\": \"Highlights: Beautiful rhododendron forests.\",\n  \"description\": \"To go to Tadapani from Ghandruk, begin by walking through the narrow path running through the village. Within 5 minutes, you reach a junction. From here, the ACA is divided into two parts – Central ACA AND Western ACA. Central ACA leads to Kommorong and further ahead to ABC. For Tadapani, proceed on the Western ACA.\\nThe trail here consists of steps cut into the rocks. After climbing for 10 minutes on these steps, you will reach the first viewpoint. This is the “Lovely viewpoint”. From here, you will be able to sight Mt Annapurna South, Mt Himchuli, Mt Ganga Purna, Mt Annapurna III and Mt Machapuchare (fishtail). These mountains stay with you on your right as you move ahead.\\nAs you proceed on the trail, you enter a forest trail dominated by a variety of tall trees. Very soon you hear the faint sounds of a waterfall in the distance. The dense canopy of the trees above coupled with moist air from the flowing stream gives you a fresh respite. Rhododendron trees also make an appearance here. You will see big red flowers on these if you are trekking here in April.\\nFollow the forest trail till you reach a small bridge. From here you get a perfect view of the source of the stream. Take a break here and refill your water bottles. The next section is a steep ascent for about 45 minutes.\\nAs you climb up along the small waterfall, you will reach Bhaisi Kharka, a small village in the far western region of Nepal. This is 5 km from Ghandruk.\\nThe rest of the day’s hike will take you through similar but denser forest trails. Rhododendrons dominate here. These are unusually high if you have only seen the shorter trees in the Indian Himalayas. At certain places, the branches of the trees intertwine on the top to form a gateway for the trail ahead.\\nAnother 2 hours of trekking brings you to the tea houses at Tadapani. Have lunch here. End the day with a perfect sunset view of Mt Machapuchare.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Tadapani to Dobato",
+      "content": {
+        "day": "4",
+        "place_title": "Day 4: Trek from Tadapani to Dobato",
+        "difficulty": "Difficulty: Moderate-difficult. Gradual ascent through forest trails, with a short descent towards the beginning. Last one hour of the trail is above the tree line.",
+        "duration": "Trek Duration: 6.5 hours | Trek Distance: 6.2 km",
+        "altitude": "Altitude Gain: 8,705 ft to 11,225 ft",
+        "water_sources": "Highlights: A series of majestic mountains lined up one after the other.",
+        "description": "Similar to the previous day, the trek starts today starts on a forest trail filled with rhododendrons and bamboo. The Annapurna range accompanies you on the right. As you trek further, the trail enters deep forests. Oaks appear here. Now, the trail descends. After about 30 minutes, you again start climbing up. This brings you very close to the tree line. From here, you can see the ridge which is a part of the trail from Dobato to Khopra Ridge.\nAfter an hour’s climb, you reach Meshar. Fill your water bottles here. Straight ahead of you are Mt Annapurna (10th highest mountain in the world) and Mt Annapurna Fang (7,647 m). The 2 mountains remain visible for the next two hours, till you reach Isharu.\nFrom Meshar, the trail gradually ascends till Isharu, the second viewpoint of the day. You are just above the tree line here. The views from Isharu are outstanding – the panorama includes Mt Annapurna II, Mt Annapurna IV, and Mt Ganesha Himal along with other peaks of the Annapurna range.\nThe next hour till Dobato is a mix of ascent and descent. After reaching Dobato, have lunch at the teahouse.\nAfter a short break, set out for the best place on this trek – the Muldhai peak viewpoint. There is a reason this place has such a reputation among locals. You see twenty-two snow peaks out of which two are among the fourteen highest mountains in the world – Mt Dhaulagiri I (7th highest) and Mt Annapurna I (9th highest). The complete Annapurna and Dhaulagiri range with Mt Tukuche and Mt Nilgiri North and South are a sight to behold, especially at sunset. If you want to witness this magic again, don’t forget to come back for sunrise the next day."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"place_title\": \"Day 4: Trek from Tadapani to Dobato\",\n  \"difficulty\": \"Difficulty: Moderate-difficult. Gradual ascent through forest trails, with a short descent towards the beginning. Last one hour of the trail is above the tree line.\",\n  \"duration\": \"Trek Duration: 6.5 hours | Trek Distance: 6.2 km\",\n  \"altitude\": \"Altitude Gain: 8,705 ft to 11,225 ft\",\n  \"water_sources\": \"Highlights: A series of majestic mountains lined up one after the other.\",\n  \"description\": \"Similar to the previous day, the trek starts today starts on a forest trail filled with rhododendrons and bamboo. The Annapurna range accompanies you on the right. As you trek further, the trail enters deep forests. Oaks appear here. Now, the trail descends. After about 30 minutes, you again start climbing up. This brings you very close to the tree line. From here, you can see the ridge which is a part of the trail from Dobato to Khopra Ridge.\\nAfter an hour’s climb, you reach Meshar. Fill your water bottles here. Straight ahead of you are Mt Annapurna (10th highest mountain in the world) and Mt Annapurna Fang (7,647 m). The 2 mountains remain visible for the next two hours, till you reach Isharu.\\nFrom Meshar, the trail gradually ascends till Isharu, the second viewpoint of the day. You are just above the tree line here. The views from Isharu are outstanding – the panorama includes Mt Annapurna II, Mt Annapurna IV, and Mt Ganesha Himal along with other peaks of the Annapurna range.\\nThe next hour till Dobato is a mix of ascent and descent. After reaching Dobato, have lunch at the teahouse.\\nAfter a short break, set out for the best place on this trek – the Muldhai peak viewpoint. There is a reason this place has such a reputation among locals. You see twenty-two snow peaks out of which two are among the fourteen highest mountains in the world – Mt Dhaulagiri I (7th highest) and Mt Annapurna I (9th highest). The complete Annapurna and Dhaulagiri range with Mt Tukuche and Mt Nilgiri North and South are a sight to behold, especially at sunset. If you want to witness this magic again, don’t forget to come back for sunrise the next day.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::005",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5: Trek from Dobato to Chhiastibang via Muldai Top",
+      "content": {
+        "day": "5",
+        "place_title": "Day 5: Trek from Dobato to Chhiastibang via Muldai Top",
+        "difficulty": "Difficulty: Difficult. A complete ridge walk with steep ascents till Chhistibang. You can refill your water bottles from streams and tea houses on the way.",
+        "duration": "Trek Distance: 9.2 km |Trek Duration: 6-7 hours",
+        "altitude": "Altitude Gain & Loss: 11,220 ft to 9,678 ft via 11,811 ft",
+        "water_sources": "",
+        "description": "Start early from Dobato since it’s a long day today. After 30 minutes of ascent, you will reach a junction. The trail to the right leads to the hidden lake and the one to the left goes to Khopra Ridge. Halt here and capture the last view of all the mountain peaks of the Annapurna range. Don’t worry, these mountain views will soon be replaced by the Dhaulagiri range.\nTake the trail leading to Khopra ridge. After 15 minutes, the Dhaulagiri range appears to the left. This is also an indication that you are close to your first rest point, Muldai Top.\nFrom Muldai Top, the trail descends for two hours through a forest. This brings you to Chhistibang, a tea house inside the forest. Have lunch here and rest for the day!"
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"place_title\": \"Day 5: Trek from Dobato to Chhiastibang via Muldai Top\",\n  \"difficulty\": \"Difficulty: Difficult. A complete ridge walk with steep ascents till Chhistibang. You can refill your water bottles from streams and tea houses on the way.\",\n  \"duration\": \"Trek Distance: 9.2 km |Trek Duration: 6-7 hours\",\n  \"altitude\": \"Altitude Gain & Loss: 11,220 ft to 9,678 ft via 11,811 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"Start early from Dobato since it’s a long day today. After 30 minutes of ascent, you will reach a junction. The trail to the right leads to the hidden lake and the one to the left goes to Khopra Ridge. Halt here and capture the last view of all the mountain peaks of the Annapurna range. Don’t worry, these mountain views will soon be replaced by the Dhaulagiri range.\\nTake the trail leading to Khopra ridge. After 15 minutes, the Dhaulagiri range appears to the left. This is also an indication that you are close to your first rest point, Muldai Top.\\nFrom Muldai Top, the trail descends for two hours through a forest. This brings you to Chhistibang, a tea house inside the forest. Have lunch here and rest for the day!\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::006",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Trek from Chhistibang to Khopra Ridge",
+      "content": {
+        "day": "6",
+        "place_title": "Trek from Chhistibang to Khopra Ridge",
+        "difficulty": "",
+        "duration": "Trek Distance: 3.5 km |Trek Duration: 3 hours",
+        "altitude": "Altitude Gain: 9,678 ft to 11,975 ft",
+        "water_sources": "",
+        "description": "From Chhistibang, the trail ascends continuously. There are multiple small streams and small waterfalls all along. On both sides of the ridge, clouds form a small playground and enchant you with their changing forms. From here, every step towards Khopra takes you up close to the Dhaulagiri range. Watch the sun and clouds prepare for a perfect sunset.\nOn reaching Khopra, you see majestic mountain ranges all around you. Mt Annapurna South, Mt Annapurna Fang, Mt Annapurna I, Mt Nilgiri South and North, Mt Tukuche and the Dhaulagiri range welcome you. The tea house here itself is a viewpoint."
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"place_title\": \"Trek from Chhistibang to Khopra Ridge\",\n  \"difficulty\": \"\",\n  \"duration\": \"Trek Distance: 3.5 km |Trek Duration: 3 hours\",\n  \"altitude\": \"Altitude Gain: 9,678 ft to 11,975 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"From Chhistibang, the trail ascends continuously. There are multiple small streams and small waterfalls all along. On both sides of the ridge, clouds form a small playground and enchant you with their changing forms. From here, every step towards Khopra takes you up close to the Dhaulagiri range. Watch the sun and clouds prepare for a perfect sunset.\\nOn reaching Khopra, you see majestic mountain ranges all around you. Mt Annapurna South, Mt Annapurna Fang, Mt Annapurna I, Mt Nilgiri South and North, Mt Tukuche and the Dhaulagiri range welcome you. The tea house here itself is a viewpoint.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::007",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 7: Trek from Khopra Ridge to Khayar Lake, and back to Khopra Ridge",
+      "content": {
+        "day": "7",
+        "place_title": "Day 7: Trek from Khopra Ridge to Khayar Lake, and back to Khopra Ridge",
+        "difficulty": "Difficulty: Difficult. Starts with gradual ascent on a ridge and becomes steeper as you proceed. Carry two litres of water. After the first three hours, there are no water sources.",
+        "duration": "Trek Duration: 8-9 hours | Trek Distance: 16 km",
+        "altitude": "Altitude Gain and Loss: ⇗ 3,325 ft; ⇘ 3,325 ft (11,975 ft to 15,300 ft, and back to 11,975 ft)",
+        "water_sources": "Highlights: The alpine lake at the foothills of Mt Annapurna South",
+        "description": "Start early today. It’s the summit day and the longest day of the trek. The initial 45 mins is a level walk with scenic views of the Dhaulagiri range. The trail turns into a ridge walk with multiple climbs and descents for the next two hours. Take a look to your left – in addition to the Dhaulagiri range, you will see the world’s deepest valley, Kaligandaki, between Mt Tukuche and Mt Nilgiri North.\nSlowly the trail brings you to an open field surrounded by barren mountains. This is similar to the cold desert landscape of Spiti in the Indian Himalayas. This also means that you are approaching Khayar lake.\nA small dhaba at Khayar Ghat welcomes you with some local tea and snacks. From here, it is another 1.5 hours trek to Khayar lake. The trail ascends continuously from here, on steps. All along, there are symbols of a temple and bells clubbed together, which is a sign of khayar lake and mythological stories of the area. Before you see the lake, you see Mt Annapurna South. The lake is at its foothill.\nThe lake is surrounded by praying flags, bells and alone temple. Sit down here for a while and take in the surroundings. You have reached the highest point of the trek.\nIn July a yatra (pilgrimage) is undertaken by Nepalis who visit Khayar lake to seek fulfilment of wishes and sacrifice an animal to lord Shiva. They believe that if their wish comes true, they will have to return as a token of thanksgiving.\nIt will take around 3.5 to reach Khopra Ridge on the same trail. Have lunch at Khayar ghat on the way. Every step on the descent is an ideal spot to view the sunset."
+      },
+      "text": "{\n  \"day\": \"7\",\n  \"place_title\": \"Day 7: Trek from Khopra Ridge to Khayar Lake, and back to Khopra Ridge\",\n  \"difficulty\": \"Difficulty: Difficult. Starts with gradual ascent on a ridge and becomes steeper as you proceed. Carry two litres of water. After the first three hours, there are no water sources.\",\n  \"duration\": \"Trek Duration: 8-9 hours | Trek Distance: 16 km\",\n  \"altitude\": \"Altitude Gain and Loss: ⇗ 3,325 ft; ⇘ 3,325 ft (11,975 ft to 15,300 ft, and back to 11,975 ft)\",\n  \"water_sources\": \"Highlights: The alpine lake at the foothills of Mt Annapurna South\",\n  \"description\": \"Start early today. It’s the summit day and the longest day of the trek. The initial 45 mins is a level walk with scenic views of the Dhaulagiri range. The trail turns into a ridge walk with multiple climbs and descents for the next two hours. Take a look to your left – in addition to the Dhaulagiri range, you will see the world’s deepest valley, Kaligandaki, between Mt Tukuche and Mt Nilgiri North.\\nSlowly the trail brings you to an open field surrounded by barren mountains. This is similar to the cold desert landscape of Spiti in the Indian Himalayas. This also means that you are approaching Khayar lake.\\nA small dhaba at Khayar Ghat welcomes you with some local tea and snacks. From here, it is another 1.5 hours trek to Khayar lake. The trail ascends continuously from here, on steps. All along, there are symbols of a temple and bells clubbed together, which is a sign of khayar lake and mythological stories of the area. Before you see the lake, you see Mt Annapurna South. The lake is at its foothill.\\nThe lake is surrounded by praying flags, bells and alone temple. Sit down here for a while and take in the surroundings. You have reached the highest point of the trek.\\nIn July a yatra (pilgrimage) is undertaken by Nepalis who visit Khayar lake to seek fulfilment of wishes and sacrifice an animal to lord Shiva. They believe that if their wish comes true, they will have to return as a token of thanksgiving.\\nIt will take around 3.5 to reach Khopra Ridge on the same trail. Have lunch at Khayar ghat on the way. Every step on the descent is an ideal spot to view the sunset.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::008",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 8: Trek from Khopra Ridge to Paudwar via Gorge Point",
+      "content": {
+        "day": "8",
+        "place_title": "Day 8: Trek from Khopra Ridge to Paudwar via Gorge Point",
+        "difficulty": "",
+        "duration": "Trek Distance: 8.5 km |Trek Duration: 6.5 hours",
+        "altitude": "Altitude Loss:11,975 ft to 6,561 ft",
+        "water_sources": "",
+        "description": ""
+      },
+      "text": "{\n  \"day\": \"8\",\n  \"place_title\": \"Day 8: Trek from Khopra Ridge to Paudwar via Gorge Point\",\n  \"difficulty\": \"\",\n  \"duration\": \"Trek Distance: 8.5 km |Trek Duration: 6.5 hours\",\n  \"altitude\": \"Altitude Loss:11,975 ft to 6,561 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::day_wise_itinerary::009",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 9: Trek from Paudwar to Tatopani | Drive from Tatopani to Pokhra",
+      "content": {
+        "day": "9",
+        "place_title": "Day 9: Trek from Paudwar to Tatopani | Drive from Tatopani to Pokhra",
+        "difficulty": "Difficulty: Easy. Descent through the forests till Tatopani.",
+        "duration": "Trek Distance: 4.7 km | Trek Duration: 3 hours\nBus Drive Distance: 110 km | Drive Duration: 5 hours",
+        "altitude": "Altitude Gain: 6,561 ft to 3,871 ft",
+        "water_sources": "Highlights: Descent through the forests and water stream.",
+        "description": "The last day of the trek takes you to Tatopani which falls on the old route for Mansarovar lake. Because of this, it is also known as the old pilgrimage route. It’s a completely easy descent through forests for initial 2 hours. Post that you walk along a water stream till the time you reach Tatopani. Your trek ends here. Take a bus and reach Pokhara."
+      },
+      "text": "{\n  \"day\": \"9\",\n  \"place_title\": \"Day 9: Trek from Paudwar to Tatopani | Drive from Tatopani to Pokhra\",\n  \"difficulty\": \"Difficulty: Easy. Descent through the forests till Tatopani.\",\n  \"duration\": \"Trek Distance: 4.7 km | Trek Duration: 3 hours\\nBus Drive Distance: 110 km | Drive Duration: 5 hours\",\n  \"altitude\": \"Altitude Gain: 6,561 ft to 3,871 ft\",\n  \"water_sources\": \"Highlights: Descent through the forests and water stream.\",\n  \"description\": \"The last day of the trek takes you to Tatopani which falls on the old route for Mansarovar lake. Because of this, it is also known as the old pilgrimage route. It’s a completely easy descent through forests for initial 2 hours. Post that you walk along a water stream till the time you reach Tatopani. Your trek ends here. Take a bus and reach Pokhara.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete day-wise guide with pictures toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2440
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 2320,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "text_section",
+      "title": "Difficulty Section",
+      "content": "Moderate - Difficult\nSuitable for Experienced Trekkers\n1665\n1249\nhttps://images.prismic.io/indiahike/aEkehrNJEFaPX2TP_difficultyicon_moderatedifficult.png?auto=format,compress\naEkehrNJEFaPX2TP\n0\n0\n1\ntransparent\nYou cover a total of around 58.2 km in eight trekking days, during which you will gain approximately 12,540 ft (2,760 ft to 15,300 ft). Every day will include ascents, descents and boulder sections on steep, uneven trails. Most days involve longer trekking durations.\nTerrain:\nTrails pass through dense forests, open ridges, and rugged moraine sections. This demands a careful footing, especially on rocky and uneven terrain.\nThe final climb up to Khopra Ridge, from Chhistibang is steep. You gain close to 2000 ft in elevation over just 3 km. This can test your endurance.\nThe final climb to Khayer Lake involves more than 3000 ft of  elevation and takes you over 15,000 ft over sea level. The trail is rocky and involves trekking on loose scree. There are multiple sections prone to landslides and rockfalls.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nSudden rainfall can make trails muddy and slippery. You must carry rain gear and be cautious on wet, unstable paths.\nSnowfall at higher altitudes (above 12,000 ft) can block paths, requiring new trails to be cut. Snow accumulation can also increase the risk of altitude sickness due to colder temperatures.\nMornings can be chilly with frost and slippery verglas formation.\nIn October, rain is a common occurrence. The rain also makes the trail slippery and tricky. Moreover, the force of water at river crossings can increase, making it challenging to cross them.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nThere is a significant ascent from Tadapani to Khayer Lake via Khopra Ridge. You gain altitude rapidly, increasing your chance of getting hit by Acute Mountain Sickness.\nAt altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nIn case of emergencies, descend to lower altitudes. Villages along the route, such as Ghandruk and Tadapani, serve as evacuation points.\nThere is no easy road access in higher sections. Evacuations can take 8-9 hours by foot and vehicle. Helicopter rescues are an option but depend on weather conditions and availability.\nClosest Hospital to the Khopra Ridge Trek:\nPokhara (approximately 8-9 hours away by road) has the nearest full-fledged medical facility. Trekkers with severe health issues may need to be transported to Kathmandu for advanced care.\nVillages along the trek may have basic clinics, but they only provide first aid. These clinics lack proper equipment for treating altitude-related or serious medical emergencies.\nFor serious medical concerns, evacuation to Kathmandu may be required. It is crucial to have a proper travel insurance that covers high-altitude trekking and medical evacuations.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "text": "Moderate - Difficult\nSuitable for Experienced Trekkers\n1665\n1249\nhttps://images.prismic.io/indiahike/aEkehrNJEFaPX2TP_difficultyicon_moderatedifficult.png?auto=format,compress\naEkehrNJEFaPX2TP\n0\n1\ntransparent\nYou cover a total of around 58.2 km in eight trekking days, during which you will gain approximately 12,540 ft (2,760 ft to 15,300 ft). Every day will include ascents, descents and boulder sections on steep, uneven trails. Most days involve longer trekking durations.\nTerrain:\nTrails pass through dense forests, open ridges, and rugged moraine sections. This demands a careful footing, especially on rocky and uneven terrain.\nThe final climb up to Khopra Ridge, from Chhistibang is steep. You gain close to 2000 ft in elevation over just 3 km. This can test your endurance.\nThe final climb to Khayer Lake involves more than 3000 ft of elevation and takes you over 15,000 ft over sea level. The trail is rocky and involves trekking on loose scree. There are multiple sections prone to landslides and rockfalls.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nSudden rainfall can make trails muddy and slippery. You must carry rain gear and be cautious on wet, unstable paths.\nSnowfall at higher altitudes (above 12,000 ft) can block paths, requiring new trails to be cut. Snow accumulation can also increase the risk of altitude sickness due to colder temperatures.\nMornings can be chilly with frost and slippery verglas formation.\nIn October, rain is a common occurrence. The rain also makes the trail slippery and tricky. Moreover, the force of water at river crossings can increase, making it challenging to cross them.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nThere is a significant ascent from Tadapani to Khayer Lake via Khopra Ridge. You gain altitude rapidly, increasing your chance of getting hit by Acute Mountain Sickness.\nAt altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nIn case of emergencies, descend to lower altitudes. Villages along the route, such as Ghandruk and Tadapani, serve as evacuation points.\nThere is no easy road access in higher sections. Evacuations can take 8-9 hours by foot and vehicle. Helicopter rescues are an option but depend on weather conditions and availability.\nClosest Hospital to the Khopra Ridge Trek:\nPokhara (approximately 8-9 hours away by road) has the nearest full-fledged medical facility. Trekkers with severe health issues may need to be transported to Kathmandu for advanced care.\nVillages along the trek may have basic clinics, but they only provide first aid. These clinics lack proper equipment for treating altitude-related or serious medical emergencies.\nFor serious medical concerns, evacuation to Kathmandu may be required. It is crucial to have a proper travel insurance that covers high-altitude trekking and medical evacuations.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::007-how-difficult-is-the-khopra-ridge-trek-what-to-expect-in-ter",
+            "ui_key": "difficulty",
+            "label": "How Difficult is the Khopra Ridge Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2500
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::008-how-difficult-is-the-khopra-ridge-trek",
+            "ui_key": "difficulty",
+            "label": "How Difficult is the Khopra Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2500
+          }
+        ],
+        "anchors": [
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 2",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous NextDay 2: Drive from Pokhara to Kimsee. Trek to GhandrukDrive Distance: 56 km | Trek Duration: 2.5 hoursTrek Distance: 3.7 km | Trek Duration: 2 hoursDifficulty: Easy – Moderate. Gradual ascent from Kimsee to G",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 3",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous NextDay 3: Trek from Ghandruk to TadapaniTrek Duration: 4.5 hours | Trek Distance: 6.40 kmAltitude Gain:6,561 ft to 8,705 ftDifficulty: Moderate. Mix of gradual ascent and level walk on forest trails.Highlights:",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 4",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous NextDay 4: Trek from Tadapani to DobatoTrek Duration: 6.5 hours | Trek Distance: 6.2 kmAltitude Gain: 8,705 ft to 11,225 ftDifficulty: Moderate-difficult. Gradual ascent through forest trails, with a short desce",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 5",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous NextDay 5: Trek from Dobato to Chhiastibang via Muldai TopTrek Distance: 9.2 km |Trek Duration: 6-7 hoursAltitude Gain & Loss: 11,220 ft to 9,678 ft via 11,811 ftDifficulty: Difficult. A complete ridge walk with",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "trek-difficulty",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "",
+            "top": 2380,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Where is Khopra Ridge trek located?",
+      "content": {
+        "question": "Where is Khopra Ridge trek located?",
+        "answer": "The Khopra Ridge is located in the Annapurna Conservation Area in Nepal. We combine the Khopra Ridge trek with a visit to Khayar lake, an alpine lake at an altitude of 15,750 ft above MSL.\nThe base camp of the trek in Pokhara. A drive of 3 hours will take you to Syauli Bazaar. It takes another four days of trekking from Syauli Bazaar to reach Khopra Ridge through Ghandruk, Tadapani and Dobato.\n\nOn the way to Khopra Ridge, you cross Muldhai's viewpoint from where you get a panoramic view of the region. The trek ends at Ulleri, from where you exit to Pokhara by road. It’s a 2-3 hour journey to Pokhara from Ulleri.\nTo know how to reach Pokhara, the base camp of the Khopra Ridge trek, click here for travel details and recommendations."
+      },
+      "text": "Q: Where is Khopra Ridge trek located?\nA: The Khopra Ridge is located in the Annapurna Conservation Area in Nepal. We combine the Khopra Ridge trek with a visit to Khayar lake, an alpine lake at an altitude of 15,750 ft above MSL.\nThe base camp of the trek in Pokhara. A drive of 3 hours will take you to Syauli Bazaar. It takes another four days of trekking from Syauli Bazaar to reach Khopra Ridge through Ghandruk, Tadapani and Dobato.\nOn the way to Khopra Ridge, you cross Muldhai's viewpoint from where you get a panoramic view of the region. The trek ends at Ulleri, from where you exit to Pokhara by road. It’s a 2-3 hour journey to Pokhara from Ulleri.\nTo know how to reach Pokhara, the base camp of the Khopra Ridge trek, click here for travel details and recommendations.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::018-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 2680,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can we trek solo to Khopra Ridge trek?",
+      "content": {
+        "question": "Can we trek solo to Khopra Ridge trek?",
+        "answer": "Khopra Ridge is a teahouse trek. The trail to Khopra ridge is also very prominent, although one needs to be careful about diversions to other villages on the way. We also have a GPX file that you can use to attempt the trek on your own.\nHowever, there are inherent risks associated with trekking to altitudes over 15,000 ft. Substantial experience in mounting Himalayan treks on your own and being successful is very important. You also need to be confident in taking care of any medical emergency on your own.\nWe would recommend joining one of our teams going to Khopra Ridge if you have the required fitness. You’ll have a good experience with a group of experienced and fit trekkers."
+      },
+      "text": "Q: Can we trek solo to Khopra Ridge trek?\nA: Khopra Ridge is a teahouse trek. The trail to Khopra ridge is also very prominent, although one needs to be careful about diversions to other villages on the way. We also have a GPX file that you can use to attempt the trek on your own.\nHowever, there are inherent risks associated with trekking to altitudes over 15,000 ft. Substantial experience in mounting Himalayan treks on your own and being successful is very important. You also need to be confident in taking care of any medical emergency on your own.\nWe would recommend joining one of our teams going to Khopra Ridge if you have the required fitness. You’ll have a good experience with a group of experienced and fit trekkers.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::018-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 2680,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How long is the Khopra Ridge trek?",
+      "content": {
+        "question": "How long is the Khopra Ridge trek?",
+        "answer": "The Khopra Ridge trek covers a distance of almost 70 km over 9 days of trekking. You cover an average of 8 km a day, which is a moderate distance. You usually reach your stay for the day by early evening.\nHowever, what makes the trek challenging is the altitude gain and loss of over 10,000 ft. You start the trek at 6,600 ft and climb to the highest altitude of 15,709 ft. This requires the trekker to have good endurance."
+      },
+      "text": "Q: How long is the Khopra Ridge trek?\nA: The Khopra Ridge trek covers a distance of almost 70 km over 9 days of trekking. You cover an average of 8 km a day, which is a moderate distance. You usually reach your stay for the day by early evening.\nHowever, what makes the trek challenging is the altitude gain and loss of over 10,000 ft. You start the trek at 6,600 ft and climb to the highest altitude of 15,709 ft. This requires the trekker to have good endurance.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::018-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 2680,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I am more than 58 years old. Can I do this trek?",
+      "content": {
+        "question": "I am more than 58 years old. Can I do this trek?",
+        "answer": "Before you register for the trek, we would like you to understand the challenges, and the fitness required.\nOn Moderate-Difficult treks, you’ll walk for about 8-12 km each day. Gradual to steep ascents and descents are common on all days. Expect to reach high altitudes of 15,000+ ft. There will also be technical sections (such as rockfall zones, near-vertical sections, glacier walks), which our technical teams will help you navigate.\nIf you are above the age of 58 years, your Experience Coordinator will need a detailed account of your health. If you have done a Himalayan trek in the past or they have an active fitness lifestyle (marathons/cycling expeditions), we’ll need to see your Treadmill Test and fitness proof (Fitness proof: 5 kms in 38 mins).\nBut if you do not have any experience, we strongly advise you to start with an easy-moderate trek."
+      },
+      "text": "Q: I am more than 58 years old. Can I do this trek?\nA: Before you register for the trek, we would like you to understand the challenges, and the fitness required.\nOn Moderate-Difficult treks, you’ll walk for about 8-12 km each day. Gradual to steep ascents and descents are common on all days. Expect to reach high altitudes of 15,000+ ft. There will also be technical sections (such as rockfall zones, near-vertical sections, glacier walks), which our technical teams will help you navigate.\nIf you are above the age of 58 years, your Experience Coordinator will need a detailed account of your health. If you have done a Himalayan trek in the past or they have an active fitness lifestyle (marathons/cycling expeditions), we’ll need to see your Treadmill Test and fitness proof (Fitness proof: 5 kms in 38 mins).\nBut if you do not have any experience, we strongly advise you to start with an easy-moderate trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::018-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 2680,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is Offloading available on the Khopra Ridge trek?",
+      "content": {
+        "question": "Is Offloading available on the Khopra Ridge trek?",
+        "answer": "Having more footprints through porters or mules on any trail isn’t good for the ecosystem. Keeping this and the spirit of trekking in mind, there will be no offloading available on this trek. However, if you have any medical issues and are not able to carry your own backpack, you can offload your backpack. The cost of offloading on the Khopra Ridge Trek is Rs 6,800 for the trek. Find details about the offloading process here.\nCheck out ways to make carrying your backup easier"
+      },
+      "text": "Q: Is Offloading available on the Khopra Ridge trek?\nA: Having more footprints through porters or mules on any trail isn’t good for the ecosystem. Keeping this and the spirit of trekking in mind, there will be no offloading available on this trek. However, if you have any medical issues and are not able to carry your own backpack, you can offload your backpack. The cost of offloading on the Khopra Ridge Trek is Rs 6,800 for the trek. Find details about the offloading process here.\nCheck out ways to make carrying your backup easier",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::018-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2800
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 2680,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "text_section",
+      "title": "Fitness Section",
+      "content": "We recommend walking/jogging/running as the best routine to get fit for any trek. It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nIt helps increase your stamina gradually if done consistently. It is also an easy routine that does not require any equipment or tools.\nembed\nhttps://www.youtube.com/watch?v=VR3l-GH0HhU\nvideo\n1.0\nWhy Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/VR3l-GH0HhU/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VR3l-GH0HhU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\"></iframe>\nFitness Target\nTo do the Khopra Ridge Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/b5b573db-2a7b-4482-ba5d-30ad45a278ac_Fitness-Moderate-Difficult+Treks.jpg?auto=format,compress\n5000\n2143\nZEoMkRAAACEApelK\n0\n0\n1\ntransparent\nTrekking is a sport that primarily uses your lungs, core, calves, glutes, quads and hamstrings. Being fit will help you enjoy the trek and will keep you safe.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular endurance\nMuscle strength\nIf you are not currently active, follow the below schedule to get trek fit in 6 weeks!\nA 6-Week Plan to Help You Get Trek-Fit for the Khopra Ridge Trek\nimage\nhttps://images.prismic.io/indiahike/Z44JNpbqstJ99n7F_ModerateDifficultRunning_FitnessTable.jpg?auto=format,compress\nKhopra Ridge Trek Fitness Plan Running\n3000\n1688\nZ44JNpbqstJ99n7F\n0\n0\n1\ntransparent\n(6-Week Fitness Plan: Running)\nimage\nhttps://images.prismic.io/indiahike/Z44JK5bqstJ99n69_ModerateDifficultWalking_FitnessTable.jpg?auto=format,compress\nKhopra Ridge Trek Fitness Plan Walking\n3000\n1688\nZ44JK5bqstJ99n69\n0\n0\n1\ntransparent\n(6-Week Fitness Plan: Walking)\nPro Tip: Warming up and cooling down before and after your workout is important. Do not miss that.\n| Note: If you are not a regular runner, do not start running all of a sudden.\nStrength Training Schedule:\nembed\nhttps://www.youtube.com/watch?v=m8jkYEsJLtw\nvideo\n1.0\n5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/m8jkYEsJLtw/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/m8jkYEsJLtw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\"></iframe>\nNote:\nAlternatives to 40 Standard Pushups = (4 x 20 = 80 knee pushups) = (4 x 40 = 160 wall pushups)\nAlternative to 60 full squats = (4 x 30 = 120 half squats)\nAlternative to jumping lunges = forward lunges (same count)\nIf you are not able to complete 1 full set of any plank, divide it into 2 halves and complete it with a rest break in between. For example: If you are not able to complete 1 minute of a standard plank, divide it into 2 sets of 30 seconds each.\nAfter completing a few weeks of training, if you can progress, you may increase the number of sets or reps for desired results.\nImportant note: We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid. We've suggested cross training options to help keep your fitness journey engaging and fun, allowing you to explore activities you enjoy and to avoid inconsistency. So make sure to record at least 3 runs from the last 1 month to meet the fitness criteria of the trek.\nNote: Use apps like Nike and Strava to record your runs.\nWhat happens if you are not fit:\nYou do not enjoy the trek\nYou struggle to be a part of the team because you’re slow.\nYou miss out on a deep, transformative experience that Indiahikes specially designs for you.\nembed\nhttps://www.youtube.com/watch?v=WZocACEsJbk&t=1s\nvideo\n1.0\nWhat Happens If You Are Not Fit For A Trek | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/WZocACEsJbk/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/WZocACEsJbk?start=1&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Happens If You Are Not Fit For A Trek | Indiahikes\"></iframe>\nThe good part is it is not difficult. All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.\nWe are here to help you in this fitness journey. Just start slow and as long as you are committed and consistent with your routine, you are in for an unforgettable trek experience.\nHow to Get Fitness Approval from the Indiahikes Team:\nEvery trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.\nembed\nhttps://www.youtube.com/watch?v=AGgg2Dv1Y6Y&t=3s\nvideo\n1.0\nWhat Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/AGgg2Dv1Y6Y/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AGgg2Dv1Y6Y?start=3&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\"></iframe>\nNote: Use apps like Nike and Strava to record your runs.\nWhat to Upload:\nUse fitness tracking apps such as Strava, Nike Run Club, or similar to log your runs and workouts.\nPaste your profile's link on your Indiahikes account (your profile has to be public).\nEnsure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.\nInstances we may reject your fitness record:\nIf you fail to link your fitness profile\nIf you do not meet the required fitness level at least three times in the past month\nImportant Notes:\nChildren below 14 years are not required to submit fitness records.\nHowever, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "text": "We recommend walking/jogging/running as the best routine to get fit for any trek. It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nIt helps increase your stamina gradually if done consistently. It is also an easy routine that does not require any equipment or tools.\nembed\nhttps://www.youtube.com/watch?v=VR3l-GH0HhU\nvideo\n1.0\nWhy Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/VR3l-GH0HhU/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VR3l-GH0HhU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\"></iframe>\nFitness Target\nTo do the Khopra Ridge Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/b5b573db-2a7b-4482-ba5d-30ad45a278ac_Fitness-Moderate-Difficult+Treks.jpg?auto=format,compress\n5000\n2143\nZEoMkRAAACEApelK\n0\n1\ntransparent\nTrekking is a sport that primarily uses your lungs, core, calves, glutes, quads and hamstrings. Being fit will help you enjoy the trek and will keep you safe.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular endurance\nMuscle strength\nIf you are not currently active, follow the below schedule to get trek fit in 6 weeks!\nA 6-Week Plan to Help You Get Trek-Fit for the Khopra Ridge Trek\nimage\nhttps://images.prismic.io/indiahike/Z44JNpbqstJ99n7F_ModerateDifficultRunning_FitnessTable.jpg?auto=format,compress\nKhopra Ridge Trek Fitness Plan Running\n3000\n1688\nZ44JNpbqstJ99n7F\n0\n1\ntransparent\n(6-Week Fitness Plan: Running)\nimage\nhttps://images.prismic.io/indiahike/Z44JK5bqstJ99n69_ModerateDifficultWalking_FitnessTable.jpg?auto=format,compress\nKhopra Ridge Trek Fitness Plan Walking\n3000\n1688\nZ44JK5bqstJ99n69\n0\n1\ntransparent\n(6-Week Fitness Plan: Walking)\nPro Tip: Warming up and cooling down before and after your workout is important. Do not miss that.\n| Note: If you are not a regular runner, do not start running all of a sudden.\nStrength Training Schedule:\nembed\nhttps://www.youtube.com/watch?v=m8jkYEsJLtw\nvideo\n1.0\n5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/m8jkYEsJLtw/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/m8jkYEsJLtw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\"></iframe>\nNote:\nAlternatives to 40 Standard Pushups = (4 x 20 = 80 knee pushups) = (4 x 40 = 160 wall pushups)\nAlternative to 60 full squats = (4 x 30 = 120 half squats)\nAlternative to jumping lunges = forward lunges (same count)\nIf you are not able to complete 1 full set of any plank, divide it into 2 halves and complete it with a rest break in between. For example: If you are not able to complete 1 minute of a standard plank, divide it into 2 sets of 30 seconds each.\nAfter completing a few weeks of training, if you can progress, you may increase the number of sets or reps for desired results.\nImportant note: We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid. We've suggested cross training options to help keep your fitness journey engaging and fun, allowing you to explore activities you enjoy and to avoid inconsistency. So make sure to record at least 3 runs from the last 1 month to meet the fitness criteria of the trek.\nNote: Use apps like Nike and Strava to record your runs.\nWhat happens if you are not fit:\nYou do not enjoy the trek\nYou struggle to be a part of the team because you’re slow.\nYou miss out on a deep, transformative experience that Indiahikes specially designs for you.\nembed\nhttps://www.youtube.com/watch?v=WZocACEsJbk&t=1s\nvideo\n1.0\nWhat Happens If You Are Not Fit For A Trek | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/WZocACEsJbk/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/WZocACEsJbk?start=1&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Happens If You Are Not Fit For A Trek | Indiahikes\"></iframe>\nThe good part is it is not difficult. All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.\nWe are here to help you in this fitness journey. Just start slow and as long as you are committed and consistent with your routine, you are in for an unforgettable trek experience.\nHow to Get Fitness Approval from the Indiahikes Team:\nEvery trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.\nembed\nhttps://www.youtube.com/watch?v=AGgg2Dv1Y6Y&t=3s\nvideo\n1.0\nWhat Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/AGgg2Dv1Y6Y/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AGgg2Dv1Y6Y?start=3&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\"></iframe>\nNote: Use apps like Nike and Strava to record your runs.\nWhat to Upload:\nUse fitness tracking apps such as Strava, Nike Run Club, or similar to log your runs and workouts.\nPaste your profile's link on your Indiahikes account (your profile has to be public).\nEnsure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.\nInstances we may reject your fitness record:\nIf you fail to link your fitness profile\nIf you do not meet the required fitness level at least three times in the past month\nImportant Notes:\nChildren below 14 years are not required to submit fitness records.\nHowever, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::015-how-to-get-fit-for-the-khopra-ridge-trek-a-6-week-plan-to-he",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Khopra Ridge Trek A 6-Week Plan to Help You Get Trek-Fit for the Khopra Ridge Trek toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2740
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::016-how-to-get-fit-for-the-khopra-ridge-trek",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Khopra Ridge Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2740
+          }
+        ],
+        "anchors": [
+          {
+            "id": "getting-fit",
+            "tag": "div",
+            "ui_key": "fitness",
+            "text_preview": "",
+            "top": 2620,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::packing_section::001",
+      "source_field": "packing_section",
+      "section_type": "text_section",
+      "title": "Packing Section",
+      "content": "Mandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of identity card. In Nepal, only passports or Voter IDs are accepted as valid ID proof.\n1 passport-size photograph. This is required to obtain the trekking permits\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there.\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\n\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nEssentials\n1. Trekking Shoes\nKhopra Ridge requires sturdy trekking shoes, has good grip, has ankle support and can handle snow. Here is a quick video on how to choose your trekking shoes.\n| Buying Tip: The Trek series and MH series are good options by Decathlon. They are tried and tested. There isn’t any necessity to buy the higher-priced models. Here is an article that will help you in choosing your trekking shoes.\n| Rental: We have the Trek series and the MH series by Decathlon available for rent from the Indiahikes store. They are already broken into and in good condition. Rental shoes are not dirty or unhygienic. This is how they are kept clean. Rent here.\n2. Backpack\nFor a trek like Khopra Ridge, you need a 50-60 litre backpack. Make sure your backpack has good hip support, shoulder support and quick access pockets. Here is a guide on how to choose a backpack.\n| Buying Tip: Wildcraft, Decathlon and Adventure Worx usually make good backpacks. While Wildcraft has more expensive ones, the other two brands have budget-friendly backpacks to choose from.\n| Rental: The 48-litre backpack by Adventure Worx is available for rent from the Indiahikes store. They are custom-made for our Himalayan treks. Rent them if you don’t have a backpack. Rent here.\n3. Clothes\nWearing layers is the mantra in the mountains. Layers give you maximum protection from all elements. And when the weather changes in the mountains (as it happens every few hours), you take off or put on layers as required.\nBase Layer: 3 T-shirts\nWear one T-shirt and carry two. Carry full sleeve dry-fit T-shirts (preferably collared). These prevent your arms and neck from getting sunburnt. In the rarified air on the trek, especially at high altitudes, UV rays can burn you in no time.\nDry-fit T-shirts quickly dry your sweat, they are easy to wash and in case of a rainy day, they dry quicker. Round neck T-shirts are ok, but collared ones are better.\n| Cotton or Synthetic? As Indians, we love cotton. Down in the plains when the heat is blistering 40°C it makes sense to wear cotton. But it takes a long time to dry when it gets wet. In the mountains, where it is cooler, synthetic is what you wear. They wick sweat rapidly and keep you dry. (But they do tend to smell quickly, so carry a roll-on deodorant with you.)\n| Buying Tip: You can get dry-fit T-shirts from Decathlon. Also, stores like Reliance Trends and Max have dry-fit T-shirts. They don’t usually cost much.\n| Pro Tip: If you are extra susceptible to cold, you could get a set of thermal inners. In our experience, wearing two T-shirts over another works as a better thermal. And they save you weight and space since you’re already carrying them.\n5 Insulation Layers in Winter\nThe Khopra Ridge trek is primarily a winter trek. If you’re going any time between December and March, you will need at least 5 warm layers.\nYou will need 1 pair of inner thermals, 2 light fleece layers, 1  light sweater and 1  padded jacket. Do not get your grandma stitched sweaters, which can be very heavy. You need sweaters and fleece jackets that can fold into compact rolls.\nFor your outer layer, a padded jacket serves the purpose here. You don’t need a water-resistant material. But you need an outer padded jacket that keeps the wind and cold out. Ensure your padded jacket has a hood as well.\n| Do you need a down/feather jacket? Not really. A regular padded/shell jacket will do. This video here will help you to learn more about the difference.\n| Note: Down/feather jackets are not available these days. Many jackets masquerade as down/feather jackets. They are essentially fine polyester-filled jackets. They mimic the function of a down jacket but are usually expensive.\n| Rental: Padded jackets made by Fort Collins are available for rent at the Indiahikes store. They are custom made for Indiahikes and trekkers find them terrific, even in winter. Rent here.\nTrek Pants\nA minimum of one pair and a maximum of two pairs of trek pants should suffice for this trek. Wear one pair and carry one just in case it rains/snows. Trek pants with zippered cut-offs at the thighs are very suitable for treks. Also, choose quick-dry pants over cotton. They dry up soon even in the cold climate.\n| Buying Tip: Go for pants with zippered pockets. They come in handy to keep your phone, handkerchief or pocket snacks.\n| Track pants or trek pants? Stretchable track pants make a good backup and can double up as your thermal bottoms. But track pants are not trekking pants — so don’t use them as your main outerwear. Keep them only as a backup.\nMandatory Accessories, without these too you won’t be able to do the trek.\nThese accessories are mandatory. Don’t go to Khopra Ridge without them. Trekkers generally put off purchasing / borrowing the accessories for the last minute. We suggest the opposite. Start gathering these accessories first.\n1. Sunglasses\nSunglasses are to prevent snow blindness. On a winter trek like Khopra Ridge, expect to walk on long stretches of snow. A small overexposure to direct sunlight on snow can lead to snow blindness (about a half hour’s exposure). That’s because fallen snow is like thousands of mirrors that reflect direct UV rays. So you need sunglasses with UV protection.\n| Wearing tip: Wear sunglasses if the trekking day is bright and sunny (on open sections, meadows). On a snowy section, you must never take off your sunglasses until the section has been fully crossed.\n| Buying Tip: Try getting sunglasses that wrap around instead of those that have openings on the side. Even peripheral UV ray exposure is not a good idea.\n| If you wear spectacles: If you wear spectacles, you can get oversized sunglasses that you wear over your regular glasses (available at Decathlon). If that is cumbersome, photochromic lenses work equally well. Here’s a quick guide on managing sunglasses with spectacles.\n| Contact lens users: If you use contact lenses, you can use them on the trek too. The lens solution will not freeze. You will also not face any problems in changing your lens in your tent. Just carry enough cleaning solution with you to clean your fingers well. Wear your sunglasses over your contact lens. Read this article for more guidance on managing contact lenses on treks.\n2. Suncap\nA sun cap is mandatory. Trekking without a sun cap can lead to headaches, sunstrokes, quick dehydration and a sharp drop in trekking performance.\n| Tip: In the mountains, the general rule is to keep your head covered at all times. During the day a sun cap protects you from the harsh rays of the sun (it is doubly stronger with naked UV rays). A sun cap keeps your body temperature in balance. In the evening/early morning, the reverse is true. Your head loses your body heat quickly. A woollen cap prevents heat from dissipating from your head.\n| Pro Tip: Sun caps with flaps are a blessing for trekkers. They cut out almost all UV leaks. They prevent sunburns in every possible way. They are a lot more effective than sunscreen lotion. A wide-brimmed sports hat also helps to prevent sunburn in a big way.\n3. Synthetic Hand Gloves\nOn a trek like Khopra Ridge, you are going to be handling snow quite a bit. You’ll need gloves to grip something or to steady yourself in snow. You also want the gloves to keep you warm. Get synthetic hand gloves that have waterproofing on the outside and a padded lining on the inside. If you find the combination difficult to get (not likely), wear a tight-fitting fleece hand glove inside a synthetic hand glove. Hand gloves are mandatory on this trek.\n4. Woollen Cap or Balaclava\nEnsure these cover your head. In the cold mountains, you lose maximum heat from your head, not from your hands, feet or the rest of your body. This is why you need to keep your head protected, especially when the sun is down. Early mornings, late evenings, and a cold trekking day are when you must use your woollen cap.\nYour ears are sensitive too, so a woollen head cap that covers your ears is essential. A balaclava is a modern version of the woollen cap. It covers your ears, neck and parts of your face as well. If you get a woollen cap that only covers your head, you will need a neck warmer or a woollen scarf.\n5. Socks (4 pairs)\nApart from three to four pairs of sports socks, take a pair of woollen socks. Sports socks give you cushioning plus warmth. Again the mantra is to wear synthetic socks or at least a synthetic blend. Cotton socks soak in water and sweat. They are very hard to dry.\nAs for woollen socks, they help you to keep warm and snug at the night. If you cannot get woollen socks, wearing two sports socks serves the purpose as well.\n6. Headlamp\nTrekkers are often confused about whether they need to get a headlamp or a handheld torch. You need to get a headlamp because it leaves your hands free to do other activities. On the Khopra Ridge trek, you’ll need your hands free to wash dishes, pitch tents and hold your trek poles.\n| Buying tip: Ensure your headlamp covers a wider area and is not too focused as a single beam. On a trek, your headlamp must help you see around you as much as ahead of you.\n| Rental: Headlamps are available for rent at the Indiahikes store. Rent here.\n7. Trekking Poles (a pair)\nTrekking poles give you stability and balance. They reduce your energy consumption by almost 40%. On the Khopra Ridge trek, there are steep ascents and descents. A pair of trekking poles will make the difference between a comfortable and a strenuous trek. In India, we tend to use a single trekking pole. However, two trekking poles give you greater stability and balance. They also increase your walking pace.\n| Rental: Imported side-locking trekking poles are available for rent at the Indiahikes store. Rent here.\n8. Rainwear\nOn a trek, the weather can change quickly. A bright sunny day can turn into a downpour in a matter of minutes. Carry a poncho or a rain jacket to tackle this. A poncho is a big rain cover with openings for your arms and your head. It is extremely effective because it covers both you and (partially) your backpack. It is extremely light and weighs next to nothing.\n| Pro tip: Rain jackets are more streamlined and less cumbersome but weigh more. Rain pants are not required. Dry fit trek pants dry quickly even if soaking wet.\n| Rental: High-grade ponchos are available for rent at the Indiahikes store. Rent here.\n9. Rain cover for your backpack\nBackpacks are your life. You carry all your dry clothes and your warm gear in your backpack. Your backpack must stay dry at all times. Modern backpacks usually come with built-in rain-covers. If your backpack does not have a rain cover, ensure you get a rain cover by either (a) buying a rain cover or (b) or cutting a large plastic sheet to the size of your backpack. You can roll the plastic sheet around your backpack and keep it in place with a string or elastic.\n| Pro tip: It’s good practice to compartmentalise your clothes, accessories and other things in plastic covers inside your backpack. That way, even if it rains and your backpack gets wet, your things are water-proof inside the backpack.\n10. Daypack (20-30 ltrs, optional)\nIn your daypack, you carry essentials like water bottles, rainwear, emergency medicines, a headlamp, some snacks and a warm layer. Your main backpack that carries most of your equipment is accessible only at the campsites.\nA daypack is a smaller backpack that is usually of 20-30 litre capacity. Laptop bags are not daypacks. Do not get them.\nOther Mandatory Requirements\n1. A toilet kit\nKeep your toilet kit light. Carry just the basics — toothbrush, toothpaste, small soap, toilet tissue roll, a small moisturiser, lip balm, and a roll-on deodorant. You will not be able to have a bath on the trek, so don’t overload on soaps and shampoos.\n| Pro Tip: Carry miniature-sized items. You will not need more than that. If you’re travelling in a group, share one toothpaste for all.\n| Pro Tip: Avoid getting large toilet rolls. The smallest size roll is more than enough for a trek like Khopra Ridge.\n| For Women: If you are likely to have your periods on your trek date, don’t worry about it. You can use your pads, tampons or menstrual cups on the trek. There will be toilet tents where you can get changed. Make sure you carry ziplock bags to bring back your menstrual waste. Don’t leave behind any waste in the mountains. Watch this video to learn how to dispose of your sanitary waste.\n2. Cutlery\nCarry a lunch box, a mug and a spoon. Your lunch box must be leakproof. You are expected to wash your cutlery. Trekkers often expect Indiahikes to wash their cutlery. When you allow Indiahikes to wash your cutlery, your cutlery becomes part of a mass washing system. You immediately invite germs, and bacteria to settle on your cutlery. The incidence of stomach disorders rises exponentially.\n| Pro Tip: Carry stainless steel cutlery. Avoid fancy high-grade plastic cutlery. Stainless steel cutlery is infinitely easier to wash in cold water. Grease is easier to remove and hygiene is at its highest.\n| Two 1 litre bottles or a 2-litre hydration pack: Khopra Ridge has many hours of trekking every day (approximately 6 hours). You need to carry two one-litre water bottles to keep yourself hydrated over the distance. If you are used to a hydration pack, then that is ok too. If one among the two bottles is a lightweight thermos, then that helps you to store warm water on a really cold day or for late evenings and early mornings.\n| Rental: You could rent lightweight thermos flasks from the Indiahikes store. Rent here.\n3. Plastic Covers\nCarry 3-4 old plastic covers to keep your used clothes. You could use them even for wet clothes. Re-use old plastic bags for this and do not buy new ones.\nWeb\nc8962104-b519-496c-bf1c-97e7a11a4779\nhttps://www.youtube.com/watch?v=PFtBdafs_PMhttps://\n2000\n1522\nhttps://images.prismic.io/indiahike/855b8667-f269-490c-b49a-3eca39d2ea20_Indiahikes-Packing-Guide.jpg?auto=compress,format\nYffJzBIAANnj5DSr\n0\n0\n1\n#fff\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend on the last day. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Khopra Ridge trek.\nDexamethasone (1 Strip): This is part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.\nNifedipine (5 tablets): Again part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually the mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking.  Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\nPro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "text": "Mandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of identity card. In Nepal, only passports or Voter IDs are accepted as valid ID proof.\n1 passport-size photograph. This is required to obtain the trekking permits\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there.\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nKeep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nEssentials\n1. Trekking Shoes\nKhopra Ridge requires sturdy trekking shoes, has good grip, has ankle support and can handle snow. Here is a quick video on how to choose your trekking shoes.\n| Buying Tip: The Trek series and MH series are good options by Decathlon. They are tried and tested. There isn’t any necessity to buy the higher-priced models. Here is an article that will help you in choosing your trekking shoes.\n| Rental: We have the Trek series and the MH series by Decathlon available for rent from the Indiahikes store. They are already broken into and in good condition. Rental shoes are not dirty or unhygienic. This is how they are kept clean. Rent here.\n2. Backpack\nFor a trek like Khopra Ridge, you need a 50-60 litre backpack. Make sure your backpack has good hip support, shoulder support and quick access pockets. Here is a guide on how to choose a backpack.\n| Buying Tip: Wildcraft, Decathlon and Adventure Worx usually make good backpacks. While Wildcraft has more expensive ones, the other two brands have budget-friendly backpacks to choose from.\n| Rental: The 48-litre backpack by Adventure Worx is available for rent from the Indiahikes store. They are custom-made for our Himalayan treks. Rent them if you don’t have a backpack. Rent here.\n3. Clothes\nWearing layers is the mantra in the mountains. Layers give you maximum protection from all elements. And when the weather changes in the mountains (as it happens every few hours), you take off or put on layers as required.\nBase Layer: 3 T-shirts\nWear one T-shirt and carry two. Carry full sleeve dry-fit T-shirts (preferably collared). These prevent your arms and neck from getting sunburnt. In the rarified air on the trek, especially at high altitudes, UV rays can burn you in no time.\nDry-fit T-shirts quickly dry your sweat, they are easy to wash and in case of a rainy day, they dry quicker. Round neck T-shirts are ok, but collared ones are better.\n| Cotton or Synthetic? As Indians, we love cotton. Down in the plains when the heat is blistering 40°C it makes sense to wear cotton. But it takes a long time to dry when it gets wet. In the mountains, where it is cooler, synthetic is what you wear. They wick sweat rapidly and keep you dry. (But they do tend to smell quickly, so carry a roll-on deodorant with you.)\n| Buying Tip: You can get dry-fit T-shirts from Decathlon. Also, stores like Reliance Trends and Max have dry-fit T-shirts. They don’t usually cost much.\n| Pro Tip: If you are extra susceptible to cold, you could get a set of thermal inners. In our experience, wearing two T-shirts over another works as a better thermal. And they save you weight and space since you’re already carrying them.\n5 Insulation Layers in Winter\nThe Khopra Ridge trek is primarily a winter trek. If you’re going any time between December and March, you will need at least 5 warm layers.\nYou will need 1 pair of inner thermals, 2 light fleece layers, 1 light sweater and 1 padded jacket. Do not get your grandma stitched sweaters, which can be very heavy. You need sweaters and fleece jackets that can fold into compact rolls.\nFor your outer layer, a padded jacket serves the purpose here. You don’t need a water-resistant material. But you need an outer padded jacket that keeps the wind and cold out. Ensure your padded jacket has a hood as well.\n| Do you need a down/feather jacket? Not really. A regular padded/shell jacket will do. This video here will help you to learn more about the difference.\n| Note: Down/feather jackets are not available these days. Many jackets masquerade as down/feather jackets. They are essentially fine polyester-filled jackets. They mimic the function of a down jacket but are usually expensive.\n| Rental: Padded jackets made by Fort Collins are available for rent at the Indiahikes store. They are custom made for Indiahikes and trekkers find them terrific, even in winter. Rent here.\nTrek Pants\nA minimum of one pair and a maximum of two pairs of trek pants should suffice for this trek. Wear one pair and carry one just in case it rains/snows. Trek pants with zippered cut-offs at the thighs are very suitable for treks. Also, choose quick-dry pants over cotton. They dry up soon even in the cold climate.\n| Buying Tip: Go for pants with zippered pockets. They come in handy to keep your phone, handkerchief or pocket snacks.\n| Track pants or trek pants? Stretchable track pants make a good backup and can double up as your thermal bottoms. But track pants are not trekking pants — so don’t use them as your main outerwear. Keep them only as a backup.\nMandatory Accessories, without these too you won’t be able to do the trek.\nThese accessories are mandatory. Don’t go to Khopra Ridge without them. Trekkers generally put off purchasing / borrowing the accessories for the last minute. We suggest the opposite. Start gathering these accessories first.\n1. Sunglasses\nSunglasses are to prevent snow blindness. On a winter trek like Khopra Ridge, expect to walk on long stretches of snow. A small overexposure to direct sunlight on snow can lead to snow blindness (about a half hour’s exposure). That’s because fallen snow is like thousands of mirrors that reflect direct UV rays. So you need sunglasses with UV protection.\n| Wearing tip: Wear sunglasses if the trekking day is bright and sunny (on open sections, meadows). On a snowy section, you must never take off your sunglasses until the section has been fully crossed.\n| Buying Tip: Try getting sunglasses that wrap around instead of those that have openings on the side. Even peripheral UV ray exposure is not a good idea.\n| If you wear spectacles: If you wear spectacles, you can get oversized sunglasses that you wear over your regular glasses (available at Decathlon). If that is cumbersome, photochromic lenses work equally well. Here’s a quick guide on managing sunglasses with spectacles.\n| Contact lens users: If you use contact lenses, you can use them on the trek too. The lens solution will not freeze. You will also not face any problems in changing your lens in your tent. Just carry enough cleaning solution with you to clean your fingers well. Wear your sunglasses over your contact lens. Read this article for more guidance on managing contact lenses on treks.\n2. Suncap\nA sun cap is mandatory. Trekking without a sun cap can lead to headaches, sunstrokes, quick dehydration and a sharp drop in trekking performance.\n| Tip: In the mountains, the general rule is to keep your head covered at all times. During the day a sun cap protects you from the harsh rays of the sun (it is doubly stronger with naked UV rays). A sun cap keeps your body temperature in balance. In the evening/early morning, the reverse is true. Your head loses your body heat quickly. A woollen cap prevents heat from dissipating from your head.\n| Pro Tip: Sun caps with flaps are a blessing for trekkers. They cut out almost all UV leaks. They prevent sunburns in every possible way. They are a lot more effective than sunscreen lotion. A wide-brimmed sports hat also helps to prevent sunburn in a big way.\n3. Synthetic Hand Gloves\nOn a trek like Khopra Ridge, you are going to be handling snow quite a bit. You’ll need gloves to grip something or to steady yourself in snow. You also want the gloves to keep you warm. Get synthetic hand gloves that have waterproofing on the outside and a padded lining on the inside. If you find the combination difficult to get (not likely), wear a tight-fitting fleece hand glove inside a synthetic hand glove. Hand gloves are mandatory on this trek.\n4. Woollen Cap or Balaclava\nEnsure these cover your head. In the cold mountains, you lose maximum heat from your head, not from your hands, feet or the rest of your body. This is why you need to keep your head protected, especially when the sun is down. Early mornings, late evenings, and a cold trekking day are when you must use your woollen cap.\nYour ears are sensitive too, so a woollen head cap that covers your ears is essential. A balaclava is a modern version of the woollen cap. It covers your ears, neck and parts of your face as well. If you get a woollen cap that only covers your head, you will need a neck warmer or a woollen scarf.\n5. Socks (4 pairs)\nApart from three to four pairs of sports socks, take a pair of woollen socks. Sports socks give you cushioning plus warmth. Again the mantra is to wear synthetic socks or at least a synthetic blend. Cotton socks soak in water and sweat. They are very hard to dry.\nAs for woollen socks, they help you to keep warm and snug at the night. If you cannot get woollen socks, wearing two sports socks serves the purpose as well.\n6. Headlamp\nTrekkers are often confused about whether they need to get a headlamp or a handheld torch. You need to get a headlamp because it leaves your hands free to do other activities. On the Khopra Ridge trek, you’ll need your hands free to wash dishes, pitch tents and hold your trek poles.\n| Buying tip: Ensure your headlamp covers a wider area and is not too focused as a single beam. On a trek, your headlamp must help you see around you as much as ahead of you.\n| Rental: Headlamps are available for rent at the Indiahikes store. Rent here.\n7. Trekking Poles (a pair)\nTrekking poles give you stability and balance. They reduce your energy consumption by almost 40%. On the Khopra Ridge trek, there are steep ascents and descents. A pair of trekking poles will make the difference between a comfortable and a strenuous trek. In India, we tend to use a single trekking pole. However, two trekking poles give you greater stability and balance. They also increase your walking pace.\n| Rental: Imported side-locking trekking poles are available for rent at the Indiahikes store. Rent here.\n8. Rainwear\nOn a trek, the weather can change quickly. A bright sunny day can turn into a downpour in a matter of minutes. Carry a poncho or a rain jacket to tackle this. A poncho is a big rain cover with openings for your arms and your head. It is extremely effective because it covers both you and (partially) your backpack. It is extremely light and weighs next to nothing.\n| Pro tip: Rain jackets are more streamlined and less cumbersome but weigh more. Rain pants are not required. Dry fit trek pants dry quickly even if soaking wet.\n| Rental: High-grade ponchos are available for rent at the Indiahikes store. Rent here.\n9. Rain cover for your backpack\nBackpacks are your life. You carry all your dry clothes and your warm gear in your backpack. Your backpack must stay dry at all times. Modern backpacks usually come with built-in rain-covers. If your backpack does not have a rain cover, ensure you get a rain cover by either (a) buying a rain cover or (b) or cutting a large plastic sheet to the size of your backpack. You can roll the plastic sheet around your backpack and keep it in place with a string or elastic.\n| Pro tip: It’s good practice to compartmentalise your clothes, accessories and other things in plastic covers inside your backpack. That way, even if it rains and your backpack gets wet, your things are water-proof inside the backpack.\n10. Daypack (20-30 ltrs, optional)\nIn your daypack, you carry essentials like water bottles, rainwear, emergency medicines, a headlamp, some snacks and a warm layer. Your main backpack that carries most of your equipment is accessible only at the campsites.\nA daypack is a smaller backpack that is usually of 20-30 litre capacity. Laptop bags are not daypacks. Do not get them.\nOther Mandatory Requirements\n1. A toilet kit\nKeep your toilet kit light. Carry just the basics — toothbrush, toothpaste, small soap, toilet tissue roll, a small moisturiser, lip balm, and a roll-on deodorant. You will not be able to have a bath on the trek, so don’t overload on soaps and shampoos.\n| Pro Tip: Carry miniature-sized items. You will not need more than that. If you’re travelling in a group, share one toothpaste for all.\n| Pro Tip: Avoid getting large toilet rolls. The smallest size roll is more than enough for a trek like Khopra Ridge.\n| For Women: If you are likely to have your periods on your trek date, don’t worry about it. You can use your pads, tampons or menstrual cups on the trek. There will be toilet tents where you can get changed. Make sure you carry ziplock bags to bring back your menstrual waste. Don’t leave behind any waste in the mountains. Watch this video to learn how to dispose of your sanitary waste.\n2. Cutlery\nCarry a lunch box, a mug and a spoon. Your lunch box must be leakproof. You are expected to wash your cutlery. Trekkers often expect Indiahikes to wash their cutlery. When you allow Indiahikes to wash your cutlery, your cutlery becomes part of a mass washing system. You immediately invite germs, and bacteria to settle on your cutlery. The incidence of stomach disorders rises exponentially.\n| Pro Tip: Carry stainless steel cutlery. Avoid fancy high-grade plastic cutlery. Stainless steel cutlery is infinitely easier to wash in cold water. Grease is easier to remove and hygiene is at its highest.\n| Two 1 litre bottles or a 2-litre hydration pack: Khopra Ridge has many hours of trekking every day (approximately 6 hours). You need to carry two one-litre water bottles to keep yourself hydrated over the distance. If you are used to a hydration pack, then that is ok too. If one among the two bottles is a lightweight thermos, then that helps you to store warm water on a really cold day or for late evenings and early mornings.\n| Rental: You could rent lightweight thermos flasks from the Indiahikes store. Rent here.\n3. Plastic Covers\nCarry 3-4 old plastic covers to keep your used clothes. You could use them even for wet clothes. Re-use old plastic bags for this and do not buy new ones.\nWeb\nc8962104-b519-496c-bf1c-97e7a11a4779\nhttps://www.youtube.com/watch?v=PFtBdafs_PMhttps://\n2000\n1522\nhttps://images.prismic.io/indiahike/855b8667-f269-490c-b49a-3eca39d2ea20_Indiahikes-Packing-Guide.jpg?auto=compress,format\nYffJzBIAANnj5DSr\n0\n1\n#fff\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend on the last day. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Khopra Ridge trek.\nDexamethasone (1 Strip): This is part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.\nNifedipine (5 tablets): Again part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually the mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\nPro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [],
+        "anchors": [
+          {
+            "id": "what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "",
+            "top": 2560,
+            "visible": false
+          },
+          {
+            "id": "trek-what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "Khopra Ridge Khayar LakeSELECT MONTHGenerate my packing checklist",
+            "top": 0,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_info::001",
+      "source_field": "quick_info",
+      "section_type": "structured_facts",
+      "title": "Quick Info",
+      "content": {
+        "trek_difficulty": "Moderate - Difficult",
+        "trek_duration": "9 days",
+        "total_trek_distance": "58.2 kms",
+        "highest_altitude": "15,300 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Pokhara",
+        "accommodation_type": "Teahouses (gender-based)",
+        "fitness_criteria": "5 km in 32 mins",
+        "meeting_point": "Pokhara Top and Top Hotel, Pokhara",
+        "dropoff_details": "Pokhara by 7 PM",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "text": "{\n  \"trek_difficulty\": \"Moderate - Difficult\",\n  \"trek_duration\": \"9 days\",\n  \"total_trek_distance\": \"58.2 kms\",\n  \"highest_altitude\": \"15,300 ft\",\n  \"suitable_for\": \"12 to 62 years\",\n  \"basecamp\": \"Pokhara\",\n  \"accommodation_type\": \"Teahouses (gender-based)\",\n  \"fitness_criteria\": \"5 km in 32 mins\",\n  \"meeting_point\": \"Pokhara Top and Top Hotel, Pokhara\",\n  \"dropoff_details\": \"Pokhara by 7 PM\",\n  \"cloakroom\": \"Available\",\n  \"offloading\": \"Available\"\n}",
+      "rendered_support": {
+        "status": "included_source_field",
+        "reason": "Included because it is source-derived context; not directly mapped from a rendered accordion.",
+        "ui_sections": [],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::001",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1",
+      "content": {
+        "day": "1",
+        "heading": "Reach Pokhara from Kathmandu",
+        "sub_heading": "Drive distance: 215 km | Trek Duration: 7 hours | Stay for Indiahikes Trekkers: Pokhara Top and Top Hotel, Pokhara",
+        "details": "You will reach Pokhara on your own by either taking a bus or flying in from Kathmandu. You are expected to reach by 4 pm. You will meet the rest of the team at Pokhara Top and Top Hotel. Your stay at Pokhara Top and Top Hotel is taken care of by Indiahikes. You don't need to pay extra for this.\nPlease note: We will only be serving dinner at Hotel Pokhara Top and Top after trekkers arrive post 4 pm."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"heading\": \"Reach Pokhara from Kathmandu\",\n  \"sub_heading\": \"Drive distance: 215 km | Trek Duration: 7 hours | Stay for Indiahikes Trekkers: Pokhara Top and Top Hotel, Pokhara\",\n  \"details\": \"You will reach Pokhara on your own by either taking a bus or flying in from Kathmandu. You are expected to reach by 4 pm. You will meet the rest of the team at Pokhara Top and Top Hotel. Your stay at Pokhara Top and Top Hotel is taken care of by Indiahikes. You don't need to pay extra for this.\\nPlease note: We will only be serving dinner at Hotel Pokhara Top and Top after trekkers arrive post 4 pm.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::002",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2",
+      "content": {
+        "day": "2",
+        "heading": "Drive from Pokhara to Kimsee. Trek to Ghandruk",
+        "sub_heading": "Drive Distance: 56 km | Trek Duration: 2.5 hours | Altitude Gain: 2,760 ft to 5,440 ft\nTrek Distance: 3.7 km | Trek Duration: 2 hours | Altitude Gain: 5,440 ft to 6,561 ft",
+        "details": "Transport will be arranged by Indiahikes, but the trekkers will have to share the cost. Approx Rs 2,500 INR per person including both the drives to the base camp."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"heading\": \"Drive from Pokhara to Kimsee. Trek to Ghandruk\",\n  \"sub_heading\": \"Drive Distance: 56 km | Trek Duration: 2.5 hours | Altitude Gain: 2,760 ft to 5,440 ft\\nTrek Distance: 3.7 km | Trek Duration: 2 hours | Altitude Gain: 5,440 ft to 6,561 ft\",\n  \"details\": \"Transport will be arranged by Indiahikes, but the trekkers will have to share the cost. Approx Rs 2,500 INR per person including both the drives to the base camp.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::003",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3",
+      "content": {
+        "day": "3",
+        "heading": "Trek from Ghandruk to Tadapani",
+        "sub_heading": "Trek Distance: 6.4 km | Trek Duration: 4.5 hours | Altitude Gain: 6,561 ft to 8,705 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"heading\": \"Trek from Ghandruk to Tadapani\",\n  \"sub_heading\": \"Trek Distance: 6.4 km | Trek Duration: 4.5 hours | Altitude Gain: 6,561 ft to 8,705 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::004",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4",
+      "content": {
+        "day": "4",
+        "heading": "Trek from Tadapani to Dobato",
+        "sub_heading": "Trek Distance: 6.2 km | Trek Duration: 6.5 hours | Altitude Gain: 8,705 ft to 11,225 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"heading\": \"Trek from Tadapani to Dobato\",\n  \"sub_heading\": \"Trek Distance: 6.2 km | Trek Duration: 6.5 hours | Altitude Gain: 8,705 ft to 11,225 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::005",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5",
+      "content": {
+        "day": "5",
+        "heading": "Trek from Dobato to Chhistibang via Muldai Top",
+        "sub_heading": "Trek Distance: 9.2 km | Trek Duration: 6-7 hours | Altitude Gain & Loss: 11,220 ft to 9,678 ft via 11,811 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"heading\": \"Trek from Dobato to Chhistibang via Muldai Top\",\n  \"sub_heading\": \"Trek Distance: 9.2 km | Trek Duration: 6-7 hours | Altitude Gain & Loss: 11,220 ft to 9,678 ft via 11,811 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::006",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6",
+      "content": {
+        "day": "6",
+        "heading": "Trek from Chhistibang to Khopra Ridge",
+        "sub_heading": "Trek Distance: 3.5 km | Trek Duration: 3 hours | Altitude Gain: 9,678 to 11,975 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"heading\": \"Trek from Chhistibang to Khopra Ridge\",\n  \"sub_heading\": \"Trek Distance: 3.5 km | Trek Duration: 3 hours | Altitude Gain: 9,678 to 11,975 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::007",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 7",
+      "content": {
+        "day": "7",
+        "heading": "Trek from Khopra Ridge to Khayar Lake, and back to Khopra Ridge",
+        "sub_heading": "Trek Distance: 16 km | Trek Duration: 8-9 hours | Altitude Gain and Loss: 11,975 ft to 15,300 ft, and back to 11,975 ft",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"7\",\n  \"heading\": \"Trek from Khopra Ridge to Khayar Lake, and back to Khopra Ridge\",\n  \"sub_heading\": \"Trek Distance: 16 km | Trek Duration: 8-9 hours | Altitude Gain and Loss: 11,975 ft to 15,300 ft, and back to 11,975 ft\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::008",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 8",
+      "content": {
+        "day": "8",
+        "heading": "Trek from Khopra Ridge to Paudwar via Gorge Point",
+        "sub_heading": "Trek Distance: 8.5 km | Trek Duration: 6.5 hours | Altitude Loss: 11,975 ft to 6,561 ft via",
+        "details": ""
+      },
+      "text": "{\n  \"day\": \"8\",\n  \"heading\": \"Trek from Khopra Ridge to Paudwar via Gorge Point\",\n  \"sub_heading\": \"Trek Distance: 8.5 km | Trek Duration: 6.5 hours | Altitude Loss: 11,975 ft to 6,561 ft via\",\n  \"details\": \"\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::quick_itinerary::009",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 9",
+      "content": {
+        "day": "9",
+        "heading": "Trek from Paudwar to Tatopani | Drive from Tatopani to Pokhra",
+        "sub_heading": "Trek Distance: 4.7 km | Trek Duration: 3 hours | Altitude Gain: 6,561 ft to 3,871 ft\nBus Drive Distance: 110 km | Drive Duration: 5 hours",
+        "details": "You will reach Pokhra by 7pm.\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons."
+      },
+      "text": "{\n  \"day\": \"9\",\n  \"heading\": \"Trek from Paudwar to Tatopani | Drive from Tatopani to Pokhra\",\n  \"sub_heading\": \"Trek Distance: 4.7 km | Trek Duration: 3 hours | Altitude Gain: 6,561 ft to 3,871 ft\\nBus Drive Distance: 110 km | Drive Duration: 5 hours\",\n  \"details\": \"You will reach Pokhra by 7pm.\\nPlease note: The distance between campsites may vary by 100 meters depending the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          },
+          {
+            "ui_section_id": "khopra-ridge-khayar-lake::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 2380
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "khopra-ridge-khayar-lake::safety_section::001",
+      "source_field": "safety_section",
+      "section_type": "text_section",
+      "title": "Safety Section",
+      "content": "Defining Safety Standards of Trekking\nAs industry leaders, we have innovated and set safety standards in the trekking industry. Our people, our processes, our equipment, are what make Indiahikes the safest trekking organisation in India.",
+      "text": "Defining Safety Standards of Trekking\nAs industry leaders, we have innovated and set safety standards in the trekking industry. Our people, our processes, our equipment, are what make Indiahikes the safest trekking organisation in India.",
+      "rendered_support": {
+        "status": "included_source_field",
+        "reason": "Included because it is source-derived context; not directly mapped from a rendered accordion.",
+        "ui_sections": [],
+        "anchors": []
+      }
+    }
+  ]
+}

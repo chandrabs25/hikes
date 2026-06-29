@@ -1,0 +1,201 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bali-pass-ruinsara-tal",
+  "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "May",
+        "June",
+        "September",
+        "October"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "The best time to do the Bali Pass trek would be in the summer– May and June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "Another good time to do the Bali Pass trek is in the post-monsoon and Autumn season — September to October.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Transition from snow to greenery",
+        "Blooming rhododendrons",
+        "Possibility of witnessing the rare alpenglow phenomenon",
+        "Vibrant meadows",
+        "Lush green trail fresh from monsoon",
+        "Dramatic yellows and oranges hues in autumn",
+        "Best views of mountains in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "The gradual transition of the trail from snow to greenery is something to behold. This coupled with the blooming rhododendrons, the possibility of witnessing the rare alpenglow phenomenon and the vibrant meadows make it one of the best times to do the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "The trail is lush green in September, fresh from the monsoon outpour. As you move towards autumn, the region changes hues to dramatic yellows and oranges. You’ll also get the best views of mountains this season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow patches on the ridge for the first few weeks of May if winter had heavy snowfall",
+        "First spell of snowfall expected for last groups of November due to western disturbances"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "If the winter season for the year has heavy snowfall, you can expect snow patches on the ridge for the first few weeks of May. The snow starts to recede with the meadows and flowers popping out.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "You can expect the last groups of November to witness the first spell of snowfall due to the western disturbances.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer daytime: 12°C to 17°C",
+        "Summer nighttime: drops to zero",
+        "Autumn daytime: 10°C to 14°C",
+        "Autumn nighttime: drops to 0°C to -3°C",
+        "Summer requires 3 warm layers",
+        "Autumn requires 4 warm layers"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 17 °C | Night time: Night time temperature: Will drop to zero",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "Day time: Between 10 °C and 14 °C | Night time: Will drop to temperatures between 0 °C and -3 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 3 layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Best views of mountains in autumn season"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "You’ll also get the best views of mountains this season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Bali Pass crossing is dependent on snow and weather conditions on the day of ridge crossing",
+        "Trek leader may decide to return if weather is bad or ridge is unsafe to cross"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+          "quote_or_summary": "The crossing of Bali Pass is very much dependent on how much snow and the weather is for the day of the ridge crossing. In case of bad weather or the ridge not being safe to cross, the trek leader can take a call on returning.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

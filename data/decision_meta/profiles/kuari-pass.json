@@ -1,0 +1,157 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.406572+00:00",
+  "trek_id": "kuari-pass",
+  "trek_title": "Kuari Pass Trek",
+  "source_url": "https://indiahikes.com/kuari-pass",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 6,
+    "distance_km": 22.0,
+    "highest_altitude_ft": 12516,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Live Free Hostel, Rishikesh",
+    "pickup_time": "5.30 AM",
+    "dropoff_city": "Live Free Hostel, Rishikesh 6.00 PM",
+    "dropoff_time": null,
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-November to February (Winter)",
+        "March to April (Spring)",
+        "May to June (Summer)",
+        "September to mid-November (Autumn)"
+      ],
+      "avoid_months": [
+        "July",
+        "August"
+      ],
+      "snow_or_rain_notes": [
+        "Snow present from base camp towards January; entire landscape and valley white from December to end of March; upper reaches of Gorson and Kuari still under snow in spring; Khullara and Chitrakantha meadows usually under snow until mid-April",
+        "July and August are peak rainy season in Uttarakhand and trek is not accessible; mild rains start by end of summer (afternoon to evening) marking the beginning of monsoon"
+      ],
+      "temperature_notes": [
+        "Winter: Day 8–14 °C, Night -8 to -14 °C; notoriously cold, colder than other winter treks; 5 warm layers required",
+        "Spring: Day 13–17 °C, Night drops to zero; 3–4 warm layers",
+        "Summer: Day 18–24 °C, Night drops 3–8 °C; 3 warm layers",
+        "Autumn: Day 10–15 °C, Night drops to zero; 3–4 warm layers; nights get much colder as winter approaches"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Steep ascent on day 1 of about 1500 ft over 2.75 km",
+        "Overhanging narrow trail for about 1 km overlooking Dhak valley between Tali and Gorson Bugyal, tricky in winter or rainy days",
+        "Unmarked trail entry into pine forests of Auli from Gorson Bugyal, easy to go astray, tricky on misty/foggy days with low visibility",
+        "Day 1 steep ascent of ~1500 ft over 2.75 km",
+        "Daily ascents and descents across four trekking days covering ~22 km with cumulative gain of ~4,731 ft (7,785 ft to 12,516 ft)"
+      ],
+      "altitude_or_weather_risks": [
+        "Day 1 steep ascent of ~1500 ft over 2.75 km can increase susceptibility to Acute Mountain Sickness",
+        "Trek reaches 12,500 ft; above 10,000 ft AMS risk is real for both first-time and experienced trekkers",
+        "Even fit persons climbing too high too soon are at equal risk of AMS",
+        "Prolonged rainfall or snowfall can change trek dynamics; Tali campsite is extremely prone to flooding",
+        "Rain can make forest trails slushy and unsafe to walk on"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Must be able to walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level).",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month."
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting the trek's fitness criteria."
+      ],
+      "prep_window": [
+        "6 weeks (using Indiahikes' free 6-Week Training Plan).",
+        "Screenshots must be uploaded 15 to 20 days before the trek date.",
+        "Runs must meet the fitness criteria at least 3 times in the past month."
+      ]
+    },
+    "experience_themes": [
+      "Winter: snow experience, mighty mountain views, dreamy wonderland with pines/oak/dwarf rhododendrons, soft powdery snowflakes on pine trees, possible snowfall and snowball fights",
+      "Spring: last of winter snow, receding snow at lower campsites, green meadows, blooming flowers and rhododendrons, colour contrasts of snow/greenery/flowers",
+      "Summer: bright sunny days, mildly colder nights, comfortable trekking temperatures",
+      "Autumn: crisp mountain views, golden brown meadows, colour of the season",
+      "Winter: unending vista of the biggest mountains in India opening up from day one; white snow-draped landscape",
+      "Spring: colour contrasts of snow, greenery and flowers on meadows"
+    ],
+    "primary_watchouts": [
+      "Winter: snow raises trek difficulty by a notch; prepare well; notoriously cold",
+      "End of summer: mild rains in afternoons/evenings marking monsoon onset",
+      "Autumn: ending trek towards Auli and crossing towards Gorson Bugyal depends on snow and weather forecast; in bad weather or unsafe ridge, trek leader may return to Khullara campsite",
+      "July and August due to peak rainy/monsoon season in Uttarakhand",
+      "Steep ascent on day 1 of about 1500 ft over 2.75 km",
+      "Overhanging narrow trail for about 1 km overlooking Dhak valley between Tali and Gorson Bugyal, tricky in winter or rainy days"
+    ],
+    "best_for": [
+      "Winter: snow lovers, mountain lovers seeking snow experience and mighty mountain views",
+      "Spring: those wanting last of winter snow with colour contrasts of meadows",
+      "Summer: trekkers seeking comfortable temperatures and bright sunny days",
+      "Autumn: trekkers seeking crisp mountain views and golden meadows"
+    ],
+    "not_ideal_for": [
+      "July and August due to peak rainy/monsoon season in Uttarakhand"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "kuari-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "kuari-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "kuari-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "kuari-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "kuari-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "kuari-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "kuari-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "kuari-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "kuari-pass::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

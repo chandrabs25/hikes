@@ -1,0 +1,151 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.393311+00:00",
+  "trek_id": "beas-kund",
+  "trek_title": "Beas Kund Trek",
+  "source_url": "https://indiahikes.com/beas-kund",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 4,
+    "distance_km": 14.5,
+    "highest_altitude_ft": 12772,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "8.30 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "4 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-June to mid-July",
+        "mid-July to mid-August",
+        "mid-August to September"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow present at Palchhani Thatch and on trek in mid-June, traces of winter lingering",
+        "Snow patches on the ground in summer (mid-June to mid-July)",
+        "Some snow on final ascend to Beas Kund in early July, most snow melted by mid-July",
+        "Snow gone from mid-August to September",
+        "Heavy rain in the afternoon from mid-July to mid-August; carrying a poncho is compulsory"
+      ],
+      "temperature_notes": [
+        "Mid-June to mid-July: Day 15-20 °C, Night 1-5 °C",
+        "Mid-July to mid-August: Day 13-18 °C, Night 1-5 °C",
+        "Mid-August to September: Day 12-15 °C, Night 0-3 °C",
+        "4 warm layers recommended across all three windows; cold subject to wind, moisture and other factors"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "First two days are relatively easy",
+        "Third day (Lady Leg Day) includes a steep ascent and an equally steep descent in one day",
+        "Trail disappears in meadows on many occasions, creating a risk of getting lost",
+        "Unexpected snow patches in certain sections in June can make the trek trickier",
+        "Trail can get very slushy when it rains heavily"
+      ],
+      "altitude_or_weather_risks": [
+        "Rapid altitude gain on day one (above 9,000 ft to above 10,000 ft) can be strenuous",
+        "At altitudes above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real",
+        "AMS can affect first-time trekkers as well as experienced trekkers",
+        "Even fit persons climbing too high too soon are at equal risk of AMS",
+        "Best done during monsoon months (July, August, September); rain is part of the experience"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level)",
+        "Build cardiovascular endurance and muscle strength",
+        "Train core, calves, glutes, quadriceps, and hamstrings"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-Week Training Plan)",
+        "15 to 20 days before trek date for screenshot upload"
+      ]
+    },
+    "experience_themes": [
+      "Frozen Beas Kund surrounded by snow in mid-June, ice begins to thaw as July descends",
+      "Snow patches on the ground in summer despite it being summer",
+      "Meadows emerge as monsoon season deepens",
+      "Frozen Beas Kund melting in small concentric circles in mid-July, ice thinning, meadows around lake emerging past mid-July",
+      "Lush greenery replacing snow from mid-August to September",
+      "Beas Kund flaunts deep royal blue colour with green grass and flowers blooming around it in mid-August to September"
+    ],
+    "primary_watchouts": [
+      "Snow patches on the ground in mid-June to mid-July despite summer",
+      "Heavy afternoon rain and compulsory poncho from mid-July to mid-August",
+      "Frequent rains and unannounced clouds shrouding lake and trail at monsoon peak (mid-July to mid-August)",
+      "Cold is subject to wind, moisture and other factors; 4 warm layers recommended",
+      "First two days are relatively easy",
+      "Third day (Lady Leg Day) includes a steep ascent and an equally steep descent in one day"
+    ],
+    "best_for": [
+      "Catching arresting views of underrated mountains of Himachal Pradesh under blue skies (mid-August to September)",
+      "Experiencing lush meadows and royal blue Beas Kund with blooming flowers (mid-August to September)",
+      "Seeing frozen Beas Kund surrounded by snow (mid-June)"
+    ],
+    "not_ideal_for": [
+      "Trekking solo if not well versed in the region",
+      "Travelling to Manali on the same day as starting the trek (due to rapid altitude gain)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "beas-kund::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "beas-kund::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "beas-kund::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "beas-kund::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "beas-kund::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "beas-kund::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "beas-kund::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "beas-kund::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

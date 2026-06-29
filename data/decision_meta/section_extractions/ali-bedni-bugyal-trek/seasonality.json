@@ -1,0 +1,250 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "March–April (Spring)",
+        "May–June (Summer)",
+        "September–November (Post-monsoon)",
+        "December–March (Winter)"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Ali Bedni Bugyal in Spring (March-April)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Ali Bedni Bugyal trek would be in summer, for lush greenery in the meadows and wildflowers growing in abundance. You see the best of this in June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Another good time to do the Ali Bedni Bugyal trek is in the post-monsoon season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Ali Bedni Bugyal in Winter (December-March)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Spring: last patches of snow melting, bits lingering on higher slopes; forests wake with fresh green leaves; bright red rhododendrons bloom along the trail (especially near Gehroli Patal); thrushes and barbets call through the trees",
+        "Summer: lush greenery in meadows; wildflowers in abundance (best in June)",
+        "Post-monsoon: squeaky clean skies after monsoon clouds wash away",
+        "Winter: soft snow settles under oak and rhododendron boughs; west-facing slope catches early morning sun slanting through trees onto snow at magical angles"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "During spring, you’ll see the last patches of snow melting away. A few bits still linger on the higher slopes. The forests around you begin to wake up after winter. Fresh green leaves appear. Bright red rhododendrons bloom along the trail, especially on the way to Gehroli Patal. You’ll also hear the forest coming alive with thrushes and barbets calling through the trees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Ali Bedni Bugyal trek would be in summer, for lush greenery in the meadows and wildflowers growing in abundance. You see the best of this in June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "After the monsoon clouds are washed away, the skies are squeaky clean and you get the best views of mountains only in these months.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In the forests, the snow settles softly under the boughs of the oaks and rhododendrons. What makes it more special on the Ali Bedni trek is that the slope faces the west. Early in the morning when you are trekking up the slope, the sun slants through the trees hitting the snow at magical angles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "December–March: winter snow cover",
+        "March–April: lingering snow on higher slopes"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Ali Bedni Bugyal in Winter (December-March)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "But the Ali Bedni winter trek is the one with the most beautiful snow cover.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In the forests, the snow settles softly under the boughs of the oaks and rhododendrons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "During spring, you’ll see the last patches of snow melting away. A few bits still linger on the higher slopes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Spring: crisp, clean air; clear, sharp views of Mt. Trishul and Mt. Nanda Ghunti; snow-covered summits gleaming; ridge walk with Mt Trishul backdrop",
+        "Summer: green meadows with wildflowers; grazing horses with Mt Nanda Ghunti backdrop",
+        "Post-monsoon: squeaky clean skies; best views of mountains; ideal for photographs of big mountains",
+        "Winter: soft snow under oak and rhododendron boughs; magical morning sun angles on snow; snow covering pine and oak forest"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "It’s also one of the best times for mountain views. The air stays crisp and clean. You get clear, sharp views of Mt. Trishul and Mt. Nanda Ghunti. Both stand tall in front of you, their snow-covered summits gleaming in the sun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "A trekker standing at the entrance of a ridge walk section with Mt Trishul in backdrop",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Ali Bedni Bugyal trek would be in summer, for lush greenery in the meadows and wildflowers growing in abundance.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "horse grazing on the green meadows with Mt Nanda Ghunti at the backdrop",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "After the monsoon clouds are washed away, the skies are squeaky clean and you get the best views of mountains only in these months. If you’re one for photographs of big mountains in the region, choose the post-monsoon season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In the forests, the snow settles softly under the boughs of the oaks and rhododendrons. What makes it more special on the Ali Bedni trek is that the slope faces the west. Early in the morning when you are trekking up the slope, the sun slants through the trees hitting the snow at magical angles.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "snow covering the pine and oak forest in the jungles of Ali Bedni",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [
+        "Summer (May–June): best overall time for lush greenery and wildflowers",
+        "Post-monsoon (September–November): best mountain views and photography of big mountains",
+        "Spring (March–April): among the best times for mountain views of Mt. Trishul and Mt. Nanda Ghunti",
+        "Winter (December–March): most beautiful snow cover"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Ali Bedni Bugyal trek would be in summer, for lush greenery in the meadows and wildflowers growing in abundance. You see the best of this in June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "After the monsoon clouds are washed away, the skies are squeaky clean and you get the best views of mountains only in these months. If you’re one for photographs of big mountains in the region, choose the post-monsoon season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "It’s also one of the best times for mountain views. The air stays crisp and clean. You get clear, sharp views of Mt. Trishul and Mt. Nanda Ghunti. Both stand tall in front of you, their snow-covered summits gleaming in the sun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "But the Ali Bedni winter trek is the one with the most beautiful snow cover.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

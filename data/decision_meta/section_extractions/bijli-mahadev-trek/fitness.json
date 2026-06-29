@@ -1,0 +1,145 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bijli-mahadev-trek",
+  "section_id": "bijli-mahadev-trek::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/bijli-mahadev-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [
+        "Walk, jog, or run 5 km in under 60 minutes (recommended fitness target)"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::fitness_section::001",
+          "quote_or_summary": "Walk, jog, or run 5 km in under 60 minutes. You don’t need to submit these screenshots to us. The Bijli Mahadev Trek doesn’t have a Fitness Approval Process. However, this is a recommended fitness level you can aim for.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "No formal Fitness Approval Process required",
+        "Screenshots of walks/runs do not need to be submitted"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::fitness_section::001",
+          "quote_or_summary": "our Central Indian treks are significantly easier. They do not require a formal Fitness Approval Process. You can join without submitting screenshots of your walks or runs to us.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bijli-mahadev-trek::fitness_section::001",
+          "quote_or_summary": "You don’t need to submit these screenshots to us. The Bijli Mahadev Trek doesn’t have a Fitness Approval Process.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "6 weeks (per Indiahikes' free 6-Week Training Plan)"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::fitness_section::001",
+          "quote_or_summary": "Follow this, and you'll be trek-ready in 6 weeks.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [
+        "Lungs and legs work harder than in regular everyday life; coming unprepared can be a challenge"
+      ],
+      "evidence": [
+        {
+          "section_id": "bijli-mahadev-trek::fitness_section::001",
+          "quote_or_summary": "even on the Bijli Mahadev Trek, your lungs and legs work harder than in your regular everyday life. It’s better that you warm your body up to this challenge instead of coming on the trek without preparation.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

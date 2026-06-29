@@ -1,0 +1,301 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kedartal",
+  "section_id": "kedartal::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/kedartal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-May to end-June",
+        "mid-September to mid-October"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Kedartal in Summer (mid-May to end-June)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Kedartal in Autumn (mid-September to mid-October)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "end of June (monsoon onset)",
+        "end of October (cold increases, water sources freeze, trekking becomes untenable)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of June, the arrival of monsoons is imminent. This makes the trail prone to landslides and rockfalls. The trek becomes a risky proposition to undertake. Therefore, at Indiahikes, we wind up the summer season by June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of October, the cold increases manifold, water sources freeze and trekking becomes untenable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Frozen Kedartal lake in early summer",
+        "Snow on trail after Kedar Kharak in May",
+        "Snow plumes on mountain peaks in autumn",
+        "Golden/yellow silver birch trees and autumn-coloured shrubs at Kedar Kharak in autumn",
+        "Bharal (mountain goat) sightings more likely in autumn",
+        "Clear mountain views of Mt Thalaysagar and Mt Bhrigunath in autumn",
+        "Still lake reflecting Mt Thalaysagar in blue/emerald green at summit in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "a big attraction in early summers is to find the Kedartal lake completely frozen. This is a rare sight.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "In May, you’ll find a good amount of snow after Kedar Kharak on the way to the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Another thing to watch out for during autumn is the snow plumes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "The silver birch trees turn a golden shade of yellow, while the trunk shines in the bright autumn sun.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "It’s also the time you’ll see the mountain goats – the Bharal. ... The probability of sighting them is higher in autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "In September-October, the summer haze and clouds clear up to reveal brilliant mountain views.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "The lake now completely still looks a shade of blue or emerald green depending on the weather. When the water is still you’ll see a complete reflection of mighty Mt. Thalaysagar reflecting in its blue-green waters.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "May (snow on trail after Kedar Kharak and in shaded patches before Kedar Kharak)",
+        "From October, precipitation falls as snowfall at higher camps (3-4 inches per snowfall)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "In May, you’ll find a good amount of snow after Kedar Kharak on the way to the summit. You will also find patches of snow before you reach Kedar Kharak, especially in the shadows of the mountains",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "From October, any precipitation comes down as snowfall in the higher camps. When it snows, expect 3-4 inches of snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Unpredictable rain/snow in summer (May–June)",
+        "Monsoon arrives by end of June, causing landslides and rockfalls on trail"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "The weather is quite unpredictable and volatile during the summers. The weather changes unannounced and it could abruptly start raining or even snowing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of June, the arrival of monsoons is imminent. This makes the trail prone to landslides and rockfalls.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer day: 15–20 °C; night near 0 °C; drops below 10 °C with rain/snow",
+        "Autumn day: up to 20 °C; nights can fall below 0 °C; overall temperatures fall 3–5 °C every couple of weeks as season progresses"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Day Temperature: The day temperatures are pleasant at an average of 15 – 20 °C | Night Temperature: Nights can get cold, with the mercury dropping close to zero degrees. When it rains or snows, expect the daytime temperature to drop below 10 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Day Temperature: Days can be quite warm with temperatures going as high as 20 °C | Night Temperature: The evenings at the campsite can get cold. Don’t be surprised if the temperatures fall below zero at night. Expect the overall temperatures to fall by 3-5 °C every couple of weeks as the season progresses.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Summer: view of Mt Thalaysagar and Mt Bhrigunath with blue sky and snow-capped mountains",
+        "Autumn: clear post-monsoon skies reveal best mountain views; lake reflects Mt Thalaysagar in blue/emerald green"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "the view of Mt Thalaysagar and Mt Bhrigunath with the blue sky and snow-capped mountains is exceptional!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "After the monsoon, when the sky shakes off all the clouds and becomes squeaky clean, you see the best views of the mountains around.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Summer: volatile weather, possible snow even in summer, campsites can turn white with snow",
+        "End of June: monsoon-related landslides and rockfalls",
+        "Autumn: lack of reliable water sources on trail (sources dry up); carry 2–3 litres of water",
+        "End of October: cold increases manifold, water sources freeze, trekking becomes untenable"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "the months of May-June are susceptible to bad weather. ... at such altitude, you can expect it to snow even in summer. When it snows the campsites turn completely white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of June, the arrival of monsoons is imminent. This makes the trail prone to landslides and rockfalls.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "An important thing to note during the autumn season is the lack of reliable water sources on the trail. Water sources en route tend to dry up. Therefore always leave camp with 2-3 litres of water.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of October, the cold increases manifold, water sources freeze and trekking becomes untenable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking a frozen high-altitude lake and snow on trail (early summer)",
+        "Trekkers seeking clear mountain views, autumn foliage, snow plumes, and possible Bharal sightings (autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "Summer is the most popular time to do the Kedartal trek as a big attraction in early summers is to find the Kedartal lake completely frozen.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "In September-October, the summer haze and clouds clear up to reveal brilliant mountain views.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers averse to volatile weather and possible summer snowfall",
+        "Trekkers unwilling to manage monsoon-related landslide/rockfall risk at end of June",
+        "Trekkers unable to carry sufficient water on dry autumn trail",
+        "Trekkers unprepared for untenable late-October conditions (frozen water sources, severe cold)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "the months of May-June are susceptible to bad weather. ... you can expect it to snow even in summer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of June, the arrival of monsoons is imminent. This makes the trail prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "An important thing to note during the autumn season is the lack of reliable water sources on the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::best_time_section::001",
+          "quote_or_summary": "By the end of October, the cold increases manifold, water sources freeze and trekking becomes untenable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

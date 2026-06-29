@@ -1,0 +1,269 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "gaumukh-tapovan",
+  "section_id": "gaumukh-tapovan::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/gaumukh-tapovan",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for experienced trekkers",
+        "Several difficult sections on this trek that require you to be alert and trek carefully"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Suitable for experienced trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "There are several difficult sections on this trek that require you to be alert and trek carefully.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Experienced trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Suitable for experienced trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Large boulder crossing between Gangotri and Chirbasa with a drop into the river",
+        "Unstable 'Kachha Dhaang' sections between Chirbasa and Bhojbasa prone to landslides",
+        "Bhagirathi River crossing after Bhojbasa via government-provided trolleys/pulleys",
+        "Final ascent to Tapovan along lateral moraines of Gangotri glacier, rockfall-prone"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "On the way to Chirbasa from Gangotri, you cross a large boulder. On one side, it drops directly into the river. Be extra careful even though there are guard rails, especially if it rains.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Between Chirbasa and Bhojbasa, the unstable \"Kachha Dhaang\" sections are prone to landslides.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "After Bhojbasa, crossing the Bhagirathi River requires government-provided trolleys. Handle the pulley carefully to avoid injury.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "The final ascent to Tapovan is along the lateral moraines of Gangotri glacier and is rockfall-prone.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Daily ascents and descents over ~41 km in six trekking days",
+        "Total elevation gain of approximately 4,153 ft (from 10,050 ft to 14,203 ft)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 41 km in six trekking days during which you will gain approximately 4,153 ft (10,050 ft to 14,203 ft). Every day will include ascents and descents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes and other technical gear wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Gangotri basecamp at 10,050 ft makes trekkers susceptible to Acute Mountain Sickness (AMS)",
+        "Trek goes over 14,000 ft at Tapovan; AMS risk is real above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike; fitness does not eliminate risk if ascent is too fast",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Gangotri, situated 10,050 ft above sea-level, is our highest basecamp. This makes you susceptible to Acute Mountain Sickness (AMS).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "The trek takes you over 14,000 ft over sea-level at Tapovan. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy",
+        "Snowfall can obstruct existing paths, requiring fresh tracks to be cut",
+        "Autumn temperatures plummet below zero; strong winds can be taxing without proper layering",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "In the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only one exit point on the trek: Gangotri (basecamp), making evacuation challenging",
+        "SDRF camp and Forest Department Office at Bhojbasa can assist in emergencies",
+        "Mules or horses can be arranged from Bhojbasa to Gangotri",
+        "Evacuation from Tapovan (ahead of Bhojbasa) is extremely difficult due to terrain",
+        "Primary Health Care Center in Harsil (~25 km from Gangotri) has only basic facilities",
+        "District Hospital in Uttarkashi (~100 km by road from Gangotri) for better facilities",
+        "Dehradun is the best option for advanced treatment",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "The only exit point on the Gaumukh Tapovan Trek is Gangotri (basecamp). With only one exit point on the trail, evacuation in case of emergency becomes challenging on the Gaumukh Tapovan trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "There is an SDRF camp and Forest Department Office at Bhojbasa. In case of emergency, they can be approached for help and rescue. Mules or horses can also be arranged to take you from Bhojbasa to Gangotri.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Ahead of Bhojbasa, evacuation from Tapovan is extremely difficult because of the terrain and the difficult sections that come into play.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "There is a Primary Health Care Center in Harsil, about 25 km from Gangotri However, it has very basic facilities. For better facilities, you need to approach the District Hospital in Uttarkashi, which is about 100 kms by road from Gangotri. However, for any advanced treatment, heading to Dehradun is the best option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must pay attention to safety protocols for a safe and successful trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "gaumukh-tapovan::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

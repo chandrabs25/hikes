@@ -1,0 +1,166 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.413906+00:00",
+  "trek_id": "sandakphu-phalut",
+  "trek_title": "Sandakphu Phalut Trek",
+  "source_url": "https://indiahikes.com/sandakphu-phalut",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 68.0,
+    "highest_altitude_ft": 11930,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Bhakti Nagar Police Station, Siliguri",
+    "pickup_time": "9 AM",
+    "dropoff_city": "Bhakti Nagar Police Station, Siliguri",
+    "dropoff_time": "9 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "avoid_months": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "snow_or_rain_notes": [
+        "January",
+        "February",
+        "Trek closed May to August due to monsoon",
+        "Mid-April onwards rains become more frequent, making the trek less enjoyable",
+        "Spring showers can cause fog and obscure long-distance peak views"
+      ],
+      "temperature_notes": [
+        "Winter daytime: 8°C to 12°C; nighttime: 0°C to -3°C; 5 warm layers required",
+        "Spring daytime: 15°C to 20°C; nighttime: 1°C to 5°C; 4 warm layers required",
+        "Autumn daytime: 13°C to 18°C; nighttime: 5°C to 0°C; 4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Uneven trails with daily ascents and descents",
+        "Continuous steep ascent from Sepi to Rammam village",
+        "Continuous 10 km steep ascent from Samanden to Molley with 4,460 ft height gain",
+        "Steep descent from Sandakphu to Gurdum that can get slippery and tricky in rain or snow",
+        "Walking on an exposed ridge from Phalut to Sandakphu"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek reaches up to 11,930 ft with total gain of ~5,530 ft",
+        "Day 3 climb from 7,760 ft to 11,220 ft (4,460 ft gain) can contribute to altitude sickness",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft; can affect first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS",
+        "Extremely windy and cold on the ridge from Phalut to Sandakphu, especially in autumn and winter"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "To do the Sandakphu Phalut Trek comfortably, you must be able to walk, jog or run 5 km in under 35 minutes. This is the minimum recommended fitness level that you must aim for."
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek."
+      ],
+      "prep_window": [
+        "you'll be trek-ready in 6 weeks",
+        "Make sure you upload these screenshots 15 to 20 days before your trek date"
+      ]
+    },
+    "experience_themes": [
+      "Spring: Rhododendrons and Magnolias in bloom along the trail",
+      "Autumn: Crisp air, clear mountain views, golden colours at sunrise/sunset, bird watching in the national park",
+      "Winter: Mild snowfall at Sandakphu and Phalut, colourful twilight skies, sunrise and sunset below the clouds, solitude on the trail",
+      "Winter: Some of the best twilight skies; sun rises and sets below the clouds",
+      "Spring: Views may be limited by fog and showers, but flowers compensate",
+      "Autumn: Clearest air and best long-distance peak views; golden sunrise/sunset colours"
+    ],
+    "primary_watchouts": [
+      "Mid-April: increasing rain frequency reduces trek enjoyment",
+      "October: heavy crowds due to Durga Puja holidays and Land Rover tourists from Bengal",
+      "Winter: roads become difficult to drive on, reducing tourist numbers",
+      "Mid-to-late April due to frequent rains",
+      "October for those seeking solitude, due to Durga Puja crowds",
+      "Uneven trails with daily ascents and descents"
+    ],
+    "best_for": [
+      "Bird watching year-round (described as one of the Best Himalayan treks for Bird Watching)",
+      "Experiencing rhododendron and magnolia blooms in spring",
+      "Clear long-distance peak views and golden sunrise/sunset colours in autumn",
+      "Mild snow experience and solitude in winter",
+      "Colourful twilight skies in winter"
+    ],
+    "not_ideal_for": [
+      "Mid-to-late April due to frequent rains",
+      "October for those seeking solitude, due to Durga Puja crowds"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "sandakphu-phalut::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "sandakphu-phalut::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "sandakphu-phalut::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "sandakphu-phalut::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "sandakphu-phalut::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "sandakphu-phalut::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "sandakphu-phalut::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "sandakphu-phalut::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "sandakphu-phalut::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

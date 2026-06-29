@@ -1,0 +1,312 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "hampta-pass",
+  "section_id": "hampta-pass::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/hampta-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "mid-July to end of August",
+        "end of October (extended)"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The very best time would be between June and September. You can extend it to the end of October.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "If there is a favourite time to do the trek, then mid-July to the end of August is the best time to do the Hampta Pass trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "mid-May (snow too high for comfortable pass-crossing)",
+        "October (not as much fun)"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Some attempt the trek in the middle of May, but the snow is too high for a comfortable pass-crossing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "While it is possible to do the trek in October it is not as much fun.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "June: high snow from Balu Ka Ghera onward, snow on both sides of pass, snow patches on flats near Shea Goru",
+        "July: snow starts to melt rapidly, wildflowers begin (distorts, marigolds, blue poppies), first monsoon showers, green belt on Kullu side",
+        "August: most snow gone except patches near Hampta Pass, vibrant green grasslands, swaying wildflowers, cloudy skies, good showers",
+        "September: no snow on trail, post-mid-September skies clear, early autumn colours, colourful slopes, gorgeous sunrises/sunsets, snow-clad mountains against deep blue skies"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "In June expect a lot of snow from Balu Ka Ghera onward. You will find good snow slightly after Balu Ka Ghera camp right until the pass. You’ll get snow even until you get down on the Lahaul side. The depth of snow on both sides is quite high.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "In July the snow starts to melt rapidly but stays in good patches on the higher reaches of the pass. But different magic starts to unfold from mid-July onward.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The grasslands are a vibrant green. The slopes are alive with swaying wildflowers. On the other hand, the skies are generally cloudy though. Be game for good showers on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Post-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Hampta Pass is at its most colourful. The sunrises and sunsets are gorgeous, the snow-clad mountains stand tall against the deep blue skies. The trek is at its most perfect.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "June: high snow depth from Balu Ka Ghera onward, snow on both sides of pass",
+        "July: snow melting rapidly, good patches on higher reaches",
+        "August: most snow gone, only patches near Hampta Pass",
+        "September: no snow on trail"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "In June expect a lot of snow from Balu Ka Ghera onward.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "In July the snow starts to melt rapidly but stays in good patches on the higher reaches of the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "By August most of the snow is gone, except for some patches near Hampta Pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "You will not find snow in the month of September on the trail.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon showers begin in July; rains last until mid-September",
+        "Skies generally cloudy mid-July to end of August",
+        "Landslides and roadblocks more frequent in monsoon, causing traffic jams/delays en route to base camp"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The valley starts to get its first monsoon showers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The rains last until the mid of September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "June: Day 15-20°C, Night 1-5°C; 3 warm layers",
+        "July/August: Day 15-20°C, Night 1-5°C; 3 warm layers",
+        "September: Day 12-15°C, Night 0-3°C; 4 warm layers",
+        "Early October: night temperatures fall below zero at most camps, icy cold at higher camps"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Day time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "By the end of the first week of October, the air is nippier. The early winter chill is felt. Night temperatures will fall below zero in most camps. At the higher camps, it could be icy cold.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "June: snow-bound valley above Balu Ka Ghera, narrow valley with limited sun keeps snow depth high",
+        "July-August: vibrant green grasslands, slopes alive with swaying wildflowers, cloudy skies",
+        "September: most colourful slopes, gorgeous sunrises/sunsets, snow-clad mountains against deep blue skies",
+        "October: browner earth, starker boulders, dried streams"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The reason for the good snow even in late June is because the valley leading up to the Hampta Pass is narrow, with not too much sun on it. The depth of snow is high.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The grasslands are a vibrant green. The slopes are alive with swaying wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The Hampta Pass is at its most colourful. The sunrises and sunsets are gorgeous, the snow-clad mountains stand tall against the deep blue skies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The earth is browner. The boulders were starker.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Mid-May: snow too high for comfortable pass-crossing",
+        "Monsoon: landslides, roadblocks, traffic jams/delays en route to base camp",
+        "October: streams dry up, water sources increasingly difficult, early winter chill, night temps below zero"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Some attempt the trek in the middle of May, but the snow is too high for a comfortable pass-crossing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "The streams dry up and water sources become increasingly difficult.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Snow lovers (June)",
+        "Wildflower and monsoon trekkers (mid-July to August)",
+        "Autumn colours and clear-sky photographers (post-mid-September)"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "In June expect a lot of snow from Balu Ka Ghera onward.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "If there is a favourite time to do the trek, then mid-July to the end of August is the best time to do the Hampta Pass trek. The grasslands are a vibrant green. The slopes are alive with swaying wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Post-mid-September, the skies start to clear up and the early autumn colours strike the slopes. The Hampta Pass is at its most colourful.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Mid-May (snow too high for comfortable pass-crossing)",
+        "October (less fun, water scarcity, early winter chill)"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "Some attempt the trek in the middle of May, but the snow is too high for a comfortable pass-crossing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::best_time_section::001",
+          "quote_or_summary": "While it is possible to do the trek in October it is not as much fun.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

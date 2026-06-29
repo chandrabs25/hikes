@@ -1,0 +1,159 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.403166+00:00",
+  "trek_id": "hampta-pass",
+  "trek_title": "Hampta Pass Trek",
+  "source_url": "https://indiahikes.com/hampta-pass",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 6,
+    "distance_km": 26.0,
+    "highest_altitude_ft": 14065,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Beas Bridge, Manali",
+    "pickup_time": "7 AM",
+    "dropoff_city": "Beas Bridge, Manali",
+    "dropoff_time": "8 PM (including Chandratal Excursion)",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "June",
+        "July",
+        "August",
+        "September",
+        "mid-July to end of August",
+        "end of October (extended)"
+      ],
+      "avoid_months": [
+        "mid-May (snow too high for comfortable pass-crossing)",
+        "October (not as much fun)"
+      ],
+      "snow_or_rain_notes": [
+        "June: high snow depth from Balu Ka Ghera onward, snow on both sides of pass",
+        "July: snow melting rapidly, good patches on higher reaches",
+        "August: most snow gone, only patches near Hampta Pass",
+        "September: no snow on trail",
+        "Monsoon showers begin in July; rains last until mid-September"
+      ],
+      "temperature_notes": [
+        "June: Day 15-20°C, Night 1-5°C; 3 warm layers",
+        "July/August: Day 15-20°C, Night 1-5°C; 3 warm layers",
+        "September: Day 12-15°C, Night 0-3°C; 4 warm layers",
+        "Early October: night temperatures fall below zero at most camps, icy cold at higher camps"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Uneven trails with daily ascents and descents",
+        "River crossings (gushing streams, Rani Nala up to waist-deep)",
+        "Bouldery moraine sections and multiple ledges/ridges near Hampta Pass",
+        "Slushy and slippery forest trails in heavy rain",
+        "Snow-covered trail sections even in June"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek reaches 14,065 ft; AMS risk above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike",
+        "Fitness does not eliminate risk if ascent is too fast",
+        "Prolonged rainfall or snowfall can change trek dynamics",
+        "June snow on Balu Ka Ghera trail makes it slippery"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting the trek's fitness criteria"
+      ],
+      "prep_window": [
+        "6 weeks"
+      ]
+    },
+    "experience_themes": [
+      "June: high snow from Balu Ka Ghera onward, snow on both sides of pass, snow patches on flats near Shea Goru",
+      "July: snow starts to melt rapidly, wildflowers begin (distorts, marigolds, blue poppies), first monsoon showers, green belt on Kullu side",
+      "August: most snow gone except patches near Hampta Pass, vibrant green grasslands, swaying wildflowers, cloudy skies, good showers",
+      "September: no snow on trail, post-mid-September skies clear, early autumn colours, colourful slopes, gorgeous sunrises/sunsets, snow-clad mountains against deep blue skies",
+      "June: snow-bound valley above Balu Ka Ghera, narrow valley with limited sun keeps snow depth high",
+      "July-August: vibrant green grasslands, slopes alive with swaying wildflowers, cloudy skies"
+    ],
+    "primary_watchouts": [
+      "Mid-May: snow too high for comfortable pass-crossing",
+      "Monsoon: landslides, roadblocks, traffic jams/delays en route to base camp",
+      "October: streams dry up, water sources increasingly difficult, early winter chill, night temps below zero",
+      "October (less fun, water scarcity, early winter chill)",
+      "Uneven trails with daily ascents and descents",
+      "River crossings (gushing streams, Rani Nala up to waist-deep)"
+    ],
+    "best_for": [
+      "Snow lovers (June)",
+      "Wildflower and monsoon trekkers (mid-July to August)",
+      "Autumn colours and clear-sky photographers (post-mid-September)"
+    ],
+    "not_ideal_for": [
+      "Mid-May (snow too high for comfortable pass-crossing)",
+      "October (less fun, water scarcity, early winter chill)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "hampta-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "hampta-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "hampta-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "hampta-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "hampta-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "hampta-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "hampta-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "hampta-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "hampta-pass::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

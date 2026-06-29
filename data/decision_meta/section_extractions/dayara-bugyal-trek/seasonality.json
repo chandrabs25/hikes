@@ -1,0 +1,263 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "dayara-bugyal-trek",
+  "section_id": "dayara-bugyal-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [
+        "Monsoon months (unspecified)"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Dayara Bugyal is a trek that can be done around the year except during the monsoons.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Winter: snow-covered landscape, powdery snowflakes on pine trees, possible snowfall, snowball fights",
+        "Spring: last of winter snow, melting snow in upper reaches, green grass in lower meadows, tiny flowers, blooming rhododendrons, colour contrasts of snow/greenery/flowers",
+        "Summer: bright green meadows, summer fragrance under oaks and maples, snow-capped mountain views on clear days, easiest trek conditions",
+        "Autumn: clearest skies, sharp mountain views (Gangotri range, Bandarpoonch), golden meadows, fiery red maple leaves, crisp pine-scented air, photography-friendly"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Dayara Bugyal to experience snow. The landscape again changes colour when draped in the white snow. Soft, powdery snowflakes loosely hang from pine trees offering a tinge of Christmas-y feel. Perfect for snowball fights and an experience of snowfall if you're lucky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Summers are warm on Dayara Bugyal trek. Picture bright green meadows getting toasted under hot sunlight. There is also a distinct summer fragrance in the air especially as you trek under the shadows of oaks and maples.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In autumn, the skies are at their clearest. That's when you witness the sharp mountain views. Imagine the majestic Gangotri range, Bandarpoonch popping up from the golden meadows under brilliant blue skies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow present from base camp towards end of December",
+        "Upper reaches under snow until mid-April",
+        "No snow on the trek in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "You will find snow from the base camp towards the end of December. The entire landscape and valley will be in white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The upper reaches of the Dayara meadows are usually under snow until mid-April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "There is no snow on the trek in the autumn season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Trek is closed/avoided during monsoons; trek is open for about 8 months in a year"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Dayara Bugyal is a trek that can be done around the year except during the monsoons. This means that the trek is open and great for almost 8 months in a year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter: Day 8–12 °C, Night -5 to -10 °C; 5 warm layers required",
+        "Spring: Day 13–17 °C, Night drops to 0 °C; 3–4 warm layers required",
+        "Summer: Day 18–20 °C, Night drops to 5 °C; 3 warm layers required",
+        "Autumn: Day 12–15 °C, Night drops to 2 °C; 4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 12 °C | Night time: Will drop to temperatures between -5 °C and -10 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 13 °C and 17 °C | Night time temperature: Will drop to 0 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 18 °C and 20 °C | Night time temperature: Will drop to 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 12 °C and 15 °C | Night time temperature: Will drop to 2 °C.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Summer: hazy atmosphere with dust and pollen reduces sharpness of views; snow-capped mountains visible on clear days",
+        "Autumn: clearest skies with sharp mountain views of Gangotri range and Bandarpoonch over golden meadows; best for photography"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The atmosphere also gets hazier as there is a lot of dust and pollen in the air at this time. So, you might not get as sharp views as you get in autumn. But you will see the snow-capped mountains in their grandeur on a clear day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In autumn, the skies are at their clearest. That's when you witness the sharp mountain views. ... And if you wish to capture these ranges through your camera lens, autumn is the perfect time to do so.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Winter: snow raises trek difficulty by a notch; prepare well",
+        "Summer: hazy atmosphere with dust and pollen reduces view sharpness"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "However, snow raises the difficulty of the trek by a notch. So, prepare well if you are going in winter.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The atmosphere also gets hazier as there is a lot of dust and pollen in the air at this time. So, you might not get as sharp views as you get in autumn.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Winter: snow experience, snowfall, snowball fights",
+        "Spring: colour contrasts of snow, greenery and flowers; rhododendron blooms",
+        "Summer: easiest trek conditions; family batches and introducing children to the Himalayas",
+        "Autumn: sharp mountain views, photography, autumn colours (golden meadows, fiery red maple leaves)"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Dayara Bugyal to experience snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Without the challenges of cold temperature or snow, this trek is at its easiest in the summers. And so, we open the family batches of Dayara Bugyal trek during this time. It's a great time to introduce children to the Himalayas.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "And if you wish to capture these ranges through your camera lens, autumn is the perfect time to do so.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Monsoon season (trek not done)",
+        "Summer: those seeking sharp, clear mountain views (due to haze/dust/pollen)"
+      ],
+      "evidence": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "Dayara Bugyal is a trek that can be done around the year except during the monsoons.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "quote_or_summary": "The atmosphere also gets hazier as there is a lot of dust and pollen in the air at this time. So, you might not get as sharp views as you get in autumn.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.402496+00:00",
+  "trek_id": "gurez-valley-trek",
+  "trek_title": "Gurez Valley Trek",
+  "source_url": "https://indiahikes.com/gurez-valley-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 37.6,
+    "highest_altitude_ft": 13188,
+    "min_age": 11,
+    "max_age": 62,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar",
+    "pickup_time": "7 AM",
+    "dropoff_city": "6 PM",
+    "dropoff_time": null,
+    "offloading_available": false,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "Beginning of July to middle of September"
+      ],
+      "avoid_months": [
+        "All other seasons (outside July to mid-September)"
+      ],
+      "snow_or_rain_notes": [
+        "Snow remains at higher altitudes in early July; most snow melted by mid-July to third week of August; snowfall expected during the second week of September",
+        "Light evening showers in July; some evening showers mid-July to third week of August; rains reduce after end of August; Pir Panjal range blocks most rain clouds, making rains milder than Himachal Pradesh and Uttarakhand"
+      ],
+      "temperature_notes": [
+        "Early July: Day 15-20°C, Night 2-7°C; Mid-July to third week of August: Day 15-20°C, Night 4-8°C; Aug-end to second week of September: Day 14-18°C, Night 0-5°C; 3-4 warm layers in July to August, 4 warm layers in Aug-end to mid-September"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Long trekking days, multiple days almost 10 km long",
+        "Last day is a 16 km stretch",
+        "Boulder sections begin on the way to Khaari campsite",
+        "Continuous boulder fields for over 3 km beyond Khaari",
+        "Descent to Patalwansar Lakes from Khari can be tricky"
+      ],
+      "altitude_or_weather_risks": [
+        "Highest altitude over 13,000 ft above sea level",
+        "Hit 10,000 ft mark on day 1 itself",
+        "Rapid elevation gain makes trekkers susceptible to Acute Mountain Sickness (AMS)",
+        "AMS can affect first-time and experienced trekkers alike; even fit persons climbing too high too soon are at equal risk",
+        "Chances of AMS are real above 10,000 ft"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 5 km in under 32 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it, trekkers will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the trek's fitness criteria",
+        "Only running, jogging, or walking are accepted as fitness proofs; cross-training is not valid"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week fitness plan is provided for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Early July: snow at higher altitudes, trek accessible, colourful flowers appearing on meadows, lush green meadows, alpine lakes still frozen in parts, light evening showers",
+      "Mid-July to third week of August: most snow melted, frozen chunks in Patalwansar I & II melted, bright sunny mornings with some evening showers, green meadows densely dotted with wildflowers",
+      "Aug-end to second week of September: cold sets in, rains reduce, brilliant blue skies, deeper blue alpine lakes, meadows change colour from fresh green to a different tone, flowers change",
+      "Lush green meadows punctuated with alpine lakes still frozen in parts (early July); meadows densely dotted with wildflowers (mid-July to third week of August); meadows change colour from fresh green to a different tone, brilliant blue skies reflecting in deeper blue alpine lakes (Aug-end to mid-September)",
+      "Snow remains at higher altitudes in early July; most snow melted by mid-July to third week of August; snowfall expected during the second week of September"
+    ],
+    "primary_watchouts": [
+      "Trek window is tight; snowfall chances increase after second week of September, raising trek difficulty; crossing the pass becomes no longer possible; trail on the other side becomes inaccessible after second week of September",
+      "Trekkers visiting outside July to mid-September (trails buried under snow); trekkers after second week of September (pass crossing not possible, trail inaccessible)",
+      "Long trekking days, multiple days almost 10 km long",
+      "Last day is a 16 km stretch",
+      "Boulder sections begin on the way to Khaari campsite",
+      "Continuous boulder fields for over 3 km beyond Khaari"
+    ],
+    "best_for": [
+      "Trekkers seeking the only accessible window for Kashmir/Gurez Valley trails; those wanting wildflower meadows, alpine lakes, and changing seasonal landscapes"
+    ],
+    "not_ideal_for": [
+      "Trekkers visiting outside July to mid-September (trails buried under snow); trekkers after second week of September (pass crossing not possible, trail inaccessible)",
+      "Trekkers not prepared for rapid elevation gain and AMS risk",
+      "Trekkers without proper fitness and mental preparation for ascents, descents, and boulder sections"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "gurez-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "gurez-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "gurez-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "gurez-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "gurez-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "gurez-valley-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

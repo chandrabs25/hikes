@@ -1,0 +1,216 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::fitness",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "fitness",
+      "field": "minimum_fitness_target",
+      "value": "Able to walk, jog or run 5 km in under 40 minutes",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "To do the Ali Bedni Bugyal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_components_to_develop",
+      "value": [
+        "Cardiovascular Endurance",
+        "Muscle Strength"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "To reach any fitness target, there are two things you must work on: Cardiovascular Endurance, Muscle Strength",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "muscle_groups_to_train",
+      "value": [
+        "core",
+        "calves",
+        "glutes",
+        "quadriceps",
+        "hamstrings"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "You need to train your core, calves, glutes, quadriceps, and hamstrings.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "recommended_exercise_routines",
+      "value": [
+        "Walking",
+        "jogging",
+        "running"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "Walking, jogging or running is the best routine for this.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "training_plan_duration",
+      "value": "6 weeks",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "Follow this, and you'll be trek-ready in 6 weeks.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_approval_process",
+      "value": {
+        "tracking_method": "Track runs on Strava, Nike Run Club, or any similar fitness app",
+        "submission_requirement": "Upload 3 screenshots of runs to Indiahikes Dashboard",
+        "submission_deadline": "15 to 20 days before trek date",
+        "consistency_criteria": "Screenshots must demonstrate meeting the trek's fitness criteria at least 3 times in the past month"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "Track your runs on Strava, Nike Run Club, or any similar fitness app. Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard. Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation. Your screenshots must demonstrate that you are meeting the fitness criteria for your trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_record_rejection_reasons",
+      "value": [
+        "Not uploading 3 screenshots to dashboard",
+        "Runs not meeting trek's fitness criteria at least 3 times in the past month"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "Your fitness records will be rejected for one of two reasons: You haven't uploaded your 3 screenshots to your dashboard. Your runs don't meet your trek's fitness criteria at least 3 times in the past month.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "rejection_consequences",
+      "value": {
+        "can_still_trek": true,
+        "leader_notification": "Trek Leader and Slope Manager will be informed about fitness levels in advance",
+        "removal_protocol": "If trekker falls behind the group by 45 minutes and is visibly struggling, Trek Leader may send them back"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "You can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "children_below_14_fitness_records",
+      "value": "Not required to submit fitness records",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "Children below 14 years are not required to submit fitness records.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "children_below_14_parental_responsibility",
+      "value": "Parents must ensure that children remain physically active and prepared for the trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "However, parents must ensure that children remain physically active and prepared for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "unfit_trekker_team_impact",
+      "value": "Trekker may struggle, fall behind, and cause the entire team to slow down; other trekkers may miss summit or viewpoints",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "If you're not fit, you won't enjoy your trek. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you. when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "unfit_trekker_safety_protocol",
+      "value": "If a trekker falls behind the group by 45 minutes and is visibly struggling, the Trek Leader may send them back",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "fitness_section",
+          "source_field": "fitness_section",
+          "quote_or_summary": "If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

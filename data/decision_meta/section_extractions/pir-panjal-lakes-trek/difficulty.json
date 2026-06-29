@@ -1,0 +1,292 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pir-panjal-lakes-trek",
+  "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/pir-panjal-lakes-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate - Difficult",
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate - Difficult\nSuitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for experienced trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long trekking days of 7-8 hours almost every day",
+        "Boulder sections on multiple days",
+        "Unmarked trail over big boulders and loose rocks at Khabi ki Gali",
+        "Slushy forest trails in rain",
+        "Slippery bouldery sections in rain"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "The trek involves long trekking days. You trek for over 7-8 hours almost every single day on this trek. This tests your stamina and preparedness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents, and boulder sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "there is no marked trail and you trek over big boulders and loose rocks throughout",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the campsites or make the forest trails too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "It also makes the bouldery sections slippery, making crossings like Khabi ki Gali extremely risky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 1: Chandimarh to Thera Campsite - 6-7 hours of continuous ascent with ~3,500 ft altitude gain",
+        "Day 3: Ascent towards Bayad Meadows - short but steep",
+        "Neelsar to Chandansar via Kaldachni Pass - steep ascent and extensive boulder section descent",
+        "Khabi ki Gali Pass - difficult ascent and descent over big boulders and loose rocks with no marked trail",
+        "Day 7: Peer Ki Gali pass - tricky ascents and descents"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "The first day of your trek climbs steeply all the way from Chandimarh to Thera Campsite. It is about 6-7 hours of continuous ascent with an altitude gain of almost 3,500 ft in a single day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "On the third day, the ascent towards Bayad Meadows is short but steep. It tests your stamina.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "On the way from Neelsar to Chandansar, you need to cross the Kaldachni Pass. The ascent is steep. The descent on the other side also involves hopping over an extensive boulder section before you reach Chandansar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "You then need to cross the Khabi ki Gali Pass immediately on the next day after Kaldachni. This is even more challenging than the Kaldachni Pass. Not only is the ascent and descent difficult, there is no marked trail and you trek over big boulders and loose rocks throughout.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "You also cross the Peer Ki Gali pass on Day 7 of your trek. It also involves tricky ascents and descents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes and other technical gear wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Day 1 altitude gain of more than 3,000 ft from ~6,000 ft to ~10,000 ft increases susceptibility to Acute Mountain Sickness (AMS)",
+        "Above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of your trek, you gain more than 3000 ft in elevation. You start fairly low, around the 6000 ft mark and hit close to the 10,000 ft mark on the same day. Such rapid elevation gain makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Best done in monsoon when meadows and lakes are at their best",
+        "Heavy rain can flood campsites and make forest trails slushy",
+        "Rain makes bouldery sections slippery, making crossings like Khabi ki Gali extremely risky",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "The Pir Panjal Lakes Trek is best done in monsoon. That's when the meadows and the lakes are at their best. That being said, you also run a risk of facing heavy rain, which can significantly alter the dynamics of your trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the campsites or make the forest trails too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "It also makes the bouldery sections slippery, making crossings like Khabi ki Gali extremely risky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Two possible emergency exits: descend to Chandimarh or Pir ki Galli depending on location",
+        "Closest hospital is the sub-district hospital at Surankot, 18 km from base camp",
+        "For serious medical attention, head to Srinagar for better facilities",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "On the Pir Panjal Lakes trek, there are two possible exits. Depending on where you are on the trek, the best bet is to descend to either Chandimarh or Pir ki Galli.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "the closest hospital is at Surankot. It is a sub-district hospital, 18 km from the base camp. If you need serious medical attention, head to Srinagar for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers must actively participate in and follow safety protocols",
+        "Trekkers should disclose any pre-existing medical conditions to the Trek Leader",
+        "Safety is treated as a shared responsibility between Indiahikes team and trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pir-panjal-lakes-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

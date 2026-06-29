@@ -1,0 +1,319 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "sandakphu-phalut",
+  "section_id": "sandakphu-phalut::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/sandakphu-phalut",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Uneven trails with daily ascents and descents",
+        "Continuous steep ascent from Sepi to Rammam village",
+        "Continuous 10 km steep ascent from Samanden to Molley with 4,460 ft height gain",
+        "Steep descent from Sandakphu to Gurdum that can get slippery and tricky in rain or snow",
+        "Walking on an exposed ridge from Phalut to Sandakphu"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents on uneven trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The route from Sepi to Rammam village is a continuous steep ascent that will test anyone’s limit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The trail to Molley from Samanden is a continuous 10 km steep ascent with 4,460 ft of height gain.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The descent from Sandakphu to Gurdum is steep, and it can get slippery and tricky when it's raining or snowing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "On the days you trek from Molley to Phalut and Phalut to Aahl, it gets extremely cold. This is because you are walking on an exposed ridge throughout.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Sepi to Rammam: continuous steep ascent",
+        "Samanden to Molley: continuous 10 km steep ascent with 4,460 ft height gain",
+        "Sandakphu to Gurdum: steep descent that can be slippery in rain or snow",
+        "Day 3: steepest climb from 7,760 ft to 11,220 ft (4,460 ft height gain)"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The route from Sepi to Rammam village is a continuous steep ascent that will test anyone’s limit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The trail to Molley from Samanden is a continuous 10 km steep ascent with 4,460 ft of height gain.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The descent from Sandakphu to Gurdum is steep, and it can get slippery and tricky when it's raining or snowing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The steepest climb is on Day 3 taking you from 7,760 ft to 11,220 ft, giving you a 4,460 ft height gain.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides microspikes, gaiters, helmets, ropes, and other technical gear wherever required",
+        "Hydration recommended to avoid muscle cramps on steep ascents"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Hydrate well to avoid muscle cramps.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek reaches up to 11,930 ft with total gain of ~5,530 ft",
+        "Day 3 climb from 7,760 ft to 11,220 ft (4,460 ft gain) can contribute to altitude sickness",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft; can affect first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "you will gain approximately 5,530 ft (6,400 ft to 11,930 ft)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The steepest climb is on Day 3 taking you from 7,760 ft to 11,220 ft, giving you a 4,460 ft height gain. This quick climb along with the exertion of the trek and exposure to the cold can lead to the development of altitude sickness in some people.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Extremely windy and cold on the ridge from Phalut to Sandakphu, especially in autumn and winter",
+        "Snowfall possible near Phalut, especially in winter or towards end of January",
+        "Strong winds at Phalut significantly amplify the chill factor",
+        "Prolonged rain can make trails slushy and unsafe to walk",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Trek may be aborted or turned back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "you are walking on a ridge throughout from Phalut to Sandakphu. This makes it extremely windy and cold especially in autumn and winter.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "snowfall is a distinct possibility near Phalut. Especially in the winter months or towards the end of January.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Phalut is famous for its strong winds, which can significantly amplify the chill factor.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Rain can make the trails too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Closest exit between Sepi and Molley is via the roadhead at Rammam",
+        "After Molley, closest exit is via the motorable road ahead of Sabagram connecting to Maneybhanjyang",
+        "Closest hospital on the trek is at Rimbik (before Sandakphu)",
+        "After Sandakphu, closest hospital is in Sukhia Pokhri (drive via Mane Bhanjang)",
+        "For serious medical attention, head to Siliguri for better facilities",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "If you are on the route between Sepi and Molley, the closest exit would be via the roadhead at Rammam.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "After crossing Molley, the closest exit would be via the motorable road ahead of Sabagram, that connects Sandakphu-Phalut to Maneybhanjyang and beyond.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "the closest hospital on the trek is at Rimbik (before reaching Sandakphu). After you cross Sandakphu, the closest hospital is in Sukhia Pokhri.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "If you need serious medical attention, it is best to head down to Siliguri for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers should disclose any pre-existing medical conditions to the Trek Leader",
+        "Weather monitoring by technical team may lead to turning back from any campsite"
+      ],
+      "evidence": [
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "sandakphu-phalut::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

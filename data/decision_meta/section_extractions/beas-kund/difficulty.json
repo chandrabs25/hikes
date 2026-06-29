@@ -1,0 +1,319 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "beas-kund",
+  "section_id": "beas-kund::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/beas-kund",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekking solo if not well versed in the region",
+        "Travelling to Manali on the same day as starting the trek (due to rapid altitude gain)"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "So, it is risky to trek solo to Beas Kund if you are not well versed in the region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "This can be strenuous for your body, especially if you travelled to Manali on the same day. So we recommend reaching one day earlier and getting enough rest.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "This alone pushes the trek to the Moderate Category",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "First two days are relatively easy",
+        "Third day (Lady Leg Day) includes a steep ascent and an equally steep descent in one day",
+        "Trail disappears in meadows on many occasions, creating a risk of getting lost",
+        "Unexpected snow patches in certain sections in June can make the trek trickier",
+        "Trail can get very slushy when it rains heavily"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "The first two days are relatively easy. But the Lady Leg Day is when the real challenge begins. It includes a steep ascent and an equally steep descent. All in one day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "There is a distinct probability of getting lost on this trek. The trail disappears in the meadows on many occasions.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "In June, you might find unexpected snow patches in certain sections. This can make the trek trickier than usual.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "when it rains heavily, the trail can get very slushy.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep ascent and equally steep descent on the third day (Lady Leg Day)",
+        "Rapid altitude gain: start above 9,000 ft and camp above 10,000 ft on the first day itself",
+        "Total altitude gain of 3,455 ft (9,317 ft to 12,772 ft) over four trekking days"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "you’ll face steep ascents and descents on the third day of your trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "It includes a steep ascent and an equally steep descent. All in one day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "You start above 9000 ft elevation and camp above 10,000 ft on the first day itself. This can be strenuous for your body",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "The trek involves an altitude gain of 3,455 ft (9,317 ft to 12,772 ft) over four trekking days.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes wherever required",
+        "Wear microspikes before stepping on hard snow to prevent slips and injuries",
+        "Use existing footholds on snow"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Wear microspikes before stepping on hard snow to prevent slips and injuries. Use existing footholds.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Rapid altitude gain on day one (above 9,000 ft to above 10,000 ft) can be strenuous",
+        "At altitudes above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real",
+        "AMS can affect first-time trekkers as well as experienced trekkers",
+        "Even fit persons climbing too high too soon are at equal risk of AMS",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "You start above 9000 ft elevation and camp above 10,000 ft on the first day itself. This can be strenuous for your body",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Best done during monsoon months (July, August, September); rain is part of the experience",
+        "Rain may last a few minutes or several hours; heavy rain makes the trail very slushy",
+        "Late June may bring snow patches that make navigation more difficult",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "The Beas Kund trek is best done during the monsoon months—July, August, and September. That means rain is part of the experience.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "when it rains heavily, the trail can get very slushy.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "If you're planning to go in late June, expect some snow patches too. They can make the trail a bit more difficult to navigate.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Emergency exit is to return to the Dhundi roadhead; Manali is about an hour's drive from Dhundi",
+        "Closest hospital: Mission Hospital in Manali (Model Town, Siyal, Manali, Himachal Pradesh – 175131; +911902252379)",
+        "Alternate hospital: Manu Diagnostics Center and Hospital (Snowdrop Hotel building, Gompa Road, opposite Buddhist Monastery, Manali, Himachal Pradesh – 175131; +919418083587)",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "In case of any emergency, you will need to return to the Dhundi roadhead. Manali is about an hour’s drive from Dhundi.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Mission Hospital in Manali is the closest one to Beas Kund in case of a medical emergency during the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Manu Diagnostics Center and Hospital is another option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Distinct probability of getting lost; trail disappears in meadows on many occasions",
+        "Solo trekking is risky if not well versed in the region",
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "There is a distinct probability of getting lost on this trek. The trail disappears in the meadows on many occasions.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "it is risky to trek solo to Beas Kund if you are not well versed in the region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "beas-kund::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

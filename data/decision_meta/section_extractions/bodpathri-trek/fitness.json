@@ -1,0 +1,189 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bodpathri-trek",
+  "section_id": "bodpathri-trek::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/bodpathri-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers who do not meet the fitness requirements are often sent back",
+        "Those who are unfit struggle, get injured easily, lag behind, or simply fail to complete the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Those who do not meet the fitness requirements are often sent back. Our philosophy is that trekking and fitness go hand in hand. Without fitness, there’s no trekking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Without fitness, trekkers struggle, get injured easily, lag behind, or simply fail to complete the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [
+        "Cover 5 km in under 32 minutes",
+        "Run 5 km in 32 mins consistently for at least 2 weeks before the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "To do this trek comfortably, you must be able to cover 5 km in under 32 minutes. This is the minimum fitness required for this trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "You must be able to run 5 km in 32 mins consistently for at least 2 weeks before the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "Fitness approval from the Indiahikes team 20 days before the trek date is required",
+        "A minimum of 3 screenshots of runs/jogs/walks/cycling must be uploaded",
+        "Monthly summary of the fitness routine must be uploaded"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Every trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "A minimum of 3 screenshots of your runs/jogs/walks/cycling",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Monthly summary of your routine",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "At least 6-8 weeks of preparation is required",
+        "Start jogging at least 4 days a week",
+        "If unable to run 5 km, start with 2 km and increase to 5 km over 2-3 weeks"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "This trek requires at least 6-8 weeks of preparation. The longer, the better. So plan your trek soon and start preparing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Start jogging at least 4 days a week",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "If you cannot run 5 km immediately, start with 2 km and increase to 5 km over 2-3 weeks.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [
+        "Trekkers may struggle, get injured easily, lag behind, or fail to complete the trek",
+        "Trekkers who do not meet fitness requirements are often sent back"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Without fitness, trekkers struggle, get injured easily, lag behind, or simply fail to complete the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::fitness_section::001",
+          "quote_or_summary": "Those who do not meet the fitness requirements are often sent back.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

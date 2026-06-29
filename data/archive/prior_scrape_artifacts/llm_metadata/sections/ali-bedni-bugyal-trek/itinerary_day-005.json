@@ -1,0 +1,364 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-005",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "day_number",
+      "value": 5,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "day",
+          "quote_or_summary": "day: \"5\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_title",
+      "value": "Trek from Tithak to Wan. Drive to Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "place_title",
+          "quote_or_summary": "Day 5: Trek from Tithak to Wan. Drive to Lohajung",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "start_point",
+      "value": "Tithak",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "place_title",
+          "quote_or_summary": "Trek from Tithak to Wan",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "Today's trek starts with a steep zig-zag descent from Tithak",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "end_point",
+      "value": "Wan",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "place_title",
+          "quote_or_summary": "Trek from Tithak to Wan",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "You will be taking the same trail to reach Wan",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "drive_destination",
+      "value": "Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "place_title",
+          "quote_or_summary": "Drive to Lohajung",
+          "confidence": "high"
+        },
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "You are expected to reach Lohajung by 2-3 pm",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_distance",
+      "value": "7 km",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "duration",
+          "quote_or_summary": "Trek Distance: 7 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_duration",
+      "value": "6 hours",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "duration",
+          "quote_or_summary": "Trek Duration: 6 hours",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_profile",
+      "value": {
+        "start_ft": 10515,
+        "end_ft": 7550,
+        "net_change": "loss"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "altitude",
+          "quote_or_summary": "Altitude loss: 10,515 ft to 7,550 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_sources",
+      "value": "Streams intermittently where you can refill water bottles",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "water_sources",
+          "quote_or_summary": "You will cross streams intermittently where you can refill your water bottles",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "waypoints",
+      "value": [
+        "Gehroli Patal campsite"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "Trek for around 700 metres from your campsite to reach Gehroli Patal campsite",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "vegetation",
+      "value": [
+        "Oak forests",
+        "Rhododendron forests"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "The trail now winds through Oak and Rhododendron forests",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "overall_rating",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "difficulty",
+          "quote_or_summary": "Difficulty: Easy-Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "terrain_challenges",
+      "value": [
+        "Steep zig-zag descent",
+        "More than 3000 ft of descent",
+        "Stress on knees"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "starts with a steep zig-zag descent ... You lose altitude quite quickly today. More than 3000 ft of descent. The trail will put stress on your knees",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "physical_impact",
+      "value": "Stress on knees from steep descent",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "The trail will put stress on your knees",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "recommended_gear",
+      "value": "Trek pole to ease off strain on legs",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "Be sure to carry a trek pole to ease off the strain on your legs",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "physical_risks",
+      "value": [
+        "Knee strain from steep descent"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "The trail will put stress on your knees",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "hydration_notes",
+      "value": "Carry sufficient water; streams are intermittent",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "water_sources",
+          "quote_or_summary": "Carry sufficient water. You will cross streams intermittently",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_type",
+      "value": "Trek from Tithak to Wan, then drive to Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "place_title",
+          "quote_or_summary": "Day 5: Trek from Tithak to Wan. Drive to Lohajung",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "expected_arrival",
+      "value": "2-3 pm at Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "You are expected to reach Lohajung by 2-3 pm",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "forest_types",
+      "value": [
+        "Oak",
+        "Rhododendron"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "winds through Oak and Rhododendron forests",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "trail_character",
+      "value": "Steep zig-zag descent through forests",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[4]",
+          "source_field": "description",
+          "quote_or_summary": "starts with a steep zig-zag descent ... winds through Oak and Rhododendron forests",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": [
+    "difficulty"
+  ]
+}

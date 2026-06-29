@@ -1,0 +1,330 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "nafran-valley-trek",
+  "section_id": "nafran-valley-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/nafran-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "Second week of July to the beginning of September",
+        "July",
+        "August",
+        "September"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Nafran Valley trek is from the second week of July to the beginning of September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "the Nafran Valley trek changes appearance and colour throughout the three months - July, August and September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "Other seasons (outside July-September) due to cold and snow-covered trail and meadows"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, it’s too cold to trek, the trail and the meadows are buried under snow for the most part.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Early July: remnants of snow by Harnag and Harbhagwan lakes, possible melting ice floes in early July",
+        "Mid-July to third week of August: bright green meadows carpeting the trail, wildflowers in Shul Margi and Bhaj Margi plains (violet, red, blue, purple, yellow, white), deep blue alpine lake waters, evening showers",
+        "End of August to first week of September: meadows turning golden brown, flowers wilting, brilliant blue skies when clouds part, deeper blue lake reflections, frequent evening showers, cold setting in"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "When you trek in July you can expect to see remnants of snow by both the lakes on the trek - Harnag and Harbhagwan. You may even see melting ice floes in the lake in early July.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "After mid-July, the Nafran Valley trek starts revealing itself in full glory. Now, the snow has almost melted. And the trail is carpeted with bright green meadows... these meadows are densely dotted with so many wildflowers!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "You experience this beauty, especially in the Shul Margi and Bhaj Margi plains, as you trek over tiny flowers of colours ranging from violet, red, blue, and purple to yellow and white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The green meadows start turning golden brown as we step into September... The grass no longer retains the soft, fresh green tinge. The flowers wilt too.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "when the clouds part during this time of the year, you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Upper reaches under heavy snow until first week of July; lower meadows open earlier",
+        "Remnants of snow by Harnag and Harbhagwan lakes in July",
+        "Snow almost melted after mid-July",
+        "No snow from end of August to first week of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Trekking opens on the Nafran Valley trail in the first week of July. Until then the upper reaches are under heavy snow. The lower meadows open earlier.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "When you trek in July you can expect to see remnants of snow by both the lakes on the trek - Harnag and Harbhagwan.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Now, the snow has almost melted, and the trail is carpeted with bright green meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "There will not be any snow at this time.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Kashmir receives only mild rainfall in July and August due to Pir Panjal range blocking rain clouds",
+        "Evening showers pick up from mid-July to third week of August",
+        "Evening showers become frequent from end of August to first week of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Kashmir receives only mild rainfall in July and August. Not at all like in Himachal Pradesh or Uttarakhand. That's because of the Pir Panjal range which prevents most rain clouds from reaching the Kashmir valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Rains -- more like evening showers -- pick up during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The evening showers become frequent.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Early July: Day 15-20°C, Night 4-8°C",
+        "Mid-July to third week of August: Day 15-20°C, Night 4-8°C",
+        "End of August to first week of September: Day 12-18°C, Night 2-6°C; cold sets in as season progresses",
+        "End of September may not be the most comfortable time due to cold temperatures"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 15 °C and 20 °C | Night time temperature: Between 4 °C and 8 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 15 °C and 20 °C | Night time temperature: Between 4 °C and 8 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 12 °C and 18 °C | Night time temperature: Between 2 °C and 6 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Cold sets in as the season progress to the end of August.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "some lone trekkers do attempt it till the end of September. So, it’s doable. But it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Rugged grey mountains rising at the fringes contrasting with green meadows",
+        "Alpine lakes Harnag and Harbhagwan with deep blue waters",
+        "Brilliant blue skies reflected in alpine lakes when clouds part",
+        "Meadows turning from bright green to golden brown/roasted tinge of brown in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "the trail is carpeted with bright green meadows, which are in contrast with the rugged, grey mountains rising at the fringes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The waters of Harnag and Harbhagwan are deep blue.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "when the clouds part during this time of the year, you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The green meadows start turning golden brown as we step into September... They look a bit roasted, just with a tinge of brown.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Upper reaches under heavy snow until first week of July",
+        "Evening showers become frequent from end of August",
+        "Cold sets in as season progresses to end of August",
+        "End of September may not be the most comfortable time due to cold temperatures"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Until then the upper reaches are under heavy snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "The evening showers become frequent.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "Cold sets in as the season progress to the end of August.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "some lone trekkers do attempt it till the end of September. So, it’s doable. But it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking comfortable monsoon-season trekking with mild rainfall",
+        "Trekkers wanting to see wildflower-dotted green meadows (mid-July to third week of August)",
+        "Trekkers interested in seeing snow remnants and frozen lake scenery (early July)",
+        "Trekkers wanting brilliant blue skies and golden-brown meadow tones (end of August to first week of September)"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "It’s a boon because it makes for a comfortable trekking experience.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "these meadows are densely dotted with so many wildflowers!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "you can expect to see remnants of snow by both the lakes on the trek - Harnag and Harbhagwan.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "when the clouds part during this time of the year, you witness brilliant blue skies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekking outside July-September window due to cold and snow-covered trail/meadows",
+        "End of September trekking due to cold temperatures (though doable)"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, it’s too cold to trek, the trail and the meadows are buried under snow for the most part.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::best_time_section::001",
+          "quote_or_summary": "some lone trekkers do attempt it till the end of September. So, it’s doable. But it may not be the most comfortable time, given the cold temperatures.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,121 @@
+{
+  "pages_in_manifest": 16,
+  "pages_with_text": 16,
+  "challenge_pages": 0,
+  "status_counts": {
+    "200": 16
+  },
+  "content_type_counts": {
+    "trek_or_landing": 16
+  },
+  "field_signal_counts": {
+    "trek_difficulty": 16,
+    "trek_duration": 16,
+    "highest_altitude": 16,
+    "suitable_for": 16,
+    "basecamp": 16,
+    "itinerary": 16,
+    "fitness": 16,
+    "gear": 16,
+    "safety": 16,
+    "season": 16,
+    "faq": 16
+  },
+  "field_signal_samples": {
+    "trek_difficulty": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "trek_duration": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "highest_altitude": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "suitable_for": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "basecamp": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "itinerary": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "fitness": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "gear": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "safety": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "season": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ],
+    "faq": [
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/brahmatal-trek",
+      "https://indiahikes.com/buran-ghati",
+      "https://indiahikes.com/chandrakhani-pass-trek",
+      "https://indiahikes.com/dayara-bugyal-trek"
+    ]
+  },
+  "word_counts": {
+    "https://indiahikes.com/bhrigu-lake": 10007,
+    "https://indiahikes.com/brahmatal-trek": 11389,
+    "https://indiahikes.com/buran-ghati": 13765,
+    "https://indiahikes.com/chandrakhani-pass-trek": 10152,
+    "https://indiahikes.com/dayara-bugyal-trek": 12166,
+    "https://indiahikes.com/deoriatal-chandrashila-trek": 12567,
+    "https://indiahikes.com/gaumukh-tapovan": 12233,
+    "https://indiahikes.com/hampta-pass": 12829,
+    "https://indiahikes.com/kanamo-peak-trek": 9963,
+    "https://indiahikes.com/kedarkantha-trek": 12384,
+    "https://indiahikes.com/kuari-pass": 11612,
+    "https://indiahikes.com/nag-tibba": 8824,
+    "https://indiahikes.com/rupin-pass": 15710,
+    "https://indiahikes.com/sandakphu-phalut": 14543,
+    "https://indiahikes.com/tarsar-marsar": 13275,
+    "https://indiahikes.com/valley-of-flowers-trek": 11873
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "phulara-ridge-trek",
+  "section_id": "phulara-ridge-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/phulara-ridge-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascent through forest sections on day 1 gaining ~3000 ft over 4-5 km",
+        "Exposed and windy ridge requiring layering for wind chill",
+        "Steep climb from Bhoj Gadi to the Phulara Ridge taking close to 1 hour",
+        "Tricky climb onto the ridge in early May or June if there is snow",
+        "Tricky descent from the ridge on the Pushtara side if there is too much snow"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of the Phulara Ridge Trek, you gain almost 3000 ft in elevation over a 4-5 km trek. The trail climbs steeply through forest sections and can be tiring.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Once you are on the ridge, the ups and downs are gradual. However, the ridge is exposed and windy. Layering up well is key to handling the wind chill.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "The initial part of the day from Bhoj Gadi to climbing onto the Phulara Ridge is a steep ascent. It can take you close to 1 hr to just get on the ridge. In the early weeks of May or June, if there is snow, this climb becomes even more tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "If there is too much snow, the descent from the ridge on the Pushtara side can also get tricky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 1 ascent gaining ~3000 ft over 4-5 km through forest",
+        "Steep climb from Bhoj Gadi to the Phulara Ridge (~1 hour)",
+        "Strenuous day 1 ascent made trickier by rain turning forest trails slushy"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "you gain almost 3000 ft in elevation over a 4-5 km trek. The trail climbs steeply through forest sections and can be tiring.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "The initial part of the day from Bhoj Gadi to climbing onto the Phulara Ridge is a steep ascent. It can take you close to 1 hr to just get on the ridge.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can turn the forest trails slushy. This makes the strenuous ascent on the first day of your trek trickier.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support",
+        "Layering up well is key to handling wind chill on the exposed ridge"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Layering up well is key to handling the wind chill.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek reaches 12,345 ft; above 10,000 ft AMS risk is real",
+        "Day 1 elevation gain of ~3000 ft over 4-5 km coupled with exertion increases susceptibility to Acute Mountain Sickness",
+        "AMS can affect first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "Itinerary on other days allows gradual elevation gain and acclimatisation",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "The Phulara Ridge Trek takes you to an altitude of 12,345 ft and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "You gain almost 3000 ft in elevation over just 4-5 km of trekking on the very first day of your trek. The elevation gain coupled with exertion makes you susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "On the other days of the trek, elevation gain is quite gradual and the itinerary of the Phulara Ridge trek allows you to acclimatise well.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can significantly alter trek dynamics",
+        "Rain turns forest trails slushy, making day 1 strenuous ascent trickier",
+        "Snowfall can block established paths, requiring new tracks to be carved, adding challenge especially on the climb to the ridge from Bhoj Gadi",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate",
+        "Kotgaon is one of the coldest base villages; a hill blocks first light, keeping it in shade long after sunrise"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can significantly alter the dynamics of a trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can turn the forest trails slushy. This makes the strenuous ascent on the first day of your trek trickier.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can block previously established paths, requiring new tracks to be carved through the snow. This can add to the challenge, especially during the climb to the ridge from Bhoj Gadi Campsite.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Two exit points: Kotgaon (if ridge not crossed) and Taluka (if ridge crossed); ~5 hours to descend to Kotgaon from highest campsite",
+        "Closest medical assistance for mild issues in Mori, then Purola",
+        "Nearest hospital for major emergencies is in Mussoorie or Dehradun, ~8-9 hours from base camp",
+        "Indiahikes team equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "There are two exit points on the Phulara Ridge trek – Kotgaon if you haven’t crossed the ridge, and Taluka, if you have crossed the ridge. It takes around 5 hours to descend to Kotgaon from the highest campsite of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "For mild medical issues, the closest medical assistance can be found in Mori and then in Purola. This includes simple fractures, sprains, etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively participate in and follow safety protocols",
+        "Trekkers should inform Trek Leader of any pre-existing medical conditions or health concerns, however minor"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

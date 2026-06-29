@@ -1,0 +1,269 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "brahmatal-trek",
+  "section_id": "brahmatal-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/brahmatal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for Fit Beginners",
+        "Mostly gradual and steady ascents and descents, except the summit climb on Day 4"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. But, they are mostly gradual and steady, except the summit climb on Day 4.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for fit beginners; first-time trekkers as well as experienced trekkers are at equal risk of AMS"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Hard frozen snow in the morning that continues until Brahmatal top, getting steeper near the summit",
+        "Rain can flood trails or make them slushy and unsafe",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "As you step out of the campsite early in the morning, the snow is going to be hard, having frozen overnight. This snow section continues until you get to the Brahmatal top, getting steeper as you approach the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Summit climb on Day 4 is the main steep/strenuous section; snow section gets steeper approaching the summit"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "they are mostly gradual and steady, except the summit climb on Day 4",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "getting steeper as you approach the summit",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides microspikes, gaiters, helmets, ropes and other technical gear wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Brahmatal Top at 12,250 ft with gradual elevation gain",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker",
+        "Acclimatization and adequate water intake are extremely important",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Brahmatal Top is situated 12,250 ft above sea level, which is not a very high altitude. The gain in elevation is also gradual.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "acclimatization and ensuring adequate water intake is extremely important",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Tilandi Campsite (2nd campsite) is known for fast and strong winds; layering is important",
+        "Sustained rainfall or snowfall can change trek dynamics, flooding or slushing trails and obstructing paths",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Tilandi Campsite (2nd campsite) is known for fast and strong winds. Even without snowfall, strong winds can take a toll on you if you're not well-layered.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Multiple entry and exit points; in emergencies, retrace to Lohajung basecamp",
+        "Primary Health Care Center in Dewal (~30 km from Lohajung) with only basic facilities",
+        "More serious cases require hospitals in Gopeshwar (~120 km, 4-hour drive) or Rudraprayag (faster, downhill from Lohajung)",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "There are multiple entry and exit points throughout the trek. In case of an emergency, medical or otherwise, the best way is to retrace your way back to Lohajung (basecamp).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "There is a Primary Health Care Center in Dewal, about 30 km from the Indiahikes Lohajung Campus. However, it has very basic facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "For more serious concerns, you need to approach the hospitals in Gopeshwar, the Headquarters of Chamoli District. It is about 120 km by road (4-hour drive) from Lohajung. Accessing the hospitals at Rudraprayag is faster since it is a downhill journey from Lohajung while Gopeshwar is an uphill drive.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must disclose pre-existing medical conditions to the Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brahmatal-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

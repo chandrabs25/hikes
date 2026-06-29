@@ -1,0 +1,318 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "chandrabhaga-glaciers-trek",
+  "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/chandrabhaga-glaciers-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Uneven trails with gradual ascents and descents",
+        "Boulder sections with scree and moraine",
+        "2.5 km long boulder section before Chandrabhaga Glaciers Viewpoint",
+        "Moraine ridges near glacial lakes Kya Tso and Ga Tso",
+        "Multiple stream crossings with glacial streams that can swell abruptly later in the day",
+        "Open landscape with no vegetation cover at 16,000 ft"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "every day will include gradual ascents and descents on uneven trails, boulder sections with scree and moraine",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "There is a 2.5 km long boulder section that you need to traverse before reaching the Chandrabhaga Glaciers Viewpoint. This can be hard on the legs.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "While trekking to the high altitude glacial lakes of Kya Tso and Ga Tso, you'll need to climb over moraine ridges.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "There are many stream crossings that you need to negotiate on this trek. These glacial streams can swell abruptly in the later parts of the day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "At 16,000 ft above sea-level, there is no vegetation cover and you'll be trekking continuously in open landscape.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Climbing over moraine ridges at 16,800 ft is described as strenuous",
+        "2.5 km boulder section described as hard on the legs",
+        "Daily gradual ascents and descents on uneven trails"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "At 16,800 ft above sea-level, this can be a strenuous ask.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "There is a 2.5 km long boulder section that you need to traverse before reaching the Chandrabhaga Glaciers Viewpoint. This can be hard on the legs.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "every day will include gradual ascents and descents on uneven trails",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Micro spikes, gaiters, helmets, ropes provided by Indiahikes where required",
+        "Wind cheaters recommended for wind chill near glaciers"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Layer up well and carry wind cheaters to beat this wind chill.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek starts at 16,000 ft and climbs to 17,200 ft, described as the highest on any Indiahikes trek",
+        "Risk of Acute Mountain Sickness (AMS) especially in the first couple of days",
+        "AMS can affect first-time and experienced trekkers alike; fitness does not eliminate risk if ascent is too fast",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The Chandrabhaga Glaciers Trek begins at a high altitude of 16,000 ft, and climbs further to 17,200 ft. This is the highest we go on any trek in India.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Starting this high and ascending even more puts you at risk of altitude sickness, especially in the first couple of days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Heat exhaustion risk from direct sun exposure in open landscape at 16,000 ft",
+        "Strong winds near glaciers cause bitter cold and wind chill",
+        "Rain makes boulder sections slippery; Trek Leader may skip sections",
+        "Rain often accompanied by hail; seek shelter at nearest campsite",
+        "Prolonged rain can flood campsites or make trails slushy, possibly requiring premature return",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "On a sunny day, the direct exposure to harsh sunlight makes you susceptible to Heat Exhaustion.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "On a windy day, the strong winds will make you feel bitterly cold. These strong winds are especially possible near the glaciers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Rains can make the boulder sections slippery and unsafe to navigate. Your Trek Leader may take a call on avoiding such sections altogether in such cases.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "If you face rain, it will likely come with hails. Please be prepared to find shelter in such cases as getting hit by hails can be painful.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Prolonged rainfall can flood campsites or make the trails too slushy to walk safely on. You may have to return prematurely from the trek in such cases.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Limited exit points; emergency requires retracing to Baralacha La roadhead",
+        "AMS cases must drive immediately toward Manali since Darcha is above 10,000 ft",
+        "Closest medical facility: Army Healthcare Center at Zing-Zing Bar",
+        "First government healthcare setup at Keylong, ~3 hr drive from Baralacha La",
+        "Serious cases require driving back to Manali, 5-6 hours from Baralacha La",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The Chandrabhaga Glaciers Trek has limited exit points. In case of an emergency, you need to retrace your way back to Baralacha La roadhead.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "If it is an AMS case, you need to drive immediately towards Manali since even Darcha is at an altitude of above 10,000 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The Army Healthcare Center at Zing-Zing Bar is the closest medical facility in case of an emergency.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The first Government Healthcare Set-up is at Keylong, a 3 hr drive from Baralacha La.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "in case of more serious requirements, the only option is to drive back to Manali, which can take anywhere between 5-6 hours from Baralacha La.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers must actively participate in safety protocols",
+        "Trekkers should disclose pre-existing medical conditions to Trek Leader",
+        "Trek Leader may decide to avoid or abort sections/campsites based on weather"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

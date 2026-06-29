@@ -1,0 +1,339 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kuari-pass",
+  "section_id": "kuari-pass::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/kuari-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-November to February (Winter)",
+        "March to April (Spring)",
+        "May to June (Summer)",
+        "September to mid-November (Autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass trek is accessible for 10 months of the year except for July and August (the peak rainy season in Uttarakhand). If we take out the monsoons, we get 4 distinct seasons to experience Kuari Pass – Winter, Spring, Summer, and Autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass in Winter (mid-November to February)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Spring in Kuari starts by mid-March and goes on till the end of April.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass in Summer (May to June)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass in Autumn (September to mid-November)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass trek is accessible for 10 months of the year except for July and August (the peak rainy season in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Winter: snow experience, mighty mountain views, dreamy wonderland with pines/oak/dwarf rhododendrons, soft powdery snowflakes on pine trees, possible snowfall and snowball fights",
+        "Spring: last of winter snow, receding snow at lower campsites, green meadows, blooming flowers and rhododendrons, colour contrasts of snow/greenery/flowers",
+        "Summer: bright sunny days, mildly colder nights, comfortable trekking temperatures",
+        "Autumn: crisp mountain views, golden brown meadows, colour of the season"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Kuari Pass to experience snow and the mighty views from the trek. The landscape again changes colour when draped in the white snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The winter setting is a dreamy wonderland with pines, oak trees and dwarf rhododendrons. Along with this, you have an unending vista of the biggest mountains in India opening up right from day one. Soft, powdery snowflakes loosely hang from pine trees. Perfect for snowball fights and an experience of snowfall if you're lucky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Great time to experience the last of the winter snow. The snow starts to recede from the lower campsites when spring sets. The upper reaches of Gorson and Kuari are still under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The snows start to melt in the upper reaches while the grass begins to turn green in the lower meadows. Tiny flowers make their heads out of the grass while rhododendrons bloom on the trees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "During summer, you will experience bright sunny days and mildly colder nights. So, if you are looking to trek around comfortable temperatures, this is the right time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "This is an ideal time to trek if you are looking for crisp views of the mountain. This season also rings in the colour. The meadows are golden brown.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow present from base camp towards January; entire landscape and valley white from December to end of March; upper reaches of Gorson and Kuari still under snow in spring; Khullara and Chitrakantha meadows usually under snow until mid-April"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow from the base camp towards January. The entire landscape and valley will be in white from December to the end of March.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The upper reaches of Gorson and Kuari are still under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The upper reaches of the Khullara and Chitrakantha meadows are usually under snow until mid-April.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "July and August are peak rainy season in Uttarakhand and trek is not accessible; mild rains start by end of summer (afternoon to evening) marking the beginning of monsoon"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass trek is accessible for 10 months of the year except for July and August (the peak rainy season in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "By the end of summer, do expect mild rains to start. The rains usually start in the afternoons and go till the evening. This will mark the beginning of the monsoon season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter: Day 8–14 °C, Night -8 to -14 °C; notoriously cold, colder than other winter treks; 5 warm layers required",
+        "Spring: Day 13–17 °C, Night drops to zero; 3–4 warm layers",
+        "Summer: Day 18–24 °C, Night drops 3–8 °C; 3 warm layers",
+        "Autumn: Day 10–15 °C, Night drops to zero; 3–4 warm layers; nights get much colder as winter approaches"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Day time: Between 8 °C and 14 °C | Night time: Will drop to temperatures between -8 °C and -14 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The winters of Kuari are known to be notoriously cold. It is much colder than other treks that we run during the winter season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 13 °C and 17 °C | Night time temperature: Will drop to zero",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 18 °C and 24 °C | Night time temperature: Will drop around 3-8 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 10 °C and 15 °C | Night time temperature: Will drop to zero",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "In this season, you must also keep in mind that we are moving towards winter. The days get shorter and the nights start to get much colder.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Winter: unending vista of the biggest mountains in India opening up from day one; white snow-draped landscape",
+        "Spring: colour contrasts of snow, greenery and flowers on meadows",
+        "Autumn: crisp mountain views, golden brown meadows"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Along with this, you have an unending vista of the biggest mountains in India opening up right from day one.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Spring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "This is an ideal time to trek if you are looking for crisp views of the mountain. This season also rings in the colour. The meadows are golden brown.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Winter: snow raises trek difficulty by a notch; prepare well; notoriously cold",
+        "End of summer: mild rains in afternoons/evenings marking monsoon onset",
+        "Autumn: ending trek towards Auli and crossing towards Gorson Bugyal depends on snow and weather forecast; in bad weather or unsafe ridge, trek leader may return to Khullara campsite"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "However, snow raises the difficulty of the trek by a notch. So, prepare well if you are going in winter.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "The winters of Kuari are known to be notoriously cold. It is much colder than other treks that we run during the winter season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "By the end of summer, do expect mild rains to start. The rains usually start in the afternoons and go till the evening. This will mark the beginning of the monsoon season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Ending the trek towards Auli and crossing towards Gorson Bugyal is very much dependent on how much snow and how the weather forecast is for the week. In case of bad weather or the ridge not being safe to cross, the trek leader can take a call on returning the campsite of Khullara.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Winter: snow lovers, mountain lovers seeking snow experience and mighty mountain views",
+        "Spring: those wanting last of winter snow with colour contrasts of meadows",
+        "Summer: trekkers seeking comfortable temperatures and bright sunny days",
+        "Autumn: trekkers seeking crisp mountain views and golden meadows"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "In winter, people trek to Kuari Pass to experience snow and the mighty views from the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari pass is a mountain lovers' delight during the winter season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Great time to experience the last of the winter snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "if you are looking to trek around comfortable temperatures, this is the right time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "This is an ideal time to trek if you are looking for crisp views of the mountain.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "July and August due to peak rainy/monsoon season in Uttarakhand"
+      ],
+      "evidence": [
+        {
+          "section_id": "kuari-pass::best_time_section::001",
+          "quote_or_summary": "Kuari Pass trek is accessible for 10 months of the year except for July and August (the peak rainy season in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

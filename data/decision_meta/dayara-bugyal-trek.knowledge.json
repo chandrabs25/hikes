@@ -1,0 +1,993 @@
+{
+  "trek_id": "dayara-bugyal-trek",
+  "trek_title": "Dayara Bugyal Trek",
+  "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+  "source_packet_file": "dayara-bugyal-trek.packet.json",
+  "quick_facts": {
+    "usage": [
+      "deterministic_filter_source",
+      "candidate_card_source"
+    ],
+    "data": {
+      "trek_difficulty": "Easy-Moderate",
+      "trek_duration": "6 days / 21 km",
+      "highest_altitude": "11,830 ft",
+      "suitable_for": "8 years and above",
+      "basecamp": "Raithal, Uttarakhand",
+      "accommodation_type": "Tents (2-sharing)",
+      "fitness_criteria": "5 km in 40 mins",
+      "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+      "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6.00 PM",
+      "cloakroom": "Available",
+      "offloading": "Available",
+      "packing_checklist": "Click to Generate"
+    }
+  },
+  "decision_profile": {
+    "usage": [
+      "runtime_candidate_profile"
+    ],
+    "data": {
+      "schema_version": "trek_decision_profile_v2",
+      "generated_at": "2026-06-28T13:25:42.399468+00:00",
+      "trek_id": "dayara-bugyal-trek",
+      "trek_title": "Dayara Bugyal Trek",
+      "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+      "filter_index": {
+        "trek_difficulty": "Easy-Moderate",
+        "duration_days": 6,
+        "distance_km": 21.0,
+        "highest_altitude_ft": 11830,
+        "min_age": 8,
+        "max_age": null,
+        "fitness_required_distance_km": 5,
+        "fitness_required_time_min": 40,
+        "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+        "pickup_time": "6.30 AM",
+        "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+        "dropoff_time": "6.00 PM",
+        "offloading_available": true,
+        "cloakroom_available": true,
+        "accommodation_type": "Tents (2-sharing)"
+      },
+      "candidate_profile": {
+        "seasonality": {
+          "recommended_months": [],
+          "avoid_months": [
+            "Monsoon months (unspecified)"
+          ],
+          "snow_or_rain_notes": [
+            "Snow present from base camp towards end of December",
+            "Upper reaches under snow until mid-April",
+            "No snow on the trek in autumn",
+            "Trek is closed/avoided during monsoons; trek is open for about 8 months in a year"
+          ],
+          "temperature_notes": [
+            "Winter: Day 8–12 °C, Night -5 to -10 °C; 5 warm layers required",
+            "Spring: Day 13–17 °C, Night drops to 0 °C; 3–4 warm layers required",
+            "Summer: Day 18–20 °C, Night drops to 5 °C; 3 warm layers required",
+            "Autumn: Day 12–15 °C, Night drops to 2 °C; 4 warm layers required"
+          ]
+        },
+        "difficulty": {
+          "stated_difficulty": [
+            "Easy-Moderate"
+          ],
+          "experience_suitability": [
+            "Suitable for Beginners"
+          ],
+          "terrain_challenges": [
+            "Initial climb into the forest from Raithal is steep",
+            "Final climb to Dayara top is steep",
+            "Daily ascents and descents, mostly gradual and steady except the summit climb on Day 4",
+            "Snow section near the top gets steeper as you approach the top",
+            "Snow deposits on the meadow are often several feet deep"
+          ],
+          "altitude_or_weather_risks": [
+            "Trail from Raithal to Gui climbs 2,478 ft within 4.5 km; trekkers should stay alert for signs of Acute Mountain Sickness",
+            "Above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+            "Even fit trekkers can develop AMS if they climb too high too soon",
+            "Rainfall or snowfall lasting hours can change trek dynamics",
+            "Rain can flood trails or make them too slushy to walk safely"
+          ]
+        },
+        "fitness": {
+          "fitness_benchmark": [
+            "Walk, jog, or run 5 km in under 40 minutes (minimum recommended fitness level)",
+            "Build cardiovascular endurance and muscle strength",
+            "Train core, calves, glutes, quadriceps, and hamstrings",
+            "Walking, jogging, or running is the recommended training routine"
+          ],
+          "approval_requirements": [
+            "Screenshots must demonstrate meeting the trek's fitness criteria",
+            "Runs must meet the trek's fitness criteria at least 3 times in the past month"
+          ],
+          "prep_window": [
+            "6 weeks (Indiahikes free 6-week training plan)",
+            "Upload fitness screenshots 15 to 20 days before the trek date",
+            "Runs must meet fitness criteria at least 3 times in the past month"
+          ]
+        },
+        "experience_themes": [
+          "Winter: snow-covered landscape, powdery snowflakes on pine trees, possible snowfall, snowball fights",
+          "Spring: last of winter snow, melting snow in upper reaches, green grass in lower meadows, tiny flowers, blooming rhododendrons, colour contrasts of snow/greenery/flowers",
+          "Summer: bright green meadows, summer fragrance under oaks and maples, snow-capped mountain views on clear days, easiest trek conditions",
+          "Autumn: clearest skies, sharp mountain views (Gangotri range, Bandarpoonch), golden meadows, fiery red maple leaves, crisp pine-scented air, photography-friendly",
+          "Summer: hazy atmosphere with dust and pollen reduces sharpness of views; snow-capped mountains visible on clear days",
+          "Autumn: clearest skies with sharp mountain views of Gangotri range and Bandarpoonch over golden meadows; best for photography"
+        ],
+        "primary_watchouts": [
+          "Winter: snow raises trek difficulty by a notch; prepare well",
+          "Summer: hazy atmosphere with dust and pollen reduces view sharpness",
+          "Monsoon season (trek not done)",
+          "Summer: those seeking sharp, clear mountain views (due to haze/dust/pollen)",
+          "Initial climb into the forest from Raithal is steep",
+          "Final climb to Dayara top is steep"
+        ],
+        "best_for": [
+          "Winter: snow experience, snowfall, snowball fights",
+          "Spring: colour contrasts of snow, greenery and flowers; rhododendron blooms",
+          "Summer: easiest trek conditions; family batches and introducing children to the Himalayas",
+          "Autumn: sharp mountain views, photography, autumn colours (golden meadows, fiery red maple leaves)"
+        ],
+        "not_ideal_for": [
+          "Monsoon season (trek not done)",
+          "Summer: those seeking sharp, clear mountain views (due to haze/dust/pollen)"
+        ]
+      },
+      "evidence_refs": [
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "section_type": "seasonality",
+          "field_name": "avoid_months"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "section_type": "seasonality",
+          "field_name": "snow_window"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "section_type": "seasonality",
+          "field_name": "best_for"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::best_time_section::001",
+          "section_type": "seasonality",
+          "field_name": "not_ideal_for"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "section_type": "difficulty",
+          "field_name": "stated_difficulty"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "section_type": "difficulty",
+          "field_name": "experience_suitability"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::difficulty_section::001",
+          "section_type": "difficulty",
+          "field_name": "terrain_challenges"
+        },
+        {
+          "section_id": "dayara-bugyal-trek::fitness_section::001",
+          "section_type": "fitness",
+          "field_name": "fitness_benchmark"
+        }
+      ],
+      "needs_review": []
+    }
+  },
+  "sections": {
+    "difficulty": [
+      {
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "source_field": "difficulty_section",
+        "title": "Difficulty",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "llm_decision_meta_source",
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-001",
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-002",
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-003",
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-004",
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-005",
+          "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-006"
+        ],
+        "text": "Easy-Moderate Trek\nSuitable for Beginners\nYou will cover a total of around 21 km in four trekking days during which you will gain approximately 4,688 ft (7,142 ft to 11,830 ft). Every day will include ascents and descents. But, they are mostly gradual and steady, except the summit climb on Day 4.\nThe Terrain:\nThe initial climb into the forest from Raithal is steep. Although there is a well-laid trail, this section will test your stamina.\nThe final climb to Dayara top is steep. And it gets even more challenging in snow during the winters. Dayara being a meadow, the snow deposits are often several feet deep. This snow section continues until you get to the top, getting steeper as you approach the top.\nPlease Note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nPlease Note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nThe trail from Raithal to Gui climbs 2,478 ft within just 4.5 km distance. Stay alert for any signs of Acute Mountain Sickness.\nAt altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.\nHere’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nIn case of an emergency at or before Chilapada, you will need to return to Raithal.\nIf you are near the top, descend to Barsu. These are long distances and evacuation can take 7-8 hours from the farthest point.\nClosest Hospital to the Dayara Bugyal Trek:\nIf a medical emergency occurs, then the District Hospital in Uttarkashi is the closest to you. Uttarkashi can be reached within an hour if you drive from Raithal or Barsu. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek."
+      }
+    ],
+    "faq": [
+      {
+        "section_id": "dayara-bugyal-trek::faqs::001",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Where is Dayara Buygal?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-001::chunk-001"
+        ],
+        "text": "Q: Where is Dayara Buygal?\nA: Dayara Bugyal is a beautiful alpine meadow situated in the northwest part of Uttarakhand in India. It is approximately 45 km from the famous town of Uttarkashi and around 190 km from Dehradun.\nTo reach Dayara Bugyal, first, make your way to the base camp Raithal. It is a quaint Himalayan village. From there, trek through the beautiful oak, rhododendron and maple forest to the Dayara Bugyal."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::002",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What does Bugyal mean?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-002::chunk-001"
+        ],
+        "text": "Q: What does Bugyal mean?\nA: Bugyal (pronounced boog-yaal) is a Hindi word that refers to alpine pasture lands or alpine meadows that grow above around 10,500 ft and below 13,000 ft. These alpine meadows are always found above the treeline, so they’re vast open lands, usually with great scenic views of the mountains and valleys around them."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::003",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What kind of accommodation will I find on the trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-003::chunk-001"
+        ],
+        "text": "Q: What kind of accommodation will I find on the trek?\nA: At Raithal you will be staying in the Indiahikes Community Campus. You will be staying in Swiss tents.\nWhereas on the campsite, you will be staying in tents. Two people will be sharing a tent.\nThe accommodation is separate for men and women unless you're a couple or a family."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::004",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What is the best time to do the Dayara Bugyal trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-004::chunk-001"
+        ],
+        "text": "Q: What is the best time to do the Dayara Bugyal trek?\nA: Best time to visit Dayara Bugyal is almost throughout the year, except during the monsoon. So, the best season is – spring, summer, autumn and winter. And the trek looks different in all these seasons.\nIn spring you will find that the snow has freshly melted and green meadows dotted with flowers have started peeping out. Rhododendrons will also be in bloom in the forest. In summer, the meadows are bright and temperatures are warm. Autumn is known for its blue skies and brilliant view of the Bandarpunch range and winter on Dayara Bugyal is magical with undulating meadows blanketed in powdery snow."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::005",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How difficult is the Dayara Bugyal Trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-005::chunk-001"
+        ],
+        "text": "Q: How difficult is the Dayara Bugyal Trek?\nA: Dayara Bugyal is a perfect trek for beginners. It does not have tricky sections, but a couple of sections on the trek can get challenging. Amongst the high altitude treks on our list (treks that go over 11,000 feet), Dayara Bugyal poses the least risk.\nThis is why it’s a trek we recommend to many beginners, families and even those starting trekking late in their lives.\nThe only two challenges you'll face on the trek are these sections:\n1. From the basecamp to the forest: This initial 1 km stretch is steep. And although there is a well-laid trail, this section will test your stamina.\n2. Climb to Dayara top: The final climb to Dayara top is also steep. And it gets challenging in snow during the winters. As you step out of your campsite for the summit push early in the morning, the snow is going to be hard, having frozen overnight. This snow section continues until you get to the top, getting steeper as you approach the top."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::006",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How long is the Dayara Bugyal Trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-006::chunk-001"
+        ],
+        "text": "Q: How long is the Dayara Bugyal Trek?\nA: The Dayara Bugyal Trek covers around 21 km in 4 days (6 days including the drive to and from the basecamp). The altitude ranges from 7,096 ft in Raithal all the way to Dayara Top at 11,830 ft."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::007",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How fit do I need to be to do the Dayara Bugyal trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-007::chunk-001"
+        ],
+        "text": "Q: How fit do I need to be to do the Dayara Bugyal trek?\nA: A trek like Dayara Bugyal requires a good fitness level. There are gradual ascends and 4-5 hours of trekking every day. As a measure of your fitness, we need you to:\nRun at least 5 km in 40 minutes before your trek. It's our minimum mandatory requirement.\nOnce you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience.\nHow to Get Fit for Your Trek"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::008",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "I am more than 58 years old. Can I do this trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-008::chunk-001"
+        ],
+        "text": "Q: I am more than 58 years old. Can I do this trek?\nA: Yes you can!\nIf you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 40 minutes."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::009",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How many trekkers are in a single group?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-009::chunk-001"
+        ],
+        "text": "Q: How many trekkers are in a single group?\nA: On the Dayara Bugyal Trek, we usually take around 20- 23 trekkers in total."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::010",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Can I take my child along on this trek? What is the age limit?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-010::chunk-001"
+        ],
+        "text": "Q: Can I take my child along on this trek? What is the age limit?\nA: Dayara Bugyal is an easy-moderate trek and requires trekkers to be physically fit. The minimum age for eligibility is 8 years. If your child meets this criterion and is physically fit, you can take her/him along."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::011",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "When will there be snow on this trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-011::chunk-001"
+        ],
+        "text": "Q: When will there be snow on this trek?\nA: In winter, people trek to Dayara Bugyal to experience snow. The landscape again changes colour when draped in the white snow. Soft, powdery snowflakes loosely hang from pine trees offering a tinge of Christmas-y feel. Perfect for snowball fights and an experience of snowfall if you’re lucky. However, snow raises the difficulty of the trek by a notch. So, prepare well if you are going in winter."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::012",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What is the style of accommodation on this trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-012::chunk-001"
+        ],
+        "text": "Q: What is the style of accommodation on this trek?\nA: Dayara Bugyal is a 6 day trek. You will be staying at our campus in Raithal and in tents on other days of the trek. Each tent accommodates 2 trekkers."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::013",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What are the washroom/toilet facilities like on the trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-013::chunk-001"
+        ],
+        "text": "Q: What are the washroom/toilet facilities like on the trek?\nA: The basecamp at Raithal will have concrete toilets. On Trek days, toilet tents will be set up along each campsite.\nA toilet tent will have a deep pit, where one can answer nature’s call. There will be a mound of soil and a shovel to cover it up. These are dry toilets, where you’ll have to use toilet paper. There will be a room freshener as well. It’s the most hygienic and convenient way to answer nature’s call in the wild.\nPlease use plain toilet paper and refrain from using wet wipes since these are not biodegradable.\nWhat Happens To Your Poop in the Mountains? | Green Trails | Indiahikes"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::014",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Will there be water sources on the way? Will two litres of water be enough?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-014::chunk-001"
+        ],
+        "text": "Q: Will there be water sources on the way? Will two litres of water be enough?\nA: Our campsites are pitched near water sources. For your day’s trek, two litres of water should be enough. On Day 4 and Day 5, you will find one water source to refill your water bottles. Your trek leader will brief you about these before starting the day’s trek. There will be no water sources on the trail on the other days of trekking."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::015",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Will I get a mobile network and charging points during the Dayara Bugyal Trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-015::chunk-001"
+        ],
+        "text": "Q: Will I get a mobile network and charging points during the Dayara Bugyal Trek?\nA: When it comes to a mobile phone network and an internet connection, you’ll find network all across your trek. This is true at some spots on the trek including at Dayara Top! However, do not keep your work-related commitments based on this.\nAs for electricity, Raithal Campus is the last point with electricity. At the Indiahikes base camp in Raithal, all the rooms are equipped with plug points for trekkers to charge their electronic devices.\nHowever, once you leave the base camp, there is no electricity. We suggest you bring additional batteries for your cameras and a power bank with more than 10,000 mAh to last you the entire trek."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::016",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Which is the nearest ATM to the Dayara Bugyal Trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-016::chunk-001"
+        ],
+        "text": "Q: Which is the nearest ATM to the Dayara Bugyal Trek?\nA: Bhatwari is the last place en route to Raithal where you’ll find ATMs to make some cash withdrawals. However, it has just one ATM which is not always reliable.\nOtherwise, in Uttarkashi, all major private and public sector banks have their ATMs and some even have branches in Uttarkashi. However, cash does run out quickly at the Uttarkashi ATMs. Hence, Dehradun is your best bet to make last-minute cash withdrawals.\nWe advise you to carry around Rs 5000 in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.\nIf you’re an Indiahikes trekker, there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::017",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Can I keep extra luggage at the base camp of Raithal?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-017::chunk-001"
+        ],
+        "text": "Q: Can I keep extra luggage at the base camp of Raithal?\nA: Yes, you can keep the extra luggage at the base camp. Once the trek ends, you will be able to collect the luggage. Our team will arrange for this.\nThe transport takes you from Dehradun to the Base. However, you need to walk about 3 floors on foot to get from the basecamp to where you actually stay. We advise you to not bring any luggage that is bulky and heavy.\nEnsure you do not keep any valuables at the base. Laptops, mobile phones, cash or any important items cannot be kept here."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::018",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What are the places of interest that I can visit before or after the trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-018::chunk-001"
+        ],
+        "text": "Q: What are the places of interest that I can visit before or after the trek?\nA: You can spend time exploring tourist attractions around Dehradun. Please note that these are suggestions and Indiahikes does not make any arrangements for visiting them."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::019",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "Is offloading available for Dayara Bugyal?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-019::chunk-001"
+        ],
+        "text": "Q: Is offloading available for Dayara Bugyal?\nA: Having more footprint through porters or mules on any trail isn’t good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking.\nBut if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack.\nThe cost of offloading on the Dayara Bugyal trek is Rs 1,600 for the trek pre-tax.\nFind details about the offloading process here."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::020",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How to reach Dayara Bugyal from Dehradun?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-020::chunk-001"
+        ],
+        "text": "Q: How to reach Dayara Bugyal from Dehradun?\nA: If you are travelling from Bengaluru, Chennai, Pune, Mumbai or any other city, book your air tickets either for Day Minus One, which is the day before Day 1 on the itinerary or book a flight/train as such where you will reach half an hour before the pick-up time.\nThere are two options for your flight booking:\n1. Fly directly to Dehradun:\nWe recommend this. It gives you an added rest day at Dehradun. Usually, most passengers take taxis from the airport. Try to hook up with co-passengers on the flight for your taxi ride to Dehradun.\n2. Flying to Delhi\nFlying to Delhi may be a lot cheaper than getting to Dehradun. Make sure to book a flight that reaches Delhi by 8.00 pm. You must arrive in Delhi on Day Zero and not on Day 1. Next, book yourself on the Nanda Devi Express to Dehradun (Train No: 12401). It is a fully AC train that leaves at 23.45 hrs from Hazrat Nizamuddin and gets to Dehradun at 5.40 am. At Dehradun, wait for Indiahikes pick up at 6.30 am. Contact your driver by 6.00 am. The number of your transport coordinator will be shared with you a day or two before your departure.\nIf you miss the Indiahikes pick up from Dehradun. Here is how you can get to Raithal base camp on your own.\nIf you are at Dehradun, take a bus to Uttarkashi as quickly as you can. A bus generally leaves from Dehradun Railway Station to Uttarkashi at 8:00 am. It charges about Rs 250.\nAlternatively, there are local private buses and shared taxis from Lencidon chowk near parade ground to Uttarkashi. The last private bus is at 9:00 am.\nFrom Uttarkashi, take the shared taxis to Bhatwari/Gangotri and get down at Bhatwari. The taxi stand is at a walkable distance if you get down at the bus stand. They will charge you Rs 70. From Bhatwari, Raithal is 10 km away. You can find shared taxis for Raithal from there which charge Rs 30. You will find shared taxis from Bhatwari to Raithal until 4 pm."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::021",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "What is Dayara Bugyal's temperature in different seasons?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-021::chunk-001"
+        ],
+        "text": "Q: What is Dayara Bugyal's temperature in different seasons?\nA: Except for the monsoon months, you can do the Dayara Bugyal trek all year round.\nExpected temperatures in these seasons:\nSpring (Mid March to April): The day time temperatures will be around 15-20 degrees. If the sun goes behind the clouds and there is a bout of rain, then the temperature can fall to around 10 degrees. Expect cold nights at your higher camps. So post sundown, temperatures can drop to around zero but generally will hover around 1-5 degrees.\nSummer (May to June): During the day, the temperature hovers around 20 degree celsius and may go up to 25. Nights may go down to 7-10 degree Celsius. The nights are cooler and even though it’s summer you will need 2-3 layers to keep you warm after sun-down.The higher camps are colder at night. Sometimes you may wake up to frosty mornings. So have your layers.\nAutumn (Mid-September to November): Autumn is generally like Spring, but a few degrees colder. While trekking, in autumn, day temperatures are pleasant at around 13 – 18 degrees, but any rain or slight drizzle brings down temperature rapidly to around 8 – 12 degrees. You need to keep a pullover handy with you always. Nights can be nippy at slightly below zero at the highest camp. As you move towards late November, it is perceptibly colder. Higher camps are 2-3 degrees below zero. Though, at the lower camps the temperature will hang slightly above zero.\nWinter (December - February): During the day when the sun is out, it is quite comfortable to trek. The temperature is a balmy 8 — 12 degrees. If you are on snow, then the snow reflects, which makes it quite warm sometimes! On your early morning summit climb, expect to start in temperatures well below zero. The day will get progressively warmer as the sun touches the ground, even though you may be on snow. Be prepared to shed off your layers as you climb. Night temperatures decrease as you climb up. But expect sub zero temperatures even at your base camps in the evening in winter. At higher camps, you will experience temperature falling below minus 7 or 8 degrees in the night. As long as you are inside your tent and in your layers it is absolutely fine."
+      },
+      {
+        "section_id": "dayara-bugyal-trek::faqs::022",
+        "section_type": "faq",
+        "source_field": "faqs",
+        "title": "How to prepare my child for a high altitude trek?",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-faqs-022::chunk-001"
+        ],
+        "text": "Q: How to prepare my child for a high altitude trek?\nA: Watch this video by our Experiential Learning team member, Prathima Chhabria, to know how you can prepare your child physically:\nHow To Prepare Children For A Himalayan Trek | Indiahikes | Trekking With Your Family\nIndiahikes\nYouTube\n<iframe width=\"200\" height=\"113\" src=\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"How To Prepare Children For A Himalayan Trek | Indiahikes | Trekking With Your Family\"></iframe>"
+      }
+    ],
+    "fitness": [
+      {
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "source_field": "fitness_section",
+        "title": "Fitness",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "llm_decision_meta_source",
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-001",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-002",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-003",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-004",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-005",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-006",
+          "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-007"
+        ],
+        "text": "Most people don't realise this until it's too late: there's no such thing as a difficult or easy trek. A trek is difficult if you aren't fit. It's easy if you're fit.\nOn a trek, your lungs and legs do the real work. You need to build your stamina and endurance. You need to train your core, calves, glutes, quadriceps, and hamstrings.\nWalking, jogging or running is the best routine for this.\nIt works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nHere’s Why Running is the Best Exercise To Get Fit for a Trek\nFitness Target\nTo do the Dayara Bugyal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular Endurance\nMuscle Strength\nIf you are looking for guidance, we've put together a comprehensive training programme for you. This has been designed by two of Indiahikes' most senior team members — Prathima Chhabria and Gautam Singh. Between them, they've run close to 10,000 km over the last two decades.\nThey have compiled years of hard-earned experience into this one downloadable document. Follow this, and you'll be trek-ready in 6 weeks.\nClick here to Download our Free 6-Week Training Plan\nFrequently Asked Questions\n1. Why get fit before your trek?\nIf you're not fit, you won't enjoy your trek. Simple as that. You'll struggle. You'll fall behind. And you'll miss out on the transformative experience we've designed for you.\nBut here's what most people don't think about — when you lag behind, you pull your entire team back. Your Trek Leader has to slow everyone down. The trekkers who trained hard and showed up prepared won't take this lightly. Nobody wants to miss a summit or a breathtaking viewpoint because someone didn't train.\nHere’s What Happens When you Don’t Get Fit Before Your Trek\n2. What is the fitness approval process at Indiahikes?\nTrack your runs on Strava, Nike Run Club, or any similar fitness app.\nTake 3 screenshots of your runs and upload them to your Indiahikes Dashboard.\nMake sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.\nYour screenshots must demonstrate that you are meeting the fitness criteria for your trek.\nHere’s What the Fitness Approval Process at Indiahikes Looks Like\n3. When can your fitness records get rejected?\nYour fitness records will be rejected for one of two reasons:\nYou haven't uploaded your 3 screenshots to your dashboard.\nYour runs don't meet your trek's fitness criteria at least 3 times in the past month.\nCheck both before you submit. It'll save you the back and forth.\n4. What happens if your fitness records get rejected?\nYou can still trek. But your Trek Leader and Slope Manager will be informed about your fitness levels in advance. If you fall behind the group by 45 minutes and are visibly struggling, your Trek Leader may send you back. That's a call none of us want to make. But it is essential for your and the entire team’s safety.\n5. Do children need fitness approvals before a trek?\nChildren below 14 years are not required to submit fitness records. However, parents must ensure that children remain physically active and prepared for the trek.\nAny"
+      }
+    ],
+    "itinerary_day": [
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::001",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 1 (Pick-up Day): Drive from Dehradun to Raithal",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-001::chunk-001"
+        ],
+        "text": "{\n\"day\": \"1\",\n\"place_title\": \"Day 1 (Pick-up Day): Drive from Dehradun to Raithal\",\n\"difficulty\": \"Drive Distance: 185 km\",\n\"duration\": \"Drive Duration: 8 hours | Drive Distance: 185 km\",\n\"altitude\": \"Altitude: 7,142 ft\",\n\"water_sources\": \"Highlights: Watch out for Tingling Point, from where you get to see the astounding views of almost all of Uttarakhand's highest peaks, including Mt Nanda Devi.\",\n\"description\": \"Raithal, the base camp for the Dayara Bugyal trek, is around 9 hours away from Dehradun.\\nThe drive takes you through lovely forest stretches as soon as you exit Dehradun. Within an hour, you pass through Mussoorie, one of the most popular hill stations of Uttarakhand.\\nBetween Mussoorie and Uttarkashi, you come across a viewpoint, often called the Tingling Point, from where you get astounding views of almost all of the Garhwal Himalayas. Right from the mountains near Himachal (Swargarohini and adjoining peaks) to Mt Bandarpoonch to Mt Srikanth, the Gangotri Peaks, the Chaukhamba massif, all the way to Mt Nanda Devi, you get striking views. This is of course possible only on a very clear day.\\nThe largest town on the route is Uttarkashi, from where you head to Bhatwari.\\nAs you approach Raithal, you witness the brilliant colours of sunset over Mt Bandarpoonch, Mt Srikanth, Mt Jaunli and Draupadi ka Danda peaks.\"\n}"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::002",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 2: Trek from Raithal to Gui",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-002::chunk-001"
+        ],
+        "text": "{\n\"day\": \"2\",\n\"place_title\": \"Day 2: Trek from Raithal to Gui\",\n\"difficulty\": \"Difficulty: Easy-moderate. Gradually ascending trail throughout.\",\n\"duration\": \"Trek Duration: 5 hours | Trek Distance: 4.5 km\",\n\"altitude\": \"Altitude Gain: ⇗ 2,488 ft (7,142 ft to 9,630 ft)\",\n\"water_sources\": \"Highlights: Lovely oak forests with leafy forest floors. Sunset by the lake at Gui.\",\n\"description\": \"At Raithal, you can see Mt. Srikanth and Gangotri 1, 2, and 3 in the distance along with the mountains mentioned above. These become more prominent as you gain altitude on the trail to Gui.\\nThe forest where the Gui campsite is located is visible from Raithal.\\nThe trail from Raithal to Gui is a gradually ascending one. The initial trail goes out of the Raithal village quickly and takes you through the village fields. Go along the well laid out trail and in an hour you come to a flat grassy clearing which also has a hand pump. Take a small water break here and then proceed.\\nPost the water point, the trail becomes more wooded. You make your way into a forest that consists mainly of green and brown oaks (moru and kharsu) and rhododendron. This makes it a very rich forest. Unlike other places, you do not find pines here.\\nThe forest opens up to a couple of small clearings before you reach Gui.\\nThe campsite at Gui is located in a small clearing surrounded by forests. There is a small table close by. You will find village huts around - these are used by villagers in the summer. There is also a u-shaped forest department hut at some distance.\"\n}"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::003",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 3: Trek from Gui to Chilapada",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-003::chunk-001"
+        ],
+        "text": "{\n\"day\": \"3\",\n\"place_title\": \"Day 3: Trek from Gui to Chilapada\",\n\"difficulty\": \"Difficulty: Easy. Meandering flat trail through the forest\",\n\"duration\": \"Trek Duration: 3 hours | Trek Distance: 2.5 km\",\n\"altitude\": \"Altitude Gain: ⇗ 885 ft (9,630 ft to 10,515 ft)\",\n\"water_sources\": \"Highlights: Beautiful oak forests with mountains peeking through the trees. First views of Mt Bandarpoonch\",\n\"description\": \"The day's trek sees you carrying on along the trail the climbs out of Gui towards Dayara. As you climb up from Gui, you start seeing mountains on the other side, which were earlier hidden from view.\\nToday is a short day (3 km) with gradual ascends punctuated with flat sections.\\nOnce you start from Gui, join the main trail and start climbing to Gui Thatch. This is a small meadow in the forest. On one side we have 5-6 Chania (shepherd) huts. Right in front of these huts is a compact pond. Just by the pond is a mound.\\nYou also see the igloo-shaped structures of the Forest Department near the Chania huts. Beside the shepherd’s hut, you see Forest Department huts in the shape of igloos.\\nInsta point: Gui Thatch has incredible views of the entire Gangotri range. These include Shrikanth, Gangotri I, II and III. Look straight, you see the Jaonli peak there. On your left, you can spot the top of Bandarpoonch.\\nThe next half kilometre from Gui Thatch is a relaxed and easy walk. It goes through beautiful rhododendron. The terrain allows you to leisurely walk and soaks in the setting of a Himalayan forest.\\nHug a tree: Spend some time connecting with nature. If you are trekking with Indiahikes, your Trek Leader may facilitate the hug-a-tree experience here that helps you connect much more deeply with the forest.\\nYou gradually start ascending once the relaxed forest walk ends. You cross a couple of streams which may be flowing, dried or frozen depending on the season.\\nBarely five minutes after crossing these streams, you see an umbrella-shaped rain shelter. This is the rest point. Chilapada is not far from here. Catch your breath, stretch your legs and pause for 10-15 minutes before proceeding further.\\nChilapada is 20 minutes from the rain shelter. Five minutes into the trek from the rain shelter, notice a broken trail on your left. Leave the main trail and start trekking on this broken trail. This goes to Chilapada, a small opening between the meadows.\\nLook around, on one side you have the Chilapada Top with some Chania huts.\"\n}"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::004",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 4: Trek from Chilapada to Nayata via Dayara Top",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-004::chunk-001"
+        ],
+        "text": "{\n\"day\": \"4\",\n\"place_title\": \"Day 4: Trek from Chilapada to Nayata via Dayara Top\",\n\"difficulty\": \"Difficulty: Moderate. Undulating walk across meadows followed by a final ascent.\",\n\"duration\": \"Trek Duration: 6-7 hours | Trek Distance: 9.5 km\",\n\"altitude\": \"Altitude Gain and Loss: ⇗ 1,435 ft; ⇘ 2,764 ft (10,515 ft to 9,186 ft via 11,830 ft)\",\n\"water_sources\": \"Highlights: The grand meadows of Dayara Bugyal, set against the backdrop of the Gangotri range of peaks and Mt Bandarpoonch.\",\n\"description\": \"Chilapada is pretty close to the start of Dayara Bugyal giving you almost the whole day to explore the massive meadows.\\nClimb through the forests and in half an hour the tree line ends and you find yourself at the edge of meadows. You do not see the full magnitude of the meadows yet.\\nHere you can spot the Chania huts in front. The trail goes right on the edge of the meadow. Look up to your right to see the magnificent view of Bandar Poonch and Kala Nag. All the summits which were with you from Raithal and Gui are now a lot bigger adorning the panorama behind.\\nPhoto point: The early morning view of Dayara Bugyal is worth every effort put in to get there. Miles of undulating meadows stretch in every direction, with the rays of the sun catching them in many moods.\\nIf early in the season (May-June), thousands of yellow, violet and white flowers sprout across the meadows – sometimes, there are so many that you have to deliberately skirt around them.\\nIn winter, you see miles and miles of powdery snow on the undulating terrain.\\nSpend at least a couple of hours exploring the Dayara meadows before retracing your steps to the Chania huts. The trail to Nayata goes below the huts and immediately enters the forest. The wooded trail is well laid out again. About 45 minutes of descent brings you to Nayata.\"\n}"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::005",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 5: Trek from Nayata to Raithal",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-005::chunk-001"
+        ],
+        "text": "{\n\"day\": \"5\",\n\"place_title\": \"Day 5: Trek from Nayata to Raithal\",\n\"difficulty\": \"Difficulty: Easy. Short stretches of ascents and descents for 1.5 hours followed by a steeply descending trail\",\n\"duration\": \"Trek Duration: 4-5 hours | Trek Duration: 4 km\",\n\"altitude\": \"Altitude loss: ⇘ 2,044 ft (9,186 ft to 7,142 ft)\",\n\"water_sources\": \"Highlights: Pleasurable descent through a lovely canopy of trees. Last views of Mt Bandarpoonch\",\n\"description\": \"It takes about 4 hours to reach Raithal, so start your days trek by 9 am. From the Nayata campsite, continue on the main trail you came down from Dayara yesterday. The trail continues to descend under a heavy canopy of forest cover.\\nFifteen minutes of descent brings you to the rain shelter from where you diverted to Barnala on the way up. Continue moving down on the main trail.\\nContinue further for an hour before coming to the grassy clearing with the water source. Take a break here before completing the final hours descent to Raithal. The arch of Raithal marks the end of the trek. Indiahikes Campus is half a kilometer down the paved road.\\nContinue till you reach the community campus. It brings an end to your enchanting Dayara Bugyal trek.\"\n}"
+      },
+      {
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::006",
+        "section_type": "itinerary_day",
+        "source_field": "day_wise_itinerary",
+        "title": "Day 6: Drive from Raithal back to Dehradun",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-006::chunk-001"
+        ],
+        "text": "{\n\"day\": \"6\",\n\"place_title\": \"Day 6: Drive from Raithal back to Dehradun\",\n\"difficulty\": \"Driving Distance: 185 km\",\n\"duration\": \"Drive Duration: 8 hours | Drive Distance: 185 km\",\n\"altitude\": \"\",\n\"water_sources\": \"Highlights: Crossing the Tehri Dam and the Tingling Point\",\n\"description\": \"Start from Raithal after breakfast. Enjoy the scenic drive back to Dehradun. You are expected to reach Dehradun at around 6.00 PM on this day.\"\n}"
+      }
+    ],
+    "safety": [
+      {
+        "section_id": "dayara-bugyal-trek::safety_section::001",
+        "section_type": "safety",
+        "source_field": "safety_section",
+        "title": "Safety",
+        "rendered_support_status": "included_source_field",
+        "usage": [
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-safety_section-001::chunk-001"
+        ],
+        "text": "Defining Safety Standards of Trekking\nAs industry leaders, we have innovated and set the safety standards in the trekking industry. Our people, our processes, our equipment, these are what make Indiahikes the safest trekking organisation in India.\nDayara bugyal trek, dayara bugyal, dayara, safety, trek safety, safest trekking organisation.\n#fff"
+      }
+    ],
+    "seasonality": [
+      {
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "source_field": "best_time_section",
+        "title": "Seasonality",
+        "rendered_support_status": "rendered_structure_matched",
+        "usage": [
+          "llm_decision_meta_source",
+          "embedding_source",
+          "trek_discussion_source"
+        ],
+        "embedding_chunk_ids": [
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-001",
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-002",
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-003",
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-004",
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-005",
+          "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-006"
+        ],
+        "text": "Dayara Bugyal is a trek that can be done around the year except during the monsoons. This means that the trek is open and great for almost 8 months in a year.\nIf we take out the monsoons, we get 4 distinct seasons to experience Dayara Bugyal – Winter, Spring, Summer and Autumn. Each season is different and lovely in its own way.\nDayara Bugyal in Winter\nDay time: Between 8 °C and 12 °C | Night time: Will drop to temperatures between -5 °C and -10 °C.\nPresence of snow: You will find snow from the base camp towards the end of December. The entire landscape and valley will be in white.\nNo. of warm layers required: 5 warm layers.\nIn winter, people trek to Dayara Bugyal to experience snow. The landscape again changes colour when draped in the white snow. Soft, powdery snowflakes loosely hang from pine trees offering a tinge of Christmas-y feel. Perfect for snowball fights and an experience of snowfall if you’re lucky. However, snow raises the difficulty of the trek by a notch. So, prepare well if you are going in winter.\nWatch this video of trekkers singing and trekking at Dayara Bugyal in winter. It will give you a feel of what it is like to be on this trail in winter.\nDayara Bugyal in Spring\nDay time temperature: Between 13 °C and 17 °C | Night time temperature: Will drop to 0 °C.\nGreat time to experience the last of the winter snow. The snow starts to recede from the lower campsites when spring sets. The upper reaches of Dayara are still under snow.\nNo. of warm layers required: 3-4 warm layers.\nSpring in Dayara starts by mid-March and goes on till the end of April. The snows start to melt in the upper reaches while the grass begins to turn green in the lower meadows. Tiny flowers make their heads out of the grass while rhododendrons bloom on the trees.\nThe upper reaches of the Dayara meadows are usually under snow until mid-April.\nSpring is a great time to experience colour contrasts on the meadows. You see snow, greenery and the colour of flowers altogether.\nDayara Bugyal in Summer\nDay time temperature: Between 18 °C and 20 °C | Night time temperature: Will drop to 5 °C.\nMost of the snow has melted, owing to warmer temperature.\nNo. of warm layers required: 3 warm layers.\nSummers are warm on Dayara Bugyal trek. Picture bright green meadows getting toasted under hot sunlight.\nThere is also a distinct summer fragrance in the air especially as you trek under the shadows of oaks and maples.\nThe atmosphere also gets hazier as there is a lot of dust and pollen in the air at this time. So, you might not get as sharp views as you get in autumn. But you will see the snow-capped mountains in their grandeur on a clear day.\nThere’s another plus side to the summers on Dayara Bugyal trek. Without the challenges of cold temperature or snow, this trek is at its easiest in the summers. And so, we open the family batches of Dayara Bugyal trek during this time. It’s a great time to introduce children to the Himalayas.\nDayara Bugyal in Autumn\nDay time temperature: Between 12 °C and 15 °C | Night time temperature: Will drop to 2 °C.\nThere is no snow on the trek in the autumn season. The lush greenery on the trail starts to turn golden.\nNo. of warm layers required: 4 warm layers.\nIn autumn, the skies are at their clearest. That’s when you witness the sharp mountain views. Imagine the majestic Gangotri range, Bandarpoonch popping up from the golden meadows under brilliant blue skies. Sounds picturesque, doesn’t it?\nAnd if you wish to capture these ranges through your camera lens, autumn is the perfect time to do so.\nOther than the brilliant mountain views, Dayara Bugyal in autumn is a riot of colours. You will witness maple leaves turning fiery red. This is a signature sight in the Himalayas, and against the backdrop of meadows turning golden, well, it is a sight to behold.\nWitness these as you trek, inhaling the crisp, pine-scented autumn air.\nDayara Bugyal trek, Dayara Bugyal, Dayara, snowy mountains, mountains, snow peaked mountains\n#fff\nDayara Bugyal trek, Dayara Bugyal, dayara, winter season, snow season, blanket of snow\n#fff\nDayara Bugyal trek, Dayara Bugyal, dayara, winter season, snow season, blanket of snow, campsite, trek campsite\n#fff\nDayara Bugyal trek, Dayara Bugyal, dayara, winter season, snow season, snow peaked mountains\n#fff"
+      }
+    ]
+  },
+  "embedding_chunks": {
+    "usage": [
+      "vector_embedding_inputs",
+      "trek_discussion_retrieval"
+    ],
+    "count": 48,
+    "chunks": [
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "Seasonality"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-002",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "Dayara Bugyal in Winter"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-003",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "Dayara Bugyal in Spring"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-004",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "The upper reaches of the Dayara meadows are usually under snow until mid-April."
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-005",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "Dayara Bugyal in Summer"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-best_time_section-001::chunk-006",
+        "section_id": "dayara-bugyal-trek::best_time_section::001",
+        "section_type": "seasonality",
+        "title": "Dayara Bugyal in Autumn"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::001",
+        "section_type": "itinerary_day",
+        "title": "Day 1 (Pick-up Day): Drive from Dehradun to Raithal"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-002::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::002",
+        "section_type": "itinerary_day",
+        "title": "Day 2: Trek from Raithal to Gui"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-003::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::003",
+        "section_type": "itinerary_day",
+        "title": "Day 3: Trek from Gui to Chilapada"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-004::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::004",
+        "section_type": "itinerary_day",
+        "title": "Day 4: Trek from Chilapada to Nayata via Dayara Top"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-005::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::005",
+        "section_type": "itinerary_day",
+        "title": "Day 5: Trek from Nayata to Raithal"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-day_wise_itinerary-006::chunk-001",
+        "section_id": "dayara-bugyal-trek::day_wise_itinerary::006",
+        "section_type": "itinerary_day",
+        "title": "Day 6: Drive from Raithal back to Dehradun"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "Difficulty"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-002",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "Suitable for Beginners"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-003",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "The Terrain:"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-004",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "Weather:"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-005",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "Altitude:"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-difficulty_section-001::chunk-006",
+        "section_id": "dayara-bugyal-trek::difficulty_section::001",
+        "section_type": "difficulty",
+        "title": "Emergency Exits:"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::001",
+        "section_type": "faq",
+        "title": "Where is Dayara Buygal?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-002::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::002",
+        "section_type": "faq",
+        "title": "What does Bugyal mean?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-003::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::003",
+        "section_type": "faq",
+        "title": "What kind of accommodation will I find on the trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-004::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::004",
+        "section_type": "faq",
+        "title": "What is the best time to do the Dayara Bugyal trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-005::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::005",
+        "section_type": "faq",
+        "title": "How difficult is the Dayara Bugyal Trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-006::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::006",
+        "section_type": "faq",
+        "title": "How long is the Dayara Bugyal Trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-007::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::007",
+        "section_type": "faq",
+        "title": "How fit do I need to be to do the Dayara Bugyal trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-008::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::008",
+        "section_type": "faq",
+        "title": "I am more than 58 years old. Can I do this trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-009::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::009",
+        "section_type": "faq",
+        "title": "How many trekkers are in a single group?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-010::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::010",
+        "section_type": "faq",
+        "title": "Can I take my child along on this trek? What is the age limit?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-011::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::011",
+        "section_type": "faq",
+        "title": "When will there be snow on this trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-012::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::012",
+        "section_type": "faq",
+        "title": "What is the style of accommodation on this trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-013::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::013",
+        "section_type": "faq",
+        "title": "What are the washroom/toilet facilities like on the trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-014::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::014",
+        "section_type": "faq",
+        "title": "Will there be water sources on the way? Will two litres of water be enough?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-015::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::015",
+        "section_type": "faq",
+        "title": "Will I get a mobile network and charging points during the Dayara Bugyal Trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-016::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::016",
+        "section_type": "faq",
+        "title": "Which is the nearest ATM to the Dayara Bugyal Trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-017::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::017",
+        "section_type": "faq",
+        "title": "Can I keep extra luggage at the base camp of Raithal?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-018::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::018",
+        "section_type": "faq",
+        "title": "What are the places of interest that I can visit before or after the trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-019::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::019",
+        "section_type": "faq",
+        "title": "Is offloading available for Dayara Bugyal?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-020::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::020",
+        "section_type": "faq",
+        "title": "How to reach Dayara Bugyal from Dehradun?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-021::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::021",
+        "section_type": "faq",
+        "title": "What is Dayara Bugyal's temperature in different seasons?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-faqs-022::chunk-001",
+        "section_id": "dayara-bugyal-trek::faqs::022",
+        "section_type": "faq",
+        "title": "How to prepare my child for a high altitude trek?"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Fitness"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-002",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Fitness Target"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-003",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Cardiovascular Endurance"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-004",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Click here to Download our Free 6-Week Training Plan"
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-005",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Take 3 screenshots of your runs and upload them to your Indiahikes Dashboard."
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-006",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "You haven't uploaded your 3 screenshots to your dashboard."
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-fitness_section-001::chunk-007",
+        "section_id": "dayara-bugyal-trek::fitness_section::001",
+        "section_type": "fitness",
+        "title": "Check both before you submit. It'll save you the back and forth."
+      },
+      {
+        "chunk_id": "dayara-bugyal-trek::dayara-bugyal-trek-safety_section-001::chunk-001",
+        "section_id": "dayara-bugyal-trek::safety_section::001",
+        "section_type": "safety",
+        "title": "Safety"
+      }
+    ]
+  }
+}

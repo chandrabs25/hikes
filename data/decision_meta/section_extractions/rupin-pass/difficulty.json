@@ -1,0 +1,306 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "rupin-pass",
+  "section_id": "rupin-pass::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/rupin-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "First-time trekkers (implied by 'Suitable for Experienced Trekkers' and AMS warning that 'Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers')"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult trek in terms of terrain and climbs to well over 15,000 ft",
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Although Rupin is a difficult trek in terms of terrain and climbs to well over 15,000 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers",
+        "Fitness helps in making your trek easier"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Fitness helps in making your trek easier",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Frequent river crossings along the Rupin River",
+        "Massive snow bridges in May and June",
+        "Makeshift log bridges set up by shepherds in September and October",
+        "Hopping on boulders or using ropes if no bridges exist",
+        "Boulder sections every day",
+        "Avalanche and rockfall-prone area near Upper Waterfall",
+        "Slushy trails after rain along the Rupin river",
+        "Flooding risk at Lower Waterfall camp from streams during heavy rain"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The trail runs alongside the Rupin River, leading to frequent river crossings. In May and June, you'll traverse massive snow bridges, while in September and October, shepherds set up makeshift log bridges. If no bridges exist, then you will have to hop on boulders or use ropes if required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents and boulder sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "This is also an avalanche and rockfall-prone area.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "rain can easily make the trails too slushy to walk safely on. In the lower waterfall camp, where numerous streams gurgle down from the sides of the valley, heavy rain can flood the campsite.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Climb to Upper Waterfall from Lower Waterfall is a very strenuous climb that tests endurance",
+        "Rupin Gully from Upper Waterfall Camp to the pass is a very steep ascent",
+        "Descent from Rupin Pass to Ronti Gad is long and steep and can be hard on knees if not well-prepared"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The climb to Upper Waterfall from Lower Waterfall is a very strenuous climb that tests your endurance.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The Rupin Gully, which leads you the pass from the Upper Waterfall Camp, is a very steep ascent.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The descent from Rupin Pass to Ronti Gad is long and steep. It can be hard on your knees if you are not well-prepared.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes wherever required",
+        "Trek Leaders and Technical Guides provide necessary guidance, support, and technical gear"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek ascends to 15,279 ft above sea level",
+        "At altitudes above 10,000 ft, chances of Acute Mountain Sickness are real",
+        "Altitude sickness can happen to anybody including first-time and experienced trekkers",
+        "Even a fit person climbing too high too soon runs equal risk of developing AMS",
+        "Indiahikes itinerary allows enough space for acclimatising; no more than 2000 ft elevation gain per day"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "the Rupin Pass Trek ascends to an altitude of 15,279 ft above sea-level and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "the Indiahikes itinerary is designed to allow enough space for acclimatising. You do not gain more than 2000 ft in elevation on any day of the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting for hours can change the entire trek dynamic",
+        "Rain makes trails slushy and unsafe along the Rupin river",
+        "Heavy rain can flood the Lower Waterfall campsite",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Heavy snow makes pass-crossing extremely difficult",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "rain can easily make the trails too slushy to walk safely on. In the lower waterfall camp, where numerous streams gurgle down from the sides of the valley, heavy rain can flood the campsite.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut in the snow. In case of heavy snows, pass-crossing gets extremely difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Two emergency exits: one between Sewa village and Jiskun (via Chainsheel Pass to Shimla, 14-hour drive), and one at Sangla (8-hour drive to Shimla)",
+        "Exit between Jiskun and Sewa is best if medical attention needed before Upper Waterfall",
+        "Crossing the pass to Sangla is faster from Upper Waterfall but difficult in emergency involving sickness or injury",
+        "Jiskun exit: 1-2 days to reach Jiskun, then private car to Rohru",
+        "Rohru has a government hospital for basic medical attention",
+        "Shimla is 100 km further for advanced treatments",
+        "Trekkers should inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "The Rupin Pass trek has two exits. One is just after Sewa village and before Jiskun. This exit takes you over the remote Chainsheel Pass and leads to Shimla via Rohru after a 14-hour drive. The second is from the end of the trek at Sangla. This is an 8-hour drive to Shimla.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "If you need an exit from the Rupin Pass trek before the Upper Waterfall campsite, choose the exit between Jiskun and Sewa. If you are at Upper Waterfall, it is faster to cross the pass and exit onto Sangla. However, crossing the pass in an emergency involving sickness or injury is easier said than done.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "If you have not crossed the pass and you need medical attention, the Jiskun exit is your best bet. Get down to Jiskun in 1 or 2 days depending on your health condition. Hire a private car at Jiskun which can take you to Rohru. Rohru has a government hospital that can give basic medical attention. For advanced treatments, head to Shimla which is 100 km further away.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility requiring active participation and attention to safety protocols",
+        "Trekkers must be alert and trek carefully through several difficult sections"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "There are several difficult sections on this trek that require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

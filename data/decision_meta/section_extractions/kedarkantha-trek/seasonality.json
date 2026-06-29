@@ -1,0 +1,341 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kedarkantha-trek",
+  "section_id": "kedarkantha-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/kedarkantha-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha trek is accessible for 10 months of the year except for July and August (the peak rainy months in Uttarakhand). The 10 months cover four different seasons – Winter – December to February; Spring – March and April; Summer – May and June; Autumn – Mid September to November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha trek is accessible for 10 months of the year except for July and August (the peak rainy months in Uttarakhand).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Winter (December–February): snow-covered landscape, dense snow-covered forests, camping on thick mounds of snow, adventurous summit climb on thick snow blanket",
+        "Spring (March–April): last of the winter snow at upper reaches, Rhododendrons blooming, freshly exposed grasslands, riot of colours against snow backdrop, landscape coming alive after winter",
+        "Summer (May–June): bright mornings, lush green trek, less crowded, more isolation",
+        "Autumn (September–November): fresh meadows and forests after monsoon, crisp air, strikingly clear views of upper Himalayas, feeling of incoming winter by November"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in Winter: The beautiful snow-covered landscape and an adventurous summit climb especially in the winter can make anyone go weak in the knees. You get to trek through dense forests that are covered with snow. You will learn to camp in clearings on thick mounds of snow. The summit climb will get your adrenaline kicking with the thick blanket of snow to the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in March still carries quite a bit of snow – especially the higher campsites towards the summit. What you will also see are the Rhododendrons and the freshly exposed grasslands blooming. This is a sight to watch especially when you see the flush of colours in contrast against the snow backdrop as you climb higher. Snow melts away by April in Kedarkantha. Kedarkantha in April is a must to experience the beautiful landscape come alive after its long winter hibernation. The weather is much more pleasant to trek and camp in and the spring is in full force during this month. There is a riot of colours all along the way.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in May is marked with bright sun in the morning. In the evenings, the cold is not as harsh as in the other months. Kedarkantha in June has occasional rainfall. Monsoon sets in only in July. The entire trek turns lush green. In May and June, crowds are less as most of them are now moving towards the higher altitude treks. All in all, a great time to trek if you are looking to enjoy the trek in more isolation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Right after the monsoon, the entire trek comes alive in September. The meadows and the forests are fresh and alive during September and continue to be so in October as well. The air is crisp and the views of the upper Himalayas are strikingly clear. The trek does get cold as we proceed towards November. And the feeling of incoming winter sets in during November. The views and the terrain remains crisp and beautiful for the trekker.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow present from base camp towards end of December through winter (December–February); upper reaches still under snow in March; snow melts away by April; no snow in summer (May–June) or autumn (September–November)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will find snow from the base camp towards the end of December. The entire landscape and valley will be in white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Great time to experience the last of the winter snow. The snow starts to recede from the lower campsites when spring sets. The upper reaches of Kedarkantha are still under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Snow melts away by April in Kedarkantha.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will not find any snow in the summer season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will not find any snow in the autumn season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "July and August are peak rainy months and trek is closed; June has occasional rainfall; monsoon sets in only in July"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha trek is accessible for 10 months of the year except for July and August (the peak rainy months in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in June has occasional rainfall. Monsoon sets in only in July.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Winter (Dec–Feb): Day 8–10 °C, Night 0 to -10 °C; 5 warm layers required",
+        "Spring (Mar–Apr): Day 15–18 °C, Night 0–5 °C; 3 warm layers required",
+        "Summer (May–Jun): Day 18–24 °C, Night 3–8 °C; 2 warm layers required",
+        "Autumn (Sep–Nov): Day 10–15 °C, Night 0 to -5 °C; 4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in Winter (December, January and February) Day time: Between 8 °C and 10 °C | Night time: Will drop to temperatures between 0 °C and -10 °C. No. of warm layers required: 5 warm layers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in Spring (March and April) Day time: Between 15 °C and 18 °C | Night time: Will drop to temperatures between 0 °C and 5 °C. No. of warm layers required: 3 warm layers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in Summer (May and June) Day time: Between 18 °C and 24 °C | Night time: Will drop to temperatures between 3 °C and 8 °C. No. of warm layers required: 2 warm layers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in Autumn (September, October and November) Day time: Between 10 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and -5 °C. No. of warm layers required: 4 warm layers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Winter: entire landscape and valley in white, snow-covered forests",
+        "Spring: Rhododendrons and freshly exposed grasslands blooming, flush of colours against snow backdrop, landscape coming alive after winter hibernation, riot of colours",
+        "Summer: trek turns lush green",
+        "Autumn: fresh meadows and forests, crisp air, strikingly clear views of upper Himalayas, crisp terrain"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "The entire landscape and valley will be in white.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "What you will also see are the Rhododendrons and the freshly exposed grasslands blooming. This is a sight to watch especially when you see the flush of colours in contrast against the snow backdrop as you climb higher. There is a riot of colours all along the way.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "The entire trek turns lush green.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "The meadows and the forests are fresh and alive during September and continue to be so in October as well. The air is crisp and the views of the upper Himalayas are strikingly clear. The views and the terrain remains crisp and beautiful for the trekker.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Trek is closed in July and August due to peak monsoon/rainy months",
+        "Kedarkantha trek gets extremely crowded from the Sankri side starting December 15th until mid-January",
+        "June has occasional rainfall",
+        "Trek gets cold as it proceeds towards November with feeling of incoming winter"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha trek is accessible for 10 months of the year except for July and August (the peak rainy months in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Note: Kedarkantha trek gets extremely crowded from the Sankri side starting December 15th until mid-January.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha in June has occasional rainfall.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "The trek does get cold as we proceed towards November. And the feeling of incoming winter sets in during November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Winter trekkers seeking snow-covered landscapes and adventurous summit climb",
+        "Beginners looking for a perfect winter trek combining beauty and adventure",
+        "Experienced trekkers wanting a memorable winter experience",
+        "Trekkers wanting isolation and fewer crowds (May–June)",
+        "Trekkers wanting clear Himalayan views and fresh post-monsoon landscapes (September–October)",
+        "Trekkers wanting spring blooms and Rhododendrons with last of winter snow (March–April)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha is most popular as a winter trek and it is rightly so. The beautiful snow-covered landscape and an adventurous summit climb especially in the winter can make anyone go weak in the knees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha is a perfect winter trek – especially for beginners. What makes it perfect is how it brings about beauty and adventure together in the right proportion.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "These make the trek in winter a memorable and a unique experience even for experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "In May and June, crowds are less as most of them are now moving towards the higher altitude treks. All in all, a great time to trek if you are looking to enjoy the trek in more isolation.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "The meadows and the forests are fresh and alive during September and continue to be so in October as well. The air is crisp and the views of the upper Himalayas are strikingly clear.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "What you will also see are the Rhododendrons and the freshly exposed grasslands blooming.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers visiting in July or August (trek closed due to peak monsoon)",
+        "Trekkers averse to extreme crowds from December 15 to mid-January on the Sankri side"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Kedarkantha trek is accessible for 10 months of the year except for July and August (the peak rainy months in Uttarakhand).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::best_time_section::001",
+          "quote_or_summary": "Note: Kedarkantha trek gets extremely crowded from the Sankri side starting December 15th until mid-January.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "seasonal_experiences",
+    "best_for",
+    "not_ideal_for",
+    "seasonal_watchouts",
+    "view_or_landscape_notes",
+    "temperature_or_cold_notes",
+    "snow_window",
+    "rain_or_monsoon_risk",
+    "open_or_recommended_months",
+    "avoid_months"
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bhrigu-lake",
+  "section_id": "bhrigu-lake::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/bhrigu-lake",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "The very best time would be between June and September. You can extend it to the end of October.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "So, it’s advisable to trek to Bhrigu Lake between June and September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "May"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "In May you will find a lot of snow during your final ascent to Bhrigu lake. This makes it difficult to reach the lake.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Frozen lake surrounded by snow in early season",
+        "Lake melting in concentric circles as July progresses",
+        "Deep royal blue lake water in August",
+        "Flowers blooming around the lake in August",
+        "Lush green meadows emerging from mid-July onward",
+        "Cloud dance at Rola Kholi during peak monsoon",
+        "Dhauladhar range views including seven sisters, Hanuman Tibba, Mt Manali, Shitidhar in September",
+        "Autumn emergence in September with brilliant blue skies"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Early in the season when I was there, the lake was completely frozen. The lake was surrounded by snow. Slowly as the season progressed I saw the lake melting. Later into the season, in August you see the deep blue water in Bhrigu Lake. During this time, flowers are blooming all around the lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "The frozen Bhrigu Lake has also started melting in small concentric circles. Parts of it are still icy, but the ice is thinning. Meadows around the lake also start emerging as you pass mid-July.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Bhrigu Lake flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "You get to see a beautiful dance of clouds when at Rola Kholi.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "When you camp at Rola Kholi, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow patches on ground from mid-June to mid-July",
+        "Snow at Rola Kholi around mid-June",
+        "Snow on final ascent in early July",
+        "Snow closer to Bhrigu Lake in early August",
+        "No snow from mid-August onward"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Presence of snow: Despite it being summer, expect snow patches on the ground.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "At the beginning of the season, around mid-June, you will find a lot of snow at Rola Kholi. The trek is just starting to emerge from the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "You still find some snow on your final ascend to Bhrigu Lake, especially in early July, but most snow on the trek has melted.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Snow starts melting away as we move into August. You will still find snow closer to Bhrigu Lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "The snow is gone, and the terrain is replaced with lush greenery.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon peak from mid-July to mid-August with frequent rains",
+        "Unannounced clouds shrouding lake and trail",
+        "Landslides and roadblocks more frequent in monsoon",
+        "Traffic jams and delays en route to base camp possible"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Now, the monsoon is also at its peak. Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Mid-June to mid-July: Day 15-20°C, Night 1-5°C, 4 warm layers",
+        "Mid-July to mid-August: Day 15-20°C, Night 1-5°C, 3 warm layers",
+        "Mid-August to September: Day 12-15°C, Night 0-3°C, 4 warm layers"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Bhrigu Lake from mid-June to mid-July: Day time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C. No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Bhrigu Lake from mid-July to mid-August: Day time: Between 15 °C and 20 °C | Night time: Will drop to temperatures between 1 °C and 5 °C. No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Bhrigu Lake from mid-August to September: Day time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between 0 °C and 3 °C. No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Terrain changes colour and texture during the window starting mid-June",
+        "Meadows emerge as monsoon deepens",
+        "Lush green meadows in mid-August to September",
+        "Dhauladhar range with seven sisters, Hanuman Tibba, Mt Manali, Shitidhar visible from Rola Kholi",
+        "Brilliant blue skies in September"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "The terrain changes colours and texture even during this window which ideally begins from mid-June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Even though the meadows are a highlight of this trek, they emerge only as the monsoon season deepens.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Like a climax, the last leg of the season is set up on a grand stage with lush meadows.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "When you camp at Rola Kholi, you see the Dhauladhar range rising tall with the seven sisters, Hanuman Tibba, Mt Manali, and Shitidhar among many others. These views sparkle under the brilliant blue sky as autumn emerges in September.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Heavy snow in May makes final ascent to lake difficult",
+        "Frequent rains and unannounced clouds during peak monsoon (mid-July to mid-August)",
+        "Landslides and roadblocks in monsoon can cause delays en route to base camp",
+        "Indiahikes monitors weather and trail conditions daily and may reroute, reschedule, or cancel treks"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "In May you will find a lot of snow during your final ascent to Bhrigu lake. This makes it difficult to reach the lake.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Now, the monsoon is also at its peak. Rains become frequent and clouds usually glide in unannounced shrouding the lake and the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Landslides and roadblocks are more frequent during this season, and that can lead to traffic jams and delays en route to the base camp.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "We keep a close watch on weather patterns and trail conditions every single day. In unforeseen situations we take necessary action — whether it’s rerouting, rescheduling, or even cancelling the trek if absolutely needed keeping your safety in mind.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking frozen lake and snow scenery (mid-June)",
+        "Trekkers wanting blooming flowers and deep blue lake (August)",
+        "Trekkers seeking lush meadows and clear mountain views (mid-August to September)",
+        "Trekkers comfortable with monsoon conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "The most prominent being a frozen Bhrigu Lake, surrounded by snow. The ice begins to thaw only as July descends.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Bhrigu Lake flaunts a deep royal blue colour with green grass and flowers blooming around it. It is a sight to behold.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Like a climax, the last leg of the season is set up on a grand stage with lush meadows.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "Trekking in the monsoon is magical. The forests are lush, the streams are full, and the trails come alive.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers visiting in May due to heavy snow blocking final ascent",
+        "Trekkers unable to buffer travel days around monsoon road disruptions"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "In May you will find a lot of snow during your final ascent to Bhrigu lake. This makes it difficult to reach the lake. So, it’s advisable to trek to Bhrigu Lake between June and September.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::best_time_section::001",
+          "quote_or_summary": "It’s heartbreaking when you miss out on a beautiful experience simply because you got stuck on the way. So we always recommend two things: Reach your pickup town a day earlier if possible. Keep a buffer day after your trek before you plan your return journey.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,324 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "chandrabhaga-glaciers-trek",
+  "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahakes.com/chandrabhaga-glaciers-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "Late July to mid-October",
+        "July-August",
+        "September-October"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "the monsoon and post-monsoon months — from late July to mid-October — are the best time to do this trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The Chandrabhaga Glaciers Trek in July-August",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The Chandrabhaga Glaciers Trek in September-October",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "After mid-October",
+        "Late season (post mid-October)"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "After mid-October, temperatures drop sharply and water sources begin to dry up. Once the snow starts to set in, the entire region gets cut off until the next summer. That’s why we don’t recommend attempting this trek too late in the season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "July-August: raw, rugged brown landscape with green patches near streams and snowmelt; snow in bits and pieces along trail (sometimes with icy base); streams full and fast from melting snow; mountains around Kya Tso and Ga Tso still snow-covered; lakes partly frozen with thin snow layer; wildflowers growing from rock cracks",
+        "September-October: classic cold desert with wide open brownish landscapes glowing golden, rust, or purple; loose boulders and pebbles on trail; easier stream crossings; clear blue skies and sharp views; jagged black mountain ridges; glaciers still hold ice; Kya Tso and Ga Tso fully thawed with turquoise blue colour; possible thin transparent ice sheet forming on lakes late in season"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Late July to August is a dramatic time to do the Chandrabhaga Glaciers Trek. The landscape looks raw and rugged. Most of it is brown, with green patches near streams and snowmelt.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "You’ll see snow in bits and pieces along the trail. Sometimes the base of this snow is ice — so tread carefully. Streams are full and fast, fed by melting snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The mountains around Kya Tso and Ga Tso are still covered in snow. Even the lakes are partly frozen. There’s a thin layer of snow on them, which slowly starts melting as the season progresses.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "And just when you don’t expect it, you’ll spot wildflowers. They grow quietly from cracks in the rocks, adding colour to an otherwise barren land.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "September and October bring a raw, striking beauty to the Chandrabhaga Glaciers Trek. Most of the snow has melted. What you see now is the classic cold desert — wide open, brownish landscapes that glow in different colours when the sun hits them. Sometimes golden, sometimes rust, even shades of purple.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "With the snow gone, the trail feels tougher. You walk over loose boulders and pebbles, so make sure your legs are trained.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Streams are easier to cross now. The skies are clear and blue. The views are sharp. From the high points, you’ll see jagged black mountain ridges. And even though it’s late in the season, the glaciers still hold their ice, creating a magical contrast.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "By then, the high-altitude lakes of Kya Tso and Ga Tso would have also fully thawed. They take on a stunning turquoise blue colour. If you’re trekking late in the season, you might even see a thin transparent sheet of ice forming on them.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow has thawed by late July except in bits/pieces along trail; mountains around Kya Tso and Ga Tso still snow-covered in July-August; lakes partly frozen with thin snow layer in July-August; by September-October most snow has melted except glacier ice; after mid-October snow sets in and region gets cut off"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Snows would have thawed, revealing the iconic cold desert landscape",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "You’ll see snow in bits and pieces along the trail. Sometimes the base of this snow is ice",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The mountains around Kya Tso and Ga Tso are still covered in snow. Even the lakes are partly frozen. There’s a thin layer of snow on them",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Most of the snow has melted",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Once the snow starts to set in, the entire region gets cut off until the next summer",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Lahaul lies in rain shadow of Pir Panjal range; no heavy rains like other parts of Himachal during monsoon/post-monsoon season"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Since Lahaul lies in the rain shadow of the Pir Panjal range, you don’t face heavy rains like in other parts of Himachal during this season.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "July-August: Daytime 8-10°C; nights may drop to 0°C at campsites",
+        "September-October: Daytime 4-6°C; nights drop several degrees below zero at campsites; wind chill makes it feel much colder; 3 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Day time : Between 8-10 °C | Night time: May drop to zero at campsites",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 4-6 °C | Night time: Will drop several degrees below zero at campsites",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The wind chill can make it feel much colder than it actually is.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "July-August: Sasher Kangri and Chandrabhaga ranges fully white with snow",
+        "September-October: best time for big mountain views; clear blue skies; sharp views; jagged black mountain ridges; glaciers still hold ice creating magical contrast; Kya Tso and Ga Tso turquoise blue"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Look up, and you’ll see the Sasher Kangri and Chandrabhaga ranges fully white with snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The skies are clear and blue. The views are sharp. From the high points, you’ll see jagged black mountain ridges.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "This is the best time for big mountain views.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "July-August: snow base can be ice — tread carefully; streams full and fast from melting snow",
+        "September-October: trail over loose boulders and pebbles requires trained legs; coldest period with significant wind chill",
+        "After mid-October: temperatures drop sharply, water sources dry up, snow sets in and region gets cut off"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Sometimes the base of this snow is ice — so tread carefully. Streams are full and fast, fed by melting snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "With the snow gone, the trail feels tougher. You walk over loose boulders and pebbles, so make sure your legs are trained.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The wind chill can make it feel much colder than it actually is. So come well-prepared.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "After mid-October, temperatures drop sharply and water sources begin to dry up. Once the snow starts to set in, the entire region gets cut off until the next summer.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking dramatic raw, rugged landscape with snow patches and wildflowers (July-August)",
+        "Trekkers seeking best big mountain views, clear skies, and turquoise glacial lakes (September-October)",
+        "Trekkers comfortable with high-altitude cold desert conditions and rain-shadow monsoon trekking"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "It’s a wild, beautiful season to do the Chandrabhaga Glaciers Trek.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "This is the best time for big mountain views.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "Since Lahaul lies in the rain shadow of the Pir Panjal range, you don’t face heavy rains like in other parts of Himachal during this season.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers attempting after mid-October (region gets cut off by snow)",
+        "Trekkers unprepared for sub-zero nights and significant wind chill in September-October",
+        "Trekkers with legs untrained for loose boulder/pebble terrain in September-October"
+      ],
+      "evidence": [
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "That’s why we don’t recommend attempting this trek too late in the season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "The wind chill can make it feel much colder than it actually is. So come well-prepared.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "chandrabhaga-glaciers-trek::best_time_section::001",
+          "quote_or_summary": "With the snow gone, the trail feels tougher. You walk over loose boulders and pebbles, so make sure your legs are trained.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

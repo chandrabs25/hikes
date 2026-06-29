@@ -1,0 +1,428 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-001",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_name",
+      "value": "Ali Bedni Bugyal Trek",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_number",
+      "value": "1",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_title",
+      "value": "Day 1 (Pickup Day): Drive from Rishikesh to Lohajung",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "start_point",
+      "value": "Rishikesh",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "end_point",
+      "value": "Lohajung",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "drive_distance",
+      "value": "270 km",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "drive_duration",
+      "value": "10-11 hours",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude",
+      "value": "7,550 ft",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "terrain",
+      "value": "Mountain roads, through forests",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "scenic_highlights",
+      "value": "Devprayag, Rudraprayag, Karnaprayag, Garhwal mountains, Nanda Ghunti peak",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "river_confluences",
+      "value": "Alakananda with Bhagirathi (Devprayag), Alakananda with Madakini (Rudraprayag), Alakananda with Pindari (Karnaprayag)",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "mobile_connectivity",
+      "value": "Available in most parts of Lohajung",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "local_shops",
+      "value": "Jackets, hand gloves, caps, shoes",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "nearby_villages",
+      "value": "12-15 villages",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_rating",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_requirements",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "suitability",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "best_seasons",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "themes",
+      "value": "Picturesque drive, river confluences, forest drives, mountain views, sunset views, local mythology",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "watchouts",
+      "value": "Do not rely on local stores for trek gear; carry all required things beforehand",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_type",
+      "value": "Pickup Day",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "activity",
+      "value": "Drive from Rishikesh to Lohajung",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "duration",
+      "value": "10-11 hours",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "distance",
+      "value": "270 km",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "destination",
+      "value": "Lohajung",
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "recommendations",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "category": "comparison_axes",
+      "field": "comparisons",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::itinerary_day-001",
+          "source_field": "day_wise_itinerary[0]",
+          "quote_or_summary": "The section text does not explicitly mention the trek name 'Ali Bedni Bugyal Trek'. It refers to 'Lohajung is the base camp for the Brahmatal trek'.",
+          "confidence": "low"
+        }
+      ]
+    }
+  ],
+  "needs_review": [
+    "identity",
+    "geography_and_logistics",
+    "difficulty",
+    "fitness",
+    "age_and_group_suitability",
+    "seasonality",
+    "experience_themes",
+    "risks_and_watchouts",
+    "itinerary_profile",
+    "recommendation_profile",
+    "comparison_axes"
+  ]
+}

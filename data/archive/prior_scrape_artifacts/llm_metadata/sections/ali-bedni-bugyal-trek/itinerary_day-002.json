@@ -1,0 +1,537 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-002",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_name",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "pre_trek_transport",
+      "value": "Drive from Lohajung to Wan (approximately 45 minutes)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "You’ll start by taking a vehicle from Lohajung to Wan. It’s a drive of about 45 mins.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_start_point",
+      "value": "Wan",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The initial trail from Wan is cemented through a cluster of houses.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_end_point",
+      "value": "Gehroli Patal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "From here begins the beautiful continuous ascent to the first campsite, Gehroli Patal.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_distance_km",
+      "value": 6.3,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Trek Duration: 6 hours | Trek Distance: 6.3 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "trek_duration_hours",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Trek Duration: 6 hours | Trek Distance: 6.3 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_start_ft",
+      "value": 7550,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Altitude gain: 7,550 ft to 10,350 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "altitude_end_ft",
+      "value": 10350,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Altitude gain: 7,550 ft to 10,350 ft",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_sources",
+      "value": "Carry sufficient water. Intermittent streams available for refilling.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Water sources: Carry sufficient water. You will cross streams intermittently where you can refill your water bottles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "landmarks",
+      "value": [
+        "Cemented trail through Wan village houses",
+        "Centuries-old Cypress trees (15 minutes from Wan)",
+        "Latu Devta temple",
+        "Ranaka Dhar ridge",
+        "Neel Ganga bridge",
+        "Oak and Rhododendron forest trail",
+        "Gehroli Patal clearing with green trekker's hut"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The initial trail from Wan is cemented through a cluster of houses. 15 minutes into your trek, you will find a cluster of centuries-old Cypress trees.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The second one acts as a deviation from the Latu Devta temple.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "It takes 30-45 minutes to ascend from Wan to Ranaka Dhar.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "From here, it is a short descent to the iconinc Neel Ganga. The bridge on Neel Ganga is an idyllic location to take a breather.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The trail now winds through Oak and Rhododendron forests",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "This is a trek of about 3 hours that brings you to a clearing with a green trekker’s hut",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "campsite",
+      "value": "Gehroli Patal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Set up camp here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_level",
+      "value": "Easy-Moderate",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Difficulty: Easy-Moderate.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty_notes",
+      "value": "Full of ascent from Wan to Gehroli Patal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "This day is full of ascent from Wan to Gehroli Patal",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_requirements",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "suitability",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    },
+    {
+      "category": "seasonality",
+      "field": "best_seasons",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    },
+    {
+      "category": "experience_themes",
+      "field": "flora",
+      "value": [
+        "Cypress trees",
+        "Oak",
+        "Rhododendron",
+        "Walnut",
+        "Pear",
+        "Himalayan roses"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "cluster of centuries-old Cypress trees",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The trail now winds through Oak and Rhododendron forests",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "There are walnut, pear, Himalayan roses and other flora you can find on this climb.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "fauna",
+      "value": [
+        "Flycatcher",
+        "Magpies"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "You may even spot birds like a flycatcher, and magpies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "cultural_religious_elements",
+      "value": [
+        "Latu Devta temple (local deity believed to protect the area)",
+        "Mountain folk pay obeisance to Latu Devta before ascending higher on the Nanda Devi Jat Yatra",
+        "Ringing the temple bell for a safe trek"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Latu Devta is a local deity, who is believed to protect the area. The mountain folk pay obeisance to him before ascending higher on the Nanda Devi Jat Yatra. Ring the temple bell here for a safe trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "scenic_highlights",
+      "value": [
+        "Views of Lohajung, Wan and the valley below from Ranaka Dhar",
+        "Neel Ganga river with overhanging trees and cool, refreshing water",
+        "Mt Trishul views from Gehroli Patal on clear days"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "At Ranaka Dhar, take in the view of Lohajung, Wan and the valley below!",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Trees overhang the river and the water trips and fall over boulders in the shade. The water here is cool and refreshing.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "On a clear day, you get astounding views of Mt Trishul commandeering over the area.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "terrain_description",
+      "value": [
+        "Cemented path through village houses",
+        "Ridge ascent to Ranaka Dhar",
+        "Short descent to Neel Ganga",
+        "Continuous forest ascent to Gehroli Patal",
+        "Trail strewn with dry leaves"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The initial trail from Wan is cemented through a cluster of houses.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "ascending trail to the ridge – Ranaka Dhar.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "From here, it is a short descent to the iconinc Neel Ganga.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "From here begins the beautiful continuous ascent to the first campsite, Gehroli Patal.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "the path is strewn with dry leaves that crunch and crackle beneath your trekking shoes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "water_availability",
+      "value": "Carry sufficient water; streams are only intermittent",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Water sources: Carry sufficient water. You will cross streams intermittently where you can refill your water bottles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_number",
+      "value": 2,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "day: 2",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_title",
+      "value": "Drive from Lohajung to Wan. Trek to Gehroli Patal",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Day 2: Drive from Lohajung to Wan. Trek to Gehroli Patal",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "activities",
+      "value": [
+        "Drive from Lohajung to Wan",
+        "Trek from Wan to Gehroli Patal",
+        "Visit Latu Devta temple",
+        "Camp at Gehroli Patal"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "You’ll start by taking a vehicle from Lohajung to Wan.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "The second one acts as a deviation from the Latu Devta temple... Ring the temple bell here for a safe trek before going back to the ascending trail",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Set up camp here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "altitude_trend",
+      "value": "Continuous ascent",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "This day is full of ascent from Wan to Gehroli Patal",
+          "confidence": "high"
+        },
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "From here begins the beautiful continuous ascent to the first campsite, Gehroli Patal.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "accommodation_type",
+      "value": "Camp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "itinerary_day-002",
+          "source_field": "day_wise_itinerary[1]",
+          "quote_or_summary": "Set up camp here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "recommendations",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    },
+    {
+      "category": "comparison_axes",
+      "field": "comparisons",
+      "value": "insufficient_evidence",
+      "status": "insufficient_evidence",
+      "confidence": "high",
+      "evidence": []
+    }
+  ],
+  "needs_review": []
+}

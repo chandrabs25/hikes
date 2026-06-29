@@ -1,0 +1,625 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "trek_id": "everest-base-camp-trek-nepal",
+  "trek_title": "Everest Base Camp (Classic Route)",
+  "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+  "inferred_at": "2026-06-27T16:41:21.965570+00:00",
+  "has_complete_trek_information": true,
+  "page_title": "Everest Base Camp Trek 2026 | Nepal’s Iconic Classic Route",
+  "h1": "EVEREST BASE CAMP (CLASSIC ROUTE)",
+  "root_text_preview": "Everest Base Camp (Classic Route) - Complete Trek Information share link Share Link We have always wanted trekkers to be well-informed before they go on a high altitude trek. Knowledge is the difference between a safe trek and a dangerous one. It’s also the difference between a wholesome experience and a superficial experience. Use this section to learn about the Everest Base Camp trek. It has in-depth information about each day of the trek, what to expect, and how you need to prepare for it. Many years of expertise have gone into this content. Trekkers find that extremely useful. Quick Itinerary Get your trek plan toggle accordion How does each day look Complete day-wise guide with pictures toggle accordion How difficult is the Everest Base Camp Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion How to Get Fit for the Everest Base Camp Trek A 6-Week Plan to Help You Get Trek-Fit for the Everest Base Camp Trek toggle accordion Best time to do the Everest Base Camp Trek Time your trek well toggle accordion How to Reach the Base Camp Plan your travel toggle accordion What to Pack for Your Trek Things you must take on the trek toggle accordion Frequ",
+  "anchors": [
+    {
+      "id": "quick-itinerary",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 1989,
+      "visible": false
+    },
+    {
+      "id": "detailed-itinerary",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "",
+      "top": 2049,
+      "visible": false
+    },
+    {
+      "id": "howEachDaySection",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7Day 8Day 9Day 10Day 11Day 12Day 13Day 14Day 15 Previous NextDay 1: Reach Kathmandu. There are direct flights from major cities like New Delhi, Kolkata and Mumbai to Kathmandu (Tribhuvan",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example",
+      "tag": "ul",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7Day 8Day 9Day 10Day 11Day 12Day 13Day 14Day 15",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 1",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 2",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 2",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 3",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 3",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 4",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 4",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 5",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 5",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 6",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 7",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 8",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 8",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 9",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 9",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 10",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 10",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 11",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 11",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 12",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 12",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 13",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 13",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 14",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 14",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 15",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 15",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 1",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 1: Reach Kathmandu. There are direct flights from major cities like New Delhi, Kolkata and Mumbai to Kathmandu (Tribhuvan International Airport-KTM). While cities like Bangalore and Lucknow have connecti",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 1: Reach Kathmandu.",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 2",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 2: Drive to Ramechhap. Fly to Lukla.The bulk of the flights to Lukla now fly from Ramechhap instead of Kathmandu. While some flights still fly from Kathmandu in the off-season, they might not be availabl",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 2: Drive to Ramechhap. Fly to Lukla.",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 3",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 3: Trek from Lukla to PhakdingLukla is a tiny village with an airstrip at the end of the valley. This airport is called the most dangerous airport in the world for its short runway and the drop off at th",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 3: Trek from Lukla to Phakding",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 4",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 4: Trek from Phakding to Namche BazaarNamche, where you’ll be headed today, is the capital of the Khumbu region. Start your day early as there is a long day of trekking in the store. The trail goes up an",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 4: Trek from Phakding to Namche Bazaar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 5",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 5: Acclimatisation Day at Namche BazaarToday, you’ll do an acclimatisation climb to Everest View Hotel and come back down to Namche for lunch.Namche Bazaar, which is a pitstop for trekkers and climbers g",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 5: Acclimatisation Day at Namche Bazaar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 6",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 6: Trek from Namche Bazaar to TengbocheAs soon as you reach the outskirts of Namche, you'll enter a forest section, which lasts for only about a kilometre. After the forest section, you will come to a le",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 6: Trek from Namche Bazaar to Tengboche",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 7",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 7: Trek from Tengboche to DingbocheThis day will be slightly longer. As we start from Tengboche, we first descend. It is a gradual descent, with rhododendron forests forming a dense canopy. Around 2 kilo",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 7: Trek from Tengboche to Dingboche",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 8",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 8: Acclimatization day at DingbocheDingboche, as mentioned, is the next 'happening' town after Namche. Here, there is a ridge walk called Nangkartshang, with an elevation gain of almost 1000 ft from Ding",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 8: Acclimatization day at Dingboche",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 9",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 9: Trek from Dingboche to LobucheDay 8 is comparatively the most pleasant day throughout the trek. This is because the elevation gain on this day is less. Yet, do not forget that Day 8 starts at an altit",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 9: Trek from Dingboche to Lobuche",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 10",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 10: Trek from Labouche to Gorakshep (Excursion to EBC)It takes about 3 hours to reach Gorakshep, which is a very busy place. You’ll see the terrain change as you approach the place. There are a lot of tr",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 10: Trek from Labouche to Gorakshep (Excursion to EBC)",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 11",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 11: Climb Kala Pathar. Trek from Gorakshep to Pheriche.Start early for Kala Patthar so that you reach in time to watch the sun rising over the peaks. Kala Patthar is the highest point of the trek.The tra",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 11: Climb Kala Pathar. Trek from Gorakshep to Pheriche.",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 12",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 12: Trek from Pheriche to TengbocheThis is the traditional Everest Highway. You’ll meet a lot of trekkers from around the world while walking on this trail.The trail to Tengboche descends continuously fr",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 12: Trek from Pheriche to Tengboche",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 13",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 13: Trek from Tengboche to Namche BazaarYou are back to walking along Dudh Kosi. From Tengboche, there is a steep descent to Phunki Thanga where you’ll have lunch.You’ll see prayer wheels connected to a ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 13: Trek from Tengboche to Namche Bazaar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 14",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 14: Trek from Namche Bazaar to LuklaDescend to Lukla on the same trail that you used to go up. Stop at Phakding for lunch.Stay overnight at Lukla. Take the early morning flight out of Lukla. It will take",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 14: Trek from Namche Bazaar to Lukla",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 15",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous NextDay 15: Lukla to KathmanduTake the early morning flight out of Lukla. It will take you about 45 mins to reach Kathmandu. Depart from Kathmandu.Read Morego to previous dayDay 14Take the early morning flight o",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 15: Lukla to Kathmandu",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "trek-difficulty",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "",
+      "top": 2109,
+      "visible": false
+    },
+    {
+      "id": "getting-fit",
+      "tag": "div",
+      "ui_key": "fitness",
+      "text_preview": "",
+      "top": 2169,
+      "visible": false
+    },
+    {
+      "id": "best-time",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2229,
+      "visible": false
+    },
+    {
+      "id": "how-to-reach",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2289,
+      "visible": false
+    },
+    {
+      "id": "what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "",
+      "top": 2349,
+      "visible": false
+    },
+    {
+      "id": "trek-what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "Everest Base Camp Trek NepalSELECT MONTHGenerate my packing checklist",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "tag": "div",
+      "ui_key": "faqs",
+      "text_preview": "",
+      "top": 2409,
+      "visible": false
+    }
+  ],
+  "ui_sections": [
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::001-everest-base-camp-classic-route-complete-trek-information",
+      "ui_key": "other",
+      "label": "Everest Base Camp (Classic Route) - Complete Trek Information",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 1783
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::002-share-link-share-link",
+      "ui_key": "other",
+      "label": "share link Share Link",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 1814
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary Get your trek plan toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2109
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::004-quick-itinerary",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2109
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::005-how-does-each-day-look-complete-day-wise-guide-with-pictures",
+      "ui_key": "detailed_itinerary",
+      "label": "How does each day look Complete day-wise guide with pictures toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2169
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::006-how-does-each-day-look",
+      "ui_key": "detailed_itinerary",
+      "label": "How does each day look",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2169
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::007-how-difficult-is-the-everest-base-camp-trek-what-to-expect-i",
+      "ui_key": "difficulty",
+      "label": "How difficult is the Everest Base Camp Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2229
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::008-how-difficult-is-the-everest-base-camp-trek",
+      "ui_key": "difficulty",
+      "label": "How difficult is the Everest Base Camp Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2229
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::009-how-to-get-fit-for-the-everest-base-camp-trek-a-6-week-plan-",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Everest Base Camp Trek A 6-Week Plan to Help You Get Trek-Fit for the Everest Base Camp Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2289
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::010-how-to-get-fit-for-the-everest-base-camp-trek",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Everest Base Camp Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2289
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::011-best-time-to-do-the-everest-base-camp-trek-time-your-trek-we",
+      "ui_key": "best_time",
+      "label": "Best time to do the Everest Base Camp Trek Time your trek well toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2349
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::012-best-time-to-do-the-everest-base-camp-trek",
+      "ui_key": "best_time",
+      "label": "Best time to do the Everest Base Camp Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2349
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::013-how-to-reach-the-base-camp-plan-your-travel-toggle-accordion",
+      "ui_key": "travel",
+      "label": "How to Reach the Base Camp Plan your travel toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2409
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::014-how-to-reach-the-base-camp",
+      "ui_key": "other",
+      "label": "How to Reach the Base Camp",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2409
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::015-what-to-pack-for-your-trek-things-you-must-take-on-the-trek-",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek Things you must take on the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2469
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::016-what-to-pack-for-your-trek",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2469
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::017-frequently-asked-questions-get-your-questions-answered-here-",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2529
+    },
+    {
+      "ui_section_id": "everest-base-camp-trek-nepal::ui::018-frequently-asked-questions",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2529
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "pages_in_manifest": 42,
+  "pages_with_text": 42,
+  "challenge_pages": 0,
+  "status_counts": {
+    "200": 42
+  },
+  "content_type_counts": {
+    "trek_or_landing": 42
+  },
+  "field_signal_counts": {
+    "trek_difficulty": 42,
+    "trek_duration": 40,
+    "highest_altitude": 40,
+    "suitable_for": 42,
+    "basecamp": 42,
+    "itinerary": 42,
+    "fitness": 42,
+    "gear": 42,
+    "safety": 42,
+    "season": 42,
+    "faq": 42
+  },
+  "field_signal_samples": {
+    "trek_difficulty": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "trek_duration": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake",
+      "https://indiahikes.com/bijli-mahadev-trek"
+    ],
+    "highest_altitude": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "suitable_for": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "basecamp": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "itinerary": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "fitness": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "gear": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "safety": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "season": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ],
+    "faq": [
+      "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia",
+      "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "https://indiahikes.com/beas-kund",
+      "https://indiahikes.com/bhrigu-lake"
+    ]
+  },
+  "word_counts": {
+    "https://indiahikes.com/ali-bedni-bugyal-trek": 11141,
+    "https://indiahikes.com/atsunta-pass-trek-omalo-shatili-georgia": 15390,
+    "https://indiahikes.com/bali-pass-ruinsara-tal": 13166,
+    "https://indiahikes.com/beas-kund": 9214,
+    "https://indiahikes.com/bhrigu-lake": 10007,
+    "https://indiahikes.com/bijli-mahadev-trek": 9019,
+    "https://indiahikes.com/bodpathri-trek": 10451,
+    "https://indiahikes.com/brahmatal-trek": 11389,
+    "https://indiahikes.com/brammah-valley-trek": 10095,
+    "https://indiahikes.com/buran-ghati": 13765,
+    "https://indiahikes.com/chandrabhaga-glaciers-trek": 12029,
+    "https://indiahikes.com/chandrakhani-pass-trek": 10152,
+    "https://indiahikes.com/channarayana-durga-weekend-trek": 5826,
+    "https://indiahikes.com/chhattisgarh-jungle-trek-guru-ghasi-das-national-park": 7322,
+    "https://indiahikes.com/dayara-bugyal-trek": 12166,
+    "https://indiahikes.com/deoriatal-chandrashila-peak": 12567,
+    "https://indiahikes.com/deoriatal-chandrashila-trek": 12567,
+    "https://indiahikes.com/everest-base-camp-trek-nepal": 10406,
+    "https://indiahikes.com/gaumukh-tapovan": 12233,
+    "https://indiahikes.com/goechala": 15106,
+    "https://indiahikes.com/gurez-valley-trek": 10628,
+    "https://indiahikes.com/hampta-pass": 12829,
+    "https://indiahikes.com/har-ki-dun": 14075,
+    "https://indiahikes.com/kanamo-peak-trek": 9963,
+    "https://indiahikes.com/kashmir-great-lakes": 16146,
+    "https://indiahikes.com/kedarkantha-trek": 12384,
+    "https://indiahikes.com/kedartal": 11278,
+    "https://indiahikes.com/khopra-ridge-khayar-lake": 10206,
+    "https://indiahikes.com/kuari-pass": 11612,
+    "https://indiahikes.com/miyar-valley-trek": 10127,
+    "https://indiahikes.com/mount-rinjani-trek": 8727,
+    "https://indiahikes.com/nafran-valley-trek": 12988,
+    "https://indiahikes.com/nag-tibba": 8824,
+    "https://indiahikes.com/pangarchulla": 11169,
+    "https://indiahikes.com/pangarchulla-peak-trek": 11169,
+    "https://indiahikes.com/pench-mowgli-trek": 9312,
+    "https://indiahikes.com/phulara-ridge-trek": 11555,
+    "https://indiahikes.com/pin-bhaba-pass-trek": 12797,
+    "https://indiahikes.com/pir-panjal-lakes-trek": 12500,
+    "https://indiahikes.com/ranthan-kharak-trek": 14494,
+    "https://indiahikes.com/rupin-pass": 15710,
+    "https://indiahikes.com/sandakphu-phalut": 14543
+  }
+}

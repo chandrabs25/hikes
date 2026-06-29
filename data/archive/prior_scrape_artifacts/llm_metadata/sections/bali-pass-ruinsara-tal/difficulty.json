@@ -1,0 +1,769 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "bali-pass-ruinsara-tal",
+  "section_id": "bali-pass-ruinsara-tal::difficulty",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+  "extracted_items": [
+    {
+      "category": "difficulty",
+      "field": "overall_rating",
+      "value": "Difficult",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Difficult\nSuitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "suitable_for",
+      "value": "Experienced Trekkers",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "total_distance_km",
+      "value": 55,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 55 km in seven trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "total_trekking_days",
+      "value": 7,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 55 km in seven trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "total_altitude_gain_ft",
+      "value": 9600,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "during which you will gain approximately 9,600 ft (6,520 ft to 16,207 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "elevation_range_ft",
+      "value": {
+        "min": 6520,
+        "max": 16207
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "during which you will gain approximately 9,600 ft (6,520 ft to 16,207 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "pass_crossing_day_description",
+      "value": "especially strenuous",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The pass crossing day is especially strenuous.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "daily_profile",
+      "value": "Every day will include ascents and descents. Most days involve long trekking durations.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Every day will include ascents and descents. Most days involve long trekking durations.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "technical_terrain_notes",
+      "value": [
+        "The steep ascent to Bali Pass requires help from an expert guide.",
+        "While there are no crevasses, heavy snow makes an ice axe useful.",
+        "Use a scissor-bend approach instead of a straight-line climb.",
+        "The famous knife-edge ridge leading to Bali Pass is a tricky traversal. With deep valleys on either side of the ridge, the walk can be nerve wracking.",
+        "The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders.",
+        "The descent is extremely steep beyond the pass.",
+        "The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous.",
+        "The trail runs along rivers, requiring frequent crossings.",
+        "Bridges may be washed away, needing a rope and pulley system."
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Terrain: The steep ascent to Bali Pass requires help from an expert guide. While there are no crevasses, heavy snow makes an ice axe useful. Use a scissor-bend approach instead of a straight-line climb. The famous knife-edge ridge leading to Bali Pass is a tricky traversal. With deep valleys on either side of the ridge, the walk can be nerve wracking. The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders. The descent is extremely steep beyond the pass. The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous. The trail runs along rivers, requiring frequent crossings. Bridges may be washed away, needing a rope and pulley system.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "difficulty",
+      "field": "technical_gear_provided",
+      "value": [
+        "micro spikes",
+        "gaiters",
+        "helmets",
+        "ropes",
+        "ice axe"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "heavy snow makes an ice axe useful",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "base_village",
+      "value": "Kotgaon",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "exit_points_before_pass",
+      "value": "retrace your way back to Taluka and Kotgaon",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Before crossing the Bali pass, your best bet is to retrace your way back to Taluka and Kotgaon.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "exit_points_after_pass",
+      "value": "descend from Lower Damini and exit at Janakichatti",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "After crossing the Bali Pass, you can descend from Lower Damini and exit at Janakichatti.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "evacuation_time_hours",
+      "value": "up to 24",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Evacuation may take up to 24 hours since you are deep in the valley and the roads connecting Kotgaon, Purola, Janakichatti and Rajgarhi are notoriously bad.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "road_quality",
+      "value": "notoriously bad connecting Kotgaon, Purola, Janakichatti and Rajgarhi",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "the roads connecting Kotgaon, Purola, Janakichatti and Rajgarhi are notoriously bad.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "jeep_hire_routes",
+      "value": {
+        "Taluka": "Purola",
+        "Janakichatti": "Rajgarhi"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "From Taluka, you can hire a jeep to Purola. From Janakichatti, you can hire a jeep to Rajgarhi.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "closest_basic_medical",
+      "value": [
+        "Mori",
+        "Purola",
+        "Primary Healthcare Center at Janakichatti"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "For mild medical issues, the closest medical assistance can be found in Mori and then in Purola on the Kotgaon side. On the Yamunotri side, there is a Primary Healthcare Center at Janakichatti itself.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "closest_major_hospital",
+      "value": [
+        "Mussoorie",
+        "Dehradun"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "drive_time_to_major_hospital_hours",
+      "value": "6-7",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "which is almost 6-7 hours away from both Kotgaon and Janakichatti.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "required_experience_level",
+      "value": "Experienced Trekkers",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "daily_physical_demand",
+      "value": "Every day will include ascents and descents. Most days involve long trekking durations.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Every day will include ascents and descents. Most days involve long trekking durations.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_note",
+      "value": "Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "suitable_for",
+      "value": "Experienced Trekkers",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "snow_possible",
+      "value": "distinct possibility, especially during the summer",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "On the Bali Pass trek, snow is a distinct possibility, especially during the summer.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "snow_impact",
+      "value": "With snow, the trek becomes even more challenging. Too much snow can make the pass inaccessible.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "With snow, the trek becomes even more challenging. Too much snow can make the pass inaccessible.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "rain_impact",
+      "value": "Rain can turn the trails slushy and difficult to navigate safely.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Rain can turn the trails slushy and difficult to navigate safely.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "seasonality",
+      "field": "base_village_climate_note",
+      "value": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "terrain_highlights",
+      "value": [
+        "High altitude pass crossing at 16,207 ft",
+        "Knife-edge ridge with deep valleys on either side",
+        "Trekking on huge boulders to Advance Base Camp",
+        "Frequent river crossings",
+        "Snow trek possibility"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "At 16,207 ft, Bali Pass is one of the highest treks we run at Indiahikes.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The famous knife-edge ridge leading to Bali Pass is a tricky traversal. With deep valleys on either side of the ridge, the walk can be nerve wracking.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The trail runs along rivers, requiring frequent crossings.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "On the Bali Pass trek, snow is a distinct possibility, especially during the summer.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "altitude_risks",
+      "value": {
+        "max_altitude_ft": 16207,
+        "ams_risk_above_ft": 10000,
+        "ams_can_affect": "anybody - first-time trekkers as well as experienced trekkers",
+        "acclimatization": "crucial for a successful trek"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "At 16,207 ft, Bali Pass is one of the highest treks we run at Indiahikes. Proper acclimatization is crucial for a successful trek.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "terrain_risks",
+      "value": [
+        "Steep ascent to Bali Pass requires expert guide",
+        "Knife-edge ridge with deep valleys on either side",
+        "Extremely steep climb to Advance Base Camp on huge boulders",
+        "Extremely steep descent beyond the pass",
+        "Long and arduous day from Advance Base Camp to Lower Damini across Bali Pass",
+        "Frequent river crossings; bridges may be washed away requiring rope and pulley"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Terrain: The steep ascent to Bali Pass requires help from an expert guide. ... The famous knife-edge ridge ... deep valleys on either side ... The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders. The descent is extremely steep beyond the pass. The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous. The trail runs along rivers, requiring frequent crossings. Bridges may be washed away, needing a rope and pulley system.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "weather_risks",
+      "value": [
+        "Snow can make pass inaccessible",
+        "Rain makes trails slushy and difficult to navigate safely",
+        "Weather deterioration may require turning back from any campsite"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Too much snow can make the pass inaccessible.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Rain can turn the trails slushy and difficult to navigate safely.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "medical_and_evacuation_risks",
+      "value": [
+        "Evacuation may take up to 24 hours",
+        "Roads connecting Kotgaon, Purola, Janakichatti and Rajgarhi are notoriously bad",
+        "Nearest hospital for major emergencies is in Mussoorie or Dehradun, 6-7 hours away",
+        "Basic medical centers can only treat very basic injuries like simple fractures, sprains etc."
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Evacuation may take up to 24 hours since you are deep in the valley and the roads connecting Kotgaon, Purola, Janakichatti and Rajgarhi are notoriously bad.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 6-7 hours away from both Kotgaon and Janakichatti.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "these medical centers can only treat very basic injuries like simple fractures, sprains etc.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "safety_equipment_and_support",
+      "value": [
+        "Trek Leaders and Technical Guides provide necessary guidance, support, and technical gear",
+        "Technical team and Trek Leader constantly monitor weather conditions",
+        "Team equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader about any pre-existing medical conditions"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_distance_km",
+      "value": 55,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 55 km in seven trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_trekking_days",
+      "value": 7,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "You will cover a total of around 55 km in seven trekking days",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "elevation_gain_ft",
+      "value": 9600,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "during which you will gain approximately 9,600 ft (6,520 ft to 16,207 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "elevation_range_ft",
+      "value": {
+        "min": 6520,
+        "max": 16207
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "during which you will gain approximately 9,600 ft (6,520 ft to 16,207 ft)",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "key_locations",
+      "value": [
+        "Taluka",
+        "Kotgaon",
+        "Advance Base Camp",
+        "Bali Pass",
+        "Lower Damini",
+        "Janakichatti"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "retrace your way back to Taluka and Kotgaon... After crossing the Bali Pass, you can descend from Lower Damini and exit at Janakichatti... The entire day from Advance Base Camp to Lower Damini across the Bali Pass",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "notable_days",
+      "value": {
+        "pass_crossing_day": "especially strenuous",
+        "abc_to_lower_damini_day": "long and arduous"
+      },
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The pass crossing day is especially strenuous.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "target_audience",
+      "value": "Experienced Trekkers",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "difficulty_section",
+          "source_field": "difficulty_section",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,810 @@
+# Bodpathri Trek - Source Packet Review
+
+> Facts below come from source-derived `trek_facts`; Playwright only confirms rendered UI structure.
+
+- Trek ID: `bodpathri-trek`
+- Source URL: https://indiahikes.com/bodpathri-trek
+- Has `#complete-trek-information`: `True`
+- Observed UI keys: `best_time, detailed_itinerary, difficulty, faqs, fitness, other, quick_itinerary, travel`
+- Source fields included: `best_time_section, day_wise_itinerary, difficulty_section, faqs, fitness_section, packing_section, quick_info, quick_itinerary, safety_section`
+- Source sections: `29`
+
+## Sections
+
+### Best Time Section
+
+- Packet section ID: `bodpathri-trek::best_time_section::001`
+- Source field: `best_time_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Best Time to do the Bodpathri Trek Time your trek well toggle accordion; Best Time to do the Bodpathri Trek`
+
+```text
+The best time to be on this trek is from the beginning of July to the middle of September. That’s the only time you can trek here. In all the other seasons, Jammu & Kashmir trails are buried under snow.
+This season brings up many questions in the mind of a trekker. Primarily because it is monsoon in the rest of the country. Will it rain heavily on the trek? Well, most trails in Uttarakhand are shut during this time. But things are different in Jammu & Kashmir.
+If you observe the map, you see the Pir Panjal range separating Jammu & Kashmir from the rest of the Indian subcontinent. This range is 288 km long and 40-50 km wide. It blocks most rain clouds from crossing over into the Kashmir Valley.
+This divide determines the nature of precipitation and the vegetation in this rainshadow area. All of which stand very different from the rest of the country.
+July to September happens to be peak summer transitioning to Autumn and the best time to trek in Jammu & Kashmir. The landscape comes alive during this window. And even though the window is tight, you notice the landscape changing colour and texture as the months proceed.
+Bodpathri in early July
+Day time temperature: Between 15 °C and 20 °C | Night time temperature : Between 2 °C and 7 °C
+Presence of snow: Snow remains at higher altitudes. But the trek is more or less accessible. As the snow melts, colourful flowers start appearing on the meadows. You see flowers throughout the Jammu & Kashmir trekking season. But the colours of these flowers vary based on the month. The landscape has lush green meadows punctuated with alpine lakes that are still frozen in parts.
+No. of warm layers required: 3-4 warm layers
+This is peak summer in Jammu & Kashmir. The upper reaches of the trek start crawling out of the snow blanket in July. It’s warm and you experience light evening showers during this month.
+As the snow melts, colourful flowers start appearing on the meadows. You see flowers throughout the Jammu & Kashmir trekking season. But the colours of these flowers vary based on the month.
+The landscape has lush green meadows punctuated with alpine lakes that are still frozen in parts.
+Bodpathri from mid-July to third week of August
+Day time temperature: Between 15 °C and 20 °C | Night time temperature : Between 4 °C and 8 °C
+Presence of snow: Most snow has melted by now. Frozen chunks of ice in most lakes on the trail would have melted.
+No. of warm layers required: 3-4 warm layers
+After mid-July, a robust trekking season begins on the Bodpathri trek. Expect bright sunny mornings with some evening showers. Rains are still mild compared to rains in Himachal Pradesh and Uttarakhand.
+The trail is carpeted with green meadows everywhere. The best part is, that these meadows are densely dotted with wildflowers!
+Protip: You might experience evening showers on certain days during this time of the year. This is why it is a good practice to cross the pass early in the day and reach the next campsite by 4 PM.
+Bodpathri from Aug-end to second week of September
+Day time temperature: Between 14 °C and 18 °C | Night time temperature : Between 0 °C and 5 °C
+Presence of snow: You can expect snowfall during the second week of September
+No. of warm layers required: 4 warm layers
+After the end of August, cold sets in. Rains reduce giving way to one of the best times to do the trek. The clouds part during this time of the year and you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes.
+Another stark change that happens in early September is the change in the colour of the meadows. The grass no longer retains the soft, fresh green tinge. The flowers change. And yet, there’s a beauty to this change of tone.
+We usually stop our trek after the second week of September. It turns colder and chances of snowfall increase. That raises the difficulty of the trek and it's no longer possible to cross the pass. The trail on the other side becomes inaccessible.
+7
+8
+9
+```
+
+### Day 1 (Pick-up Day): Drive from Srinagar to Doodhpathri
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::001`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "1",
+  "place_title": "Day 1 (Pick-up Day): Drive from Srinagar to Doodhpathri",
+  "difficulty": "",
+  "duration": "Drive Duration: 2.5 hours | Drive Distance: 55 km",
+  "altitude": "Altitude: 8,900 ft",
+  "water_sources": "",
+  "description": "The travel to Doodhpathri can be divided into two parts. The first part is reaching Budgam and the second leg of your travel will be from Budgam and reaching the base town.\nThe first section of the drive takes you through Srinagar city and the city outskirts. The drive is about an hour away. Later once you cross the city, you have the Kashmir valley opening up. Along with the cultivations, the sight of the meadows sprawling in a few sections is a visual treat.\nNote: If you are travelling in Kashmir before Day 1, please ensure you reach the campsite well before time."
+}
+```
+
+### Day 2: Trek from Doodhpathri to Dishkal Campsite
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::002`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "2",
+  "place_title": "Day 2: Trek from Doodhpathri to Dishkal Campsite",
+  "difficulty": "Moderate. Gradual to steep ascent walks through forests and meadows.",
+  "duration": "Trek Distance: 6.2 km | Trek Duration: 5-6 hours",
+  "altitude": "Altitude gain: 8,900 ft to 10,606 ft",
+  "water_sources": "Water Sources: Carry sufficient water from Doodhpathri. You can refill your water bottles from streams on the way.",
+  "description": "Today’s trek is easy on your legs. You start by walking for a short distance on the road till you enter the gate of Doodhpatri. From here, it’s a refreshing ascend into the pine forest. The forest you see in Kashmir is not as dense as those in Uttarakhand or Himachal Pradesh. It’s airy, sparse.\nJust after 1 kilometre of ascending, you pop into a wide clearing. You may use this as a short rest point. The trail moves back into the pine forest and zigzags its way to the next clearing. Around this time, you also cross the Afsaar river.\nAfter crossing the river, you ascend to a flat forest ledge. You’ll come across another clearing after this. For the first 4 km, till you are within the tree line, you alternate between pine forest and clearings.\nAfter the clearing, notice a diversion going to the right. This is a shorter route to Gurwansar, but avoid taking it. There are no camping spots on that route. A better option would be to take the route to the left which leads you to Dander meadow.\nJust after the diversion, the tree line ends. Till now you are around 6 km into the trail. You’ll cross shepherd huts on your left. The Dishkal campsite is located just ahead."
+}
+```
+
+### Day 3: Trek from Dishkal to Ashtaar Valley
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::003`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "3",
+  "place_title": "Day 3: Trek from Dishkal to Ashtaar Valley",
+  "difficulty": "Moderate - Difficult. A steep ascent through meadows and a ridge.",
+  "duration": "Trek distance: 4.3 km | Trek Duration: 5 hours",
+  "altitude": "Altitude gain: 10,606 ft to 11,525 ft",
+  "water_sources": "",
+  "description": "Treat Dishkal as the beginning of Dander meadows. You’ll find water sources trickling amidst the boulders. If you are unable to find a water source near the shepherd huts, move further into the gradual meadows. You’ll find another water source.\nAs soon as the meadows end, start gradually ascending to the top of a mountain ridge. You’ll come across a diversion. One way takes you straight and the other towards the right. Take the path to the right.\nSoon after, you reach the highest point on the ridge. You’ll see the vistas opening up. The Ashtaar valley lies sprawling in front of you. The valley, you’ll notice, has boulders strewn around.\nFrom the top of the ridge, descend into the boulder section. Meander through these boulders to the river crossing. Across the river, you’ll see shepherd huts. Camp close to these shepherd huts, along the river. The land around is not marshy, so it’s easy to find dry, flat ground.\nThe day is easy on the legs, so after setting up camp, explore the surrounding area. Go further into the valley. On a clear evening, you’ll see the majestic snow-clad Pir Panjal range from here."
+}
+```
+
+### Day 4: Trek from Ashtaar valley to Gurwansar
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::004`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "4",
+  "place_title": "Day 4: Trek from Ashtaar valley to Gurwansar",
+  "difficulty": "Moderate. Long gradual Ascents on meadows along with river crossing.",
+  "duration": "Trek Distance: 7.1 km | Trek Duration: 5-6 hours",
+  "altitude": "Altitude gain: 11,525 ft to 12,514 ft",
+  "water_sources": "Water Sources: Carry 2 litres of water from Ashtaar Valley. You can refill your water bottles from streams on the way.",
+  "description": "Today you’ll start inching towards the higher altitude of 12,500 feet, as much as the height of the Kedarkantha summit. You’ll climb 1000 feet today towards the end of the trek.\nStart your trek by ascending from the campsite to a high point. Then start descending. There will be boulder patches here. After you descend, the trail again ascends a little. Suddenly, you see miles and miles of flat grasslands laid out in front of you. “I was taken aback by this sight,” shares Senior Trek Leader Nitesh Kumar who explored the trek.\nNotice that this is not a valley. Until now the landscape was undulating. But this is a flat piece of landscape. These are called Rajdhani meadows. Take in the large, expansive feel of this landscape. You walk more than 2 km on these flat meadows and then you start climbing to reach the higher altitude.\nThen you slowly turn. There are two ridges on your sides. Start trekking into the valley. It’s like a lush grazing ground for sheep, and you may come across a friendly flock. You are very close to the Gurwansar campsite now.\nBut before you reach, there’s a river crossing. Right after you reach the Gurwansar campsite."
+}
+```
+
+### Day 5: Trek from Gurwansar to Duriem via Pamsar lake
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::005`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "5",
+  "place_title": "Day 5: Trek from Gurwansar to Duriem via Pamsar lake",
+  "difficulty": "Moderate- difficult. Long walks and steep ascents through boulder sections",
+  "duration": "Trek Distance: 9 km | Trek Duration: 7 hours",
+  "altitude": "Altitude gain: 12,514 ft to 12,621 ft via 13,060 ft",
+  "water_sources": "Water Sources: Carry 2 litres of water from Gurwansar. You can refill your water bottles from streams on the way.",
+  "description": "Today is an interesting day. You’ll trek via Pamsar lake. This lake is huge and it’s going to be an experience to be by this expansive water body. But it is a long day, so carry your packed lunch.\nAgain, start your day by ascending a ridge and then you descend into a valley. Throughout the trek, you alternate between valley and ridges. Walk on the grassy ledge for almost 3 km and then start descending. From here, you go off the trail to visit Pamsar Lake. Drop your bags here and then start ascending.\nAscend for around 1 km to reach Pamsar Lake. The scale of this lake is huge. You do not see it at once. But as you draw closer, the lake slowly reveals itself. Spend some quiet moments here. Then return to the bag drop point.\nFrom the bag, the drop point starts ascending to a ridge. The ascent is gradual to a boulder ledge. Continue your ascend till you reach the top of the ridge. Start your descent to the Duriem from here.\nOn the way, you’ll come across a depression. There’s a water point here. The trek has been long, so fill your bottles. Ascend out of the depression. You’ll come across another boulder patch. As you cross this section, the whole river delta fans out in front of you.\nNote: There’s no trail as you descend through the boulder patches. So be mindful of your step as you meander through the boulder patches.\nAgain, you’ll come across a stream crossing. Notice how you are consistently crossing streams before you camp. It is a refreshing experience after a long day’s trek."
+}
+```
+
+### Day 6: Trek from Duriem to Gadtar via Bodsar lake, Tratsar Lake, Navkansar I II & Damamsar lake
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::006`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "6",
+  "place_title": "Day 6: Trek from Duriem to Gadtar via Bodsar lake, Tratsar Lake, Navkansar I II & Damamsar lake",
+  "difficulty": "Moderate- Difficulty. Long walks, steep ascents & descents through boulder sections  enroute to Bodsar Lake & Navkansar I.",
+  "duration": "Trek Distance: 10.5 km | Trek Duration: 8 hours",
+  "altitude": "Altitude Loss: 12,621 ft to 12,545 ft via 13,000 ft",
+  "water_sources": "Water Sources: Carry 2 litres of water from Duriem. You can refill your water bottles from streams on the way.",
+  "description": "It is a long day today where you will climb ridges to spot the lakes.\nStart your day by ascending almost 2.5 km to a point from where you again go off the trail. Drop your bags here and start trekking to the Bodsar lake viewpoint. It’s almost half a km away on your left. From the high point, look back and you’ll also see your Duriem campsite. Also, watch out for Tratsar Lake aka Lokutsar lake.\nAfter the viewpoint, return to the bag drop point. Pick your bags and start ascending in the opposite direction. This is a bouldery patch. Soon you come to a steep ascend. This continues for around 1 km until you reach the flat portion of the ridge. You can see the lakes from here. After spending a few picturesque moments at this vantage point. Start descending from the ridge. After descending for about a kilometre, you start ascending.\nThe trail gradually ascends to Damamsar Lake. Note that you are walking on a ridge. From the highest point of the ridge, you can see Damsar, Navkansar I and II lakes. It’s a sight that will remain with you for long. These lakes are formed by snow melting from the surrounding mountains.\nFrom here the trail consistently descends to the Gadtar campsite."
+}
+```
+
+### Day 7: Gadtar to Tosamaidan. Drive to Srinagar
+
+- Packet section ID: `bodpathri-trek::day_wise_itinerary::007`
+- Source field: `day_wise_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Does Each Day Look Complete day-wise guide with photos toggle accordion; How Does Each Day Look`
+- Matched anchors: `detailed-itinerary`
+
+```text
+{
+  "day": "7",
+  "place_title": "Day 7: Gadtar to Tosamaidan. Drive to Srinagar",
+  "difficulty": "Moderate. Gentle descents all the way  along with river crossing on rocks.",
+  "duration": "Trek Distance: 9.5 km | Trek Duration: 5-6 hours\nDrive Distance: 80 km | Drive Duration: 3 hours",
+  "altitude": "Altitude loss: 12,545 ft to 10,080 ft",
+  "water_sources": "Water Sources: Carry 2 litres of water from Gadtar. You can refill your water bottles from streams on the way.",
+  "description": "It’s the last day of the trek today. But it’s a long day and you’ll end the trek on a high :)\nThe day begins with an exciting river crossing after which you start ascending to a grassy ledge. As it usually happens with treks in Kashmir, you alternate between ascends and descends, usually hanging around the same altitude for a long time.\nYou reach the top of the ridge and then descend to your second river crossing. Descend continues after the river crossing and soon you come across a mud trail. Till now, there have not been many trails on this trek. But you’ll see a trail here as trekkers access this part from the Tosamaidan side.\nContinue walking on the mud trail to come across a water source. Soon after, there’s the third stream crossing. Rest a bit after you cross the stream. Now you are towards the end of your trek. Savour the last moments.\nTosa Maidan starts at the end of the descent. It’s a beautiful landscape that reminds you of European vistas.\nTo your surprise, in this last leg, you’ll ascend. It’s a short ascend of merely 200 meters. But it reminds you of the nature of the trail till now. Consistently undulating.\nRight after the ascend you take a U-turn and continue descending towards the diversion. This takes you to the road head. You’ll get a vehicle from the dhaba. You also get a network at the endpoint."
+}
+```
+
+### Difficulty Section
+
+- Packet section ID: `bodpathri-trek::difficulty_section::001`
+- Source field: `difficulty_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `How Difficult is the Bodpathri Trek? This will tell you just how fit you must be toggle accordion; How Difficult is the Bodpathri Trek?`
+- Matched anchors: `uncontrolled-tab-example-tabpane-Day 3; uncontrolled-tab-example-tabpane-Day 5; trek-difficulty`
+
+```text
+Moderate-Difficult
+Suitable for Experienced Trekkers
+150
+51
+https://images.prismic.io/indiahike/d47a26a0-7e66-4105-b377-fa98952e4735_Difficult.png?auto=format%2Ccompress&rect=0%2C0%2C150%2C51&w=150&h=51
+YjmddhQAACMAy0kT
+0
+1
+transparent
+At Indiahikes, while rating a trek difficulty we consider a number of factors. These include, altitude gained every day, length of trek everyday, highest altitude, nature of the terrain, weather etc. Base on this we rate a trek as easy or difficult or somewhere in between.
+Bodpathri Trek, which climbs to 13,060 ft, is not difficult. It is rated as 'Moderate-difficult'. The trek of Bodpathri Trek is slightly easier compared to Kashmir Great Lakes. However, the trek is more challenging compared to Tarsar Marsar.
+A moderate-difficult rating refers to marginally longer trekking days hovering at altitudes of around 12,000 feet on most of the days. You will be trekking for 7-8 km on average every day.
+But the trek has easy exits and there are fewer technical sections.
+The second factor in rating this trek under Moderate-difficult, would be the boulder sections on the trek. You come across boulder sections on almost all days of the trek. You need to have good legs and a sense of control when navigating these sections. Trekkers who are not confident in placing their footing will find it challenging to navigate swiftly through these boulder patches.
+image
+https://images.prismic.io/indiahike/910a4f98-0fb5-4d1a-bc86-ebc662dc5527_Bodpathri+Lakes+Trek_Indiahikes_Mervin.jpeg?auto=format,compress
+1280
+591
+ZMpYRxUAACYAQZy6
+0
+1
+#fff
+The last point would be the long descent on the last day of the trek. There are a few patches of the descent where you need to be careful. Having a trekking pole and knee cap (for those with knee niggles) helps.
+Safety on the Bodpathri Trek
+Is the Bodpathri Trek Safe? The answer would be - Yes. Trekking to Bodpathri is safe even though it lies in the remote trails of the Budgam district of Jammu & Kashmir, away from civilization. Most of the time it's just your group trekking on your own. If there are any emergencies, it is easy to reach down which is just about a day’s trek with the descent.
+Coming back to the trail, being mentally prepared for the trek is as important as being physically prepared to stay safe. For this, it is crucial to have a clear mental picture of the trek. Quickly, here it is:
+| Trek in a nutshell: On the Bodpathri Trek you go up to an altitude of 13,060 ft. The days are divided so that the altitude gain is not too much. However, you could be hit by AMS on any of these days. At Indiahikes, we believe that as long as you are well-informed and well-prepared, you can easily survive at high altitudes.
+To do this effectively, let’s break down and examine various aspects of the Bodpathri Trek from the perspective of safety:
+What you must know about AMS
+Safety while trekking in Jammu & Kashmir
+Exit points on the Bodpathri Trek
+The closest hospital to the Bodpathri Trek
+134
+40
+https://images.prismic.io/indiahike/f8fd2edb-e7c5-4b0e-8809-89b22b6b10a2_Image_111.png?auto=format,compress
+YNbPPhQAACIActoX
+0
+1
+transparent
+Safety While Trekking in Kashmir
+The mountains are well shielded from even the worst of the unrest. While the trekking trail is safe during times of unrest, getting to the base camp or onto the trail might get difficult.
+So, here are certain pointers to keep in mind when you are travelling in Kashmir:
+If you’re staying overnight at Srinagar, stay in touristy areas like Dal Lake or Lal Chowk.
+Blend in with the crowd in terms of dressing and behaviour.
+Avoid going to downtown areas. Stick to tourist spaces as they tend to be safer and well-protected during times of unrest
+Don’t panic if there is a curfew. Keep indoors and wait for it to pass.
+If you need to move to the basecamp on days of unrest, our Indiahikes pickups happen in the early hours before dawn.
+Safety - Altitude wise
+When you are exposed to trekking at high altitudes, your body might not be well-rested or acclimated to the altitude. There are always risks of AMS even for the fittest and the most experienced trekkers. You must pay close attention to your body and the symptoms on a high-altitude trek. Stay alert for any signs of altitude sickness.
+Attend to your uneasiness and take curative measures. Check your vitals before you start the trek - Your BP reading, and oxygen saturation levels at every campsite at least twice. If you are feeling uneasy, you can even go on a curative course of Diamox. Hydration and rest are very important as well. If you do not feel normal after a few hours or overnight, do not proceed further on the trek.
+To help you understand AMS better, we've put together a complete guide about it. This is a series of videos you must watch before you get onto any high-altitude trek:
+What Is Altitude sickness? A Quick Look At AMS, HAPE And HACE
+How To Treat Altitude Sickness – AMS, HAPE, & HACE
+How To Prevent Acute Mountain Sickness (AMS), HAPE and HACE
+3 Life Saving Drugs You MUST Have To Tackle Altitude Sickness – AMS, HAPE and HACE
+If you experience any symptoms of AMS, even in the slightest, start taking steps to treat the sickness.
+At Indiahikes, our Trek Leaders are trained and equipped to take care of any emergencies related to AMS.
+Emergency Exits and Closest Hospital
+Medical Emergencies can strike on any trek. The key to dealing with them lies in knowing your exit points. Know how to get out and reach the nearest hospital quickly.
+On Bodpathri Meadows Trek, until Day 3 and until the campsite of Gurwanser, the exit point will be Doodhpathri. You have good network points in case of an emergency until this campsite. Airtel and Jio work at certain sections of the trail.
+If you have crossed this campsite and are close to the delta region of Duriem or crossed Duriem, then the most feasible exit point will be towards Tosa Maidan which is not close by.
+Closest Hospital To Bodpathri Meadows Trek
+In case of a medical emergency, the closest hospital from Tosa Maidan is at Khag. You have a medical facility to handle emergencies.
+If you are getting down from Doodhpathri, then X is the location where you will find medical help.
+For any major emergencies, Srinagar is the best place for getting any treatment.
+```
+
+### What will happen if my trek gets cancelled at the last minute?
+
+- Packet section ID: `bodpathri-trek::faqs::001`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: What will happen if my trek gets cancelled at the last minute?
+A: Security concerns and government orders often lead to last-minute cancellations in Jammu & Kashmir. While we make all the preparations to run the trek, we cannot guarantee that the trek will run. If such a situation occurs, we will try to organize an alternate trek within J&K or Himachal Pradesh, wherever possible. If not, we will cancel the trek and our cancellation policy will apply.
+Such circumstances are under nobody's control, but it's best to be well-prepared. As trekkers ourselves, we understand the loss that you go through when such circumstances arise. To protect against such circumstances, we have the Indiahikes Shield - where you can avail a return of your full trek fee by paying a small additional charge.
+We suggest you opt for the Indiahikes Shield, which will protect your trek fee during such uncertainties. You will find the option during the registration process.
+```
+
+### How many lakes will I see on the Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::002`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How many lakes will I see on the Bodpathri Trek?
+A: On the Bodpathri Trek, you'll come across 6 pristine alpine lakes. They are all turquoise blue. You’ll get to witness all these lakes on Day 4 and Day 5 – All in 2 days!
+Pamsar Lake
+Lokutsar Lake
+Bodsar Lake
+Navkansar I
+Navkansar II
+Damamsar Lake
+```
+
+### What valleys will I witness on the Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::003`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: What valleys will I witness on the Bodpathri Trek?
+A: The Bodpathri Trek, as the name suggests, takes you through 5 valleys of Ashtaar, Guruwansar, Pamsar Valley, Bodsar Valley & Gadtar.
+The vast meadows, pine forests, glades, sweeping landscapes and stunning snow-capped peaks are all bundled together into the valleys of this trek! You get to witness this 5 times, all on different days!
+Truly an experience for the ages.
+```
+
+### How long is the Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::004`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How long is the Bodpathri Trek?
+A: On the Bodpathri Trek, you cover around 47 km in 5 days (6 days including the drive to and from the trek). The altitude ranges from 6,175 ft in Srinagar all the way to Pamsar Lake at 13,060 ft. You’ll trek long distances around 8 km on average every day.
+```
+
+### Is the Bodpathri Trek Safe?
+
+- Packet section ID: `bodpathri-trek::faqs::005`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Is the Bodpathri Trek Safe?
+A: The Bodpathri Trek is safe. It is in the remote regions of Kashmir, away from the hotbed of turmoil. It is towards the more touristy Srinagar region. So the trekking trail itself is completely safe.
+However, political unrest, curfews and clampdowns have occurred in the past during our trekking season. We have tackled these efficiently, never compromising on the safety of trekkers. We travel during non-curfew hours and take measures to safely pick up or drop trekkers at the airport.
+Sometimes, we call off treks if the situation is too serious (for instance when Burhan Wani was shot and the political situation in Kashmir was out of control). Calling off a trek is a worst-case scenario and has not occurred too many times in the past.
+Keep in mind that if we are running the Bodpathri Trek, you can assume that it is safe. We would not compromise on anyone’s safety and run it during dangerous times.
+```
+
+### How difficult is the Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::006`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How difficult is the Bodpathri Trek?
+A: Bodpathri Trek is classified as Moderate-Difficult. The main reasons are longer trekking days, boulder sections on the trek and steep descent on the last day.
+You trek on an average of 7-8 km everyday. There are boulder sections to navigate on almost all days of the trek. This can be really taxing on your legs. You need to have a good fitness level. Lastly, there is a long and steep descent on the last of the trek. These are what make Bodpathri a Moderate-Difficult level trek.
+```
+
+### How fit do I need to be for Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::007`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: How fit do I need to be for Bodpathri Trek?
+A: A Himalayan trek like Bodpathri requires a really good fitness level. The trek has long climbs and steep descents daily. As a measure of your fitness, we need you to:
+Run at least 5 km in 32 minutes before your trek. Consistency of your workout also matters, so aim to jog 25 km a week or 100 km in a month. It's a minimum mandatory requirement if you wish to trek with us.
+OR
+Alternatively, cycle for at least 25 km in 60 minutes. Aim to cycle 125 km a week or 500 km in a month. However, running is better suited for your trek preparation.
+How to Get Fit for Your Trek
+After you register, you will be sent a questionnaire about your trekking experience and medical history. Additionally, you must attach a screenshot of a 5 km run under 35 mins only to get approved for the trek.
+High-altitude trekking experience of above 14,000 ft or at least moderate-difficult trek experience is a preferred requirement.
+Once you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience.
+```
+
+### I’m more than 62 years old. Can I do this trek?
+
+- Packet section ID: `bodpathri-trek::faqs::008`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: I’m more than 62 years old. Can I do this trek?
+A: Yes, you can!
+If you are above the age of 58 years, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to jog 5 km in 45 minutes.
+```
+
+### Will I get a mobile network and charging points during the Bodpathri Trek?
+
+- Packet section ID: `bodpathri-trek::faqs::009`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Will I get a mobile network and charging points during the Bodpathri Trek?
+A: You will get good Airtel & Jio connectivity all the way to Gurwansar Valley on Day 4. After that, the network is sketchy and almost non-existent. Connectivity will come back at Tosamaidan.
+Note: Prepaid SIM cards do not work in Kashmir.
+As for electricity, Srinagar is the last place for electricity. You won’t have access to electricity or charging points anywhere during the trek.
+```
+
+### Can I keep extra luggage at the base camp of Doodhpathri?
+
+- Packet section ID: `bodpathri-trek::faqs::010`
+- Source field: `faqs`
+- Section type: `faq`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Frequently Asked Questions Get your questions answered here toggle accordion; Frequently Asked Questions`
+- Matched anchors: `faq`
+
+```text
+Q: Can I keep extra luggage at the base camp of Doodhpathri?
+A: Since the trek ends at Tosa maidan, you cannot leave anything at the base of Doodhpathri. Also, Doodhpatri doesn’t have a fixed basecamp. So, you’ll be camping at the base camp.
+However, you can leave behind your extra luggage at Srinagar. It costs Rs 200 per luggage. You can keep up to 10 kg.
+(The luggage could be a backpack/suitcase/duffel bag or anything similar.).
+Ensure you do not keep any valuables. Laptops, mobile phones, cash or any important items shouldn’t be kept here.
+```
+
+### Fitness Section
+
+- Packet section ID: `bodpathri-trek::fitness_section::001`
+- Source field: `fitness_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Why get fit for Bodpathri Trek Fitness matters for the trek toggle accordion; Why get fit for Bodpathri Trek`
+- Matched anchors: `getting-fit`
+
+```text
+We recommend jogging as the best routine to get fit for a trek. It works on the same muscles that you use while trekking — your calves, glutes and hamstrings. It helps increase your stamina day by day. It is also an easy routine that does not require any equipment or tools.
+embed
+https://youtu.be/VR3l-GH0HhU
+video
+1.0
+Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/VR3l-GH0HhU/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/VR3l-GH0HhU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes"></iframe>
+Fitness target:
+To do this trek comfortably, you must be able to cover 5 km in under 32 minutes. This is the minimum fitness required for this trek.
+image
+https://images.prismic.io/indiahike/b5b573db-2a7b-4482-ba5d-30ad45a278ac_Fitness-Moderate-Difficult+Treks.jpg?auto=format,compress
+5000
+2143
+ZEoMkRAAACEApelK
+0
+1
+#fff
+How to achieve this fitness?
+Start jogging at least 4 days a week
+If you cannot run 5 km immediately, start with 2 km and increase to 5 km over 2-3 weeks.
+Once you’re able to run 5 km, increase your pace day by day.
+Gradually increase your pace and bring it down to 5 km in less than 32 mins.
+You must be able to run 5 km in 32 mins consistently for at least 2 weeks before the trek.
+This trek requires at least 6-8 weeks of preparation. The longer, the better. So plan your trek soon and start preparing.
+Here's a complete guide to get you trek fit.
+Strength training tips:
+embed
+https://www.youtube.com/watch?v=m8jkYEsJLtw
+video
+1.0
+5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/m8jkYEsJLtw/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/m8jkYEsJLtw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes"></iframe>
+How to get Fitness Approval from the Indiahikes team:
+Every trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.
+embed
+https://youtu.be/AGgg2Dv1Y6Y
+video
+1.0
+What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/AGgg2Dv1Y6Y/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/AGgg2Dv1Y6Y?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips"></iframe>
+What to upload?
+A minimum of 3 screenshots of your runs/jogs/walks/cycling
+Monthly summary of your routine
+Why fitness matters:
+Every high-altitude trek comes with a set of challenges. Steep ascents and descents, uneven terrain, snow walks, stream crossings, pass crossings, and summit climb. Even the easiest of treks have some of these challenges if not all of them. Without fitness, trekkers struggle, get injured easily, lag behind, or simply fail to complete the trek.
+At Indiahikes, we take pride in the fact that our trekkers are among the fittest in the country. Those who do not meet the fitness requirements are often sent back. Our philosophy is that trekking and fitness go hand in hand. Without fitness, there’s no trekking.
+embed
+https://www.youtube.com/watch?v=WZocACEsJbk
+video
+1.0
+What Happens If You Are Not Fit For A Trek | Indiahikes
+Indiahikes
+https://www.youtube.com/@Indiahikes
+YouTube
+https://www.youtube.com/
+https://i.ytimg.com/vi/WZocACEsJbk/hqdefault.jpg
+480
+360
+<iframe width="200" height="113" src="https://www.youtube.com/embed/WZocACEsJbk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="What Happens If You Are Not Fit For A Trek | Indiahikes"></iframe>
+Complete guide to get trek fit
+Web
+9c892d98-7bab-4497-ae64-07f9b5e769f3
+https://youtube.com/playlist?list=PLes811PfLJE5p3iXMB7binJEwdTpWTyki
+_blank
+```
+
+### Packing Section
+
+- Packet section ID: `bodpathri-trek::packing_section::001`
+- Source field: `packing_section`
+- Section type: `text_section`
+- Rendered support: `rendered_structure_matched`
+- Matched anchors: `what-to-pack; trek-what-to-pack; section-packing-checklist`
+
+```text
+Packing Checklist
+image
+https://images.prismic.io/indiahike/Zytd968jQArT0SYP_Bodpathri_trek_Monsoon_Packing_checklist.png?auto=format,compress
+1240
+Zytd968jQArT0SYP
+0
+1
+transparent
+Given below is a list of all the gear you need for the Bodpathri trek:
+If you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.
+Additionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.
+Most importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.
+1. Trekking Shoes:
+Bodpathri Trek requires sturdy trekking shoes, has good grip, has ankle support and can handle snow. Here is a quick video on how to choose your trekking shoes.
+| Buying Tip: The Trek series and MH series are good options by Decathlon. They are tried and tested. There isn’t any necessity to buy the higher-priced models. Here is a list of other budget shoes that trekkers are using.
+| Rental: We have the Trek series and the MH series are available for rent from the Crosstrek Rental store. They are already broken into and in good condition. Rental shoes are not dirty or unhygienic. This is how they are kept clean. Rent here - MH 100 and Trek 100.
+2. Backpack:
+For a trek like Bodpathri, you need a 50-60 litre backpack. Make sure your backpack has good hip support, shoulder support and quick access pockets. Here is a guide on how to choose a backpack.
+| Buying Tip: Wildcraft, Decathlon and Adventure Worx usually make good backpacks. While Wildcraft has more expensive ones, the other two brands have budget-friendly backpacks to choose from.
+| Rental: The 55-litre backpack is available for rent from the Indiahikes store. They are custom-made for our Himalayan treks. Rent them if you don’t have a backpack. Rent here.
+3. Clothes:
+Wearing layers is the mantra in the mountains. Layers give you maximum protection from all elements. And when the weather changes in the mountains (as it happens every few hours), you take off or put on layers as required.
+Base Layer:
+3 T-Shirts:
+Wear one T-shirt and carry two. Carry full-sleeve dry-fit T-shirts (preferably collared). These prevent your arms and neck from getting sunburnt. In the rarified air on the trek, especially at high altitudes, UV rays can burn you in no time.
+Dry-fit T-shirts quickly dry your sweat, they are easy to wash and in case of a rainy day, they dry quicker. Round neck T-shirts are ok, but collared ones are better.
+| Cotton or Synthetic? As Indians, we love cotton. Down in the plains when the heat is blistering 40°C it makes sense to wear cotton. But it takes a long time to dry when it gets wet. In the mountains, where it is cooler, synthetic is what you wear. They wick sweat rapidly and keep you dry. (But they do tend to smell quickly, so carry a roll-on deodorant with you.)
+| Pro Tip: If you are extra susceptible to cold, you could get a set of thermal inners. In our experience, wearing two T-shirts over another works as a better thermal. And they save you weight and space since you’re already carrying them.
+3 Insulation Layers:
+The highest altitude you reach on this trek is 13,850 ft. At these altitudes, it can get cold even in the middle of summer. You will need at least 3 insulation layers for this trek.
+You will need 2 light fleece layers and 1 full-sleeve light sweater. Do not get your grandma-stitched sweaters, which can be very heavy. You need sweaters and fleece jackets that can fold into compact rolls.
+1 Outer Layer:
+A padded jacket serves the purpose here. You don’t need a water-resistant material. But you need an outer padded jacket that keeps the wind and cold out. Ensure your padded jacket has a hood as well.
+| Do you need a down/feather jacket? Not really. A regular padded/shell jacket will do. This video here will help you to learn more about the difference.
+Note: Down/feather jackets are not available these days. Many jackets masquerade as down/feather jackets. They are essentially fine polyester-filled jackets. They mimic the function of a down jacket but are usually expensive.
+| Rental: Padded jackets are available for rent at the Crosstrek Rental store. They are custom-made for Indiahikes and trekkers find them terrific, even in winter. Rent here.
+Two Trek Pants:
+Two pairs of trek pants should suffice for this trek. Wear one pair and carry two just in case it rains. Trek pants with zippered cut-offs at the thighs are very suitable for treks. Also, choose quick-dry pants over cotton. They dry up soon in case of small stream crossings/rain.
+| Buying Tip: Go for pants with zippered pockets. They come in handy to keep your phone, handkerchief, or pocket snacks.
+| Track Pants or Trek Pants? Stretchable track pants make a good backup and can double up as your thermal bottoms. But track pants are not trekking pants -- so don’t use them as your main outerwear. Keep them only as a backup.
+Mandatory Accessories, without these too you won’t be able to do the trek.
+These accessories are mandatory. Don’t go to Bodpathri Trek without them. Trekkers generally put off purchasing / borrowing the accessories for the last minute. We suggest the opposite. Start gathering these accessories first.
+1. Sunglasses:
+Sunglasses are to prevent snow blindness. On a trek like Bodpathri Trek, Expect to walk on stretches of snow, especially during July. A small overexposure to direct sunlight on snow can lead to snow blindness (about a half hour’s exposure). That’s because fallen snow is like thousands of mirrors that reflect direct UV rays. So you need sunglasses with UV protection.
+| Tip: Try getting sunglasses that wrap around instead of those that have openings on the side. Even peripheral UV ray exposure is not a good idea.
+Wear sunglasses if the trekking day is bright and sunny (on open sections, meadows). On a snowy section, you must never take off your sunglasses until the section has been fully crossed.
+| Rental: The polarised hiking sunglasses are available for rent from the Indiahikes store. They are custom-made for our Himalayan treks. Rent them if you don’t have a pair of sunglasses.Rent here.
+| If you wear spectacles: If you wear spectacles, you can get oversized sunglasses that you wear over your regular glasses (available at Decathlon). If that is cumbersome, photochromic lenses work equally well. Here’s a quick guide on managing sunglasses with spectacles.
+| Contact lens users: If you use contact lenses, you can use them on the trek too. The lens solution will not freeze. You will also not face any problems in changing your lens in your tent. Just carry enough cleaning solution with you to clean your fingers well. Wear your sunglasses over your contact lens.
+2. Suncap:
+A sun cap is mandatory. Trekking without a sun cap can lead to headaches, sunstrokes, quick dehydration and a sharp drop in trekking performance.
+| Tip: In the mountains, the general rule is to keep your head covered at all times. During the day a sun cap protects you from the harsh rays of the sun (it is doubly stronger with naked UV rays). A sun cap keeps your body temperature in balance. In the evening/early morning, the reverse is true. Your head loses your body heat quickly. A woollen cap prevents heat from dissipating from your head.
+| Buying Tip:The Crosstrek suncap is available for purchase at the Crosstrek Merchandise store. It is custom-made for our Himalayan treks with UV Protection and an adjustable strap.Buy here.
+| Pro Tip: Sun caps with flaps are a blessing for trekkers. They cut out almost all UV leaks. They prevent sunburns in every possible way. They are a lot more effective than sunscreen lotion. A wide-brimmed sports hat also helps to prevent sunburn in a big way.
+3. Synthetic Hand Gloves:
+On a trek like Bodpathri Trek, you are going to be handling snow quite a bit during July. You’ll need gloves to grip something or to steady yourself in snow. More than snow, the evening cold winds through the wide valley will give you the chill. You also want the gloves to keep you warm. Get synthetic hand gloves that have waterproofing on the outside and a padded lining on the inside. If you find the combination difficult to get (not likely), wear a tight-fitting fleece hand glove inside a synthetic hand glove. Hand gloves are mandatory on this trek.
+| Buying tip:The Crosstrek Waterproof gloves are available at the Crosstrek Merchandise store. They are custom-made for our Himalayan treks.Buy here.
+4. Woollen Cap or Balaclava:
+Ensure these cover your ears. In the cold mountains, you lose maximum heat from your head, not from your hands, feet, or the rest of your body. This is why you need to keep your head protected, especially when the sun is down. Early mornings, late evenings, and a cold trekking day are when you must use your woollen cap.
+Your ears are sensitive too, so a woollen head cap that covers your ears is essential. A balaclava is a modern version of the woollen cap. It covers your ears, neck and parts of your face as well. Do not get a woollen cap that only covers your head.
+| Buying Tip:The Crosstrek Fleece cap and the Crosstrek neck warmer are available for purchase at the Crosstrek Merchandise store. Buy here -Crosstrek Fleece CapandCrosstrek Neck Warmer.
+5. Socks (3 pairs):
+Apart from two sports socks, take a pair of woollen socks. Sports socks give you cushioning plus warmth. Again the mantra is to wear synthetic socks or at least a synthetic blend. Cotton socks soak in water and sweat. They are very hard to dry. As for woollen socks, they help you to keep warm and snug at the night. If you cannot get woollen socks, wearing two sports socks serves the purpose as well.
+| Buying Tip: Waterproof socks are available for purchase at the Crosstrek Merchandise store. They are custom-made for our Himalayan treks.Buy here.
+6. Headlamp:
+Trekkers are often confused about whether they need to get a headlamp or a handheld torch. You need to get a headlamp because it leaves your hands free to do other activities. On the Bodpathri Trek, you’ll need your hands free to wash dishes, pitch tents and hold your trek poles.
+| Buying Tip: Ensure your headlamp covers a wider area and is not too focused as a single beam. On a trek, your headlamp must help you see around you as much as ahead of you.
+| Rental: Headlamps are available for rent at the Crosstrek Rental store. Rent here.
+7. Trekking Poles (a pair):
+Trekking poles give you stability and balance. They reduce your energy consumption by almost 40%. On the Bodpathri Trek, there are steep ascents and descents. A pair of trekking poles will make the difference between a comfortable and a strenuous trek. In India, we tend to use a single trekking pole. However, two trekking poles give you greater stability and balance. They also increase your walking pace.
+| Rental: Imported side-locking trekking poles are available for rent at the Crosstrek Rental store. Rent here.
+8. Rainwear:
+On a trek, the weather can change quickly. A bright sunny day can turn into a downpour in a matter of minutes. Carry a poncho or a rain jacket to tackle this. A poncho is a big rain cover with openings for your arms and your head. It is extremely effective because it covers both you and your backpack. It is extremely light and weighs next to nothing.
+Rain jackets are more streamlined and less cumbersome but weigh more. Rain pants are not required. Dry fit trek pants dry quickly even if soaking wet.
+| Rental: High-grade ponchos are available for rent at the Crosstrek Rental store. Rent here.
+9. Rain Cover for your Backpack:
+Backpacks are your life. You carry all your dry clothes and your warm gear in your backpack. Your backpack must stay dry at all times. Modern backpacks usually come with built-in rain-covers. If your backpack does not have a rain cover, ensure you get a rain cover by either (a) buying a rain cover or (b) or cutting a large plastic sheet to the size of your backpack. You can roll the plastic sheet around your backpack and keep it in place with a string or elastic.
+| Rental Tip: Rain covers are available for rent at the Crosstrek Rental store. Rent here.
+| Pro Tip: It's good practice to compartmentalise your clothes, accessories and other things in plastic covers inside your backpack. That way, even if it rains and your backpack gets wet, your things are water-proof inside the backpack.
+10. Daypack (20-30 litres, optional):
+In your daypack, you carry essentials like water bottles, rainwear, emergency medicines, a headlamp, some snacks and a warm layer. Your main backpack that carries most of your equipment is accessible only at the campsites.
+A day pack is a smaller backpack that is usually of 20-30 ltr capacity. Laptop bags are not day packs. Do not get them.
+Other mandatory requirements
+1. A Toilet Kit:
+Keep your toilet kit light. Carry just the basics -- toothbrush, toothpaste, small soap, toilet tissue roll, a small moisturiser, lip balm, and a roll-on deodorant. You will not be able to have a bath on the trek, so don’t overload on soaps and shampoos.
+| Pro tip: Carry miniature-sized items. You will not need more than that. If you’re travelling in a group, share one toothpaste for all.
+Avoid getting large toilet rolls. The smallest size roll is more than enough for a trek like Bodpathri Trek
+| For women: If you are likely to have your periods on your trek date, don’t worry about it. You can use your pads, tampons, or menstrual cups on the trek. There will be toilet tents where you can get changed. Make sure you carry ziplock bags to bring back your menstrual waste. Don’t leave behind any waste in the mountains. Watch this video to learn how to dispose of your sanitary waste.
+2. Cutlery:
+Carry a lunch box, a coffee mug, and a spoon. Your lunch box must be leakproof. You are expected to wash your cutlery. Trekkers often expect Indiahikes to wash their cutlery. When you allow Indiahikes to wash your cutlery, your cutlery becomes part of a mass washing system. You immediately invite germs, and bacteria to settle on your cutlery. The incidence of stomach disorders rises exponentially.
+| Rental Tip 1: Tiffin boxes can be rented at the Crosstrek Rental store. Rent here.
+| Buying Tip: The 'Trekker for Life - All purpose mug' is available for purchase at the Crosstrek Merchandise store. Buy here.
+| Pro tip: Carry stainless steel cutlery. Avoid fancy high-grade plastic cutlery. Stainless steel cutlery is infinitely easier to wash in cold water. Grease is easier to remove and hygiene is at its highest. Watch this video on why steel cutlery is better than plastic.
+| Two 1 litre bottles or a 2-litre hydration pack: Bodpathri trek has many hours of trekking every day (approximately 6 hours). You need to carry two one-litre water bottles to keep yourself hydrated over the distance. If you are used to a hydration pack, then that is ok too. If one of the two bottles is a lightweight thermos, then that helps you to store warm water on a really cold day or for late evenings and early mornings.
+| Rental Tip 2: You could rent lightweight thermos flasks from the Crosstrek Rental store. Rent here.
+| Rental Tip 3: Water bottles can be rented at the Crosstrek Rental store. Rent here.
+3. Plastic Covers:
+Carry 3-4 old plastic covers to keep your used clothes. You could use them even for wet clothes. Re-use old plastic bags for this and do not buy new ones.
+Keep essential documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet. You need to show your ID card even while trekking at a couple of army check-posts.
+Mandatory Documents
+These are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek. Please keep these documents ready a month prior to your trek.
+Original and photocopy of government photo identity card. Either having an Aadhar card or passport will do. The forest department requires this for your identification.
+Disclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there. However, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate
+Medical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate
+Note: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.
+Consultation fee: Rs 350
+Any
+Personal Medical Kit
+Carry these medicines with you, easily accessible at all times. Do not take any medication unless you have consulted your trek leader.
+Diamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Being on a preventive course of Diamox dramatically reduces the chances of Acute Mountain Sickness on the Bodpathri Trek.
+Dexamethasone (1 Strip): This is part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.
+Nifedipine (5 tablets): Again, part of the Live Saving Drugs kit. Do not take this on your own. Your trek leader will inform you in case the need arises.
+Dolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever and mild pain.
+Avomine (4 tablets): Carry this, especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.
+Combiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.
+Digene (4 tablets): Take it if you feel the food you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.
+ORS (6 packs): Consume a pack of ORS water at least once a day, usually the mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.
+Knee Brace (optional): Carry this if you are prone to knee injury or have known knee pain issues.
+Our trek leaders carry a high-altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency, our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines.
+Pro Tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek, please donate unused medication to your trek leader. Some medicines get distributed to villages on the trek, and some are added to the Indiahikes medical kit.
+```
+
+### Quick Info
+
+- Packet section ID: `bodpathri-trek::quick_info::001`
+- Source field: `quick_info`
+- Section type: `structured_facts`
+- Rendered support: `included_source_field`
+
+```text
+{
+  "trek_difficulty": "Moderate-Difficult",
+  "trek_duration": "7 days",
+  "highest_altitude": "13,060 ft",
+  "suitable_for": "12 to 62 years",
+  "total_trek_distance": "48.1 kms",
+  "basecamp": "Doodhpathri",
+  "best_time": "Monsoons",
+  "pickup_point": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+}
+```
+
+### Day 1
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::001`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "1",
+  "heading": "Drive from Srinagar to Doodhpathri",
+  "sub_heading": "Drive distance: 55 km | Drive Duration: 2.5 hours | Pick-up point for Indiahikes trekkers: Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, near Flourmill, Srinagar\nImportant Note: Reach the pick up point on your own and meet the Indiahikes team at 8 AM for your rental gear collection and cloak room.",
+  "details": "Transport will be organized at 10 AM. The cost of the cab is Rs 600 per person and needs to be paid directly to the driver. The vehicle will be non-AC"
+}
+```
+
+### Day 2
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::002`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "2",
+  "heading": "Trek from Doodhpathri to Dishkal",
+  "sub_heading": "Trek distance: 6.2 km | Trek Duration: 5-6 hours\nAltitude gain: 8,900 ft to 10,606 ft",
+  "details": "Moderate. Gradual to steep ascent through forests, and meadows. A lot of boulders."
+}
+```
+
+### Day 3
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::003`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "3",
+  "heading": "Trek from Dishkal to Ashtaar Valley",
+  "sub_heading": "Trek distance: 4.3 km | Trek Duration: 5 hours\nAltitude gain: 10,606 ft to 11,525 ft",
+  "details": "Moderate-Diffcult. A steep ascent through meadows and a ridge."
+}
+```
+
+### Day 4
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::004`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "4",
+  "heading": "Trek from Ashtaar Valley to Gurwansar",
+  "sub_heading": "Trek distance: 7.1 km | Trek Duration: 5-6 hours\nAltitude gain: 11,525 ft to 12,514 ft",
+  "details": "Moderate. Long gradual Ascents on meadows with boulders along with river crossing."
+}
+```
+
+### Day 5
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::005`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "5",
+  "heading": "Trek from Gurwansar to Duriem via Pamsar Lake",
+  "sub_heading": "Trek distance: 9 km | Trek Duration: 7 hours\nAltitude gain: 12,514 ft to 12,621 ft via 13,060 ft",
+  "details": "Moderate- difficult. Long walks and steep ascents through boulder sections"
+}
+```
+
+### Day 6
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::006`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "6",
+  "heading": "Trek from Duriem to Gadtar via Bodsar Lake, Trastar Lake, Navkansar I,II & Damamsar Lake",
+  "sub_heading": "Trek distance: 10.5 km | Trek Duration: 8 hours\nAltitude gain and loss: 12,621 ft to 12,545 ft via 13,000 ft",
+  "details": "Moderate- Difficulty. Long walks, steep ascents & descents through boulder sections  enroute to Bodsar Lake & Navkansar I."
+}
+```
+
+### Day 7
+
+- Packet section ID: `bodpathri-trek::quick_itinerary::007`
+- Source field: `quick_itinerary`
+- Section type: `itinerary_day`
+- Rendered support: `rendered_structure_matched`
+- Matched UI labels: `Quick Itinerary Get your trek plan toggle accordion; Quick Itinerary`
+
+```text
+{
+  "day": "7",
+  "heading": "Trek from Gadtar to Tosamaidan. Drive to Srinagar via Sitaran",
+  "sub_heading": "Trek Distance: 11 km | Trek Duration: 5-6 hours | Altitude loss: 12,545 ft to 10,080 ft\nDrive Distance: 80 km | Drive Duration: 3.5 hours\nThe cost for the return journey will be approx Rs 1,100 per trekker. You take a shared vehicle from Tosamaidan to Srinagar.",
+  "details": "Moderate. Gentle descents all the way along with river crossing on rocks.\nTip: For all your travel plans include a buffer day to accommodate bad weather on the trek/political instability. This depends completely on the circumstances of the trek and the situation in Kashmir."
+}
+```

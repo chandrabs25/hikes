@@ -1,0 +1,323 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "pangarchulla-peak-trek",
+  "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Overhanging narrow trail for about 1 km overlooking the Dhak valley when approaching Tali from Gorson Bugyal",
+        "Boulder sections present every day",
+        "Last 4-5 hours of summit day on snow over big boulders",
+        "Ridge section composed of 6 small ridge sections with ascending and descending portions requiring careful footing",
+        "Narrow and windy ridge near the summit"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "While approaching Tali from Gorson Bugyal, you trek on an overhanging narrow trail for about 1 km overlooking the Dhak valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents and boulder sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "the last 4-5 hours of the trek will be on the snow over big boulders.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The ridge section can be seen as 6 small ridge sections put together– some ascending and others descending. Navigating these can be challenging, as ridges demand careful footing in both directions.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "As you near the summit, the ridge becomes narrow and windy as well.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Summit day is very challenging both distance-wise and elevation-wise",
+        "Ascent of about 3,268 ft on the first day in an 8 km stretch",
+        "Climb of around 4,059 ft on the summit day to a maximum altitude of 15,069 ft",
+        "Total trek covers around 35 km in five trekking days with approximately 7,284 ft of elevation gain (7,785 ft to 15,069 ft)"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The summit day of this trek is very challenging, both distance-wise and elevation-wise.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The ascent of about 3,268 ft on the first day of the trek in an 8 km stretch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "You climb around 4,059 ft on the summit day and reach a maximum altitude of 15,069 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 35 km in five trekking days, during which you will gain approximately 7,284 ft (7,785 ft to 15,069 ft).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Narrow windy ridge near summit may require a rope, decided by the technical guide",
+        "Towards end of April, hard and icy snow requires route preparation with an ice axe by the technical guide",
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "This section might require a rope. Your technical guide will take a call on this and prepare the trail for you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Towards the end of April, the snow can become hard and icy. This again will require the technical guide to prepare the route for you with an ice axe.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Considerable elevation gain on the first day can make trekkers more prone to AMS",
+        "Maximum altitude reached is 15,069 ft on the summit day",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle altitude-related emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Since you gain considerable elevation on the very first day, it can make you more prone to AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "You climb around 4,059 ft on the summit day and reach a maximum altitude of 15,069 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting for hours can change the entire trek dynamic",
+        "Rain can flood trails or make them too slushy to walk safely on",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Summit day becomes even more challenging if it snows through the day",
+        "Extremely cold conditions on the summit climb along the exposed ridge can result in cold-related injuries",
+        "Khullara campsite is one of the coldest campsites among all Indiahikes treks, requiring appropriate layering",
+        "Overhanging narrow trail near Tali can get tricky on rainy days",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut in the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Your summit day becomes even more challenging if it snows through the day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The trek also gets extremely cold on the summit climb as you go up the exposed ridge. This can result in cold-related injuries.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Khullara campsite is one of the coldest campsites among all the treks that we run at Indiahikes. Appropriate layering is extremely important here.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "On rainy days, this stretch can get tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Closest exit from Khullara and Tali campsites is via Dhak",
+        "Closest exit from the Gorson Bugyal side (before the overhanging section) is Auli",
+        "Closest Primary Healthcare Center is in Joshimath, 20 km by road from Karchi",
+        "For serious concerns, Dehradun is the best option, a 7-8 hour drive from both Karchi and Auli",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform the Trek Leader about any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "If you are in the valley where Khullara and Tali campsites are located, the closest exit is via Dhak.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "If you have not crossed the overhanging section of the trail and are still on the Gorson Bugyal side, the closest exit is Auli.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The closest Primary Healthcare Center is in Joshimath, just 20 kms by road from Karchi.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "for any serious concern, heading to Dehradun is the best option. Dehradun is a 7-8 hr drive from both Karchi and Auli.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Several difficult sections require trekkers to be alert and trek carefully",
+        "Safety is a shared responsibility requiring active participation and attention to safety protocols from trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "There are several difficult sections on this trek that require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

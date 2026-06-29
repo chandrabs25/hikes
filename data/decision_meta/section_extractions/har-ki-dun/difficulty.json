@@ -1,0 +1,272 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "har-ki-dun",
+  "section_id": "har-ki-dun::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/har-ki-dun",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Trail follows the Thamsa River with streams and rivers throughout",
+        "Wooden or cement bridges sometimes washed away, requiring rope and pulley crossings",
+        "Steep ascent to Kalkatiyadhar from Gangaad",
+        "Ledge walking and multiple boulder sections on the Kalkatiyadhar stretch"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "The Har Ki Dun trail follows the Thamsa River almost entirely, with streams and rivers accompanying you throughout. While wooden or cement bridges aid crossings, they’re sometimes washed away, requiring a rope and pulley system to get across.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "You negotiate a steep ascent on the way to Kalkatiyadhar from Gangaad. You will also need to walk on a ledge and multiple boulder sections on this stretch.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep ascent to Kalkatiyadhar from Gangaad",
+        "Ledge walking and multiple boulder sections on the Kalkatiyadhar stretch",
+        "Daily ascents and descents across all five trekking days",
+        "Most days involve longer trekking durations",
+        "Long daily distances make the trek tiring for those not adequately prepared"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "You negotiate a steep ascent on the way to Kalkatiyadhar from Gangaad. You will also need to walk on a ledge and multiple boulder sections on this stretch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. Most days involve longer trekking durations.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "The Har Ki Dun trek also has long distances to cover every day making it a bit tiring for someone who is not adequately prepared.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes Trek Leaders and Technical Guides provide technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required",
+        "Rope and pulley system used when bridges are washed away"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "While wooden or cement bridges aid crossings, they’re sometimes washed away, requiring a rope and pulley system to get across.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek starts at 6,900 ft and climbs to 11,600 ft",
+        "Reaches 10,032 ft on the second day at Kalkathiyadhar",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers for altitude-related emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "The Har Ki Dun trek starts at 6,900 ft and climbs to 11,600 ft. You may feel that the trek does not climb very high. However, you must not overlook the fact that you reach as high as 10,032 on the second day of the trek at Kalkathiyadhar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Winter (December) snow can appear as soon as the trailhead, sometimes even from Taluka",
+        "Prolonged rain turns trails slushy and difficult to navigate safely",
+        "Snowfall can block established paths, requiring new tracks to be carved",
+        "Snow accumulation can make parts of the Har Ki Dun Valley completely inaccessible",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate",
+        "Kotgaon is one of the coldest base villages and stays in shade long after sunrise due to a blocking hill"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "If you’re trekking to Har Ki Dun in winter (December), and the year’s winter snow has already come in, expect to start seeing snow as soon as you enter the trail (sometimes even from Taluka).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can significantly alter the dynamics of a trek. Rain can turn the trails slushy and difficult to navigate safely, while snowfall can block previously established paths, requiring new tracks to be carved through the snow. Accumulation of snow can make certain parts of the Har ki Dun Valley completely inaccessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only one exit: retrace route back to Taluka and Kotgaon",
+        "Jeep can be hired from Taluka to Purola; evacuation may take up to 24 hours due to bad roads",
+        "Closest medical assistance for mild issues (fractures, sprains) is in Mori, then Purola",
+        "Nearest hospital for major emergencies is in Mussoorie or Dehradun, 8-9 hours from base camp",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Har Ki Dun trek has only one exit which is retracing your way back to Taluka and Kotgaon.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "From Taluka, you can hire a jeep to Purola. Evacuation may take up to 24 hours since you are deep in the valley and the roads connecting Kotgaon and Purola are notoriously bad.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "For mild medical issues, the closest medical assistance can be found in Mori and then in Purola. This includes simple fractures, sprains, etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must disclose pre-existing medical conditions to the Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "har-ki-dun::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

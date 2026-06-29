@@ -1,0 +1,250 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "nag-tibba",
+  "section_id": "nag-tibba::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/nag-tibba",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Well-defined trails but multiple trail junctions (3 trails near summit area) requiring a guide to stay on the correct path",
+        "Forest section on the summit climb adds a sense of thrill",
+        "From the shrine, the climb to the summit is challenging"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "The trails at Nag Tibba are well defined. You still need to walk on the right trail. There will be an instance during your trek that will have 3 trails- One leading to the summit and the other 2 leading to different settlements. You need a guide to take you on a right track",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "The summit climb on Day 2 brings a sense of thrill when you trek through the forest section.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "From the shrine, the climb to the summit is challenging.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Daily ascents and descents, mostly gradual and steady",
+        "Summit climb on Day 2 is the main strenuous section",
+        "Total ~14.5 km over two trekking days with ~5,263 ft altitude gain (4,652 ft to 9,915 ft)"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. But, they are mostly gradual and steady, except the summit climb on Day 4.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 14.5 km in two trekking days during which you will gain approximately 5,263 ft (4,652 ft to 9,915 ft).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required",
+        "Trek Leaders and Technical Guides provide necessary guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Rapid altitude gain (4,652 ft to 9,915 ft) over 2 days makes trekkers prone to Acute Mountain Sickness (AMS) similar to longer Himalayan treks",
+        "At altitudes above 10,000 ft, AMS risk is real and can affect first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon run equal risk of AMS",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "There is a rapid altitude gain (4,652 ft to 9,915 ft) over a very short span of time (2 days). This makes you as prone to Acute Mountain Sickness as any other longer Himalayan trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Sustained rainfall can flood trails or make them slushy and unsafe to walk on",
+        "Sustained snowfall can obstruct existing paths, requiring fresh tracks to be cut in snow",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Closest hospitals are at Panthwari and Bhatwadi",
+        "For serious medical attention, Dehradun or Mussoorie is ~3 hr drive from Panthwari",
+        "Early in trek, descend to Panthwari as emergency exit",
+        "After Day 2, descend to Bhatwadi as emergency exit",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "On the Nag Tibba trek, your best bet is to descend to Panthwari if you have not trekked far.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "If you are deep into the trek, after Day2, your best option is to descend to Bhatwadi.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "In case of a medical emergency, the closest hospital is at Panthwari and Bhatwadi. If you need serious medical attention, head to Dehradun or Mussoorie– a 3 hr drive from Panthwari– for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trail junction with 3 diverging paths (one to summit, two to different settlements) requires a guide to stay on the correct trail",
+        "Safety is treated as a shared responsibility; trekkers must actively follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "There will be an instance during your trek that will have 3 trails- One leading to the summit and the other 2 leading to different settlements. You need a guide to take you on a right track",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nag-tibba::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

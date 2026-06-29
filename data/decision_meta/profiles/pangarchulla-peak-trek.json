@@ -1,0 +1,154 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.410160+00:00",
+  "trek_id": "pangarchulla-peak-trek",
+  "trek_title": "Pangarchulla Peak Trek",
+  "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 7,
+    "distance_km": 35.0,
+    "highest_altitude_ft": 15069,
+    "min_age": 15,
+    "max_age": 55,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Live free hostel, Rishikesh",
+    "pickup_time": "5.30 AM",
+    "dropoff_city": "Live free hostel, Rishikesh",
+    "dropoff_time": "6.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "April"
+      ],
+      "avoid_months": [
+        "All months other than April"
+      ],
+      "snow_or_rain_notes": [
+        "April (summit climb window)",
+        "Hard snow above 12,000 ft in April",
+        "Snow from Auli to summit in April"
+      ],
+      "temperature_notes": [
+        "Day time temperature: 12 °C to 15 °C",
+        "Night time temperature: 0 °C to -5 °C",
+        "5 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Overhanging narrow trail for about 1 km overlooking the Dhak valley when approaching Tali from Gorson Bugyal",
+        "Boulder sections present every day",
+        "Last 4-5 hours of summit day on snow over big boulders",
+        "Ridge section composed of 6 small ridge sections with ascending and descending portions requiring careful footing",
+        "Narrow and windy ridge near the summit"
+      ],
+      "altitude_or_weather_risks": [
+        "Considerable elevation gain on the first day can make trekkers more prone to AMS",
+        "Maximum altitude reached is 15,069 ft on the summit day",
+        "Rainfall or snowfall lasting for hours can change the entire trek dynamic",
+        "Rain can flood trails or make them too slushy to walk safely on",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 10 km in under 60 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week plan provided for currently inactive trekkers"
+      ]
+    },
+    "experience_themes": [
+      "Spring season with snow melting giving way to lush meadows",
+      "Meadows flowering and Rhododendrons blooming",
+      "Snow present from Auli all the way to the summit",
+      "Campsites free of snow with hard snow deposited above 12,000 ft",
+      "Lush meadows as snow melts",
+      "Flowering meadows and blooming Rhododendrons"
+    ],
+    "primary_watchouts": [
+      "Before April: too much snow for summit climb",
+      "After April: snow melts leaving exposed boulders with large gaps, making traversing exhausting and unsafe",
+      "Summit climb only safe in the small April window",
+      "Summit climb outside April (too much snow before, unsafe exposed boulders after)",
+      "Trekkers seeking a longer trekking season (summit climb window is only one month)",
+      "Overhanging narrow trail for about 1 km overlooking the Dhak valley when approaching Tali from Gorson Bugyal"
+    ],
+    "best_for": [
+      "Summit climb of Pangarchulla Peak",
+      "Experiencing spring blooms (Rhododendrons and flowering meadows)",
+      "Trekkers seeking a snow trek with manageable snow conditions"
+    ],
+    "not_ideal_for": [
+      "Summit climb outside April (too much snow before, unsafe exposed boulders after)",
+      "Trekkers seeking a longer trekking season (summit climb window is only one month)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "pangarchulla-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "pangarchulla-peak-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "Section text appears truncated at the end ('Any') — possible missing content on rejection instances or additional notes."
+  ]
+}

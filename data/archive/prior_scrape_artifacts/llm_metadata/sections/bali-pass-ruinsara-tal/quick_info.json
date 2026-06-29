@@ -1,0 +1,221 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "bali-pass-ruinsara-tal",
+  "section_id": "bali-pass-ruinsara-tal::quick_info",
+  "section_type": "quick_info",
+  "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+  "extracted_items": [
+    {
+      "category": "difficulty",
+      "field": "difficulty_rating",
+      "value": "Difficult",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_dificulty",
+          "quote_or_summary": "trek_dificulty: \"Difficult\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_benchmark",
+      "value": "10 km in 60 mins",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "fitness_criteria",
+          "quote_or_summary": "fitness_criteria: \"10 km in 60 mins\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "suitable_age_range",
+      "value": "15 to 55 years",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "suitable_for",
+          "quote_or_summary": "suitable_for: \"15 to 55 years\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "duration",
+      "value": "9 days",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_duration",
+          "quote_or_summary": "trek_duration: \"9 days / 55 km\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "total_distance",
+      "value": "55 km",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "trek_duration",
+          "quote_or_summary": "trek_duration: \"9 days / 55 km\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "max_altitude",
+      "value": "16,207 ft",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "highest_altitude",
+          "quote_or_summary": "highest_altitude: \"16,207 ft\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "basecamp_location",
+      "value": "Kotgaon, Uttarakhand",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "basecamp",
+          "quote_or_summary": "basecamp: \"Kotgaon, Uttarakhand\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "accommodation_type",
+      "value": "Tents (2-sharing), Homestay (gender-based)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "accommodation_type",
+          "quote_or_summary": "accommodation_type: \"Tents (2-sharing), Homestay (gender-based)\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "pickup_point",
+      "value": "Asli Pappu Da Dhaba, Dehradun",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "pickup_details",
+          "quote_or_summary": "pickup_details: \"Asli Pappu Da Dhaba, Dehradun at 6.30 AM\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "pickup_time",
+      "value": "6.30 AM",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "pickup_details",
+          "quote_or_summary": "pickup_details: \"Asli Pappu Da Dhaba, Dehradun at 6.30 AM\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "dropoff_point",
+      "value": "Asli Pappu Da Dhaba, Dehradun",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "dropoff_details",
+          "quote_or_summary": "dropoff_details: \"Asli Pappu Da Dhaba, Dehradun at 8 PM\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "dropoff_time",
+      "value": "8 PM",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "dropoff_details",
+          "quote_or_summary": "dropoff_details: \"Asli Pappu Da Dhaba, Dehradun at 8 PM\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "cloakroom_availability",
+      "value": "Available",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "cloakroom",
+          "quote_or_summary": "cloakroom: \"Available\"",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "offloading_availability",
+      "value": "Not Available",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "quick_info",
+          "source_field": "offloading",
+          "quote_or_summary": "offloading: \"Not Available\"",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

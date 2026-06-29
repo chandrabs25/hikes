@@ -1,0 +1,215 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "khopra-ridge-khayar-lake",
+  "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+  "section_type": "fitness",
+  "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers who are slow may struggle to keep up with the team",
+        "Being unfit causes you to miss out on the deep, transformative experience Indiahikes designs"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "You struggle to be a part of the team because you're slow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "You miss out on a deep, transformative experience that Indiahikes specially designs for you.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [
+        "Walk, jog, or run 5 km in under 32 minutes",
+        "At least 3 runs from the last 1 month must meet the trek's fitness criteria"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "To do the Khopra Ridge Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "Ensure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "approval_or_proof_requirements": {
+      "values": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date",
+        "Only running, jogging, or walking are accepted as fitness proofs; cross-training workouts are not considered valid",
+        "Upload a public profile link from apps like Strava or Nike Run Club showing at least 3 qualifying runs in the last month"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "Every trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "Paste your profile's link on your Indiahikes account (your profile has to be public). Ensure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "prep_window": {
+      "values": [
+        "6 to 8 weeks before the trek begins",
+        "A 6-week plan is provided for trekkers who are not currently active"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "If you are not currently active, follow the below schedule to get trek fit in 6 weeks!",
+          "confidence": "high"
+        }
+      ]
+    },
+    "exceptions_or_age_notes": {
+      "values": [
+        "Children below 14 years are not required to submit fitness records",
+        "Parents must ensure children below 14 remain physically active and prepared for the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "Children below 14 years are not required to submit fitness records.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "However, parents must ensure that children remain physically active and prepared for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "risk_if_unfit": {
+      "values": [
+        "You do not enjoy the trek",
+        "You struggle to keep up with the team because you are slow",
+        "You miss out on the deep, transformative experience Indiahikes designs",
+        "Fitness records may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month",
+        "Without fitness approval 20 days before the trek, you will not be allowed on the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "You do not enjoy the trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "You struggle to be a part of the team because you're slow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "You miss out on a deep, transformative experience that Indiahikes specially designs for you.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "If you fail to link your fitness profile; If you do not meet the required fitness level at least three times in the past month",
+          "confidence": "high"
+        },
+        {
+          "section_id": "khopra-ridge-khayar-lake::fitness_section::001",
+          "quote_or_summary": "Without this, you will not be allowed on the trek.",
+          "confidence": "high"
+        }
+      ]
+    }
+  },
+  "needs_review": []
+}

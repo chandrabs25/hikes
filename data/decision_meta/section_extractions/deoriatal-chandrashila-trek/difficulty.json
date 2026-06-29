@@ -1,0 +1,264 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "deoriatal-chandrashila-trek",
+  "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate Trek",
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate Trek\nSuitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners",
+        "First-time trekkers as well as experienced trekkers (altitude sickness can happen to anybody)"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Trekking on the Deoriatal Chandrashila trail in winter can be tricky",
+        "Hard frozen snow section from Baniyakund to Chandrashila summit",
+        "Snow section getting steeper as you approach the summit",
+        "Rain can flood the trails or make them too slushy to walk safely",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Trekking on the Deoriatal Chandrashila trail in winter can be tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "As you leave the campsite early in the morning, the snow will be hard, having frozen overnight. This snow section continues until you get to the Chandrashila summit, getting steeper as you approach the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Summit climb on Day 5 is the main steep/strenuous section",
+        "Daily ascents and descents, mostly gradual and steady except for the summit climb",
+        "Chandrashila summit snow section getting steeper as you approach the summit"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. But, they are mostly gradual and steady, except for the summit climb on Day 5.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "This snow section continues until you get to the Chandrashila summit, getting steeper as you approach the summit.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required",
+        "Trek Leaders and Technical Guides provide necessary guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Chandrashila summit at 12,083 ft; climb is gradual, making acclimatisation easy",
+        "Above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real",
+        "AMS can affect first-time and experienced trekkers alike",
+        "Even a fit person climbing too high too soon runs equal risk of AMS",
+        "Indiahikes team equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Even though the Chandrashila summit is at an altitude of 12,083 ft, the climb is gradual. This makes acclimatisation easy. Yet, stay prepared.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Chandrashila summit known for fast and strong winds; layering is important",
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them slushy and unsafe",
+        "Snowfall can obstruct paths, requiring fresh tracks to be cut",
+        "In Autumn, temperatures may plummet below zero; layering is key",
+        "Indiahikes technical team and Trek Leader monitor weather and may abort or turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "The Chandrashila summit is known for fast and strong winds. So make sure you are well-layered.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "In the Autumn season, the temperatures may plummet below zero. Layering well is the key.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Closest hospital is in Ukimath, about 15 km by road from Sari",
+        "For advanced treatment, Dehradun is the best option",
+        "For major medical emergencies, nearest hospital is in Mussoorie, almost 8-9 hours from base camp",
+        "Indiahikes team equipped with high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "The closest hospital is in Ukimath, which is about 15 km by road from Sari. However, for any advanced treatment, heading to Dehradun is the best option. However, for major medical emergencies, the nearest hospital is in Mussoorie, which is almost 8-9 hours away from the base camp of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Multiple entry and exit points throughout the trek: Chopta-Baniyakund roadhead to Sari; Rohini Bugyal via Baniyakund/Chopta to Sari",
+        "Safety is a shared responsibility; trekkers must actively participate in and follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "There are multiple entry and exit points throughout the trek. Chopta-Baniyakund roadhead to Sari; Rohini Bugyal via Baniyakund/Chopta to Sari",
+          "confidence": "high"
+        },
+        {
+          "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

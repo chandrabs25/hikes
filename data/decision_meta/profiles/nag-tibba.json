@@ -1,0 +1,145 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.409537+00:00",
+  "trek_id": "nag-tibba",
+  "trek_title": "Nag Tibba Weekend Trek",
+  "source_url": "https://indiahikes.com/nag-tibba",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 2,
+    "distance_km": 14.5,
+    "highest_altitude_ft": 9915,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Live Free Hostel, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Live Free Hostel, Dehradun",
+    "dropoff_time": "10 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "September",
+        "October",
+        "November",
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "December",
+        "January",
+        "February"
+      ],
+      "temperature_notes": []
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Well-defined trails but multiple trail junctions (3 trails near summit area) requiring a guide to stay on the correct path",
+        "Forest section on the summit climb adds a sense of thrill",
+        "From the shrine, the climb to the summit is challenging",
+        "Daily ascents and descents, mostly gradual and steady",
+        "Summit climb on Day 2 is the main strenuous section"
+      ],
+      "altitude_or_weather_risks": [
+        "Rapid altitude gain (4,652 ft to 9,915 ft) over 2 days makes trekkers prone to Acute Mountain Sickness (AMS) similar to longer Himalayan treks",
+        "At altitudes above 10,000 ft, AMS risk is real and can affect first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon run equal risk of AMS",
+        "Sustained rainfall can flood trails or make them slushy and unsafe to walk on",
+        "Sustained snowfall can obstruct existing paths, requiring fresh tracks to be cut in snow"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 5 km in under 35 minutes (minimum recommended fitness level)",
+        "Build cardiovascular endurance and muscle strength",
+        "Train core, calves, glutes, quadriceps, and hamstrings"
+      ],
+      "approval_requirements": [
+        "Screenshots must show consistency and meeting trek fitness criteria",
+        "Runs must meet trek fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (per Indiahikes downloadable training plan)",
+        "15 to 20 days before trek date for screenshot upload",
+        "Runs must meet criteria at least 3 times in the past month"
+      ]
+    },
+    "experience_themes": [
+      "Autumn: post-monsoon clear skies, brown/orange leaves, crisp pine-scented air",
+      "Winter: snow experience, camping and trekking in snow",
+      "Spring: melting snow at upper reaches, green grass, tiny flowers, rhododendron bloom",
+      "Summer: green colour palette, coniferous and oak trees, bright sunny forests and meadows",
+      "Post-monsoon clear skies washed clean of haze",
+      "Autumn: orange/brown colour palette from leaves"
+    ],
+    "primary_watchouts": [
+      "Well-defined trails but multiple trail junctions (3 trails near summit area) requiring a guide to stay on the correct path",
+      "Forest section on the summit climb adds a sense of thrill",
+      "From the shrine, the climb to the summit is challenging",
+      "Daily ascents and descents, mostly gradual and steady",
+      "Summit climb on Day 2 is the main strenuous section",
+      "Total ~14.5 km over two trekking days with ~5,263 ft altitude gain (4,652 ft to 9,915 ft)"
+    ],
+    "best_for": [
+      "Snow experience and camping in snow (December-February)",
+      "Autumn scenery with clear skies and orange/brown foliage (September-November)",
+      "Spring blooms including rhododendrons and wildflowers (mid-March to April)",
+      "Easy trek and family/children introduction to the Himalayas (May-June)",
+      "Summer getaway from plains heat (May-June)"
+    ],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "nag-tibba::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "nag-tibba::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "nag-tibba::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "nag-tibba::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "nag-tibba::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "nag-tibba::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "nag-tibba::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,332 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bali-pass-ruinsara-tal",
+  "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "First-time trekkers",
+        "Trekkers without prior high-altitude experience",
+        "Trekkers unable to handle long ascents/descents and strenuous days"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. Most days involve long trekking durations. The pass crossing day is especially strenuous.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascent to Bali Pass requiring expert guide",
+        "Knife-edge ridge with deep valleys on either side",
+        "Huge boulder sections on climb to Advance Base Camp",
+        "Extremely steep descent beyond the pass",
+        "Long arduous day from Advance Base Camp to Lower Damini across Bali Pass",
+        "Frequent river crossings with risk of washed-away bridges requiring rope and pulley"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The steep ascent to Bali Pass requires help from an expert guide.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The famous knife-edge ridge leading to Bali Pass is a tricky traversal. With deep valleys on either side of the ridge, the walk can be nerve wracking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The descent is extremely steep beyond the pass. The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The trail runs along rivers, requiring frequent crossings. Bridges may be washed away, needing a rope and pulley system.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep ascent to Bali Pass",
+        "Knife-edge ridge traversal to Bali Pass",
+        "Extremely steep climb to Advance Base Camp on huge boulders",
+        "Extremely steep descent beyond the pass",
+        "Long arduous pass-crossing day from Advance Base Camp to Lower Damini"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The steep ascent to Bali Pass requires help from an expert guide.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The famous knife-edge ridge leading to Bali Pass is a tricky traversal.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The climb to Advance Base Camp is extremely steep and involves trekking on huge boulders.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The descent is extremely steep beyond the pass. The entire day from Advance Base Camp to Lower Damini across the Bali Pass is long and arduous.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Ice axe useful in heavy snow",
+        "Scissor-bend approach recommended instead of straight-line climb",
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes and other technical gear where required",
+        "Rope and pulley system may be needed if bridges are washed away"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "While there are no crevasses, heavy snow makes an ice axe useful. Use a scissor-bend approach instead of a straight-line climb.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Indiahikes Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Bridges may be washed away, needing a rope and pulley system.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Bali Pass at 16,207 ft is one of the highest treks at Indiahikes",
+        "Proper acclimatization is crucial",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker regardless of fitness",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "At 16,207 ft, Bali Pass is one of the highest treks we run at Indiahikes. Proper acclimatization is crucial for a successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Snow possible even in summer, increasing difficulty and potentially making pass inaccessible",
+        "Rain can turn trails slushy and unsafe",
+        "Kotgaon is one of the coldest base villages and stays in shade due to blocking hill",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "On the Bali Pass trek, snow is a distinct possibility, especially during the summer. With snow, the trek becomes even more challenging. Too much snow can make the pass inaccessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Rain can turn the trails slushy and difficult to navigate safely.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Two exit points: before pass retrace to Taluka/Kotgaon; after pass descend to Lower Damini and exit at Janakichatti",
+        "Medical evacuation requires descent to Taluka or Janakichatti then vehicle to nearest medical help",
+        "Evacuation may take up to 24 hours due to deep valley and bad roads",
+        "Closest basic medical help at Mori and Purola (Kotgaon side) and Primary Healthcare Center at Janakichatti (Yamunotri side) - limited to basic injuries",
+        "Nearest major hospital is in Mussoorie or Dehradun, 6-7 hours from both Kotgaon and Janakichatti",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The Bali Pass trek has two exit points. Before crossing the Bali pass, your best bet is to retrace your way back to Taluka and Kotgaon. After crossing the Bali Pass, you can descend from Lower Damini and exit at Janakichatti.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "In case there are any medical emergencies, you have to descend to Taluka or Janakichatti and then take a vehicle to the closest medical help.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Evacuation may take up to 24 hours since you are deep in the valley and the roads connecting Kotgaon, Purola, Janakichatti and Rajgarhi are notoriously bad.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "For mild medical issues, the closest medical assistance can be found in Mori and then in Purola on the Kotgaon side. On the Yamunotri side, there is a Primary Healthcare Center at Janakichatti itself. However, these medical centers can only treat very basic injuries like simple fractures, sprains etc. However, for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 6-7 hours away from both Kotgaon and Janakichatti.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Pass crossing day is especially strenuous for the group",
+        "Knife-edge ridge can be nerve-wracking for trekkers uncomfortable with exposure",
+        "Group must be prepared for long trekking durations on most days",
+        "Group may need to turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The pass crossing day is especially strenuous.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "The famous knife-edge ridge leading to Bali Pass is a tricky traversal. With deep valleys on either side of the ridge, the walk can be nerve wracking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "Most days involve long trekking durations.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for: 'First-time trekkers' is inferred from the AMS note rather than an explicit statement that first-timers should not do this trek; flagged for review."
+  ]
+}

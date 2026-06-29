@@ -1,0 +1,288 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "ranthan-kharak-trek",
+  "section_id": "ranthan-kharak-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/ranthan-kharak-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "During spring, the trek can be done for the whole month of March and April. During summer, the trek can be done till the end of June. While in autumn it can be done from mid-September to the end of October.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "July",
+        "August",
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Ranthan Kharak trek is open for trekking during three seasons of the year - Spring, Summer and Autumn. The window period is the best for going all the way to Ranthan Kharak.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Autumn: sharper, crisper mountain views from Ranthan Top; trail changes from greens near base camp to yellows, oranges, and browns in meadows; magnificent ridge walk views",
+        "Summer: shades of green throughout the trek; wildflowers blooming on meadows and campsites in June; bright green grasslands with bright yellow flowers; mountain views open up on clear days",
+        "Spring: lush green forests with rhododendrons, trees, mushrooms, birds and animals; hidden waterfalls and water trickling through thickets; budding green grass with wildflowers; possible Rhododendron bloom (reds and pinks) at end of spring/beginning of summer"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The views are much sharper and crisper compared to the Summer season. This is something to witness from Ranthan Kharak. The magnificent views on both sides of the ridge walk are a delight!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "In this season you can observe different shades of green right throughout the trek. ... Wildflowers start blooming on the meadows and around the campsites when you hit June. The grasslands turn a bright shade of green interspersed with bright yellow flowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The forests here will be lush green with different varieties of rhododendrons, trees, mushrooms, birds and animals. You will walk on paths filled with hidden waterfalls, water trickling down your shoulders occasionally as you traverse through thickets till you arrive at Bajimanian Kharak.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow can start during the early weeks of November",
+        "Late weeks of April: snow towards Ranthan Kharak",
+        "May: snow starts to recede at higher altitudes",
+        "Spring: patches of snow as you ascend higher on the trek",
+        "End of October/start of November: chances of witnessing the first winter snowfall of the year if weather turns bad"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Snow can start during the early weeks of November",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "You will have snow during the late weeks of April towards the Ranthan Kharak. During May, snow starts to recede at higher altitudes",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "You will find patches of snow as you ascend higher on the trek",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "By the end of October or the start of November, if the weather turns bad, there are chances of witnessing the first winter snowfall of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Autumn: 12°C to 18°C (day); night can drop to 0°C; 4-5 warm layers required",
+        "Summer: 15°C to 20°C (day); night drops to almost 2°C; 3 warm layers required",
+        "Spring: 10°C to 15°C (day); night can hit sub-zero; 4-5 warm layers required; chilling winds after crossing Bajimanian Kharak"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Between 12 °C to 18 °C | Night Time Temperature: At night, the temperature can drop to 0 °C ... No. of warm layers required: 4-5 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Between 15 °C to 20 °C | Night Time Temperature: At night, the temperature drops to almost 2 °C ... No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Between 10 °C to 15 °C | Night Time temperature: At night, the temperature can hit sub-zero ... No. of warm layers required: 4-5 warm layers ... Be prepared for the cold by packing 4-5 warm layers. Keep your exposed parts warm from chilling winds, especially after crossing Bajimanian Kharak.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Autumn: mountain views from Ranthan Top are stunning; sharper and crisper views than summer; magnificent views on both sides of the ridge walk",
+        "Summer: mountain views start opening up on clear days",
+        "Spring: views of far-off mountains will not be crystal clear, but proximity gives a magnified view"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "However, the mountain views from Ranthan Top make it a stunning trek to do in Autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The views are much sharper and crisper compared to the Summer season. ... The magnificent views on both sides of the ridge walk are a delight!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Along with the different types of flora on the trek, the mountain views start opening up on clear days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The views of the far-off mountains will not be crystal clear. However, your proximity to them will anyway give you a magnified view.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Early Spring: may not be able to go all the way to Ranthan Kharak or may have to tackle/navigate sections of snow",
+        "End of October/start of November: weather can turn bad with chances of first winter snowfall",
+        "After crossing Bajimanian Kharak in Spring: chilling winds on exposed parts",
+        "Autumn season is shorter compared to summer"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "This might mean you not being able to go all the way to Ranthan Kharak or having to tackle/navigate sections of snow if you go a bit earlier in Spring.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "By the end of October or the start of November, if the weather turns bad, there are chances of witnessing the first winter snowfall of the year.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Keep your exposed parts warm from chilling winds, especially after crossing Bajimanian Kharak.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The autumn season is a shorter one as compared to summer.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Autumn trekkers seeking sharp, crisp mountain views from Ranthan Top and ridge walk vistas",
+        "Summer trekkers wanting wildflowers, lush green meadows, and clear-day mountain views",
+        "Spring trekkers seeking Rhododendron blooms, lush green forests, hidden waterfalls, and biodiversity"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Despite this, autumn is one of the best times to do the Ranthan Kharak trek. The views are much sharper and crisper compared to the Summer season.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Summer is one of the best times for trekking in the Kumaon region.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "Even just for this bloom of Rhododendrons, one must trek during Spring. The combination of reds and pinks is a dreamy setting to wonder about.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers wanting to go all the way to Ranthan Kharak in early Spring (snow may block or limit access)",
+        "Trekkers seeking crystal-clear far-off mountain views in Spring"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "This might mean you not being able to go all the way to Ranthan Kharak or having to tackle/navigate sections of snow if you go a bit earlier in Spring.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::best_time_section::001",
+          "quote_or_summary": "The views of the far-off mountains will not be crystal clear.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "rain_or_monsoon_risk",
+    "avoid_months"
+  ]
+}

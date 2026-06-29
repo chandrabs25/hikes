@@ -1,0 +1,279 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "goechala",
+  "section_id": "goechala::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/goechala",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult",
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Difficult; Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Experienced trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "73 km over 8 trekking days",
+        "Approximately 9,260 ft total altitude gain (5,840 ft to 15,100 ft)",
+        "Daily ascents, descents and boulder sections on steep, uneven trails",
+        "Most days involve longer trekking durations",
+        "Wooden path section from Tshoka into rhododendron forests",
+        "3 km uphill to Phedang where tree line ends and bush line starts",
+        "Day 7 Thansing to View Point One via Samiti Lake has rocky sections and boulders",
+        "Little vegetation after Samiti Lake",
+        "Verglas early in the morning making surfaces slippery due to morning dew"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 73 km in eight trekking days during which you will gain approximately 9,260 ft (5,840 ft to 15,100 ft). Every day will include ascents, descents and boulder sections on steep, uneven trails. Most days involve longer trekking durations",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Beyond the gradual climb continues into the rhododendron forests of Tshoka, you gain altitude rapidly. This section is on a wooden path. For 3 km you continue to trek uphill until you reach Phedang, where the tree line ends and the bush line starts.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "On Day 7 of the trek, you make your way from Thansing (12,910 ft) to View Point One (15,100 ft), via Samiti lake, and return to Thansing (12,910 ft). This day's trek has a lot of rocky sections, and boulders as well. Especially the section after Samiti Lake, there is little vegetation. You will also spot verglas early in the morning, which will be slippery due to the morning dew.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Summit day starts at midnight or around that time",
+        "Cold and darkness add to the difficulty of the summit day",
+        "Rapid altitude gain from Tshoka (9,790 ft) to Dzongri (13,190 ft) via Phedang (12,105 ft) of nearly 3,500 ft",
+        "About 4,000 ft gain in the first two days and almost 4,000 ft more on the third day at Dzongri"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Your summit day starts at midnight or around that time. The cold and darkness add to the difficulty of this day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "From Tshoka (9,790 ft) to Dzongri (13,190 ft) via Phedang (12,105 ft) , there is a sudden altitude gain of nearly 3,500 ft. This itself can be extremely challenging.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Overall, you gain about 4,000 ft in the first two days, and on the third day at Dzongri, you gain almost 4,000 ft more.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes Trek Leaders and Technical Guides provide guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Difficulty in breathing expected from Tshoka to Dzongri via Phedang",
+        "Phedang/Dzongri are points where trek leader can send a trekker back for AMS symptoms or lack of fitness",
+        "Rapid altitude increase makes trekkers very susceptible to AMS",
+        "At 13,190 ft at Dzongri on Day 3, climbers have gone too high too soon",
+        "Above 10,000 ft, AMS risk is real for anyone including first-time and experienced trekkers",
+        "Even fit people climbing too high too soon run equal risk of AMS",
+        "Indiahikes team equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "You will notice some difficulty in breathing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Phedang/ Dzongri are the points from where your trek leader can send a trekker back if he notices any symptoms of Acute Mountain Sickness or lack of fitness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "This rapid increase in altitude, along with the strain of the tre,k makes trekkers very susceptible to AMS. At 13,190 ft at Dzongri on Day 3, you have climbed too high, too soon.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Snowfall is a distinct possibility near Dzongri, especially in summer months or towards end of season in October",
+        "Snowfall can obstruct previously made paths requiring fresh tracks to be cut",
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them too slushy to walk safely",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "On the Goechala trek, snowfall is a distinct possibility near Dzongri. Especially in the summer months or towards the end of the season in October. Snowfall can obstruct previously made paths. This means fresh tracks have to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only one exit point at Yuksom",
+        "Nearest hospital is at Pelling, 30 km from base camp Yuksom",
+        "Small clinic in Yuksom usable only for first aid registration, not a full-fledged hospital",
+        "Serious medical attention requires going to Siliguri for better facilities",
+        "Indiahikes team ensures safety but safety is a shared responsibility",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Goechala has only one exit point - at Yuksom.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "If a medical emergency occurs on the Goechala Trek, the nearest hospital is at Pelling. This is 30 km from the base camp, Yuksom. There is a small clinic in Yuksom, but this can be used only to register first aid. This is not a full-fledged hospital. If you need serious medical attention, it is best to head down to Siliguri for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trek leader may send trekkers back from Phedang/Dzongri for AMS symptoms or lack of fitness",
+        "Team may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "Phedang/ Dzongri are the points from where your trek leader can send a trekker back if he notices any symptoms of Acute Mountain Sickness or lack of fitness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "goechala::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.403695+00:00",
+  "trek_id": "har-ki-dun",
+  "trek_title": "Har Ki Dun",
+  "source_url": "https://indiahikes.com/har-ki-dun",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 37.0,
+    "highest_altitude_ft": 11600,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "6 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing), Homestays (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "avoid_months": [
+        "July",
+        "August",
+        "December",
+        "January",
+        "February"
+      ],
+      "snow_or_rain_notes": [
+        "March (patches of snow from Kalkatiyadhar to Devsu Thatch)",
+        "End of October or November (first snowfall possible)",
+        "Mid-December (first snowfall usually)",
+        "Post-November heavy snow blocks trail beyond Kalkathiyadhar",
+        "Monsoon shuts down Govind Pashu Vihar Sanctuary for about 3 months"
+      ],
+      "temperature_notes": [
+        "Spring/Summer (March to June): Day 18-24°C, Night 3-8°C, 2 warm layers",
+        "Autumn/Winter (September to November): Day 8-10°C, Night 0 to -5°C, 5 warm layers"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners"
+      ],
+      "terrain_challenges": [
+        "Trail follows the Thamsa River with streams and rivers throughout",
+        "Wooden or cement bridges sometimes washed away, requiring rope and pulley crossings",
+        "Steep ascent to Kalkatiyadhar from Gangaad",
+        "Ledge walking and multiple boulder sections on the Kalkatiyadhar stretch",
+        "Daily ascents and descents across all five trekking days"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek starts at 6,900 ft and climbs to 11,600 ft",
+        "Reaches 10,032 ft on the second day at Kalkathiyadhar",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "Winter (December) snow can appear as soon as the trailhead, sometimes even from Taluka"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-week training plan)"
+      ]
+    },
+    "experience_themes": [
+      "Patches of snow in March from Kalkatiyadhar to Devsu Thatch",
+      "Abundance of flowers blooming in woods and meadows in April and May",
+      "Greener valley with frequent showers in late May and late June",
+      "Lush green valley in September after monsoons with clearer air",
+      "Greens turning brown then golden in October and November",
+      "First snowfall usually in mid-December with snowmen and snowball fights"
+    ],
+    "primary_watchouts": [
+      "Monsoon closes the trek for about 3 months",
+      "Heavy snow post-November blocks trail beyond Kalkathiyadhar making trek virtually impossible",
+      "Forest department shuts trek post-December until mid-March due to animal migration in Govind Pashu Vihar National Park and Wildlife Sanctuary",
+      "Indiahikes winds up trek operations by end of November",
+      "Trekkers during monsoon (July-August)",
+      "Trekkers during deep winter (December-February) when trail is blocked by heavy snow and forest department closure"
+    ],
+    "best_for": [
+      "Popular season trekkers (March to June)",
+      "Solitude seekers (September to December)",
+      "Flower and meadow lovers (April and May)",
+      "First snowfall and snow play enthusiasts (mid-December)"
+    ],
+    "not_ideal_for": [
+      "Trekkers during monsoon (July-August)",
+      "Trekkers during deep winter (December-February) when trail is blocked by heavy snow and forest department closure"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "har-ki-dun::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "har-ki-dun::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "har-ki-dun::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "har-ki-dun::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "har-ki-dun::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "har-ki-dun::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "har-ki-dun::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "har-ki-dun::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "har-ki-dun::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

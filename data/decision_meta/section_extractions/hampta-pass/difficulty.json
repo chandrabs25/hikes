@@ -1,0 +1,278 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "hampta-pass",
+  "section_id": "hampta-pass::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/hampta-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Uneven trails with daily ascents and descents",
+        "River crossings (gushing streams, Rani Nala up to waist-deep)",
+        "Bouldery moraine sections and multiple ledges/ridges near Hampta Pass",
+        "Slushy and slippery forest trails in heavy rain",
+        "Snow-covered trail sections even in June"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents on uneven trails. The river crossings on this trek can be especially challenging.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "You traverse multiple ledges and ridges, trekking continuously on bouldery moraine sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "In heavy rain, this trail can get slushy and slippery.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "You can expect a lot of snow here, even in June.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Final ascent from Balu ka Ghera to Hampta Pass is challenging",
+        "Descent from Hampta Pass is extremely steep with many switchbacks"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "The final day of ascent from Balu ka Ghera to Hampta Pass is challenging.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "The descent from Hampta Pass is extremely steep and has a lot of switchbacks.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Micro spikes, gaiters, helmets, and ropes provided by Indiahikes where required",
+        "Wooden log crossings over streams",
+        "Snow bridges may be used in June and July",
+        "Wooden bridges placed over most streams near Chhatru"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "in June and July, there may be snow bridges on which you can walk across the streams.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "you’ll find wooden bridges placed over most of them.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek reaches 14,065 ft; AMS risk above 10,000 ft",
+        "AMS can affect first-time and experienced trekkers alike",
+        "Fitness does not eliminate risk if ascent is too fast"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "The Hampta Pass trek is situated at 14,065 ft above sea level. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Prolonged rainfall or snowfall can change trek dynamics",
+        "June snow on Balu Ka Ghera trail makes it slippery",
+        "July–August rain makes trails slippery and increases river crossing force",
+        "Team may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "In June, when there is a lot of snow on the trail starting from Balu Ka Ghera, the trail can get slippery.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "In July and August, rain is a common occurrence. It makes the trail slippery and tricky. Moreover, the force of water at river crossings can increase, making it challenging to cross them.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes",
+        "Closest hospital: Mission Hospital, Manali",
+        "Alternate hospital: Manu Diagnostics Center and Hospital, Manali",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Mission Hospital in Manali is the closest one to Hampta Pass, in case of a medical emergency during the trek. Manu Diagnostics Center and Hospital, also in Manali, is another option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Pass-crossing trek with limited exit points",
+        "If pass not crossed, descend via Jobra to Manali",
+        "After crossing pass, must reach Chhatru before going to Manali via Rohtang Pass",
+        "Trekkers must actively follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "Hampta Pass, being a Pass-crossing trek, has limited exit points.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "If you haven’t crossed the pass, then head down Jobra before moving on to Manali.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "After crossing the pass, you’ll have to make it to Chhatru before heading to Manali via Rohtang Pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "hampta-pass::difficulty_section::001",
+          "quote_or_summary": "safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

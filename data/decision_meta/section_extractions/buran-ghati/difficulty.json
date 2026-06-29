@@ -1,0 +1,365 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "buran-ghati",
+  "section_id": "buran-ghati::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/buran-ghati",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers who cannot prepare well or lack stamina",
+        "Trekkers who climb too high too soon regardless of fitness",
+        "Trekkers who ignore pre-existing medical conditions or safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "This is a trek that demands good preparation and stamina.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high, too soon runs an equal risk of developing AMS",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for Fit Beginners",
+        "Demands good preparation and stamina",
+        "Taxing due to steep ascent at over 13,000 ft and boulder navigation"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "This is a trek that demands good preparation and stamina.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "This can be taxing.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Fit beginners",
+        "First-time trekkers (subject to AMS risk)",
+        "Experienced trekkers (subject to AMS risk)"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Boulder sections near the pass",
+        "Boulder field just after the pass crossing (snow-covered in May, exposed June onwards)",
+        "Small exposed section overlooking a river near the River campsite",
+        "Steep climb to the pass beyond Dhunda",
+        "Steep descent after the pass"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "You’ll need to negotiate boulder sections near the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Just after the pass-crossing, you need to navigate a boulder field. While this may be covered in snow in May, expect to face the boulders anytime from June onwards.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "the last camp is a small exposed section that overlooks a river, where you need to be careful while traversing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Beyond Dhunda, the trail climbs steeply to the pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "steep descent too.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep climb to the pass beyond Dhunda at over 13,000 ft",
+        "Steep descent after the pass crossing",
+        "Daily ascents and descents across seven trekking days",
+        "Approx. 2,000 ft altitude gain on most days"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Beyond Dhunda, the trail climbs steeply to the pass. And you need to navigate this ascent at an altitude of over 13,000 ft above sea-level. This can be taxing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "on most days you gain almost 2000 ft in altitude.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Microspikes provided for snow sections",
+        "Gaiters, helmets, and ropes provided where required",
+        "Use existing footholds; avoid making new paths on snow",
+        "Wear microspikes before stepping on hard snow to prevent slips and injuries"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Indiahikes' Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Wear microspikes before stepping on hard snow to prevent slips and injuries. Use existing footholds; avoid making new paths.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek starts at over 9,000 ft, higher than usual",
+        "Altitude gain of 5,585 ft (9,415 ft to 15,000 ft) over seven days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker",
+        "Fitness does not eliminate AMS risk if ascent is too fast",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "You start the trek at an altitude of over 9000 ft. This is higher than usual.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "The trek involves an altitude gain of 5,585 ft (9,415 ft to 15,000 ft) over seven trekking days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Heavy snow ahead of Litham early in the season",
+        "Steep snowy slopes after the pass crossing with sliding risk",
+        "Heavy rainfall can flood trails or make them slushy",
+        "Snowfall can obstruct existing paths, requiring fresh tracks",
+        "Trek may be aborted or turned back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Early in the season, expect a lot of snow ahead of Litham. This makes the situation more difficult than usual.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "After the pass-crossing, you will have to negotiate steep snowy slopes. Sometimes you can slide, sometimes not.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Heavy rainfall or snow can alter a lot of dynamics. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only two exit points: Janglik (before pass) and Barua (after pass)",
+        "Dayara and Litham are best turnaround points",
+        "From Dhunda, retracing back to Janglik is a long walk",
+        "Heading to Barua from Dhunda is extremely challenging due to pass crossing and steep descent",
+        "Closest hospital is Rohru (~50 km) with basic facilities; advanced care in Shimla (~100 km/4 hrs)",
+        "After pass, closest hospitals in Rampur Bushahr (basic); Shimla ~125 km/5 hrs",
+        "Trekkers must disclose pre-existing medical conditions to Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "There are only two exit points on the trek — Janglik before the pass crossing and Barua after the pass crossing.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Dayara and Litham campsites are the best places to decide to turn around.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "From Dhunda it will be a long walk back to Janglik. Heading to Barua will be extremely challenging, given the pass crossing to be tackled and steep descent too.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "the closest hospital is Rohru which lies approximately 50 km away. However, the treatment facilities are basic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "For any advanced treatment, head to Shimla which is 100 km/4 hours away.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "the closest hospitals are located in Rampur Bushahr.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Shimla is the place to head for any advanced treatment. It’s a 125 km/5 hour drive from Rampur.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trekkers must actively participate in safety protocols",
+        "Trekkers should follow Trek Leader and Technical Guide instructions on snow and boulder sections",
+        "Trekkers should not create new paths on snow",
+        "Trekkers must disclose pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "safety is a shared responsibility. We need your active participation and attention to safety protocols",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Indiahikes' technical team will guide trekkers and create footholds.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Use existing footholds; avoid making new paths.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

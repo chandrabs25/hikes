@@ -1,0 +1,307 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kedartal",
+  "section_id": "kedartal::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/kedartal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascent right from the start of the trek, gaining 2,000 ft at a climb of nearly 45-50 degrees",
+        "Spider wall section: a steep rock face at almost 90 degrees, traversed on the first day",
+        "Rockfall zone within 400 m of starting the second day, a scree section requiring a steep descent",
+        "River crossing soon after the rockfall zone on the second day",
+        "Extremely steep final ascent to the glacial lake on the summit day",
+        "Extremely slippery scree section on the return descent from Kedar Kharak to Gangotri"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Right from the time you begin your trek, there is a steep ascent. Very few treks in the country start like this. You gain 2,000 ft almost instantaneously and the climb is nearly 45-50 degrees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "You trek through pine and birch forests until you reach the spider wall section. The spider wall section is a steep rock face that is almost at an angle of 90 degrees. You traverse this section on the first day itself.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "On the second day’s trek, just as you start, within 400 m, there is a rockfall zone. It is basically a scree section, and you need to navigate a steep descent here. Soon after this, there is a river crossing as well.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The summit day is not as difficult as the previous two days, but the sheer altitude makes it challenging. The final ascent to the glacial lake is extremely steep.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "There is also an extremely slippery scree section, so descending is a challenge.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Every day includes steep ascents or descents and boulder sections",
+        "Total distance ~22.4 km over five trekking days",
+        "Total elevation gain ~5,950 ft (from 10,050 ft to 16,000 ft)",
+        "First day: steep ascent of 2,000 ft at 45-50 degrees",
+        "Spider wall section at ~90 degrees on day 1",
+        "Steep descent through rockfall/scree zone within 400 m on day 2",
+        "Extremely steep final ascent to the glacial lake on summit day",
+        "Slippery scree descent on the return from Kedar Kharak to Gangotri"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Every day will include steep ascents or descents and boulder sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 22.4 km in five trekking days during which you will gain approximately 5,950 ft (10,050 ft to 16,000 ft).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "You gain 2,000 ft almost instantaneously and the climb is nearly 45-50 degrees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The spider wall section is a steep rock face that is almost at an angle of 90 degrees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "there is a rockfall zone. It is basically a scree section, and you need to navigate a steep descent here.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The final ascent to the glacial lake is extremely steep.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "There is also an extremely slippery scree section, so descending is a challenge.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides Trek Leaders and Technical Guides for guidance and support",
+        "Technical gear provided by Indiahikes where required includes micro spikes, gaiters, helmets, and ropes"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Gangotri basecamp is at 10,050 ft; trek reaches up to 16,000 ft",
+        "Risk of Acute Mountain Sickness (AMS) on this trek even with an acclimatisation day",
+        "First day alone adds another 3,000 ft of gain from Gangotri",
+        "At altitudes above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers for altitude emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Gangotri, situated 10,050 ft above sea-level, is our highest basecamp. Even with an extra day factored in for acclimatisation, you are prone to Acute Mountain Sickness (AMS) on this trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Starting from Gangotri, you gain another 3000 ft on the first day of the trek itself. This is challenging for any trekker.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change the trek dynamic",
+        "Rain can flood trails or make them too slushy to walk safely on",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "In Autumn, temperatures plummet below zero; strong winds can take a toll without proper layering",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "In the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only one exit point on the trail: Gangotri (basecamp), making evacuation challenging",
+        "Primary Health Care Center in Harsil (~25 km from Gangotri) with very basic facilities",
+        "District Hospital in Uttarkashi (~100 km by road from Gangotri) for better facilities",
+        "Dehradun is the best option for advanced treatment",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform the Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The only exit point on the Kedartal Trek is Gangotri (basecamp). With only one exit point on the trail, evacuation in case of emergency becomes challenging on the Kedartal Trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "There is a Primary Health Care Center in Harsil, about 25 km from Gangotri However, it has very basic facilities. For better facilities, you need to approach the District Hospital in Uttarkashi, which is about 100 kms by road from Gangotri. However, for any advanced treatment, heading to Dehradun is the best option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Several difficult sections require trekkers to be alert and trek carefully",
+        "Safety is treated as a shared responsibility; trekkers must actively follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "There are several difficult sections on this trek that require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedartal::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

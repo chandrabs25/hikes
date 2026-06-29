@@ -1,0 +1,509 @@
+{
+  "schema_version": "rendered_structure_v1",
+  "trek_id": "gurez-valley-trek",
+  "trek_title": "Gurez Valley Trek",
+  "source_url": "https://indiahikes.com/gurez-valley-trek",
+  "inferred_at": "2026-06-27T16:41:33.857749+00:00",
+  "has_complete_trek_information": true,
+  "page_title": "Gurez Valley Trek 2026 | Kashmir’s Remotest Trek",
+  "h1": "GUREZ VALLEY TREK",
+  "root_text_preview": "Gurez Valley - Complete Trek Information share link Share Link A DIY trek, as the name suggests, is a Do-It-Yourself trek. You manage everything — you set up camp where you want to, you cook your own meals, you navigate the trail using GPS maps, and you trek at your own pace. A Trek Leader from Indiahikes accompanies you on the trek. Their job is to look into your safety. They carry all emergency safety equipment, including life-saving drugs. If you find it challenging to navigate the trail, the Trek Leader steps in. The Trek Leader is as much a part of the DIY trek as the others. It is true that the Trek Leader is in charge of the team, but their role is more consultative than authoritative. Quick Itinerary Get your trek plan toggle accordion How Does Each Day Look Complete day-wise guide with photos toggle accordion How Difficult is the Gurez Valley Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion Best Time to do the Gurez Valley Trek Time your trek well toggle accordion How to Reach the Base Camp Plan your travel toggle accordion What is the Indiahikes Camping Experience Like ? Stay, Food, Toilet and Safety on an Indiahikes Trek toggle accor",
+  "anchors": [
+    {
+      "id": "quick-itinerary",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2265,
+      "visible": false
+    },
+    {
+      "id": "detailed-itinerary",
+      "tag": "div",
+      "ui_key": "detailed_itinerary",
+      "text_preview": "",
+      "top": 2325,
+      "visible": false
+    },
+    {
+      "id": "howEachDaySection",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7 Previous Next1234Day 1 (Pick-up day) - Srinagar to Dawar (Gurez)Trek Duration: 6-7 hours | Drive Distance: 141 kmAltitude gain: 5,220 ft to 7,870 ft via 11,550 ftGurez (Dawar) is about",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example",
+      "tag": "ul",
+      "ui_key": "other",
+      "text_preview": "Day 1Day 2Day 3Day 4Day 5Day 6Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 1",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 1",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 2",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 2",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 3",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 3",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 4",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 4",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 5",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 5",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 6",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 6",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tab-Day 7",
+      "tag": "button",
+      "ui_key": "other",
+      "text_preview": "Day 7",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 1",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 1 (Pick-up day) - Srinagar to Dawar (Gurez)Trek Duration: 6-7 hours | Drive Distance: 141 kmAltitude gain: 5,220 ft to 7,870 ft via 11,550 ftGurez (Dawar) is about 140 km north from Srinagar taking a",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 1 (Pick-up day) - Srinagar to Dawar (Gurez)",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 2",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 2: Trek from Dawar to DisonTrek Duration: 5-6 hours | Trek Distance: 5 kmAltitude gain: 7,870 ft to 10,340 ftToday is a short but exciting day! You start by walking for a short distance of around 500",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 2: Trek from Dawar to Dison",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 3",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 3: Trek from Dison to KhaariTrek Duration: 6 hours | Trek Distance: 8 kmAltitude gain: 11,340 ft to 11,300 ft via 11,700 ftToday you’ll start inching towards the higher altitude of 11,300 ft. Though ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 3: Trek from Dison to Khaari",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 4",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 4: Trek from Khaari to Patalwansar Lake I via Patalwansar Lake IITrek Duration: 6-7 hours | Trek Distance: 8 kmAltitude gain: 11,300 ft to 12,650 ft via 12,795 ftToday is an adventurous day! You’ll t",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 4: Trek from Khaari to Patalwansar Lake I via Patalwansar Lake II",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 5",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next1234Day 5: Trek from Patalwansar I to DisonTrek Duration: 7 hours | Trek DIstance: 12 kmAltitude loss: 12,650 ft to 10,340 ftToday is a long day. You will be trekking for almost 12 km, all in descent. Start ",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 5: Trek from Patalwansar I to Dison",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 6",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "Previous Next123Day 6: Trek Dison to Dawar. Drive from Dawar to SrinagarTrek Duration: 3 hours | Trek Distance: 4.6 km Drive Duration: 6-7 hours | Drive Distance: 141 kmAltitude loss: 10,340 ft to 5,220 ftIt’s the last d",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 6: Trek Dison to Dawar. Drive from Dawar to Srinagar",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "uncontrolled-tab-example-tabpane-Day 7",
+      "tag": "div",
+      "ui_key": "travel",
+      "text_preview": "Previous NextDay 7: Buffer DayFor all your travel plans include a buffer day to accommodate bad weather on the trek/political instability. This depends completely on the circumstances of the trek and the situation in Kas",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "howDoeseachday",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Day 7: Buffer Day",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "trek-difficulty",
+      "tag": "div",
+      "ui_key": "difficulty",
+      "text_preview": "",
+      "top": 2385,
+      "visible": false
+    },
+    {
+      "id": "best-time",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2445,
+      "visible": false
+    },
+    {
+      "id": "how-to-reach",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2505,
+      "visible": false
+    },
+    {
+      "id": "camping_experience",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2565,
+      "visible": false
+    },
+    {
+      "id": "stay_options",
+      "tag": "div",
+      "ui_key": "other",
+      "text_preview": "",
+      "top": 2625,
+      "visible": false
+    },
+    {
+      "id": "what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "",
+      "top": 2685,
+      "visible": false
+    },
+    {
+      "id": "trek-what-to-pack",
+      "tag": "div",
+      "ui_key": "packing",
+      "text_preview": "Packing ChecklistMandatory DocumentsPersonal Medical KitPacking ChecklistGiven below is a list of all the gear you need for the Gurez Valley trek:If you don’t have certain items, you can rent high-quality gear like trekk",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-packing-checklist",
+      "tag": "h3",
+      "ui_key": "packing",
+      "text_preview": "Packing Checklist",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-mandatory-documents",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Mandatory Documents",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "section-personal-medical-kit",
+      "tag": "h3",
+      "ui_key": "other",
+      "text_preview": "Personal Medical Kit",
+      "top": 0,
+      "visible": false
+    },
+    {
+      "id": "getting-fit",
+      "tag": "div",
+      "ui_key": "fitness",
+      "text_preview": "",
+      "top": 2745,
+      "visible": false
+    },
+    {
+      "id": "faq",
+      "tag": "div",
+      "ui_key": "faqs",
+      "text_preview": "",
+      "top": 2805,
+      "visible": false
+    }
+  ],
+  "ui_sections": [
+    {
+      "ui_section_id": "gurez-valley-trek::ui::001-gurez-valley-complete-trek-information",
+      "ui_key": "other",
+      "label": "Gurez Valley - Complete Trek Information",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2044
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::002-share-link-share-link",
+      "ui_key": "other",
+      "label": "share link Share Link",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2054
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary Get your trek plan toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2385
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::004-quick-itinerary",
+      "ui_key": "quick_itinerary",
+      "label": "Quick Itinerary",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2385
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::005-how-does-each-day-look-complete-day-wise-guide-with-photos-t",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look Complete day-wise guide with photos toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2445
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::006-how-does-each-day-look",
+      "ui_key": "detailed_itinerary",
+      "label": "How Does Each Day Look",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2445
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::007-how-difficult-is-the-gurez-valley-trek-what-to-expect-in-ter",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Gurez Valley Trek What to Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2505
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::008-how-difficult-is-the-gurez-valley-trek",
+      "ui_key": "difficulty",
+      "label": "How Difficult is the Gurez Valley Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2505
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::009-best-time-to-do-the-gurez-valley-trek-time-your-trek-well-to",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Gurez Valley Trek Time your trek well toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2565
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::010-best-time-to-do-the-gurez-valley-trek",
+      "ui_key": "best_time",
+      "label": "Best Time to do the Gurez Valley Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2565
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::011-how-to-reach-the-base-camp-plan-your-travel-toggle-accordion",
+      "ui_key": "travel",
+      "label": "How to Reach the Base Camp Plan your travel toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2625
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::012-how-to-reach-the-base-camp",
+      "ui_key": "other",
+      "label": "How to Reach the Base Camp",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2625
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::013-what-is-the-indiahikes-camping-experience-like-stay-food-toi",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ? Stay, Food, Toilet and Safety on an Indiahikes Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2685
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::014-what-is-the-indiahikes-camping-experience-like",
+      "ui_key": "camping",
+      "label": "What is the Indiahikes Camping Experience Like ?",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2685
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::015-stay-options-for-gurez-valley-trek-budget-and-premium-stay-o",
+      "ui_key": "stay",
+      "label": "Stay Options for Gurez Valley Trek Budget and Premium Stay Options that Trekkers Recommend toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2745
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::016-stay-options-for-gurez-valley-trek",
+      "ui_key": "stay",
+      "label": "Stay Options for Gurez Valley Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2745
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::017-what-to-pack-for-your-trek-things-you-must-take-on-the-trek-",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek Things you must take on the trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2805
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::018-what-to-pack-for-your-trek",
+      "ui_key": "other",
+      "label": "What to Pack for Your Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2805
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::019-how-to-get-fit-for-the-gurez-valley-trek-a-6-week-plan-to-he",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Gurez Valley Trek A 6-Week Plan to Help You Get Trek-Fit for the Gurez Valley Trek toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2865
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::020-how-to-get-fit-for-the-gurez-valley-trek",
+      "ui_key": "fitness",
+      "label": "How to Get Fit for the Gurez Valley Trek",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2865
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::021-frequently-asked-questions-get-your-questions-answered-here-",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+      "tag": "button",
+      "href": "",
+      "dom_id": "",
+      "top": 2925
+    },
+    {
+      "ui_section_id": "gurez-valley-trek::ui::022-frequently-asked-questions",
+      "ui_key": "faqs",
+      "label": "Frequently Asked Questions",
+      "tag": "h2",
+      "href": "",
+      "dom_id": "",
+      "top": 2925
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::faq_group-003",
+  "section_type": "faq_group",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "geography_and_logistics",
+      "field": "basecamp_location",
+      "value": "Lohajung guest house",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "The guest house at Lohajung will have concrete toilets.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "The last charging point would be at our basecamp in Lohajung.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Since you will be starting and returning to the guest house at Lohajung, it is possible for you to leave some luggage behind, if required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "basecamp_toilet_facilities",
+      "value": "Concrete toilets",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "The guest house at Lohajung will have concrete toilets.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "on_trek_toilet_facilities",
+      "value": "Toilet tents (2-4 depending on group size) with deep pit dry toilets; soil mound and shovel provided; plain toilet paper required",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "During the trek, toilet tents will be set up along each campsite. There will be 2 to 4 of these toilet tents depending on the size of the group. A toilet tent will have a deep pit, where one can answer nature’s call. There will be a mound of soil and a shovel to cover it up. These are dry toilets, where you’ll have to use toilet paper.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "environmental_toilet_note",
+      "value": "Wet wipes are prohibited as they are not biodegradable",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Please use plain toilet paper and refrain from using wet wipes since these are not biodegradable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_availability",
+      "value": "Campsites are pitched near water sources; 2 litres is sufficient for a day's trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Our campsites are pitched near water sources. For your day’s trek, two litres of water should be enough.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "water_refill_points",
+      "value": "One water source available on Day 2 and Day 5",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "On Day 2 and Day 5, you will find one water source to refill your water bottles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "mobile_connectivity",
+      "value": "Signals at Lohajung for most networks; intermittent in mountains",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "You will get mobile signals at Lohajung for most networks. Signals will be intermittent in the mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "electricity",
+      "value": "Last charging point at basecamp in Lohajung; power cuts possible",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "The last charging point would be at our basecamp in Lohajung. However, come prepared for the possibility of power cuts at Lohajung.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "nearest_atm",
+      "value": "Rishikesh",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Rishikesh is your best bet to make last-minute cash withdrawals.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "cash_requirement",
+      "value": "Rs 4,000-5,000 recommended for transport to basecamp, rental gear deposit, and personal expenses en route; more if visiting attractions after the trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "We advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp. If you are planning to visit other attractions after the trek, we advise you to carry more.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "inclusions_at_basecamp",
+      "value": "Meals, accommodations, permits, and related expenses covered by Indiahikes once at basecamp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "If you’re an Indiahikes trekker, there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "basecamp_luggage_storage",
+      "value": "Extra luggage can be left at guest house in Lohajung; valuables should not be left",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Since you will be starting and returning to the guest house at Lohajung, it is possible for you to leave some luggage behind, if required. However, make sure you do not leave any valuables - Indiahikes is not responsible for loss or damage to any belongings.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "start_end_point",
+      "value": "Lohajung guest house",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Since you will be starting and returning to the guest house at Lohajung...",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "duration_indicators",
+      "value": "Day 2 and Day 5 are explicitly referenced",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "On Day 2 and Day 5, you will find one water source to refill your water bottles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "water_refill_days",
+      "value": [
+        "Day 2",
+        "Day 5"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "On Day 2 and Day 5, you will find one water source to refill your water bottles.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "communication_advice",
+      "value": "Finish important calls at Lohajung; inform family about limited phone connectivity",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "So finish all your important calls at Lohajung and inform anxious family members about limited phone connectivity.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "cash_advice",
+      "value": "Carry Rs 4,000-5,000 in cash for pre-basecamp expenses; carry more for post-trek attractions",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "We advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp. If you are planning to visit other attractions after the trek, we advise you to carry more.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "toiletry_advice",
+      "value": "Use plain toilet paper only; do not bring wet wipes",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Please use plain toilet paper and refrain from using wet wipes since these are not biodegradable.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "recommendation_profile",
+      "field": "luggage_advice",
+      "value": "Extra luggage may be left at the Lohajung guest house, but do not leave valuables",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Since you will be starting and returning to the guest house at Lohajung, it is possible for you to leave some luggage behind, if required. However, make sure you do not leave any valuables - Indiahikes is not responsible for loss or damage to any belongings.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "connectivity_risk",
+      "value": "Mobile signals are intermittent in the mountains",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Signals will be intermittent in the mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "power_risk",
+      "value": "Possible power cuts at Lohajung basecamp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "However, come prepared for the possibility of power cuts at Lohajung.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "cash_dependency",
+      "value": "Cash required for transport and rentals before reaching basecamp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "We advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "belongings_risk",
+      "value": "Indiahikes is not responsible for loss or damage to belongings left at basecamp",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "However, make sure you do not leave any valuables - Indiahikes is not responsible for loss or damage to any belongings.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "sustainability_practices",
+      "value": "Dry toilet system with deep pit and soil cover; prohibition of non-biodegradable wet wipes; reference to Green Trails waste management",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "A toilet tent will have a deep pit, where one can answer nature’s call. There will be a mound of soil and a shovel to cover it up. These are dry toilets...",
+          "confidence": "high"
+        },
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "Please use plain toilet paper and refrain from using wet wipes since these are not biodegradable.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "What Happens To Your Poop in the Mountains? | Green Trails | Indiahikes",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "experience_themes",
+      "field": "accommodation_type",
+      "value": "Guest house at basecamp; toilet tents at campsites",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "The guest house at Lohajung will have concrete toilets.",
+          "confidence": "high"
+        },
+        {
+          "source_section": "ali-bedni-bugyal-trek::faq_group-003",
+          "source_field": "faqs[10:15]",
+          "quote_or_summary": "During the trek, toilet tents will be set up along each campsite.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "identity",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    },
+    {
+      "category": "difficulty",
+      "field": "difficulty",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    },
+    {
+      "category": "fitness",
+      "field": "fitness",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "age_and_group_suitability",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    },
+    {
+      "category": "seasonality",
+      "field": "seasonality",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    },
+    {
+      "category": "comparison_axes",
+      "field": "comparison_axes",
+      "value": null,
+      "status": "insufficient_evidence",
+      "confidence": "low",
+      "evidence": []
+    }
+  ],
+  "needs_review": []
+}

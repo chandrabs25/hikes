@@ -1,0 +1,136 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.396865+00:00",
+  "trek_id": "brammah-valley-trek",
+  "trek_title": "Brammah Valley Trek",
+  "source_url": "https://indiahikes.com/brammah-valley-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 7,
+    "distance_km": 48.5,
+    "highest_altitude_ft": 11600,
+    "min_age": 11,
+    "max_age": 62,
+    "fitness_required_distance_km": null,
+    "fitness_required_time_min": null,
+    "pickup_city": "Shalamar Road, Indira Chowk, Ranbir Market, Jammu City",
+    "pickup_time": "3.00 AM",
+    "dropoff_city": "7.00 PM",
+    "dropoff_time": null,
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": null
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "May",
+        "June",
+        "September"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow in upper reaches in May and June (not necessarily on the trail)",
+        "No snow on the trail in September",
+        "Odd snowfall on high mountain peaks as autumn arrives",
+        "Light showers expected at end of June",
+        "Occasional showers possible in early September"
+      ],
+      "temperature_notes": [
+        "May–June daytime: 18–24 °C; nighttime: 3–8 °C",
+        "September daytime: 8–10 °C; nighttime: 0 to -5 °C",
+        "2 warm layers required in May–June",
+        "5 warm layers required in September"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate"
+      ],
+      "experience_suitability": [
+        "Suitable for fit beginners"
+      ],
+      "terrain_challenges": [
+        "Long trekking days of 8 to 10 km, sometimes 12 to 13 km",
+        "Multiple stream crossings with no bridges requiring nimble footwork",
+        "Narrow ledge sections (not too technical, guided by team)",
+        "Boulder sections on most days",
+        "Last two days are long and all downhill, hard on knees"
+      ],
+      "altitude_or_weather_risks": [
+        "Summit reaches 11,600 ft; start around 6,000 ft; gain about 2,000 ft per day, which helps acclimatization",
+        "Altitude sickness is less likely due to slow gain",
+        "Above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real and can affect any trekker regardless of fitness",
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy, snowfall can obstruct paths requiring fresh tracks",
+        "Kedar Maidan campsite sits on a river delta and can be flooded by heavy rain"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes (minimum recommended fitness level)",
+        "Build cardiovascular endurance and muscle strength",
+        "Train core, calves, glutes, quadriceps, and hamstrings"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting the trek's fitness criteria",
+        "Runs must meet the trek's fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-Week Training Plan designed by Prathima Chhabria and Gautam Singh)",
+        "Upload fitness screenshots 15 to 20 days before the trek date",
+        "Runs must meet criteria at least 3 times in the past month"
+      ]
+    },
+    "experience_themes": [
+      "Greener valley with patches of snow in upper reaches in May and June",
+      "Clearer skies with light showers expected at end of June",
+      "Trekking under shade of tall pine trees next to the gushing Nath River",
+      "Lush green valley after monsoons in September",
+      "Clearer air offering better views of surrounding landscapes in September",
+      "Crisp chill in the air as autumn arrives"
+    ],
+    "primary_watchouts": [
+      "Very short accessibility window during the year",
+      "Light showers at end of June",
+      "Occasional showers in early September",
+      "Sub-zero night temperatures in September",
+      "Long trekking days of 8 to 10 km, sometimes 12 to 13 km",
+      "Multiple stream crossings with no bridges requiring nimble footwork"
+    ],
+    "best_for": [],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "brammah-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "brammah-valley-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "brammah-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "brammah-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "brammah-valley-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "brammah-valley-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

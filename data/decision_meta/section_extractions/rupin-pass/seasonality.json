@@ -1,0 +1,316 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "rupin-pass",
+  "section_id": "rupin-pass::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/rupin-pass",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-May to end of June (Summer)",
+        "mid-September to mid-October (Autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "During summer, the trek can be done from mid-May to the end of June. While in autumn it can be done from mid-September to mid-October. These are the best times to do the Rupin pass trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "mid-October onwards (autumn season ends)",
+        "July and August (monsoon, not listed as open)"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the autumn season by the mid of October.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The monsoons are just fading and the entire valley from Jiskun has turned green.",
+          "confidence": "low"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Snow bridges (including the massive Rupin Waterfall snow bridge)",
+        "Snowfields and snow slides from Dhanderas Thatch to Ronti Gad",
+        "White moonscape-like snowfields at Rata Pheri in May",
+        "Combination of greenery and snow in first half of June",
+        "Resplendent green meadows with wildflowers at Dhanderas Thatch in early June",
+        "Hundreds of waterfalls along the trail in autumn",
+        "Blooming wildflowers at Saruwas Thatch and Dhanderas Thatch in autumn",
+        "Valley turning golden by October in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Rupin Pass is one of those rare treks which has lots of snow bridges. Almost every summer, you will find your first snow bridge right after the forest section beyond Jakha",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The famous 3 stage Rupin Waterfall also has a massive snow bridge that you use to climb the waterfall. This snow bridge stays the whole summer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The snowfields of Rata Pheri in May look no less than a white moonscape.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The first half of June is our favourite period to trek Rupin Pass. This is the time when we get a wonderful combination of greenery and snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The meadow is in resplendent green with wildflowers blooming.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Hundreds of waterfalls appear out of nowhere all along the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The meadows of Saruwas Thatch and Dhanderas Thatch are blooming with wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "As we move towards October, you'll see the valley turning golden from the green that it was a few weeks ago.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Summer: snow from Lower Waterfall campsite in May; from Upper Waterfall in June; Dhanderas Thatch to Ronti Gad mostly under snow until last week of May; upper stretches (Rata Pheri to Ronti Gad) still under snow in second half of June",
+        "Autumn: snow mostly missing; frost at Upper Waterfall campsite; chances of snowfall at Rupin Pass when weather goes bad; first snows of the season hit the pass around middle of October"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "You will find snow from the Lower Waterfall campsite in the month of May. During June, you can expect snow from Upper Waterfall.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Until the last week of May, the section of the trek from Dhanderas Thatch to Ronti Gad is mostly under snow cover.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The upper stretches from Rata Pheri to Ronti Gad are still under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The snow is mostly missing in the Autumn season",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Somewhere around the middle of October, the first snows of the season hit the pass.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon season (July-August) is not listed as an open season; autumn begins as monsoons fade"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The monsoons are just fading and the entire valley from Jiskun has turned green.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer: daytime 13°C to 17°C; night drops to zero at higher campsites; 4 warm layers required",
+        "Autumn: daytime 12°C to 16°C; night drops to zero to -4 to -5°C at higher campsites; 4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Day time: Between 13 °C and 17 °C | Night time temperature: Will drop to zero at higher campsite",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 16 °C | Night time temperature: Will drop to zero to -4 to -5 °C at higher campsite",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "White moonscape-like snowfields at Rata Pheri in May",
+        "Green valley from Jiskun with hundreds of waterfalls in autumn",
+        "Blooming wildflower meadows at Saruwas Thatch and Dhanderas Thatch in autumn",
+        "Valley turning golden by October"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The snowfields of Rata Pheri in May look no less than a white moonscape.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The entire valley from Jiskun has turned green. Hundreds of waterfalls appear out of nowhere all along the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The meadows of Saruwas Thatch and Dhanderas Thatch are blooming with wildflowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "As we move towards October, you'll see the valley turning golden from the green that it was a few weeks ago.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "First snows around middle of October make trekking dangerous and difficult; Indiahikes winds up autumn season by mid-October",
+        "Snow bridge and snow sections require caution in summer",
+        "Night temperatures drop to zero or below at higher campsites in both seasons"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Somewhere around the middle of October, the first snows of the season hit the pass. This makes trekking Rupin pass dangerous and difficult.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the autumn season by the mid of October.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Night time temperature: Will drop to zero at higher campsite",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking a classic snow experience (summer)",
+        "Trekkers wanting a combination of greenery and snow (first half of June)",
+        "Trekkers seeking waterfalls, wildflower meadows, and golden valley views (autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "Summer is traditionally the favourite time to trek to Rupin Pass. It's popular in summer because of the fantastic snow experience the trek offers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The first half of June is our favourite period to trek Rupin Pass. This is the time when we get a wonderful combination of greenery and snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The autumn season brings in a whole new set of attractions on the Rupin Pass trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers planning beyond mid-October (autumn season ends)",
+        "Trekkers seeking guaranteed snow in autumn (snow mostly missing)"
+      ],
+      "evidence": [
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "At Indiahikes, we wind up the autumn season by the mid of October.",
+          "confidence": "medium"
+        },
+        {
+          "section_id": "rupin-pass::best_time_section::001",
+          "quote_or_summary": "The snow is mostly missing in the Autumn season",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

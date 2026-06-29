@@ -1,0 +1,276 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bhrigu-lake",
+  "section_id": "bhrigu-lake::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/bhrigu-lake",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Uneven trails with daily ascents and descents",
+        "Extremely steep climb from Gulaba to Jonker Thatch gaining almost 3500 ft over 2 km",
+        "Continuous descent from Rola Kholi to Gulaba on the last day that is hard on the knees",
+        "Trail fades in meadows making it easy to get lost",
+        "Forest trail ahead of Gulaba gets mushy and difficult to climb in rain"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents on uneven trails.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The climb from Gulaba to Jonker Thatch is extremely steep. You gain almost 3500 ft in elevation over just 2 km of trekking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "On the last day of the trek, you descend continuously to Gulaba all the way from Rola Kholi. While this makes the trek a little easier than the usual 4000 ft descent to Vashisht, it is still hard on your knees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The trail fades in meadows. It is easy to get lost, making solo trekking risky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The forest trail ahead of Gulaba gets especially mushy and difficult to climb.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Gulaba to Jonker Thatch: extremely steep, ~3500 ft gain over 2 km",
+        "Rola Kholi to Gulaba: continuous descent hard on knees"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The climb from Gulaba to Jonker Thatch is extremely steep. You gain almost 3500 ft in elevation over just 2 km of trekking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "On the last day of the trek, you descend continuously to Gulaba all the way from Rola Kholi. While this makes the trek a little easier than the usual 4000 ft descent to Vashisht, it is still hard on your knees.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes wherever required",
+        "Wear shoes with good grip to avoid falls on slippery/narrow sections"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Wear shoes with good grip to avoid falls, especially on narrow sections above deep valleys.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Rapid elevation gain of more than 3500 ft from Gulaba to Jonker Thatch on day 1 increases susceptibility to Acute Mountain Sickness",
+        "Bhrigu Lake at 14,009 ft; above 10,000 ft AMS risk is real for first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "You climb more than 3500 ft from Gulaba to Jonker Thatch on the very first day of the trek. This rapid elevation gain, coupled with exertion, makes you very susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Bhrigu Lake is situated 14,009 ft above sea level. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics",
+        "Rain can flood trails or make them slushy and unsafe",
+        "Snowfall in early June can obstruct paths requiring fresh tracks to be cut",
+        "Monsoon makes trail slippery, especially on narrow sections above deep valleys"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Rain can flood the trails or make them too slushy to walk safely on.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Snowfall in early weeks of June can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "In Monsoon, the trail becomes slippery. Wear shoes with good grip to avoid falls, especially on narrow sections above deep valleys.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "AMS emergency before or after Bhrigu Lake requires return to Gulaba",
+        "Medical emergency before or after the lake requires going to Manali (about 1 hour drive from Gulaba)",
+        "Closest hospital is in Manali, 15 km from Gulaba roadhead",
+        "More serious medical issues may require Chandigarh, a 6-hour drive from Manali",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "In case of an AMS emergency before or after reaching Bhrigu Lake, you will need to return to Gulaba. If a medical emergency occurs before or after the lake, then Manali is where you would need to go to get to a hospital. Manali is an hour's drive from Gulaba",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The medical facilities at Manali, just 15 km from the Gulaba roadhead, are your best bet in case of sudden medical emergencies on the Bhrigu Lake Trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "In case of a more serious medical issue, the best option is to access medical facilities at Chandigarh, a 6-hr drive from Manali.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Trail fades in meadows making solo trekking risky",
+        "Technical team and Trek Leader may turn back from any campsite if weather deteriorates"
+      ],
+      "evidence": [
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "The trail fades in meadows. It is easy to get lost, making solo trekking risky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bhrigu-lake::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

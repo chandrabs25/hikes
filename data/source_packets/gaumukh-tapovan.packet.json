@@ -1,0 +1,1590 @@
+{
+  "schema_version": "source_packet_v1",
+  "note": "Clean source packet. Facts come from source-derived trek_facts; Playwright contributes rendered structure only.",
+  "generated_at": "2026-06-27T16:43:15.938663+00:00",
+  "trek_id": "gaumukh-tapovan",
+  "trek_title": "Gaumukh Tapovan Trek",
+  "source_url": "https://indiahikes.com/gaumukh-tapovan",
+  "has_complete_trek_information": true,
+  "rendered_structure_file": "gaumukh-tapovan.structure.json",
+  "observed_ui_keys": [
+    "best_time",
+    "camping",
+    "detailed_itinerary",
+    "difficulty",
+    "faqs",
+    "fitness",
+    "other",
+    "packing",
+    "quick_itinerary",
+    "stay",
+    "travel"
+  ],
+  "source_fields_included": [
+    "best_time_section",
+    "day_wise_itinerary",
+    "difficulty_section",
+    "faqs",
+    "fitness_section",
+    "packing_section",
+    "quick_info",
+    "quick_itinerary",
+    "safety_section"
+  ],
+  "source_sections": [
+    {
+      "packet_section_id": "gaumukh-tapovan::best_time_section::001",
+      "source_field": "best_time_section",
+      "section_type": "text_section",
+      "title": "Best Time Section",
+      "content": "Gaumukh Tapovan in Summer (mid-May to end-June)\nDay Time Temperature: Between 15 °C to 20 °C | Night Time Temperature: At night, the temperature drops to almost 0 °C\nSnow/Rain in Summer: You will find receding snow on the trail. Unpredictable precipitation.\nNumber of warm layers recommended in Summer: 3 warm layers\nSummer is a popular time to do the Gaumukh Tapovan trek, especially for trekkers who are drawn to trekking in snow.\nIn early summers, you will find snow along the trail. This is also the time when you cross the Bhagirathi river over the natural snow bridges. The snow remains till Gaumukh and sometimes even beyond until the mid of May.\nBut by mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley. The little vegetation that you find on the trail (most of which lies on the way to Chirbasa) starts turning green.\nAt this time, the melting snow adds to the swell of the Bhagirathi river that begins to flow with its full might. You’ll notice this at Suryakund itself in Gangotri.\nThe pre-monsoon rains in the valley only add to the force of the river.\nAs we approach July, the monsoons are in full swing. The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.\nAt Indiahikes, we wind up the summer season by the end of June.\n| Note: The summer season is not just popular among trekkers, but also among pilgrims. It is the busiest season for the Chardham Yatra. Therefore expect a lot of pilgrims on the trail until Gaumukh. This flow of pilgrims heading to the Gaumukh glacier continues even in the monsoon months of July and August. The trail to Tapovan though is untenable in monsoons.\nimage\nhttps://images.prismic.io/indiahike/d484c4bd-c245-452e-8649-e27631afb801_Gaumukh+-+Harshith+Sai+Kosaraju+-+A+view+of+the+mighty+Bhagirathi+peaks_+the+Gaumukh+glacier+at+the+base+of+the+peak%2C+the+Bhagirathi+river+and+the+Bhojbasa+campsite%2C+covered+with+fresh+snow+early+in+the+morning.jpeg?auto=format,compress\nBhojbasa campsite in winter\n4032\n3024\nYifTARIAAB0AlCcp\n0\n0\n1\n#fff\nGaumukh Tapovan in Autumn (mid-September to mid-October)\nDaytime Temperature: Around 15 °C | Night Time Temperature: Tapovan temperatures can go as low as 3-5 °C below 0 °C\nSnow/Rain: The weather is stable with clear skies. Low chances of precipitation.\nNumber of warm layers recommended in Autumn: 4-5 layers\nThe setting shifts as we move to autumn. This is the best season to do the Gaumukh Tapovan trek for excellent views of the entire valley.\nAutumn also brings colours to the trail. The vegetation en route to Chirbasa turns into shades of yellows, browns and maroons. The Bhagirathi too turns a deeper shade of blue. Its flow is gentler compared to summers.\nThis happens because the drop in temperatures freezes the glaciers and streams, constricting the flow of water. All of this adds a little bit of colour to the otherwise stark valley.\nCompared to summer, the autumn season on the Gaumukh Tapovan trail is shorter. It’s barely 4-5 weeks long. There’s a reason why this season wraps up so quickly.\nThe region experiences pre-winter snows sometime in October. More so at higher elevation campsites like Bhojbasa and above. So, after mid-October, the weather makes trekking untenable. It is time to wind up the season again until the summer next year.\nTapovan is generally not as popular with pilgrims and you’ll notice lesser crowds in autumn.\nimage\nhttps://images.prismic.io/indiahike/8d846b6d-15d7-4f85-b1bf-172e62e79a12_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg?auto=format,compress\nMt Shivling\nIndiahikes_Sooraj Kumar_Gaumukh Tapovan\n1600\n1200\nYifTPRIAAB0AlCgy\n0\n0\n1\n#fff\n5\n6\n9\n10",
+      "text": "Gaumukh Tapovan in Summer (mid-May to end-June)\nDay Time Temperature: Between 15 °C to 20 °C | Night Time Temperature: At night, the temperature drops to almost 0 °C\nSnow/Rain in Summer: You will find receding snow on the trail. Unpredictable precipitation.\nNumber of warm layers recommended in Summer: 3 warm layers\nSummer is a popular time to do the Gaumukh Tapovan trek, especially for trekkers who are drawn to trekking in snow.\nIn early summers, you will find snow along the trail. This is also the time when you cross the Bhagirathi river over the natural snow bridges. The snow remains till Gaumukh and sometimes even beyond until the mid of May.\nBut by mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley. The little vegetation that you find on the trail (most of which lies on the way to Chirbasa) starts turning green.\nAt this time, the melting snow adds to the swell of the Bhagirathi river that begins to flow with its full might. You’ll notice this at Suryakund itself in Gangotri.\nThe pre-monsoon rains in the valley only add to the force of the river.\nAs we approach July, the monsoons are in full swing. The constant downpours make sections of the trail (see difficult sections) prone to landslides and rockfalls. The trek becomes a risky proposition to undertake.\nAt Indiahikes, we wind up the summer season by the end of June.\n| Note: The summer season is not just popular among trekkers, but also among pilgrims. It is the busiest season for the Chardham Yatra. Therefore expect a lot of pilgrims on the trail until Gaumukh. This flow of pilgrims heading to the Gaumukh glacier continues even in the monsoon months of July and August. The trail to Tapovan though is untenable in monsoons.\nimage\nhttps://images.prismic.io/indiahike/d484c4bd-c245-452e-8649-e27631afb801_Gaumukh+-+Harshith+Sai+Kosaraju+-+A+view+of+the+mighty+Bhagirathi+peaks_+the+Gaumukh+glacier+at+the+base+of+the+peak%2C+the+Bhagirathi+river+and+the+Bhojbasa+campsite%2C+covered+with+fresh+snow+early+in+the+morning.jpeg?auto=format,compress\nBhojbasa campsite in winter\n4032\n3024\nYifTARIAAB0AlCcp\n0\n1\n#fff\nGaumukh Tapovan in Autumn (mid-September to mid-October)\nDaytime Temperature: Around 15 °C | Night Time Temperature: Tapovan temperatures can go as low as 3-5 °C below 0 °C\nSnow/Rain: The weather is stable with clear skies. Low chances of precipitation.\nNumber of warm layers recommended in Autumn: 4-5 layers\nThe setting shifts as we move to autumn. This is the best season to do the Gaumukh Tapovan trek for excellent views of the entire valley.\nAutumn also brings colours to the trail. The vegetation en route to Chirbasa turns into shades of yellows, browns and maroons. The Bhagirathi too turns a deeper shade of blue. Its flow is gentler compared to summers.\nThis happens because the drop in temperatures freezes the glaciers and streams, constricting the flow of water. All of this adds a little bit of colour to the otherwise stark valley.\nCompared to summer, the autumn season on the Gaumukh Tapovan trail is shorter. It’s barely 4-5 weeks long. There’s a reason why this season wraps up so quickly.\nThe region experiences pre-winter snows sometime in October. More so at higher elevation campsites like Bhojbasa and above. So, after mid-October, the weather makes trekking untenable. It is time to wind up the season again until the summer next year.\nTapovan is generally not as popular with pilgrims and you’ll notice lesser crowds in autumn.\nimage\nhttps://images.prismic.io/indiahike/8d846b6d-15d7-4f85-b1bf-172e62e79a12_Gaumukh+Tapovan_Sooraj+Kumar_View+of+Mount+Shivling+at+Tapovan.jpg?auto=format,compress\nMt Shivling\nIndiahikes_Sooraj Kumar_Gaumukh Tapovan\n1600\n1200\nYifTPRIAAB0AlCgy\n0\n1\n#fff\n5\n6\n9\n10",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::009-best-time-to-do-gaumukh-tapovan-trek-schedule-your-trek-date",
+            "ui_key": "best_time",
+            "label": "Best Time To Do Gaumukh Tapovan Trek Schedule Your Trek Dates Based on the Best Season toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3373
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::010-best-time-to-do-gaumukh-tapovan-trek",
+            "ui_key": "best_time",
+            "label": "Best Time To Do Gaumukh Tapovan Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3373
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::001",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1 (Pick-up Day): Reach Gangotri",
+      "content": {
+        "day": "1",
+        "place_title": "Day 1 (Pick-up Day): Reach Gangotri",
+        "difficulty": "Moderate ascent. Well-marked road followed by forest trails.",
+        "duration": "Drive Duration: 10-12 hours drive from Dehradun to Gangotri",
+        "altitude": "Altutide: 10,050 ft",
+        "water_sources": "",
+        "description": "The trek begins at Gangotri the following morning.  Gangotri is known as the source of the river Ganga (the actual source being Gaumukh), which is known as Bhagirathi here.\nIt is said that King Bhagirath prayed to Lord Shiva for the salvation of the souls of his 60,000 sons. Shiva obliged and requested Goddess Ganga to release her water, which purified the ashes of Bhagirath’s sons. This mythological story elevated the status of the River Ganga as a means to purify one’s soul."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"place_title\": \"Day 1 (Pick-up Day): Reach Gangotri\",\n  \"difficulty\": \"Moderate ascent. Well-marked road followed by forest trails.\",\n  \"duration\": \"Drive Duration: 10-12 hours drive from Dehradun to Gangotri\",\n  \"altitude\": \"Altutide: 10,050 ft\",\n  \"water_sources\": \"\",\n  \"description\": \"The trek begins at Gangotri the following morning.  Gangotri is known as the source of the river Ganga (the actual source being Gaumukh), which is known as Bhagirathi here.\\nIt is said that King Bhagirath prayed to Lord Shiva for the salvation of the souls of his 60,000 sons. Shiva obliged and requested Goddess Ganga to release her water, which purified the ashes of Bhagirath’s sons. This mythological story elevated the status of the River Ganga as a means to purify one’s soul.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::002",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2: Trek from Gangotri to Chirbasa",
+      "content": {
+        "day": "2",
+        "place_title": "Day 2: Trek from Gangotri to Chirbasa",
+        "difficulty": "Moderate. Initial 300 m steep ascent followed by a very gradual ascent all the way.",
+        "duration": "Trek Duration: 6 hours | Trek Distance: 10 km",
+        "altitude": "Altitude gain: 10,050 ft to 11,630 ft",
+        "water_sources": "Water Sources: Carry sufficient water from Gangotri. You can refill your water bottles from streams on the way.",
+        "description": "Start from Gangotri early in the morning.\nThe trail to Chirbasa goes through a Forest Check Post around 2 km from the Gangotri bus stand. A trail goes up from the bus stand towards the left side of the forest. The trail runs on the left side of the market area and one can take multiple trails from inside of the market to connect with the trail. Walk till you reach the Forest Check Post.\nThis may take around 15-30 minutes, depending on where you start from within Gangotri. From here, spot a striking white peak in the distance. This is Sudarshan Parbat (21,345 ft), looking stunning in the background. It lies in a cluster of many major peaks. After getting the permits checked, proceed on the trail that remains on the left side of the mountain ridge throughout the day. The Bhagirathi River remains below, always to your right. There are a few isolated glaciers on the river that are melting rapidly.\nIn around 15 minutes, you will come across the first of many waterfalls and streams that you will see today. The trail mostly has gradual inclines and level walks. Trek for another 20-30 minutes and you will see another stream gushing below a makeshift bridge. After crossing the bridge, the valley opens up and turns right. Feast your eyes on the several snow-capped mountain ranges on the right side of the valley. After 20 minutes, you will see the third major stream on your path. Sudarshan Parbat is now no longer visible.  The trail remains consistent for another 45 minutes. Now, the path swirls further towards your right as you cross the third ridge, giving way to a breathtaking view of the valley. Bask in a healthy presence of blue pine and silver birch trees around you.\nA consistent hike of 45 minutes will bring you to a boulder zone over one of the snouts coming from Sudarshan Parbat. Cross the boulders and hike up for about 10 minutes to reach a series of dhabas.\nChirbasa is another 15 minutes away under forest cover. A special mention should be given to Himalayan Environmental Trust, who, along with the Forest Department, has been able to successfully implement an afforestation project in this area. As you pass the check post of the Forest Department, take the trail down on your right to reach the camping ground of Chirbasa. Look for a GMVN hut on level ground next to Bhagirathi River. Camp here for the night.\nBhagirathi River is to the right of the Chirbasa campsite. The place gets its name from the Chir trees that surround it. You get clear views of the Bhagirathi peaks from Chirbasa. Also visible in the distance is the mouth of the Gaumukh glacier."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"place_title\": \"Day 2: Trek from Gangotri to Chirbasa\",\n  \"difficulty\": \"Moderate. Initial 300 m steep ascent followed by a very gradual ascent all the way.\",\n  \"duration\": \"Trek Duration: 6 hours | Trek Distance: 10 km\",\n  \"altitude\": \"Altitude gain: 10,050 ft to 11,630 ft\",\n  \"water_sources\": \"Water Sources: Carry sufficient water from Gangotri. You can refill your water bottles from streams on the way.\",\n  \"description\": \"Start from Gangotri early in the morning.\\nThe trail to Chirbasa goes through a Forest Check Post around 2 km from the Gangotri bus stand. A trail goes up from the bus stand towards the left side of the forest. The trail runs on the left side of the market area and one can take multiple trails from inside of the market to connect with the trail. Walk till you reach the Forest Check Post.\\nThis may take around 15-30 minutes, depending on where you start from within Gangotri. From here, spot a striking white peak in the distance. This is Sudarshan Parbat (21,345 ft), looking stunning in the background. It lies in a cluster of many major peaks. After getting the permits checked, proceed on the trail that remains on the left side of the mountain ridge throughout the day. The Bhagirathi River remains below, always to your right. There are a few isolated glaciers on the river that are melting rapidly.\\nIn around 15 minutes, you will come across the first of many waterfalls and streams that you will see today. The trail mostly has gradual inclines and level walks. Trek for another 20-30 minutes and you will see another stream gushing below a makeshift bridge. After crossing the bridge, the valley opens up and turns right. Feast your eyes on the several snow-capped mountain ranges on the right side of the valley. After 20 minutes, you will see the third major stream on your path. Sudarshan Parbat is now no longer visible.  The trail remains consistent for another 45 minutes. Now, the path swirls further towards your right as you cross the third ridge, giving way to a breathtaking view of the valley. Bask in a healthy presence of blue pine and silver birch trees around you.\\nA consistent hike of 45 minutes will bring you to a boulder zone over one of the snouts coming from Sudarshan Parbat. Cross the boulders and hike up for about 10 minutes to reach a series of dhabas.\\nChirbasa is another 15 minutes away under forest cover. A special mention should be given to Himalayan Environmental Trust, who, along with the Forest Department, has been able to successfully implement an afforestation project in this area. As you pass the check post of the Forest Department, take the trail down on your right to reach the camping ground of Chirbasa. Look for a GMVN hut on level ground next to Bhagirathi River. Camp here for the night.\\nBhagirathi River is to the right of the Chirbasa campsite. The place gets its name from the Chir trees that surround it. You get clear views of the Bhagirathi peaks from Chirbasa. Also visible in the distance is the mouth of the Gaumukh glacier.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::003",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3: Trek from Chirbasa to Bhojbasa",
+      "content": {
+        "day": "3",
+        "place_title": "Day 3: Trek from Chirbasa to Bhojbasa",
+        "difficulty": "Moderate. Initial 100 m ascent to get back on the trail. Very gradual ascent to Bhojbasa",
+        "duration": "Trek Duration: 3 hours | Trek Distance: 5 km",
+        "altitude": "Altitude gain: 11,630 ft to 12,415 ft (3,789 m)",
+        "water_sources": "Water Sources: None. Carry 2 litres of water",
+        "description": "The valley widens from Chirbasa and offers views of snow-clad peaks. Take the trail from behind the GMVN hut.  The trail connects with the Gaumukh trail, which extends from the forest check post. This section will take 5 to 10 minutes.  Once connected with the primary trail, you will be able to see the Chirbasa campsite below.  There is a minor landslide-prone section within 10 minutes from this point. After this section, the terrain is broken into certain sections but is manageable. Look for the first ridge ahead towards your left in the distance. It takes around 30-45 minutes to reach this ridge and cross the bend.\nAs you trudge through the silent hills, the Bhagirathi peak looms closer into view. After 20 minutes of gradual ascent, look for a stream to your left. Another 45 minutes of a similar gradient will have you reach another landslide-prone area. This area has a boulder gradient and a stream crossing your path. Climb up for another five minutes to traverse the second ridge/bend. There are 8-9 landslide-prone bends from here. It takes 20 to 30 minutes to traverse this section. Keep an eye for falling rocks and avoid resting. Move swiftly. After crossing this section, you will see a bridge with a stream flowing below. Bhojbasa, the widest point in the valley, is only 1.5 km from this point.\nThe trek to Bhojbasa is a level walk and very scenic. Around 300 m above Bhojbasa, you get a vantage point. The entire valley ahead of Bhojbasa is visible from here. This is a very beautiful sight. Also visible is a part of the Gaumukh glacier.\nYou get the first view of Mt Shivling at Bhojbasa.  This is an open campsite – you’re far above the tree line now. The Bhagirathi River flows right beside the campsite."
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"place_title\": \"Day 3: Trek from Chirbasa to Bhojbasa\",\n  \"difficulty\": \"Moderate. Initial 100 m ascent to get back on the trail. Very gradual ascent to Bhojbasa\",\n  \"duration\": \"Trek Duration: 3 hours | Trek Distance: 5 km\",\n  \"altitude\": \"Altitude gain: 11,630 ft to 12,415 ft (3,789 m)\",\n  \"water_sources\": \"Water Sources: None. Carry 2 litres of water\",\n  \"description\": \"The valley widens from Chirbasa and offers views of snow-clad peaks. Take the trail from behind the GMVN hut.  The trail connects with the Gaumukh trail, which extends from the forest check post. This section will take 5 to 10 minutes.  Once connected with the primary trail, you will be able to see the Chirbasa campsite below.  There is a minor landslide-prone section within 10 minutes from this point. After this section, the terrain is broken into certain sections but is manageable. Look for the first ridge ahead towards your left in the distance. It takes around 30-45 minutes to reach this ridge and cross the bend.\\nAs you trudge through the silent hills, the Bhagirathi peak looms closer into view. After 20 minutes of gradual ascent, look for a stream to your left. Another 45 minutes of a similar gradient will have you reach another landslide-prone area. This area has a boulder gradient and a stream crossing your path. Climb up for another five minutes to traverse the second ridge/bend. There are 8-9 landslide-prone bends from here. It takes 20 to 30 minutes to traverse this section. Keep an eye for falling rocks and avoid resting. Move swiftly. After crossing this section, you will see a bridge with a stream flowing below. Bhojbasa, the widest point in the valley, is only 1.5 km from this point.\\nThe trek to Bhojbasa is a level walk and very scenic. Around 300 m above Bhojbasa, you get a vantage point. The entire valley ahead of Bhojbasa is visible from here. This is a very beautiful sight. Also visible is a part of the Gaumukh glacier.\\nYou get the first view of Mt Shivling at Bhojbasa.  This is an open campsite – you’re far above the tree line now. The Bhagirathi River flows right beside the campsite.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::004",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4: Trek from Bhojbasa to Tapovan",
+      "content": {
+        "day": "4",
+        "place_title": "Day 4: Trek from Bhojbasa to Tapovan",
+        "difficulty": "Difficult. Gradual ascent for 2.5 hours. 2 hours glacier walk followed by 1 hour of moderate ascent. The final 1.5 hours is a steep ascent.",
+        "duration": "Trek Duration: 9 hours | Trek Distance: 6km",
+        "altitude": "Altitude gain: 12,415 ft to 14,203 ft",
+        "water_sources": "Water Sources: Carry 2 litres of water. Refill water bottles at Gaumukh.",
+        "description": "Reach Gaumukh on the same trail as Day 4.\nStart early in the morning from the campsite and walk for about half a kilometre. You will reach the Bhagirathi River. Here, the technical team along with the trek leader will help you on the Trolley or Tyrolean traverse.\nTyrolean traverse in short Tyrol or TT is a method of crossing rivers in the mountains where bridges are not in place. It is done from a natural anchor (Boulder or a tree) to another anchor through a rope, pulley, and seat harness attached to the person. It is a safe and efficient way of crossing a river. However, setting up Tyrolean traverse is an advanced technique and should be done only by trained professionals.\nIn Gaumukh Tapovan trek, on Tapovan day, after a 20 minutes hike from Bhojbasa Campsite, we set up a Tyrolean traverse to cross the Bhagirathi river.\nIf you are trekking by yourself, there is also a trolley installed by forest officials. This should help you get across the river.\nThis will take approximately 1 hour for the entire batch to cross. After that, you start your trek. The walk is approximately 2 km, on a visible path, with rocks and stones on either side. After this begins a gradual ascent.\nAfter this, you hit a rock face, which you will have to climb to get to Tapovan.\nThis climb is adjacent to Akash Ganga, which flows vertically down this rock face. Ensure this section is climbed before lunchtime to avoid potential rockfalls and an increase in the volume of water coming down Akash Ganga. The climb takes an hour to two, depending upon the conditions. The climb is a steep incline on loose gravel.\nAfter about 100 metres into the climb, look for spots from where you can cross Akash Ganga. If the volume of water is high, then you need to take your shoes off and cross the stream. Otherwise, boulder hopping is also possible. Take a break after crossing the stream. You can have lunch here.\nTapovan is a steep climb from here. It will take you about 1.5 hours to reach. Look for a suitable camping spot and camp for the night.\nThe mountain views from the Tapovan campsite are astonishing. You can see Mt Shivling to the right. Meru is to the right of Shivling. On the left side of Shivling, a little behind is Sumeru. Further to the left, you see Bhagirathi peaks, Thenu and Sudarshan Parbat. If you walk to the ashram that is visible from the campsite, Shivling appears even closer.\nTapovan is a high-altitude alpine meadow below Mt. Shivling, which dominates the landscape. Tapovan is spread over 2 km in length. Although it’s vast level ground, not all the land is suitable for camping. The area close to Mt. Shivling is wet during early summer due to melting snow and glacial water.  These grounds have been used by many sages to meditate over the centuries.  Many such holy men are living permanently at Tapovan.\nA 1.5 km trek from Tapovan to the adjoining peak that connects to Neelatal brings you to a vantage point from where you get great views of Meru. This takes about 2 hours to reach the campsite. From here, you can either walk on the ridge ahead to reach Neelatal or walk back on the same trail to Tapovan. Neelatal seldom has any water now. Manage your time such that you’re back at the campsite by 1:30 PM."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"place_title\": \"Day 4: Trek from Bhojbasa to Tapovan\",\n  \"difficulty\": \"Difficult. Gradual ascent for 2.5 hours. 2 hours glacier walk followed by 1 hour of moderate ascent. The final 1.5 hours is a steep ascent.\",\n  \"duration\": \"Trek Duration: 9 hours | Trek Distance: 6km\",\n  \"altitude\": \"Altitude gain: 12,415 ft to 14,203 ft\",\n  \"water_sources\": \"Water Sources: Carry 2 litres of water. Refill water bottles at Gaumukh.\",\n  \"description\": \"Reach Gaumukh on the same trail as Day 4.\\nStart early in the morning from the campsite and walk for about half a kilometre. You will reach the Bhagirathi River. Here, the technical team along with the trek leader will help you on the Trolley or Tyrolean traverse.\\nTyrolean traverse in short Tyrol or TT is a method of crossing rivers in the mountains where bridges are not in place. It is done from a natural anchor (Boulder or a tree) to another anchor through a rope, pulley, and seat harness attached to the person. It is a safe and efficient way of crossing a river. However, setting up Tyrolean traverse is an advanced technique and should be done only by trained professionals.\\nIn Gaumukh Tapovan trek, on Tapovan day, after a 20 minutes hike from Bhojbasa Campsite, we set up a Tyrolean traverse to cross the Bhagirathi river.\\nIf you are trekking by yourself, there is also a trolley installed by forest officials. This should help you get across the river.\\nThis will take approximately 1 hour for the entire batch to cross. After that, you start your trek. The walk is approximately 2 km, on a visible path, with rocks and stones on either side. After this begins a gradual ascent.\\nAfter this, you hit a rock face, which you will have to climb to get to Tapovan.\\nThis climb is adjacent to Akash Ganga, which flows vertically down this rock face. Ensure this section is climbed before lunchtime to avoid potential rockfalls and an increase in the volume of water coming down Akash Ganga. The climb takes an hour to two, depending upon the conditions. The climb is a steep incline on loose gravel.\\nAfter about 100 metres into the climb, look for spots from where you can cross Akash Ganga. If the volume of water is high, then you need to take your shoes off and cross the stream. Otherwise, boulder hopping is also possible. Take a break after crossing the stream. You can have lunch here.\\nTapovan is a steep climb from here. It will take you about 1.5 hours to reach. Look for a suitable camping spot and camp for the night.\\nThe mountain views from the Tapovan campsite are astonishing. You can see Mt Shivling to the right. Meru is to the right of Shivling. On the left side of Shivling, a little behind is Sumeru. Further to the left, you see Bhagirathi peaks, Thenu and Sudarshan Parbat. If you walk to the ashram that is visible from the campsite, Shivling appears even closer.\\nTapovan is a high-altitude alpine meadow below Mt. Shivling, which dominates the landscape. Tapovan is spread over 2 km in length. Although it’s vast level ground, not all the land is suitable for camping. The area close to Mt. Shivling is wet during early summer due to melting snow and glacial water.  These grounds have been used by many sages to meditate over the centuries.  Many such holy men are living permanently at Tapovan.\\nA 1.5 km trek from Tapovan to the adjoining peak that connects to Neelatal brings you to a vantage point from where you get great views of Meru. This takes about 2 hours to reach the campsite. From here, you can either walk on the ridge ahead to reach Neelatal or walk back on the same trail to Tapovan. Neelatal seldom has any water now. Manage your time such that you’re back at the campsite by 1:30 PM.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::005",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5: Trek from Tapovan to Bhojbasa",
+      "content": {
+        "day": "5",
+        "place_title": "Day 5: Trek from Tapovan to Bhojbasa",
+        "difficulty": "Moderate Difficult. Level trail to Chirbasa.",
+        "duration": "Trek Duration: 5 hours | Trek Distance: 6km",
+        "altitude": "Altitude loss: 14,203 ft (4,328 m) to 12,415 ft (3789 m)",
+        "water_sources": "Water Sources: Carry 2 litres of water.  You can refill your water bottles at streams along the trail.",
+        "description": "From the campsite, begin your descent to Bhojbasa. Follow the same route that you climbed up. You will cross the same boulder section and a stream. Continue climbing down, and you will have a traverse section. Make sure to keep an eye out for falling rocks. Do not rest here.\nContinue walking on the path. You will cross the landslide-prone area. Here, the Bhagirathi massif looms closer into view. Continue walking on the same path. From here on, keep a lookout for the trolley to cross the Bhagirath river.\nStay in tents for the night at the Bhojbasa campsite."
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"place_title\": \"Day 5: Trek from Tapovan to Bhojbasa\",\n  \"difficulty\": \"Moderate Difficult. Level trail to Chirbasa.\",\n  \"duration\": \"Trek Duration: 5 hours | Trek Distance: 6km\",\n  \"altitude\": \"Altitude loss: 14,203 ft (4,328 m) to 12,415 ft (3789 m)\",\n  \"water_sources\": \"Water Sources: Carry 2 litres of water.  You can refill your water bottles at streams along the trail.\",\n  \"description\": \"From the campsite, begin your descent to Bhojbasa. Follow the same route that you climbed up. You will cross the same boulder section and a stream. Continue climbing down, and you will have a traverse section. Make sure to keep an eye out for falling rocks. Do not rest here.\\nContinue walking on the path. You will cross the landslide-prone area. Here, the Bhagirathi massif looms closer into view. Continue walking on the same path. From here on, keep a lookout for the trolley to cross the Bhagirath river.\\nStay in tents for the night at the Bhojbasa campsite.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::006",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6: Trek from Bhojbasa to Gangotri",
+      "content": {
+        "day": "6",
+        "place_title": "Day 6: Trek from Bhojbasa to Gangotri",
+        "difficulty": "Moderate.",
+        "duration": "Trek Duration: 8 hours | Trek Distance: 14 km",
+        "altitude": "Altitude loss: 12,415 ft (3789 m) to 10,050 ft (3065 m)",
+        "water_sources": "Water Sources: Carry 2L of water. None from Bhojbasa to Chirbasa. You can refill your water bottles from streams on the way from Chirbasa to Gangotri.",
+        "description": "Proceed from Bhojbasa on the same trail back to Gangotri.\nThe trek involves a gradual descent and a series of level walks, which can be done swiftly. It’s a very gradual descent, which takes far less time to cover than the ascent.\nThough this is a gradual descent, keep in mind that it is still a 14 km trail, which might feel endless."
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"place_title\": \"Day 6: Trek from Bhojbasa to Gangotri\",\n  \"difficulty\": \"Moderate.\",\n  \"duration\": \"Trek Duration: 8 hours | Trek Distance: 14 km\",\n  \"altitude\": \"Altitude loss: 12,415 ft (3789 m) to 10,050 ft (3065 m)\",\n  \"water_sources\": \"Water Sources: Carry 2L of water. None from Bhojbasa to Chirbasa. You can refill your water bottles from streams on the way from Chirbasa to Gangotri.\",\n  \"description\": \"Proceed from Bhojbasa on the same trail back to Gangotri.\\nThe trek involves a gradual descent and a series of level walks, which can be done swiftly. It’s a very gradual descent, which takes far less time to cover than the ascent.\\nThough this is a gradual descent, keep in mind that it is still a 14 km trail, which might feel endless.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::007",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 7: Drive from Gangotri to Dehradun",
+      "content": {
+        "day": "7",
+        "place_title": "Day 7: Drive from Gangotri to Dehradun",
+        "difficulty": "",
+        "duration": "Drive Duration: 8 hours | Drive Distance: 242 km",
+        "altitude": "",
+        "water_sources": "",
+        "description": "Drive back from Gangotri to Dehradun. \nCab cost per vehicle will be Rs 8500 (5-6 seater) and Rs 14,000 (10-12 trekkers). You will reach Dehradun between 6.00 pm and 7.00 pm."
+      },
+      "text": "{\n  \"day\": \"7\",\n  \"place_title\": \"Day 7: Drive from Gangotri to Dehradun\",\n  \"difficulty\": \"\",\n  \"duration\": \"Drive Duration: 8 hours | Drive Distance: 242 km\",\n  \"altitude\": \"\",\n  \"water_sources\": \"\",\n  \"description\": \"Drive back from Gangotri to Dehradun. \\nCab cost per vehicle will be Rs 8500 (5-6 seater) and Rs 14,000 (10-12 trekkers). You will reach Dehradun between 6.00 pm and 7.00 pm.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::day_wise_itinerary::008",
+      "source_field": "day_wise_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 8: Buffer Day",
+      "content": {
+        "day": "8",
+        "place_title": "Day 8: Buffer Day",
+        "difficulty": "",
+        "duration": "",
+        "altitude": "",
+        "water_sources": "",
+        "description": "This depends completely on the weather conditions on the trek and the call will be taken by the trek leader.\nIf the buffer day is used,  you have to pay us Rs. 2,500 per day (INR) +5% GST. The money will be collected by the Trek Leader only if we use the buffer day"
+      },
+      "text": "{\n  \"day\": \"8\",\n  \"place_title\": \"Day 8: Buffer Day\",\n  \"difficulty\": \"\",\n  \"duration\": \"\",\n  \"altitude\": \"\",\n  \"water_sources\": \"\",\n  \"description\": \"This depends completely on the weather conditions on the trek and the call will be taken by the trek leader.\\nIf the buffer day is used,  you have to pay us Rs. 2,500 per day (INR) +5% GST. The money will be collected by the Trek Leader only if we use the buffer day\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::005-how-does-each-day-look-complete-trek-guide-with-photos-toggl",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look Complete Trek Guide with Photos toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::006-how-does-each-day-look",
+            "ui_key": "detailed_itinerary",
+            "label": "How Does Each Day Look",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3253
+          }
+        ],
+        "anchors": [
+          {
+            "id": "detailed-itinerary",
+            "tag": "div",
+            "ui_key": "detailed_itinerary",
+            "text_preview": "",
+            "top": 3133,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::difficulty_section::001",
+      "source_field": "difficulty_section",
+      "section_type": "text_section",
+      "title": "Difficulty Section",
+      "content": "Moderate-Difficult\nSuitable for experienced trekkers\n1665\n1249\nhttps://images.prismic.io/indiahike/aEkehrNJEFaPX2TP_difficultyicon_moderatedifficult.png?auto=format,compress\naEkehrNJEFaPX2TP\n0\n0\n1\ntransparent\nYou will cover a total of around 41 km in six trekking  days during which you will gain approximately 4,153 ft (10,050 ft to 14,203 ft). Every day will include ascents and descents. There are several difficult sections on this trek that require you to be alert and trek carefully.\nTerrain:\nOn the way to Chirbasa from Gangotri, you cross a large boulder. On one side, it drops directly into the river. Be extra careful even though there are guard rails, especially if it rains.\nBetween Chirbasa and Bhojbasa, the unstable \"Kachha Dhaang\" sections are prone to landslides.\nAfter Bhojbasa, crossing the Bhagirathi River requires government-provided trolleys. Handle the pulley carefully to avoid injury.\nThe final ascent to Tapovan is along the lateral moraines of Gangotri glacier and is rockfall-prone.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on.\nSnowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nIn the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nGangotri, situated 10,050 ft above sea-level, is our highest basecamp. This makes you susceptible to Acute Mountain Sickness (AMS).\nThe trek takes you over 14,000 ft over sea-level at Tapovan. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nThe only exit point on the Gaumukh Tapovan Trek is Gangotri (basecamp). With only one exit point on the trail, evacuation in case of emergency becomes challenging on the Gaumukh Tapovan trek.\nThere is an SDRF camp and Forest Department Office at Bhojbasa. In case of emergency, they can be approached for help and rescue. Mules or horses can also be arranged to take you from Bhojbasa to Gangotri.\nAhead of Bhojbasa, evacuation from Tapovan is extremely difficult because of the terrain and the difficult sections that come into play.\nClosest Hospital to the Gaumukh Tapovan Trek:\nThere is a Primary Health Care Center in Harsil, about 25 km from Gangotri However, it has very basic facilities. For better facilities, you need to approach the District Hospital in Uttarkashi, which is about 100 kms by road from Gangotri. However, for any advanced treatment, heading to Dehradun is the best option.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "text": "Moderate-Difficult\nSuitable for experienced trekkers\n1665\n1249\nhttps://images.prismic.io/indiahike/aEkehrNJEFaPX2TP_difficultyicon_moderatedifficult.png?auto=format,compress\naEkehrNJEFaPX2TP\n0\n1\ntransparent\nYou will cover a total of around 41 km in six trekking days during which you will gain approximately 4,153 ft (10,050 ft to 14,203 ft). Every day will include ascents and descents. There are several difficult sections on this trek that require you to be alert and trek carefully.\nTerrain:\nOn the way to Chirbasa from Gangotri, you cross a large boulder. On one side, it drops directly into the river. Be extra careful even though there are guard rails, especially if it rains.\nBetween Chirbasa and Bhojbasa, the unstable \"Kachha Dhaang\" sections are prone to landslides.\nAfter Bhojbasa, crossing the Bhagirathi River requires government-provided trolleys. Handle the pulley carefully to avoid injury.\nThe final ascent to Tapovan is along the lateral moraines of Gangotri glacier and is rockfall-prone.\nPlease note: If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.\nWeather:\nRainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on.\nSnowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.\nIn the Autumn season, the temperatures plummet below zero. Even without snowfall, strong winds can take a toll on you if you're not well-layered.\nPlease note: The safety of our trekkers is paramount. Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.\nAltitude:\nGangotri, situated 10,050 ft above sea-level, is our highest basecamp. This makes you susceptible to Acute Mountain Sickness (AMS).\nThe trek takes you over 14,000 ft over sea-level at Tapovan. At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS. Here’s a Complete guide to Acute Mountains Sickness, HAPE and HACE\nPlease Note: The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.\nEmergency Exits:\nThe only exit point on the Gaumukh Tapovan Trek is Gangotri (basecamp). With only one exit point on the trail, evacuation in case of emergency becomes challenging on the Gaumukh Tapovan trek.\nThere is an SDRF camp and Forest Department Office at Bhojbasa. In case of emergency, they can be approached for help and rescue. Mules or horses can also be arranged to take you from Bhojbasa to Gangotri.\nAhead of Bhojbasa, evacuation from Tapovan is extremely difficult because of the terrain and the difficult sections that come into play.\nClosest Hospital to the Gaumukh Tapovan Trek:\nThere is a Primary Health Care Center in Harsil, about 25 km from Gangotri However, it has very basic facilities. For better facilities, you need to approach the District Hospital in Uttarkashi, which is about 100 kms by road from Gangotri. However, for any advanced treatment, heading to Dehradun is the best option.\nThe Indiahikes team will ensure your safety throughout the journey. However, we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.\n<image_carousel>difficult_section_images</image_carousel>\nPlease inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem. This will enable us to take the necessary precautions and ensure your safety throughout the trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::007-how-difficult-is-gaumukh-tapovan-trek-what-you-can-expect-in",
+            "ui_key": "difficulty",
+            "label": "How Difficult Is Gaumukh Tapovan Trek What You Can Expect in terms of Terrain, Altitude, Weather and Safety toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3313
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::008-how-difficult-is-gaumukh-tapovan-trek",
+            "ui_key": "difficulty",
+            "label": "How Difficult Is Gaumukh Tapovan Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3313
+          }
+        ],
+        "anchors": [
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 4",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 4: Trek from Bhojbasa to Tapovan Trek Duration: 9 hours | Trek Distance: 6km Altitude gain: 12,415 ft to 14,203 ft Difficult. Gradual ascent for 2.5 hours. 2 hours glacier walk followed by 1 hour of ",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "uncontrolled-tab-example-tabpane-Day 5",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "Previous Next1234Day 5: Trek from Tapovan to BhojbasaTrek Duration: 5 hours | Trek Distance: 6kmAltitude loss: 14,203 ft (4,328 m) to 12,415 ft (3789 m)Moderate Difficult. Level trail to Chirbasa.Water Sources: Carry 2 l",
+            "top": 0,
+            "visible": false
+          },
+          {
+            "id": "trek-difficulty",
+            "tag": "div",
+            "ui_key": "difficulty",
+            "text_preview": "",
+            "top": 3193,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::001",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Are backpacks, raincoats, and other equipment available for rent on Gaumukh Tapovan trek?",
+      "content": {
+        "question": "Are backpacks, raincoats, and other equipment available for rent on Gaumukh Tapovan trek?",
+        "answer": "We do have ponchos, backpacks, shoes, and trekking poles available for rent. You can order them online here."
+      },
+      "text": "Q: Are backpacks, raincoats, and other equipment available for rent on Gaumukh Tapovan trek?\nA: We do have ponchos, backpacks, shoes, and trekking poles available for rent. You can order them online here.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::002",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "What is the best time to do Gaumukh Tapovan trek?",
+      "content": {
+        "question": "What is the best time to do Gaumukh Tapovan trek?",
+        "answer": "May to July and September to October are the best months for the Gaumukh Tapovan trek."
+      },
+      "text": "Q: What is the best time to do Gaumukh Tapovan trek?\nA: May to July and September to October are the best months for the Gaumukh Tapovan trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::003",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "What will the temperatures be like on Gaumukh Tapovan trek?",
+      "content": {
+        "question": "What will the temperatures be like on Gaumukh Tapovan trek?",
+        "answer": "The Gaumukh Tapovan trek can be done in two seasons- Summer and Autumn.\nThe summer season starts from Mid-May and extends till the end of June. Weather in the Himalayas is unpredictable during summer. Chances of rain or snowfall are quite frequent making temperatures pretty unstable during the trek. The daytime temperatures at Bhojbasa and further are pleasant around 15° C, but at night the temperature can drop close to 0 °C and campsites get chilly.\nThe autumn season starts from Mid-September to the end of October. However, it is a few degrees colder. But unlike summer, the weather is stable.\nThere is also a perceptible gap between daytime and nighttime temperatures in autumn. You’ll find the days are pleasant at around 15 °C. But the temperature quickly drops below zero after sundown. Temperatures can go as low as 3-5 °C below zero at night in Tapovan."
+      },
+      "text": "Q: What will the temperatures be like on Gaumukh Tapovan trek?\nA: The Gaumukh Tapovan trek can be done in two seasons- Summer and Autumn.\nThe summer season starts from Mid-May and extends till the end of June. Weather in the Himalayas is unpredictable during summer. Chances of rain or snowfall are quite frequent making temperatures pretty unstable during the trek. The daytime temperatures at Bhojbasa and further are pleasant around 15° C, but at night the temperature can drop close to 0 °C and campsites get chilly.\nThe autumn season starts from Mid-September to the end of October. However, it is a few degrees colder. But unlike summer, the weather is stable.\nThere is also a perceptible gap between daytime and nighttime temperatures in autumn. You’ll find the days are pleasant at around 15 °C. But the temperature quickly drops below zero after sundown. Temperatures can go as low as 3-5 °C below zero at night in Tapovan.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::004",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How Difficult is the Gaumukh Tapovan Trek?",
+      "content": {
+        "question": "How Difficult is the Gaumukh Tapovan Trek?",
+        "answer": "How Difficult Is The Gaumukh Tapovan Trek| Indiahikes| Tips To Prepare | Trek Talk With Vishnu Benne\nGaumukh Tapovan trek is a moderate-difficult trek. The Gaumukh Tapovan takes you to a height of 14,203 feet. By that sheer altitude itself, the trek goes into a moderate-difficult category.\nMoreover, the trek has a very high starting altitude — with Gangotri being at 10,050 feet. This altitude poses a challenge when it comes to acclimatisation.\nAside from the altitude, the trek has several scree and boulder sections where the terrain requires you to be alert and nimble. These sections must trek only with the help of technical safety equipment and a competent technical safety team."
+      },
+      "text": "Q: How Difficult is the Gaumukh Tapovan Trek?\nA: How Difficult Is The Gaumukh Tapovan Trek| Indiahikes| Tips To Prepare | Trek Talk With Vishnu Benne\nGaumukh Tapovan trek is a moderate-difficult trek. The Gaumukh Tapovan takes you to a height of 14,203 feet. By that sheer altitude itself, the trek goes into a moderate-difficult category.\nMoreover, the trek has a very high starting altitude — with Gangotri being at 10,050 feet. This altitude poses a challenge when it comes to acclimatisation.\nAside from the altitude, the trek has several scree and boulder sections where the terrain requires you to be alert and nimble. These sections must trek only with the help of technical safety equipment and a competent technical safety team.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::005",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How fit do you need to be for Gaumukh Tapovan?",
+      "content": {
+        "question": "How fit do you need to be for Gaumukh Tapovan?",
+        "answer": "A Himalayan trek like Gaumukh Tapovan requires a good fitness level. The trek has long climbs and steep descents daily. As a measure of your fitness, we need you to:\nRun at least 5 km in 32 minutes before your trek. Consistency of your workout also matters, so aim to jog 25 km a week or 100 km in a month. It's a minimum mandatory requirement for you to safely complete the trek as well enjoy it\nOR\nAlternatively, cycle for at least 25 km in 60 minutes. Aim to cycle 125 km a week or 500 km in a month. However, running is better suited for your trek preparation.\nHow to Get Fit for Your Trek\nAfter you register, you will be sent a questionnaire about your trekking experience and medical history. Additionally, you must attach a screenshot of a 5 km run under 35 mins only to get approved for the trek.\nHigh-altitude trekking experience of above 14,000 ft or at least moderate-difficult trek experience is a preferred requirement.\nOnce you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience"
+      },
+      "text": "Q: How fit do you need to be for Gaumukh Tapovan?\nA: A Himalayan trek like Gaumukh Tapovan requires a good fitness level. The trek has long climbs and steep descents daily. As a measure of your fitness, we need you to:\nRun at least 5 km in 32 minutes before your trek. Consistency of your workout also matters, so aim to jog 25 km a week or 100 km in a month. It's a minimum mandatory requirement for you to safely complete the trek as well enjoy it\nOR\nAlternatively, cycle for at least 25 km in 60 minutes. Aim to cycle 125 km a week or 500 km in a month. However, running is better suited for your trek preparation.\nHow to Get Fit for Your Trek\nAfter you register, you will be sent a questionnaire about your trekking experience and medical history. Additionally, you must attach a screenshot of a 5 km run under 35 mins only to get approved for the trek.\nHigh-altitude trekking experience of above 14,000 ft or at least moderate-difficult trek experience is a preferred requirement.\nOnce you get confirmed for your trek, we will diligently follow up on your fitness routine. Our team will also assist in putting you through a fitness plan. It will ultimately help you have a safe trek experience",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::006",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I am more than 62 years old. Can I do this trek?",
+      "content": {
+        "question": "I am more than 62 years old. Can I do this trek?",
+        "answer": "Before you register for the trek, we would like you to understand the challenges, and the fitness required.\nOn Moderate-Difficult treks like the Gaumukh Tapovan trek, you’ll walk for about 8-12 km each day. Gradual to steep ascents and descents are common on all days. Expect to reach high altitudes of 15,000+ ft. There will also be technical sections (such as rockfall zones, near-vertical sections, glacier walks), which our technical teams will help you navigate.\nIf you are above the age of 58 years, your Experience Coordinator will need a detailed account of your health. If you have done a Himalayan trek in the past or they have an active fitness lifestyle (marathons/cycling expeditions), we’ll need to see your Treadmill Test and fitness proof (Fitness proof: 5 kms in 38 mins).\nBut if you do not have any experience, we strongly advice you to start with an easy-moderate trek."
+      },
+      "text": "Q: I am more than 62 years old. Can I do this trek?\nA: Before you register for the trek, we would like you to understand the challenges, and the fitness required.\nOn Moderate-Difficult treks like the Gaumukh Tapovan trek, you’ll walk for about 8-12 km each day. Gradual to steep ascents and descents are common on all days. Expect to reach high altitudes of 15,000+ ft. There will also be technical sections (such as rockfall zones, near-vertical sections, glacier walks), which our technical teams will help you navigate.\nIf you are above the age of 58 years, your Experience Coordinator will need a detailed account of your health. If you have done a Himalayan trek in the past or they have an active fitness lifestyle (marathons/cycling expeditions), we’ll need to see your Treadmill Test and fitness proof (Fitness proof: 5 kms in 38 mins).\nBut if you do not have any experience, we strongly advice you to start with an easy-moderate trek.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::007",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Will I get a mobile network and charging points during the Gaumukh Tapovan Trek?",
+      "content": {
+        "question": "Will I get a mobile network and charging points during the Gaumukh Tapovan Trek?",
+        "answer": "When it comes to a mobile phone network and an internet connection, you’ll find a good network until Gangotri. Airtel, BSNL, and Jio are the mobile phone connections you will most likely get. However, once you leave Gangotri, the network is spotty or non-existent.\nAs for electricity, Gangotri is the last point with electricity. Unlike some other remote areas, the power supply is almost uninterrupted.\nAt the Indiahikes base camp in Gangotri, all the rooms are equipped with plug points for trekkers to charge their electronic devices.\nHowever, once you leave the base camp, there is no electricity. We suggest you bring additional batteries for your cameras and a power bank with more than 10,000 mAh to last you the entire trek.\nNote: Power from your batteries will drain faster in cold temperatures.  Our tip is to put the battery/power bank in a small pouch and keep it inside your sleeping bag to keep them warm during the night."
+      },
+      "text": "Q: Will I get a mobile network and charging points during the Gaumukh Tapovan Trek?\nA: When it comes to a mobile phone network and an internet connection, you’ll find a good network until Gangotri. Airtel, BSNL, and Jio are the mobile phone connections you will most likely get. However, once you leave Gangotri, the network is spotty or non-existent.\nAs for electricity, Gangotri is the last point with electricity. Unlike some other remote areas, the power supply is almost uninterrupted.\nAt the Indiahikes base camp in Gangotri, all the rooms are equipped with plug points for trekkers to charge their electronic devices.\nHowever, once you leave the base camp, there is no electricity. We suggest you bring additional batteries for your cameras and a power bank with more than 10,000 mAh to last you the entire trek.\nNote: Power from your batteries will drain faster in cold temperatures. Our tip is to put the battery/power bank in a small pouch and keep it inside your sleeping bag to keep them warm during the night.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::008",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How many months in advance should I book Gaumukh Tapovan?",
+      "content": {
+        "question": "How many months in advance should I book Gaumukh Tapovan?",
+        "answer": "Gaumukh Tapovan is a trek with a very short window. It is only trekkable in the summer (May-June) and autumn (Mid-Sep to Mid-Oct), a total of hardly three months. Slots for this trek get filled months before the season. It's ideal for you to book this trek 3 to 4 months in advance."
+      },
+      "text": "Q: How many months in advance should I book Gaumukh Tapovan?\nA: Gaumukh Tapovan is a trek with a very short window. It is only trekkable in the summer (May-June) and autumn (Mid-Sep to Mid-Oct), a total of hardly three months. Slots for this trek get filled months before the season. It's ideal for you to book this trek 3 to 4 months in advance.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::009",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How long is the Gaumukh Tapovan Trek?",
+      "content": {
+        "question": "How long is the Gaumukh Tapovan Trek?",
+        "answer": "Gaumukh Trek covers 46 km trek over 6 days (8 days including the drive to and from the trek). The altitude ranges from 10,050 ft in Gangotri all the way to Tapovan at 14,203 ft."
+      },
+      "text": "Q: How long is the Gaumukh Tapovan Trek?\nA: Gaumukh Trek covers 46 km trek over 6 days (8 days including the drive to and from the trek). The altitude ranges from 10,050 ft in Gangotri all the way to Tapovan at 14,203 ft.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::010",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Where is the nearest ATM?",
+      "content": {
+        "question": "Where is the nearest ATM?",
+        "answer": "Uttarkashi is the last town en route to Gangotri where you’ll find ATMs to make some cash withdrawals. All major private and public sector banks have their ATMs and some even have branches in Uttarkashi. However, cash does run out quickly at the Uttarkashi ATMs. Hence, Dehradun is your best bet to make last-minute cash withdrawals.\nWe advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.\nIf you’re an Indiahikes trekker,  there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes."
+      },
+      "text": "Q: Where is the nearest ATM?\nA: Uttarkashi is the last town en route to Gangotri where you’ll find ATMs to make some cash withdrawals. All major private and public sector banks have their ATMs and some even have branches in Uttarkashi. However, cash does run out quickly at the Uttarkashi ATMs. Hence, Dehradun is your best bet to make last-minute cash withdrawals.\nWe advise you to carry around Rs 4-5k in cash to pay for your transport to the basecamp, for rental gear deposit and personal expenses en route to the basecamp.\nIf you’re an Indiahikes trekker, there is no major need for cash as once you arrive at the base camp. All meals, accommodations, permits, and related expenses are taken care of by Indiahikes.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::011",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "How many trekkers are in this group?",
+      "content": {
+        "question": "How many trekkers are in this group?",
+        "answer": "On the Gaumukh Tapovan trek, Indiahikes usually take 23 trekkers in total."
+      },
+      "text": "Q: How many trekkers are in this group?\nA: On the Gaumukh Tapovan trek, Indiahikes usually take 23 trekkers in total.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::012",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Can I keep extra luggage at the base camp?",
+      "content": {
+        "question": "Can I keep extra luggage at the base camp?",
+        "answer": "We have a cloakroom facility at the base camp (Gangotri), where you can leave your excess luggage behind. You can collect it once you are back at the base camp.\nEvery trekker is permitted to leave behind one piece of luggage at no charge. Anything beyond one piece of luggage is chargeable at Rs 500 per luggage. (The luggage could be a backpack/suitcase/duffel bag or anything similar.)."
+      },
+      "text": "Q: Can I keep extra luggage at the base camp?\nA: We have a cloakroom facility at the base camp (Gangotri), where you can leave your excess luggage behind. You can collect it once you are back at the base camp.\nEvery trekker is permitted to leave behind one piece of luggage at no charge. Anything beyond one piece of luggage is chargeable at Rs 500 per luggage. (The luggage could be a backpack/suitcase/duffel bag or anything similar.).",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::013",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Will there be snow on this trek?",
+      "content": {
+        "question": "Will there be snow on this trek?",
+        "answer": "In early summers, you will find snow along the trail. This is also the time when you cross the Bhagirathi river over the natural snow bridges. The snow remains till Gaumukh and sometimes even beyond until the mid of May.\nBy mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley. The little vegetation that you find on the trail (most of which lies on the way to Chirbasa) starts turning green.\nBest time to do the Gaumukh Tapovan Trek | Indiahikes | Trek Talk With Vishnu Benne"
+      },
+      "text": "Q: Will there be snow on this trek?\nA: In early summers, you will find snow along the trail. This is also the time when you cross the Bhagirathi river over the natural snow bridges. The snow remains till Gaumukh and sometimes even beyond until the mid of May.\nBy mid-summer (late May-early June), you will find the final traces of snow. But you’ll start noticing the sparse vegetation of the valley. The little vegetation that you find on the trail (most of which lies on the way to Chirbasa) starts turning green.\nBest time to do the Gaumukh Tapovan Trek | Indiahikes | Trek Talk With Vishnu Benne",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::014",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "Is offloading available for the Gaumukh Tapovan trek?",
+      "content": {
+        "question": "Is offloading available for the Gaumukh Tapovan trek?",
+        "answer": "Having more footprints through porters or mules on any trail isn’t good for the ecosystem. Keeping this and the spirit of trekking in mind, there will be no offloading available on this trek. Unless it is due to a medical issue. The cost of offloading your backpack is Rs 4,000 for the entire trek pre-tax.\nCheck out ways to make carrying your backup easier"
+      },
+      "text": "Q: Is offloading available for the Gaumukh Tapovan trek?\nA: Having more footprints through porters or mules on any trail isn’t good for the ecosystem. Keeping this and the spirit of trekking in mind, there will be no offloading available on this trek. Unless it is due to a medical issue. The cost of offloading your backpack is Rs 4,000 for the entire trek pre-tax.\nCheck out ways to make carrying your backup easier",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::faqs::015",
+      "source_field": "faqs",
+      "section_type": "faq",
+      "title": "I am a foreign national. Will I have to pay any extra charges to go on this trek?",
+      "content": {
+        "question": "I am a foreign national. Will I have to pay any extra charges to go on this trek?",
+        "answer": "Yes, you do. The state tourism department charges slightly higher fees for foreign trekkers to issue permits for this trek. You need to carry an extra amount of Rs 1,000. Additionally carry 4-5 copies of your passport along with your VISA."
+      },
+      "text": "Q: I am a foreign national. Will I have to pay any extra charges to go on this trek?\nA: Yes, you do. The state tourism department charges slightly higher fees for foreign trekkers to issue permits for this trek. You need to carry an extra amount of Rs 1,000. Additionally carry 4-5 copies of your passport along with your VISA.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::019-frequently-asked-questions-get-your-questions-answered-here-",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions Get your questions answered here toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::020-frequently-asked-questions",
+            "ui_key": "faqs",
+            "label": "Frequently Asked Questions",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3703
+          }
+        ],
+        "anchors": [
+          {
+            "id": "faq",
+            "tag": "div",
+            "ui_key": "faqs",
+            "text_preview": "",
+            "top": 3583,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::fitness_section::001",
+      "source_field": "fitness_section",
+      "section_type": "text_section",
+      "title": "Fitness Section",
+      "content": "We recommend walking/jogging/running as the best routine to get fit for any trek. It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nIt helps increase your stamina gradually if done consistently. It is also an easy routine that does not require any equipment or tools.\nembed\nhttps://www.youtube.com/watch?v=VR3l-GH0HhU\nvideo\n1.0\nWhy Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/VR3l-GH0HhU/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VR3l-GH0HhU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\"></iframe>\nFitness Target\nTo do the Gaumukh Tapovan Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/b5b573db-2a7b-4482-ba5d-30ad45a278ac_Fitness-Moderate-Difficult+Treks.jpg?auto=format,compress\n5000\n2143\nZEoMkRAAACEApelK\n0\n0\n1\ntransparent\nTrekking is a sport that primarily uses your lungs, core, calves, glutes, quads and hamstrings. Being fit will help you enjoy the trek and will keep you safe.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular endurance\nMuscle strength\nIf you are not currently active, follow the below schedule to get trek fit in 6 weeks!\nA 6-Week Plan to Help You Get Trek-Fit for the Gaumukh Tapovan Trek\nimage\nhttps://images.prismic.io/indiahike/Z44JNpbqstJ99n7F_ModerateDifficultRunning_FitnessTable.jpg?auto=format,compress\nGaumukh Tapovan Running Fitness Plan\n3000\n1688\nZ44JNpbqstJ99n7F\n0\n0\n1\ntransparent\n(6-Week Fitness Plan: Running)\nimage\nhttps://images.prismic.io/indiahike/Z44JK5bqstJ99n69_ModerateDifficultWalking_FitnessTable.jpg?auto=format,compress\nGaumukh Tapovan Walking Fitness Plan\n3000\n1688\nZ44JK5bqstJ99n69\n0\n0\n1\ntransparent\n(6-Week Fitness Plan: Walking)\nPro Tip: Warming up and cooling down before and after your workout is important. Do not miss that.\n| Note: If you are not a regular runner, do not start running all of a sudden.\nStrength Training Schedule:\nimage\nhttps://images.prismic.io/indiahike/Z44JLJbqstJ99n6-_ModerateDifficult_StrengthTrainingTable.jpg?auto=format,compress\n3000\n1688\nZ44JLJbqstJ99n6-\n0\n0\n1\ntransparent\nembed\nhttps://www.youtube.com/watch?v=m8jkYEsJLtw\nvideo\n1.0\n5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/m8jkYEsJLtw/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/m8jkYEsJLtw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\"></iframe>\nNote:\nAlternatives to 40 Standard Pushups = (4 x 20 = 80 knee pushups) = (4 x 40 = 160 wall pushups)\nAlternative to 60 full squats = (4 x 30 = 120 half squats)\nAlternative to jumping lunges = forward lunges (same count)\nIf you are not able to complete 1 full set of any plank, divide it into 2 halves and complete it with a rest break in between. For example: If you are not able to complete 1 minute of a standard plank, divide it into 2 sets of 30 seconds each.\nAfter completing a few weeks of training, if you can progress, you may increase the number of sets or reps for desired results.\nImportant note: We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid. We've suggested cross training options to help keep your fitness journey engaging and fun, allowing you to explore activities you enjoy and to avoid inconsistency. So make sure to record at least 3 runs from the last 1 month to meet the fitness criteria of the trek.\nNote: Use apps like Nike and Strava to record your runs consistently.\nWhat happens if you are not fit:\nYou do not enjoy the trek\nYou struggle to be a part of the team because you’re slow.\nYou miss out on a deep, transformative experience that Indiahikes specially designs for you.\nembed\nhttps://www.youtube.com/watch?v=WZocACEsJbk&t=1s\nvideo\n1.0\nWhat Happens If You Are Not Fit For A Trek | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/WZocACEsJbk/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/WZocACEsJbk?start=1&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Happens If You Are Not Fit For A Trek | Indiahikes\"></iframe>\nThe good part is it is not difficult. All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.\nWe are here to help you in this fitness journey. Just start slow and as long as you are committed and consistent with your routine, you are in for an unforgettable trek experience.\nHow to Get Fitness Approval from the Indiahikes Team:\nEvery trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.\nembed\nhttps://www.youtube.com/watch?v=AGgg2Dv1Y6Y&t=3s\nvideo\n1.0\nWhat Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/AGgg2Dv1Y6Y/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AGgg2Dv1Y6Y?start=3&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\"></iframe>\nNote: Use apps like Nike and Strava to record your runs.\nWhat to upload?\nUse fitness tracking apps such as Strava, Nike Run Club, or similar to log your runs and workouts.\nPaste your profile's link on your Indiahikes account (your profile has to be public).\nEnsure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.\nInstances we may reject your fitness record:\nIf you fail to link your fitness profile\nIf you do not meet the required fitness level at least three times in the past month\nImportant Notes:\nChildren below 14 years are not required to submit fitness records.\nHowever, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "text": "We recommend walking/jogging/running as the best routine to get fit for any trek. It works on the same muscles you use while trekking—your calves, glutes, quads and hamstrings. It also mimics your foot movement so you are better prepared for sudden twists and turns they may go through on uneven terrain.\nIt helps increase your stamina gradually if done consistently. It is also an easy routine that does not require any equipment or tools.\nembed\nhttps://www.youtube.com/watch?v=VR3l-GH0HhU\nvideo\n1.0\nWhy Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/VR3l-GH0HhU/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/VR3l-GH0HhU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Why Running Is The Best Exercise To Get Fit For A Trek (Vs Swimming and Cycling) | Indiahikes\"></iframe>\nFitness Target\nTo do the Gaumukh Tapovan Trek comfortably, you must be able to walk, jog or run 5 km in under 32 minutes. This is the minimum recommended fitness level that you must aim for.\nimage\nhttps://images.prismic.io/indiahike/b5b573db-2a7b-4482-ba5d-30ad45a278ac_Fitness-Moderate-Difficult+Treks.jpg?auto=format,compress\n5000\n2143\nZEoMkRAAACEApelK\n0\n1\ntransparent\nTrekking is a sport that primarily uses your lungs, core, calves, glutes, quads and hamstrings. Being fit will help you enjoy the trek and will keep you safe.\nTo reach any fitness target, there are two things you must work on:\nCardiovascular endurance\nMuscle strength\nIf you are not currently active, follow the below schedule to get trek fit in 6 weeks!\nA 6-Week Plan to Help You Get Trek-Fit for the Gaumukh Tapovan Trek\nimage\nhttps://images.prismic.io/indiahike/Z44JNpbqstJ99n7F_ModerateDifficultRunning_FitnessTable.jpg?auto=format,compress\nGaumukh Tapovan Running Fitness Plan\n3000\n1688\nZ44JNpbqstJ99n7F\n0\n1\ntransparent\n(6-Week Fitness Plan: Running)\nimage\nhttps://images.prismic.io/indiahike/Z44JK5bqstJ99n69_ModerateDifficultWalking_FitnessTable.jpg?auto=format,compress\nGaumukh Tapovan Walking Fitness Plan\n3000\n1688\nZ44JK5bqstJ99n69\n0\n1\ntransparent\n(6-Week Fitness Plan: Walking)\nPro Tip: Warming up and cooling down before and after your workout is important. Do not miss that.\n| Note: If you are not a regular runner, do not start running all of a sudden.\nStrength Training Schedule:\nimage\nhttps://images.prismic.io/indiahike/Z44JLJbqstJ99n6-_ModerateDifficult_StrengthTrainingTable.jpg?auto=format,compress\n3000\n1688\nZ44JLJbqstJ99n6-\n0\n1\ntransparent\nembed\nhttps://www.youtube.com/watch?v=m8jkYEsJLtw\nvideo\n1.0\n5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/m8jkYEsJLtw/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/m8jkYEsJLtw?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"5 Strength Training Exercises To Combine With Cardio | Get Trek Fit With Anushree | Indiahikes\"></iframe>\nNote:\nAlternatives to 40 Standard Pushups = (4 x 20 = 80 knee pushups) = (4 x 40 = 160 wall pushups)\nAlternative to 60 full squats = (4 x 30 = 120 half squats)\nAlternative to jumping lunges = forward lunges (same count)\nIf you are not able to complete 1 full set of any plank, divide it into 2 halves and complete it with a rest break in between. For example: If you are not able to complete 1 minute of a standard plank, divide it into 2 sets of 30 seconds each.\nAfter completing a few weeks of training, if you can progress, you may increase the number of sets or reps for desired results.\nImportant note: We accept only running, jogging or walking as fitness proofs. Cross-training workouts will not be considered valid. We've suggested cross training options to help keep your fitness journey engaging and fun, allowing you to explore activities you enjoy and to avoid inconsistency. So make sure to record at least 3 runs from the last 1 month to meet the fitness criteria of the trek.\nNote: Use apps like Nike and Strava to record your runs consistently.\nWhat happens if you are not fit:\nYou do not enjoy the trek\nYou struggle to be a part of the team because you’re slow.\nYou miss out on a deep, transformative experience that Indiahikes specially designs for you.\nembed\nhttps://www.youtube.com/watch?v=WZocACEsJbk&t=1s\nvideo\n1.0\nWhat Happens If You Are Not Fit For A Trek | Indiahikes\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/WZocACEsJbk/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/WZocACEsJbk?start=1&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Happens If You Are Not Fit For A Trek | Indiahikes\"></iframe>\nThe good part is it is not difficult. All you need to do is start following the fitness routine 6 to 8 weeks before your trek begins.\nWe are here to help you in this fitness journey. Just start slow and as long as you are committed and consistent with your routine, you are in for an unforgettable trek experience.\nHow to Get Fitness Approval from the Indiahikes Team:\nEvery trekker needs fitness approval from the Indiahikes team 20 days before the trek date. Without this, you will not be allowed on the trek.\nembed\nhttps://www.youtube.com/watch?v=AGgg2Dv1Y6Y&t=3s\nvideo\n1.0\nWhat Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\nIndiahikes\nhttps://www.youtube.com/@Indiahikes\nYouTube\nhttps://www.youtube.com/\nhttps://i.ytimg.com/vi/AGgg2Dv1Y6Y/hqdefault.jpg\n480\n360\n<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/AGgg2Dv1Y6Y?start=3&feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"What Is The Fitness Approval Process At Indiahikes | FAQ | Indiahikes | Trekking Tips\"></iframe>\nNote: Use apps like Nike and Strava to record your runs.\nWhat to upload?\nUse fitness tracking apps such as Strava, Nike Run Club, or similar to log your runs and workouts.\nPaste your profile's link on your Indiahikes account (your profile has to be public).\nEnsure that at least 3 runs from the last 1 month meet the fitness criteria of your specific trek.\nInstances we may reject your fitness record:\nIf you fail to link your fitness profile\nIf you do not meet the required fitness level at least three times in the past month\nImportant Notes:\nChildren below 14 years are not required to submit fitness records.\nHowever, parents must ensure that children remain physically active and prepared for the trek.\nAny",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::021-how-to-get-fit-for-the-gaumukh-tapovan-trek-a-6-week-plan-to",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Gaumukh Tapovan Trek A 6-Week Plan to Help You Get Trek-Fit for the Gaumukh Tapovan Trek toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3763
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::022-how-to-get-fit-for-the-gaumukh-tapovan-trek",
+            "ui_key": "fitness",
+            "label": "How to Get Fit for the Gaumukh Tapovan Trek",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3763
+          }
+        ],
+        "anchors": [
+          {
+            "id": "getting-fit",
+            "tag": "div",
+            "ui_key": "fitness",
+            "text_preview": "",
+            "top": 3643,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::packing_section::001",
+      "source_field": "packing_section",
+      "section_type": "text_section",
+      "title": "Packing Section",
+      "content": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDyB5bh8WN-LVdQK_GaumukhTapovan-V2-.jpg?auto=format,compress\n1600\n1600\naDyB5bh8WN-LVdQK\n0\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Gaumukh Tapovan trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses (Available on rent)\nSun cap, preferably with flaps\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\n| Pro tip: Keep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there. \nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\n\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend on the last day. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Gaumukh Tapovan trek.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking.  Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\n\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\n| Pro tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "text": "Packing Checklist\nimage\nhttps://images.prismic.io/indiahike/aDyB5bh8WN-LVdQK_GaumukhTapovan-V2-.jpg?auto=format,compress\n1600\naDyB5bh8WN-LVdQK\n0\n1\ntransparent\nGiven below is a list of all the gear you need for the Gaumukh Tapovan trek:\nIf you don’t have certain items, you can rent high-quality gear like trekking shoes, backpacks, and jackets from the Crosstrek Rental Store by Indiahikes. It costs less than Rs 2000 for the entire trek. We highly recommend renting gear since it is both more affordable and environmentally friendly.\nAdditionally, you’ll notice a small medical kit in the list. While our trek leaders carry medical kits with 17 medicines including life-saving drugs, you must bring your personal medical kit as well. We are already equipped with BP machines, oximeters and canned oxygen, but your medical kit is for quick access to you, especially while travelling.\nMost importantly, you must digitally upload and carry mandatory documents to get government permits for the trek - your ID card, and medical certificate. Keep them in a plastic bag to keep them safe in your backpack. There are no printing or photocopy facilities at the basecamp.\nHere is a list of everything you need for your trek.\nShoes and backpack\nTrekking shoes with ankle support (Available on rent)\nBackpack with rain cover (Available on rent)\nWarm Layers and Clothes\nWarm layers (Padded jackets available on rent)\n- 3 layers if you're trekking in spring, summer and monsoon (1 woollen sweater, 1 fleece, 1 padded jacket)\n- 4 layers if you're trekking in autumn (1 woollen sweater, 2 fleece, 1 padded jacket)\n- 5 layers if you're trekking in winter (1 pair of thermals, 1 woollen sweater, 2 fleece, 1 padded jacket)\n3 Collared T-shirts (Wear one, carry two)\n2 quick-dry trek pants (Wear one, carry one)\nAccessories\nSunglasses (Available on rent)\nSun cap, preferably with flaps\nWaterproof gloves (Available for purchase)\nBalaclava\nWoollen socks (2 pairs of Dry fit + 1 pair of Woollen)\nHeadlamp (Available on rent)\nTrekking pole (Available on rent)\nRain jacket + pants / poncho (Rain jacket is available on rent)\nToiletries:\nSunscreen\nMoisturiser\nLight towel\nLip balm or vaseline\nToilet paper (Wet wipes are strictly not allowed on our treks)\nToothbrush\nToothpaste\nReusable plastic covers (for used clothes)\nCutlery:\nSteel lunch box, spoon and a coffee mug (Lunch box is available on rent)\nTwo water bottles or Hydration Pack (Water bottles are available on rent)\nOnce you run through this list, don't miss this ultimate guide on what gear to take on a trek. It contains tips on what gear to choose, where to get it from and how much to spend on it.\nOur only tip: Keep your backpack light. Indiahikes practices low impact sustainable trekking in every aspect of the trek. Carrying your own personal backpack reduces your impact on the mountains by 20%. We expect all our trekkers to carry their own backpacks unless they have a justifiable reason not to.\n| Pro tip: Keep important documents in a clear plastic cover and slide them into the inner pocket at the back of your backpack. This keeps them from getting wet.\nMandatory Documents\nThese are documents required for legal purposes by Indiahikes and the forest department. Without any of these, you will not be allowed to trek.\nOriginal and photocopy of government photo identity card. Anything such as a driver’s license, Aadhar Card, or passport will do. This is required by the forest department for your identification.\nTreadmill Test: If your age is 58 and above, you’ll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.\nDisclaimer certificate: You don't need to print or carry the disclaimer form. Your Trek Leader will give it to you at the base. Just sign and hand it over then and there.\nHowever, if you are a minor unaccompanied by your parents, please download this disclaimer, print it, get it signed by your parents/guardian and carry it to the basecamp. – Download disclaimer certificate\nMedical certificate: The medical certificate needs to be filled out by an MBBS doctor, without which the forest department will not issue permissions for your trek. It is also a requirement by Indiahikes – Download medical certificate\nNote: Indiahikes has a panel of doctors who can help you with a medical certificate. They are available for online consultation. To get in touch with them, please write to trekmedicalcertificates@gmail.com. They will respond to you within 24 hours.\nConsultation fee: Rs 350\nAny\nPersonal Medical Kit\nCarry these medicines with you, easily accessible at all times. Do not take any medicine unless you have consulted your trek leader.\nDiamox (1 Strip): Be on a course of a half tablet of Diamox starting from Delhi every 12 hours (125 mg). Carry on the medication until you descend on the last day. Being on a preventive course of Diamox greatly reduces the chances of Acute Mountain Sickness on the Gaumukh Tapovan trek.\nDolo 650 (5 tablets): This is a paracetamol. It helps to tackle fever, mild pain\nAvomine (4 tablets): Carry this especially if you are prone to motion sickness. Pop one-half hour before the start of your road journey.\nCombiflam (5 tablets): Take a combiflam if you get a sudden twist of the leg or a muscle strain. It is a pain reliever. It also contains paracetamol.\nDigene (4 tablets): Take it if you feel the food that you’ve taken is undigested. Alert your trek leader immediately. It could be a sign of AMS.\nORS (6 packs): Consume a pack of ORS water at least once a day, usually mid-day when you are in the middle of your trek. It replenishes essential salts lost while trekking. Tip: It also makes cold water easier to drink.\nKnee Brace (optional): Carry this if you are prone to knee injury or have known issues of knee pain.\nOur trek leaders carry a high altitude medical kit with them which also consist of Life Saving Drugs. If there is an emergency our trek leaders know how to tackle it. Meanwhile, contact your trek leader before consuming any of these medicines listed here.\n| Pro tip: We find that these medicines by trekkers are rarely used. But you cannot do away with them. At the end of the trek please donate unused medicines to your trek leader. Some of these medicines get distributed to villages on the trek and some are added to the Indiahikes medical kit.",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::011-packing-list-things-to-take-toggle-accordion",
+            "ui_key": "packing",
+            "label": "Packing List Things To Take toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3433
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::012-packing-list",
+            "ui_key": "packing",
+            "label": "Packing List",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3433
+          }
+        ],
+        "anchors": [
+          {
+            "id": "what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "",
+            "top": 3313,
+            "visible": false
+          },
+          {
+            "id": "trek-what-to-pack",
+            "tag": "div",
+            "ui_key": "packing",
+            "text_preview": "Gaumukh TapovanSELECT MONTHGenerate my packing checklist",
+            "top": 0,
+            "visible": false
+          }
+        ]
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_info::001",
+      "source_field": "quick_info",
+      "section_type": "structured_facts",
+      "title": "Quick Info",
+      "content": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "8 days / 41 km",
+        "highest_altitude": "14,203 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Gangotri, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 5.00 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 8.00 PM",
+        "packing_checklist": "Click to Generate",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "text": "{\n  \"trek_difficulty\": \"Moderate-Difficult\",\n  \"trek_duration\": \"8 days / 41 km\",\n  \"highest_altitude\": \"14,203 ft\",\n  \"suitable_for\": \"12 to 62 years\",\n  \"basecamp\": \"Gangotri, Uttarakhand\",\n  \"accommodation_type\": \"Tents (2-sharing)\",\n  \"fitness_criteria\": \"5 km in 32 mins\",\n  \"pickup_details\": \"Asli Pappu Da Dhaba, Dehradun at 5.00 AM\",\n  \"dropoff_details\": \"Asli Pappu Da Dhaba, Dehradun at 8.00 PM\",\n  \"packing_checklist\": \"Click to Generate\",\n  \"cloakroom\": \"Available\",\n  \"offloading\": \"Available\"\n}",
+      "rendered_support": {
+        "status": "included_source_field",
+        "reason": "Included because it is source-derived context; not directly mapped from a rendered accordion.",
+        "ui_sections": [],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::001",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 1",
+      "content": {
+        "day": "1",
+        "heading": "Reach Gangotri from Dehradun",
+        "sub_heading": "Drive distance: 242 km | Drive Duration: 8 hours",
+        "details": "Transport will be arranged from ,Asli Pappu Da Dhaba, Dehradun at 5.00 am. The transport cost is ₹1550 (additional 5% GST) per trekker (one-way) (₹3100 for both onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek."
+      },
+      "text": "{\n  \"day\": \"1\",\n  \"heading\": \"Reach Gangotri from Dehradun\",\n  \"sub_heading\": \"Drive distance: 242 km | Drive Duration: 8 hours\",\n  \"details\": \"Transport will be arranged from ,Asli Pappu Da Dhaba, Dehradun at 5.00 am. The transport cost is ₹1550 (additional 5% GST) per trekker (one-way) (₹3100 for both onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::002",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 2",
+      "content": {
+        "day": "2",
+        "heading": "Trek from Gangotri (10,050 ft) to Chirbasa (11,630 ft)",
+        "sub_heading": "Trek Distance: 10 km | Trek Duration: 6 hours",
+        "details": "Moderate. Initial 300 m steep ascent followed by a very gradual ascent all the way."
+      },
+      "text": "{\n  \"day\": \"2\",\n  \"heading\": \"Trek from Gangotri (10,050 ft) to Chirbasa (11,630 ft)\",\n  \"sub_heading\": \"Trek Distance: 10 km | Trek Duration: 6 hours\",\n  \"details\": \"Moderate. Initial 300 m steep ascent followed by a very gradual ascent all the way.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::003",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 3",
+      "content": {
+        "day": "3",
+        "heading": "Chirbasa (11,630 ft) to Bhojbasa (12,415 ft)",
+        "sub_heading": "Trek Distance: 5 km | Trek Duration: 3 hours",
+        "details": "Moderate. Initial 100 m ascent to get back on the trail. Very gradual ascent all the way to Bhojbasa"
+      },
+      "text": "{\n  \"day\": \"3\",\n  \"heading\": \"Chirbasa (11,630 ft) to Bhojbasa (12,415 ft)\",\n  \"sub_heading\": \"Trek Distance: 5 km | Trek Duration: 3 hours\",\n  \"details\": \"Moderate. Initial 100 m ascent to get back on the trail. Very gradual ascent all the way to Bhojbasa\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::004",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 4",
+      "content": {
+        "day": "4",
+        "heading": "Bhojbasa (12,415 ft) to Tapovan (14,203 ft)",
+        "sub_heading": "Trek Distance: 6 km | Trek Duration: 9 hours",
+        "details": "Difficult. Gradual ascent for 2.5 hours. 2 hours glacier walk followed by 1 hour of moderate ascent. Final 1.5 hours is a steep ascent."
+      },
+      "text": "{\n  \"day\": \"4\",\n  \"heading\": \"Bhojbasa (12,415 ft) to Tapovan (14,203 ft)\",\n  \"sub_heading\": \"Trek Distance: 6 km | Trek Duration: 9 hours\",\n  \"details\": \"Difficult. Gradual ascent for 2.5 hours. 2 hours glacier walk followed by 1 hour of moderate ascent. Final 1.5 hours is a steep ascent.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::005",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 5",
+      "content": {
+        "day": "5",
+        "heading": "Tapovan (14,203 ft) to Bhojbasa (12,415 ft)",
+        "sub_heading": "Trek Distance: 6 km | Trek Duration: 5 hours",
+        "details": "Moderate Difficult. Level trail to Chirbasa."
+      },
+      "text": "{\n  \"day\": \"5\",\n  \"heading\": \"Tapovan (14,203 ft) to Bhojbasa (12,415 ft)\",\n  \"sub_heading\": \"Trek Distance: 6 km | Trek Duration: 5 hours\",\n  \"details\": \"Moderate Difficult. Level trail to Chirbasa.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::006",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 6",
+      "content": {
+        "day": "6",
+        "heading": "Bhojbasa (12,415 ft) to Gangotri (10,050 ft)",
+        "sub_heading": "Trek Distance: 14 km | Trek Duration: 8 hours",
+        "details": "Tricky descent over bouldery section"
+      },
+      "text": "{\n  \"day\": \"6\",\n  \"heading\": \"Bhojbasa (12,415 ft) to Gangotri (10,050 ft)\",\n  \"sub_heading\": \"Trek Distance: 14 km | Trek Duration: 8 hours\",\n  \"details\": \"Tricky descent over bouldery section\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::007",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 7",
+      "content": {
+        "day": "7",
+        "heading": "Drive from Gangotri to Dehradun",
+        "sub_heading": "Drive distance: 242 km | Drive Duration: 8 hours",
+        "details": "The transport cost is ₹1550 (additional 5% GST) per trekker (one-way) (₹3100 for both onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\nPlease note: The distance between campsites may vary by 100 meters depending on the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\nDrop Location and Time: Asli Pappu Da Dhaba, Dehradun at 8.00 pm"
+      },
+      "text": "{\n  \"day\": \"7\",\n  \"heading\": \"Drive from Gangotri to Dehradun\",\n  \"sub_heading\": \"Drive distance: 242 km | Drive Duration: 8 hours\",\n  \"details\": \"The transport cost is ₹1550 (additional 5% GST) per trekker (one-way) (₹3100 for both onward and return journeys). These are non-AC vehicles. Please pre-book your transport through the dashboard before your trek.\\nPlease note: The distance between campsites may vary by 100 meters depending on the weather conditions and the route you take. The altitude may also vary by 100 feet for similar reasons.\\nDrop Location and Time: Asli Pappu Da Dhaba, Dehradun at 8.00 pm\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    },
+    {
+      "packet_section_id": "gaumukh-tapovan::quick_itinerary::008",
+      "source_field": "quick_itinerary",
+      "section_type": "itinerary_day",
+      "title": "Day 8",
+      "content": {
+        "day": "8",
+        "heading": "Buffer Day",
+        "sub_heading": "If the buffer day is used,  you have to pay us Rs. 2,500 per day (INR) +5% GST. The money will be collected by the Trek Leader only if we use the buffer day.",
+        "details": "This depends completely on the weather conditions on the trek and the call will be taken by the trek leader."
+      },
+      "text": "{\n  \"day\": \"8\",\n  \"heading\": \"Buffer Day\",\n  \"sub_heading\": \"If the buffer day is used,  you have to pay us Rs. 2,500 per day (INR) +5% GST. The money will be collected by the Trek Leader only if we use the buffer day.\",\n  \"details\": \"This depends completely on the weather conditions on the trek and the call will be taken by the trek leader.\"\n}",
+      "rendered_support": {
+        "status": "rendered_structure_matched",
+        "ui_sections": [
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::003-quick-itinerary-get-your-trek-plan-toggle-accordion",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary Get your trek plan toggle accordion",
+            "tag": "button",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          },
+          {
+            "ui_section_id": "gaumukh-tapovan::ui::004-quick-itinerary",
+            "ui_key": "quick_itinerary",
+            "label": "Quick Itinerary",
+            "tag": "h2",
+            "href": "",
+            "dom_id": "",
+            "top": 3193
+          }
+        ],
+        "anchors": []
+      }
+    }
+  ]
+}

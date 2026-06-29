@@ -1,0 +1,266 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "brammah-valley-trek",
+  "section_id": "brammah-valley-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/brammah-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for fit beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for fit beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long trekking days of 8 to 10 km, sometimes 12 to 13 km",
+        "Multiple stream crossings with no bridges requiring nimble footwork",
+        "Narrow ledge sections (not too technical, guided by team)",
+        "Boulder sections on most days",
+        "Last two days are long and all downhill, hard on knees"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Almost every day, you trek 8 to 10 km. Sometimes even 12 to 13 km.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are multiple stream crossings on the trek with no bridges. Being nimble on your feet is extremely important while crossing these streams.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are some narrow ledge sections. Not too technical but our team will be there to guide you safely.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents, descents and boulder sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The last two days are also long, and all downhill. This can be hard on your knees.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "First day has good ascents and descents",
+        "Optional steep climb from Kiddar Maidan up to a ridge",
+        "Some difficult sections requiring alertness and careful trekking"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The first day has good ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Sometimes, from Kiddar Maidan, we take a steep climb up to a ridge. This gives you a magical view. It’s not compulsory. But if you're fit, go for it.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Some difficult sections on this trek require you to be alert and trek carefully.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Trek Leaders and Technical Guides provide necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "If you are trekking with Indiahikes, our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Summit reaches 11,600 ft; start around 6,000 ft; gain about 2,000 ft per day, which helps acclimatization",
+        "Altitude sickness is less likely due to slow gain",
+        "Above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real and can affect any trekker regardless of fitness",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "At the summit, Brammah Valley reaches 11,600 ft. That is not too high. You start at around 6,000 feet. You gain about 2,000 feet each day. This slow gain helps your body adjust. So, altitude sickness is less likely.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "However, at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy, snowfall can obstruct paths requiring fresh tracks",
+        "Kedar Maidan campsite sits on a river delta and can be flooded by heavy rain",
+        "Trek is avoided during monsoon unlike most Kashmir treks",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting hours can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on, while snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Too much rain can flood the entire Kedar Maidan campsite, since it sits on a river delta. That’s why we avoid running this trek during the monsoon — unlike most Kashmir treks, where monsoon is actually the best time to go.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Only exit point is Sounder; emergencies require returning to trek start point",
+        "Closest hospital is at Kishtwar, about 2 km from Sounder",
+        "For serious medical attention, head to Srinagar, a 7-hour drive from Sounder",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "On the Brammah Valley Trek, the only exit point is Sounder. So, if there are emergencies on the trail, you need to return all the way to the trek start point.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "In case of a medical emergency, the closest hospital is at Kishtwar. It’s about 2 km from the trek start point, Sounder. If you need serious medical attention, head to Srinagar for better facilities. Srinagar is a 7 hr drive from Sounder.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively participate in and follow safety protocols",
+        "Trekkers should disclose pre-existing medical conditions to the Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "brammah-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,105 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::faq_group-004",
+  "section_type": "faq_group",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "geography_and_logistics",
+      "field": "nearby_places",
+      "value": [
+        "Rishikesh",
+        "Bhimtal",
+        "Kausani"
+      ],
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "You can spend time exploring tourist attractions around Rishikesh, Bhimtal, or Kausani.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "offloading_policy",
+      "value": "Not encouraged; permitted only for medical conditions at Rs 1,600 for the trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "Having too many mules on a trail isn't good for the ecosystem. This is why, at Indiahikes, we do not encourage offloading. A trekker carries his/her own backpack in the true spirit of trekking. But if — due to a medical condition — you are unable to carry your own backpack, you may offload your backpack. It'll cost you Rs 1,600 for the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "fitness_benchmark",
+      "value": "Able to run, walk, or jog 5 km in 40 minutes (stated in context of age >58)",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "Apart from this, you should also be able to run, walk or jog jog 5 km in 40 minutes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "fitness",
+      "field": "medical_fitness_requirement",
+      "value": "Treadmill Test (not older than 12 months) required for trekkers above 58 years, to be submitted within a week of registration",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "If you are above the age of 58 years, you'll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "age_and_group_suitability",
+      "field": "age_policy",
+      "value": "Trekkers above 58 years are allowed subject to a Treadmill Test and a 5 km in 40 minutes fitness benchmark",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "I am more than 58 years old. Can I do this trek? Yes you can! If you are above the age of 58 years, you'll need to submit a Treadmill Test (not older than 12 months) within a week of completing your trek registration. Apart from this, you should also be able to run, walk or jog jog 5 km in 40 minutes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "risks_and_watchouts",
+      "field": "environmental_watchout",
+      "value": "Too many mules on the trail is not good for the ecosystem",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "faq_group-004",
+          "source_field": "faqs[15:18]",
+          "quote_or_summary": "Having too many mules on a trail isn't good for the ecosystem.",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": []
+}

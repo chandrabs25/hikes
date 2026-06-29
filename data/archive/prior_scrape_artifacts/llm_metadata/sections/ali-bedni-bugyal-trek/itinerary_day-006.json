@@ -1,0 +1,200 @@
+{
+  "schema_version": "v1",
+  "prompt_version": "trek_metadata_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::itinerary_day-006",
+  "section_type": "itinerary_day",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "extracted_items": [
+    {
+      "category": "identity",
+      "field": "trek_id",
+      "value": "ali-bedni-bugyal-trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "day",
+          "quote_or_summary": "day: 6",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "trek_name",
+      "value": "Ali Bedni Bugyal Trek",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "day",
+          "quote_or_summary": "day: 6",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_number",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "day",
+          "quote_or_summary": "day: 6",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "identity",
+      "field": "day_title",
+      "value": "Day 6: Drive from Lohajung to Rishikesh",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "start_point",
+      "value": "Lohajung",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "end_point",
+      "value": "Rishikesh",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "duration",
+      "value": "10-11 hours",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "duration",
+          "quote_or_summary": "duration: Duration: 10-11 hours | Drive distance: 270 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "drive_distance_km",
+      "value": 270,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "duration",
+          "quote_or_summary": "duration: Duration: 10-11 hours | Drive distance: 270 km",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "geography_and_logistics",
+      "field": "activity_type",
+      "value": "drive",
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "day_number",
+      "value": 6,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "day",
+          "quote_or_summary": "day: 6",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "is_trekking_day",
+      "value": false,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "category": "itinerary_profile",
+      "field": "is_drive_day",
+      "value": true,
+      "status": "supported",
+      "confidence": "high",
+      "evidence": [
+        {
+          "source_section": "day_wise_itinerary[5]",
+          "source_field": "place_title",
+          "quote_or_summary": "place_title: Day 6: Drive from Lohajung to Rishikesh",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "needs_review": [
+    "difficulty",
+    "fitness",
+    "age_and_group_suitability",
+    "seasonality",
+    "experience_themes",
+    "risks_and_watchouts",
+    "recommendation_profile",
+    "comparison_axes"
+  ]
+}

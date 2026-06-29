@@ -1,0 +1,157 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.405441+00:00",
+  "trek_id": "kedartal",
+  "trek_title": "Kedartal Trek",
+  "source_url": "https://indiahikes.com/kedartal",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 7,
+    "distance_km": 22.4,
+    "highest_altitude_ft": 16000,
+    "min_age": 15,
+    "max_age": null,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "5.00 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "8.00 PM",
+    "offloading_available": false,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-May to end-June",
+        "mid-September to mid-October"
+      ],
+      "avoid_months": [
+        "end of June (monsoon onset)",
+        "end of October (cold increases, water sources freeze, trekking becomes untenable)"
+      ],
+      "snow_or_rain_notes": [
+        "May (snow on trail after Kedar Kharak and in shaded patches before Kedar Kharak)",
+        "From October, precipitation falls as snowfall at higher camps (3-4 inches per snowfall)",
+        "Unpredictable rain/snow in summer (May–June)",
+        "Monsoon arrives by end of June, causing landslides and rockfalls on trail"
+      ],
+      "temperature_notes": [
+        "Summer day: 15–20 °C; night near 0 °C; drops below 10 °C with rain/snow",
+        "Autumn day: up to 20 °C; nights can fall below 0 °C; overall temperatures fall 3–5 °C every couple of weeks as season progresses"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Steep ascent right from the start of the trek, gaining 2,000 ft at a climb of nearly 45-50 degrees",
+        "Spider wall section: a steep rock face at almost 90 degrees, traversed on the first day",
+        "Rockfall zone within 400 m of starting the second day, a scree section requiring a steep descent",
+        "River crossing soon after the rockfall zone on the second day",
+        "Extremely steep final ascent to the glacial lake on the summit day"
+      ],
+      "altitude_or_weather_risks": [
+        "Gangotri basecamp is at 10,050 ft; trek reaches up to 16,000 ft",
+        "Risk of Acute Mountain Sickness (AMS) on this trek even with an acclimatisation day",
+        "First day alone adds another 3,000 ft of gain from Gangotri",
+        "At altitudes above 10,000 ft, AMS risk is real for both first-time and experienced trekkers",
+        "Even fit trekkers can develop AMS if they climb too high too soon"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 10 km in under 60 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria",
+        "Use apps like Nike or Strava to record runs; profile link must be pasted on Indiahikes account and profile must be public",
+        "Fitness record may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week plan provided for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Frozen Kedartal lake in early summer",
+      "Snow on trail after Kedar Kharak in May",
+      "Snow plumes on mountain peaks in autumn",
+      "Golden/yellow silver birch trees and autumn-coloured shrubs at Kedar Kharak in autumn",
+      "Bharal (mountain goat) sightings more likely in autumn",
+      "Clear mountain views of Mt Thalaysagar and Mt Bhrigunath in autumn"
+    ],
+    "primary_watchouts": [
+      "Summer: volatile weather, possible snow even in summer, campsites can turn white with snow",
+      "End of June: monsoon-related landslides and rockfalls",
+      "Autumn: lack of reliable water sources on trail (sources dry up); carry 2–3 litres of water",
+      "End of October: cold increases manifold, water sources freeze, trekking becomes untenable",
+      "Trekkers averse to volatile weather and possible summer snowfall",
+      "Trekkers unwilling to manage monsoon-related landslide/rockfall risk at end of June"
+    ],
+    "best_for": [
+      "Trekkers seeking a frozen high-altitude lake and snow on trail (early summer)",
+      "Trekkers seeking clear mountain views, autumn foliage, snow plumes, and possible Bharal sightings (autumn)"
+    ],
+    "not_ideal_for": [
+      "Trekkers averse to volatile weather and possible summer snowfall",
+      "Trekkers unwilling to manage monsoon-related landslide/rockfall risk at end of June",
+      "Trekkers unable to carry sufficient water on dry autumn trail",
+      "Trekkers unprepared for untenable late-October conditions (frozen water sources, severe cold)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "kedartal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "kedartal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "kedartal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "kedartal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "kedartal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "kedartal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "kedartal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "kedartal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "kedartal::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

@@ -1,0 +1,319 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kanamo-peak-trek",
+  "section_id": "kanamo-peak-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/kanamo-peak-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "First-time trekkers (altitude sickness risk applies to anyone, including first-timers)",
+        "Those without a high order of physical fitness",
+        "Those unable to handle relentless climbs over scree, boulder and moraine at altitude"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "A high order of physical fitness is necessary because this trek is an endurance test.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "It is a relentless climb over scree, boulder and moraine from Kanamo base camp to the summit.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascents and descents on uneven trails",
+        "Boulder sections with scree and moraine",
+        "No vegetation cover above 15,000 ft - continuous open landscape",
+        "Relentless climb over scree, boulder and moraine from base camp to summit",
+        "Arduous terrain on summit day covering ~10 km in 12-14 hours"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "every day will include steep ascents and descents on uneven trails, boulder sections with scree and moraine.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "At 15,000 ft above sea-level, there is no vegetation cover and you'll be trekking continuously in open landscape.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "It is a relentless climb over scree, boulder and moraine from Kanamo base camp to the summit.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "you also need to descend back to basecamp on the same day. That takes almost 12-14 hours, covering around 10 km of trekking through arduous terrain.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Daily steep ascents and descents on uneven trails",
+        "Summit day: ascend 4,500 ft and descend back to basecamp on the same day (~10 km, 12-14 hours)",
+        "Relentless climb over scree, boulder and moraine from base camp to summit",
+        "Total ~22 km over three trekking days with ~6,000 ft altitude gain (13,500 ft to 19,500 ft)"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "You will cover a total of around 22 km in three trekking days. You gain around 6000 ft (13,500 ft to 19,500 ft), every day will include steep ascents and descents on uneven trails",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "On the summit day, you not only have to ascend 4,500 ft to the peak, but you also need to descend back to basecamp on the same day. That takes almost 12-14 hours, covering around 10 km of trekking through arduous terrain.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "It is a relentless climb over scree, boulder and moraine from Kanamo base camp to the summit.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes provides micro spikes, gaiters, helmets, ropes and other technical gear wherever required",
+        "Trek Leaders and Technical Guides provide guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek begins at 13,500 ft and climbs to 19,500 ft - the highest Indiahikes goes on any trek in India",
+        "Risk of altitude sickness (AMS) especially in the first couple of days due to starting high and ascending further",
+        "AMS can affect anyone - first-time and experienced trekkers alike; even fit people climbing too high too soon are at equal risk",
+        "At altitudes above 10,000 ft, chances of Acute Mountain Sickness are real",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Kanamo Peak Trek begins at a high altitude of 13,500 ft, and climbs further till 19,500 ft. This is the highest we go on any trek in India.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Starting this high and ascending even more puts you at risk of altitude sickness, especially in the first couple of days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Sunny days: direct harsh sunlight exposure can cause heat exhaustion; hydration is critical",
+        "Windy days: strong winds (especially near glaciers) cause bitter cold and wind chill - layer up and carry wind cheaters",
+        "Rain: makes boulder sections slippery and unsafe; Trek Leader may avoid such sections",
+        "Rain often comes with hail - seek shelter; getting hit by hail can be painful",
+        "Prolonged rainfall can flood campsites or make trails unstable; trek may be aborted prematurely",
+        "Indiahikes technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "On a sunny day, the direct exposure to harsh sunlight makes you susceptible to Heat Exhaustion.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "On a windy day, the strong winds will make you feel bitterly cold. These strong winds are especially possible near the glaciers. Layer up well and carry wind cheaters to beat this wind chill.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Rains can make the boulder sections slippery and unsafe to navigate. Your Trek Leader may take a call on avoiding such sections altogether in such cases.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "If you face rain, it will likely come with hails. Please be prepared to find shelter in such cases as getting hit by hails can be painful. The best option is to make a beeline for the nearest campsite.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Prolonged rainfall can flood campsites or make the trails too unstable to walk safely on. You may have to return prematurely from the trek in such cases.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Limited exit points - in emergencies, retrace to Kibber and further to Manali",
+        "For AMS cases, drive immediately towards Manali since Kibber is also above 10,000 ft",
+        "Closest hospital: Primary Health Care Centre at Kibber",
+        "For serious medical needs: drive back to Manali (~180 km, ~6 hrs)",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Kanamo Peak Trek has limited exit points. In case of an emergency, you need to retrace your way back to Kibber and further to Manali.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "If it is an AMS case, you need to drive immediately towards Manali since even Kibber is at an altitude of above 10,000 ft.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The closest hospital to the Kanamo peak trek is at Kibber, which houses a Primary Health Care Centre. For more serious requirements, drive back to Manali (drive distance: 180 km, drive duration: 6 hrs approximately).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility - trekkers must actively participate in and follow safety protocols",
+        "Trekkers must disclose any pre-existing medical conditions or health concerns to the Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kanamo-peak-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

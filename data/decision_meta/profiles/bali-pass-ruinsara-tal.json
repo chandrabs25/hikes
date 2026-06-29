@@ -1,0 +1,146 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.392647+00:00",
+  "trek_id": "bali-pass-ruinsara-tal",
+  "trek_title": "Bali Pass Trek",
+  "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 9,
+    "distance_km": 55.0,
+    "highest_altitude_ft": 16207,
+    "min_age": 15,
+    "max_age": 55,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "8 PM",
+    "offloading_available": false,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing), Homestay (gender-based)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "May",
+        "June",
+        "September",
+        "October"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Snow patches on the ridge for the first few weeks of May if winter had heavy snowfall",
+        "First spell of snowfall expected for last groups of November due to western disturbances"
+      ],
+      "temperature_notes": [
+        "Summer daytime: 12°C to 17°C",
+        "Summer nighttime: drops to zero",
+        "Autumn daytime: 10°C to 14°C",
+        "Autumn nighttime: drops to 0°C to -3°C",
+        "Summer requires 3 warm layers"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "terrain_challenges": [
+        "Steep ascent to Bali Pass requiring expert guide",
+        "Knife-edge ridge with deep valleys on either side",
+        "Huge boulder sections on climb to Advance Base Camp",
+        "Extremely steep descent beyond the pass",
+        "Long arduous day from Advance Base Camp to Lower Damini across Bali Pass"
+      ],
+      "altitude_or_weather_risks": [
+        "Bali Pass at 16,207 ft is one of the highest treks at Indiahikes",
+        "Proper acclimatization is crucial",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker regardless of fitness",
+        "Snow possible even in summer, increasing difficulty and potentially making pass inaccessible",
+        "Rain can turn trails slushy and unsafe"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog, or run 10 km in under 60 minutes (minimum recommended fitness level)",
+        "Trekking primarily uses lungs, core, calves, glutes, quads, and hamstrings",
+        "Cardiovascular endurance and muscle strength are the two things to work on"
+      ],
+      "approval_requirements": [
+        "Every trekker needs fitness approval from the Indiahikes team 20 days before the trek date; without it you will not be allowed on the trek",
+        "Record at least 3 runs from the last 1 month that meet the trek's fitness criteria",
+        "Fitness profile must be linked and public; failure to link or to meet the required level at least three times in the past month may lead to rejection"
+      ],
+      "prep_window": [
+        "6-week plan provided for those not currently active",
+        "General recommendation to start the fitness routine 6 to 8 weeks before the trek begins"
+      ]
+    },
+    "experience_themes": [
+      "Transition from snow to greenery",
+      "Blooming rhododendrons",
+      "Possibility of witnessing the rare alpenglow phenomenon",
+      "Vibrant meadows",
+      "Lush green trail fresh from monsoon",
+      "Dramatic yellows and oranges hues in autumn"
+    ],
+    "primary_watchouts": [
+      "Bali Pass crossing is dependent on snow and weather conditions on the day of ridge crossing",
+      "Trek leader may decide to return if weather is bad or ridge is unsafe to cross",
+      "Steep ascent to Bali Pass requiring expert guide",
+      "Knife-edge ridge with deep valleys on either side",
+      "Huge boulder sections on climb to Advance Base Camp",
+      "Extremely steep descent beyond the pass"
+    ],
+    "best_for": [],
+    "not_ideal_for": [
+      "First-time trekkers",
+      "Trekkers without prior high-altitude experience",
+      "Trekkers unable to handle long ascents/descents and strenuous days"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "bali-pass-ruinsara-tal::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "not_ideal_for: 'First-time trekkers' is inferred from the AMS note rather than an explicit statement that first-timers should not do this trek; flagged for review."
+  ]
+}

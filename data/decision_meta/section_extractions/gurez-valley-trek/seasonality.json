@@ -1,0 +1,244 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "gurez-valley-trek",
+  "section_id": "gurez-valley-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahives.com/gurez-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "Beginning of July to middle of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "The best time to be on this trek is from the beginning of July to the middle of September. That's the only time you can trek here.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [
+        "All other seasons (outside July to mid-September)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, Kashmir trails are buried under snow.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Early July: snow at higher altitudes, trek accessible, colourful flowers appearing on meadows, lush green meadows, alpine lakes still frozen in parts, light evening showers",
+        "Mid-July to third week of August: most snow melted, frozen chunks in Patalwansar I & II melted, bright sunny mornings with some evening showers, green meadows densely dotted with wildflowers",
+        "Aug-end to second week of September: cold sets in, rains reduce, brilliant blue skies, deeper blue alpine lakes, meadows change colour from fresh green to a different tone, flowers change"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "The upper reaches of the trek start crawling out of the snow blanket in July. It's warm, and you experience light evening showers during this month.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "After mid-July, a robust trekking season begins in Gurez Valley. Expect bright sunny mornings with some evening showers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "After the end of August, cold sets in. Rains reduce, giving way to one of the best times to do the trek. The clouds part during this time of the year, and you witness brilliant blue skies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow remains at higher altitudes in early July; most snow melted by mid-July to third week of August; snowfall expected during the second week of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Snow remains at higher altitudes. But the trek is more or less accessible.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Most snow has melted by now. Frozen chunks of ice in Patalwansar I & II would have melted.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "You can expect snowfall during the second week of September",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Light evening showers in July; some evening showers mid-July to third week of August; rains reduce after end of August; Pir Panjal range blocks most rain clouds, making rains milder than Himachal Pradesh and Uttarakhand"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "It blocks most rain clouds from crossing over into the Kashmir Valley.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Rains are still mild compared to rains in Himachal Pradesh and Uttarakhand.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Early July: Day 15-20°C, Night 2-7°C; Mid-July to third week of August: Day 15-20°C, Night 4-8°C; Aug-end to second week of September: Day 14-18°C, Night 0-5°C; 3-4 warm layers in July to August, 4 warm layers in Aug-end to mid-September"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 15 °C and 20 °C | Night time temperature : Between 2 °C and 7 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 15 °C and 20 °C | Night time temperature : Between 4 °C and 8 °C",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 14 °C and 18 °C | Night time temperature : Between 0 °C and 5 °C",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Lush green meadows punctuated with alpine lakes still frozen in parts (early July); meadows densely dotted with wildflowers (mid-July to third week of August); meadows change colour from fresh green to a different tone, brilliant blue skies reflecting in deeper blue alpine lakes (Aug-end to mid-September)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "The landscape has lush green meadows punctuated with alpine lakes that are still frozen in parts.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "The trail is carpeted with green meadows everywhere. The best part is that these meadows are densely dotted with wildflowers!",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "The clouds part during this time of the year, and you witness brilliant blue skies. Their reflection deepens the blue of the alpine lakes.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Trek window is tight; snowfall chances increase after second week of September, raising trek difficulty; crossing the pass becomes no longer possible; trail on the other side becomes inaccessible after second week of September"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "We usually stop our trek after the second week of September. It turns colder, and the chances of snowfall increase. That raises the trek's difficulty, and crossing the pass is no longer possible. The trail on the other side becomes inaccessible.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Trekkers seeking the only accessible window for Kashmir/Gurez Valley trails; those wanting wildflower meadows, alpine lakes, and changing seasonal landscapes"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "That's the only time you can trek here.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "July to September is peak summer, transitioning to Autumn and the best time to trek in Kashmir. The landscape comes alive during this window.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers visiting outside July to mid-September (trails buried under snow); trekkers after second week of September (pass crossing not possible, trail inaccessible)"
+      ],
+      "evidence": [
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "In all the other seasons, Kashmir trails are buried under snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "gurez-valley-trek::best_time_section::001",
+          "quote_or_summary": "crossing the pass is no longer possible. The trail on the other side becomes inaccessible.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

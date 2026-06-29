@@ -1,0 +1,163 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.413240+00:00",
+  "trek_id": "rupin-pass",
+  "trek_title": "Rupin Pass",
+  "source_url": "https://indiahikes.com/rupin-pass",
+  "filter_index": {
+    "trek_difficulty": "Moderate-Difficult",
+    "duration_days": 7,
+    "distance_km": 37.0,
+    "highest_altitude_ft": 15279,
+    "min_age": 12,
+    "max_age": 62,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 32,
+    "pickup_city": "Shaktan Homestay Rohru",
+    "pickup_time": "8 AM",
+    "dropoff_city": "Shimla Old Bus Stand",
+    "dropoff_time": "11 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "mid-May to end of June (Summer)",
+        "mid-September to mid-October (Autumn)"
+      ],
+      "avoid_months": [
+        "mid-October onwards (autumn season ends)",
+        "July and August (monsoon, not listed as open)"
+      ],
+      "snow_or_rain_notes": [
+        "Summer: snow from Lower Waterfall campsite in May; from Upper Waterfall in June; Dhanderas Thatch to Ronti Gad mostly under snow until last week of May; upper stretches (Rata Pheri to Ronti Gad) still under snow in second half of June",
+        "Autumn: snow mostly missing; frost at Upper Waterfall campsite; chances of snowfall at Rupin Pass when weather goes bad; first snows of the season hit the pass around middle of October",
+        "Monsoon season (July-August) is not listed as an open season; autumn begins as monsoons fade"
+      ],
+      "temperature_notes": [
+        "Summer: daytime 13°C to 17°C; night drops to zero at higher campsites; 4 warm layers required",
+        "Autumn: daytime 12°C to 16°C; night drops to zero to -4 to -5°C at higher campsites; 4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult trek in terms of terrain and climbs to well over 15,000 ft",
+        "Suitable for Experienced Trekkers"
+      ],
+      "experience_suitability": [
+        "Suitable for Experienced Trekkers",
+        "Fitness helps in making your trek easier"
+      ],
+      "terrain_challenges": [
+        "Frequent river crossings along the Rupin River",
+        "Massive snow bridges in May and June",
+        "Makeshift log bridges set up by shepherds in September and October",
+        "Hopping on boulders or using ropes if no bridges exist",
+        "Boulder sections every day"
+      ],
+      "altitude_or_weather_risks": [
+        "Trek ascends to 15,279 ft above sea level",
+        "At altitudes above 10,000 ft, chances of Acute Mountain Sickness are real",
+        "Altitude sickness can happen to anybody including first-time and experienced trekkers",
+        "Even a fit person climbing too high too soon runs equal risk of developing AMS",
+        "Indiahikes itinerary allows enough space for acclimatising; no more than 2000 ft elevation gain per day"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 32 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Fitness approval from the Indiahikes team is required 20 days before the trek date; without it you will not be allowed on the trek",
+        "At least 3 runs from the last 1 month must meet the fitness criteria",
+        "Record runs using apps like Nike or Strava and paste your public profile link on your Indiahikes account",
+        "Fitness record may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before the trek begins",
+        "6-week plan available for those not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Snow bridges (including the massive Rupin Waterfall snow bridge)",
+      "Snowfields and snow slides from Dhanderas Thatch to Ronti Gad",
+      "White moonscape-like snowfields at Rata Pheri in May",
+      "Combination of greenery and snow in first half of June",
+      "Resplendent green meadows with wildflowers at Dhanderas Thatch in early June",
+      "Hundreds of waterfalls along the trail in autumn"
+    ],
+    "primary_watchouts": [
+      "First snows around middle of October make trekking dangerous and difficult; Indiahikes winds up autumn season by mid-October",
+      "Snow bridge and snow sections require caution in summer",
+      "Night temperatures drop to zero or below at higher campsites in both seasons",
+      "Trekkers planning beyond mid-October (autumn season ends)",
+      "Trekkers seeking guaranteed snow in autumn (snow mostly missing)",
+      "Frequent river crossings along the Rupin River"
+    ],
+    "best_for": [
+      "Trekkers seeking a classic snow experience (summer)",
+      "Trekkers wanting a combination of greenery and snow (first half of June)",
+      "Trekkers seeking waterfalls, wildflower meadows, and golden valley views (autumn)"
+    ],
+    "not_ideal_for": [
+      "Trekkers planning beyond mid-October (autumn season ends)",
+      "Trekkers seeking guaranteed snow in autumn (snow mostly missing)",
+      "First-time trekkers (implied by 'Suitable for Experienced Trekkers' and AMS warning that 'Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers')"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "rupin-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "rupin-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "rupin-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "rupin-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "rupin-pass::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "rupin-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "rupin-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "rupin-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "rupin-pass::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "rupin-pass::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": []
+}

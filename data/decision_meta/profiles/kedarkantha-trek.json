@@ -1,0 +1,173 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.404787+00:00",
+  "trek_id": "kedarkantha-trek",
+  "trek_title": "Kedarkantha Trek",
+  "source_url": "https://indiahikes.com/kedarkantha-trek",
+  "filter_index": {
+    "trek_difficulty": "Easy-Moderate",
+    "duration_days": 6,
+    "distance_km": 23.0,
+    "highest_altitude_ft": 12500,
+    "min_age": 8,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 40,
+    "pickup_city": "Asli Pappu Da Dhaba, Dehradun",
+    "pickup_time": "6.30 AM",
+    "dropoff_city": "Asli Pappu Da Dhaba, Dehradun",
+    "dropoff_time": "6.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "September"
+      ],
+      "avoid_months": [
+        "July",
+        "August"
+      ],
+      "snow_or_rain_notes": [
+        "Snow present from base camp towards end of December through winter (December–February); upper reaches still under snow in March; snow melts away by April; no snow in summer (May–June) or autumn (September–November)",
+        "July and August are peak rainy months and trek is closed; June has occasional rainfall; monsoon sets in only in July"
+      ],
+      "temperature_notes": [
+        "Winter (Dec–Feb): Day 8–10 °C, Night 0 to -10 °C; 5 warm layers required",
+        "Spring (Mar–Apr): Day 15–18 °C, Night 0–5 °C; 3 warm layers required",
+        "Summer (May–Jun): Day 18–24 °C, Night 3–8 °C; 2 warm layers required",
+        "Autumn (Sep–Nov): Day 10–15 °C, Night 0 to -5 °C; 4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Suitable for Beginners",
+        "Challenging on the legs on summit day; requires a good level of fitness"
+      ],
+      "experience_suitability": [
+        "Beginners (with preparation)",
+        "Trekkers with a good level of fitness"
+      ],
+      "terrain_challenges": [
+        "Long and steep summit climb",
+        "Hard, frozen overnight snow on summit day",
+        "Slushy trails in rain",
+        "Snowfall can block established paths requiring new tracks to be carved",
+        "Steep sections spread out across the trek"
+      ],
+      "altitude_or_weather_risks": [
+        "Rapid altitude gain of ~6,100 ft from Kotgaon (6,400 ft) to Kedarkantha summit (12,500 ft) in 4 trekking days",
+        "Risk of Acute Mountain Sickness (AMS) above 12,000 ft",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team",
+        "Rainfall or snowfall lasting hours can significantly alter trek dynamics",
+        "Kotgaon stays in shade long after sunrise due to a blocking hill, making it one of the coldest base villages"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 40 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Screenshots must demonstrate meeting fitness criteria at least 3 times in the past month"
+      ],
+      "prep_window": [
+        "6 weeks (Indiahikes free 6-week training plan)"
+      ]
+    },
+    "experience_themes": [
+      "Winter (December–February): snow-covered landscape, dense snow-covered forests, camping on thick mounds of snow, adventurous summit climb on thick snow blanket",
+      "Spring (March–April): last of the winter snow at upper reaches, Rhododendrons blooming, freshly exposed grasslands, riot of colours against snow backdrop, landscape coming alive after winter",
+      "Summer (May–June): bright mornings, lush green trek, less crowded, more isolation",
+      "Autumn (September–November): fresh meadows and forests after monsoon, crisp air, strikingly clear views of upper Himalayas, feeling of incoming winter by November",
+      "Winter: entire landscape and valley in white, snow-covered forests",
+      "Spring: Rhododendrons and freshly exposed grasslands blooming, flush of colours against snow backdrop, landscape coming alive after winter hibernation, riot of colours"
+    ],
+    "primary_watchouts": [
+      "Trek is closed in July and August due to peak monsoon/rainy months",
+      "Kedarkantha trek gets extremely crowded from the Sankri side starting December 15th until mid-January",
+      "June has occasional rainfall",
+      "Trek gets cold as it proceeds towards November with feeling of incoming winter",
+      "Trekkers visiting in July or August (trek closed due to peak monsoon)",
+      "Trekkers averse to extreme crowds from December 15 to mid-January on the Sankri side"
+    ],
+    "best_for": [
+      "Winter trekkers seeking snow-covered landscapes and adventurous summit climb",
+      "Beginners looking for a perfect winter trek combining beauty and adventure",
+      "Experienced trekkers wanting a memorable winter experience",
+      "Trekkers wanting isolation and fewer crowds (May–June)",
+      "Trekkers wanting clear Himalayan views and fresh post-monsoon landscapes (September–October)"
+    ],
+    "not_ideal_for": [
+      "Trekkers visiting in July or August (trek closed due to peak monsoon)",
+      "Trekkers averse to extreme crowds from December 15 to mid-January on the Sankri side"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "kedarkantha-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "kedarkantha-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "kedarkantha-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "kedarkantha-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "kedarkantha-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "kedarkantha-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "kedarkantha-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "kedarkantha-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "kedarkantha-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "avoid_months",
+    "best_for",
+    "not_ideal_for",
+    "open_or_recommended_months",
+    "rain_or_monsoon_risk",
+    "seasonal_experiences",
+    "seasonal_watchouts",
+    "snow_window",
+    "temperature_or_cold_notes",
+    "view_or_landscape_notes"
+  ]
+}

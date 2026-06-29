@@ -1,0 +1,258 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "bodpathri-trek",
+  "section_id": "bodpathri-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/bodpathri-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers who are not confident in placing their footing"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Trekkers who are not confident in placing their footing will find it challenging to navigate swiftly through these boulder patches.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate-difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Bodpathri Trek, which climbs to 13,060 ft, is not difficult. It is rated as 'Moderate-difficult'.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Experienced Trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Experienced Trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Boulder sections on almost all days of the trek",
+        "Long descent on the last day with patches requiring care"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "The second factor in rating this trek under Moderate-difficult, would be the boulder sections on the trek. You come across boulder sections on almost all days of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "The last point would be the long descent on the last day of the trek. There are a few patches of the descent where you need to be careful.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Marginally longer trekking days hovering at altitudes of around 12,000 feet on most of the days",
+        "Trekking 7-8 km on average every day"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "A moderate-difficult rating refers to marginally longer trekking days hovering at altitudes of around 12,000 feet on most of the days. You will be trekking for 7-8 km on average every day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Fewer technical sections",
+        "Trekking pole and knee cap (for those with knee niggles) helps on the descent",
+        "Good legs and a sense of control needed for boulder sections"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "But the trek has easy exits and there are fewer technical sections.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Having a trekking pole and knee cap (for those with knee niggles) helps.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "You need to have good legs and a sense of control when navigating these sections.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Trek climbs to 13,060 ft",
+        "Risk of AMS on any day even though altitude gain per day is not too much",
+        "Check BP and oxygen saturation at every campsite at least twice",
+        "Diamox can be taken as a curative course if feeling uneasy",
+        "Do not proceed further if not feeling normal after a few hours or overnight",
+        "Trek Leaders are trained and equipped to handle AMS emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "On the Bodpathri Trek you go up to an altitude of 13,060 ft. The days are divided so that the altitude gain is not too much. However, you could be hit by AMS on any of these days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "There are always risks of AMS even for the fittest and the most experienced trekkers. You must pay close attention to your body and the symptoms on a high-altitude trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Check your vitals before you start the trek - Your BP reading, and oxygen saturation levels at every campsite at least twice.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "If you are feeling uneasy, you can even go on a curative course of Diamox.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "If you do not feel normal after a few hours or overnight, do not proceed further on the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "At Indiahikes, our Trek Leaders are trained and equipped to take care of any emergencies related to AMS.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Easy exits; descent to lower areas is about a day's trek",
+        "Until Day 3 / Gurwanser campsite, exit point is Doodhpathri with good network (Airtel and Jio work at certain sections)",
+        "After Duriem, feasible exit is towards Tosa Maidan which is not close by",
+        "Closest hospital from Tosa Maidan is at Khag with a medical facility to handle emergencies",
+        "Srinagar is the best place for major emergency treatment"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "If there are any emergencies, it is easy to reach down which is just about a day’s trek with the descent.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "On Bodpathri Meadows Trek, until Day 3 and until the campsite of Gurwanser, the exit point will be Doodhpathri. You have good network points in case of an emergency until this campsite. Airtel and Jio work at certain sections of the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "If you have crossed this campsite and are close to the delta region of Duriem or crossed Duriem, then the most feasible exit point will be towards Tosa Maidan which is not close by.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "In case of a medical emergency, the closest hospital from Tosa Maidan is at Khag. You have a medical facility to handle emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "For any major emergencies, Srinagar is the best place for getting any treatment.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Most of the time it's just your group trekking on your own on remote trails of Budgam district",
+        "Being mentally prepared is as important as being physically prepared"
+      ],
+      "evidence": [
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Trekking to Bodpathri is safe even though it lies in the remote trails of the Budgam district of Jammu & Kashmir, away from civilization. Most of the time it's just your group trekking on your own.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "bodpathri-trek::difficulty_section::001",
+          "quote_or_summary": "Coming back to the trail, being mentally prepared for the trek is as important as being physically prepared to stay safe.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

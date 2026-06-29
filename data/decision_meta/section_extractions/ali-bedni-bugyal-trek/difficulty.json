@@ -1,0 +1,309 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "ali-bedni-bugyal-trek",
+  "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Fit beginners",
+        "First-time trekkers",
+        "Experienced trekkers (also susceptible to AMS)"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "It can happen to anybody- first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Steep ascents and descents every day",
+        "Steep climb gaining nearly 3000 ft over 6 km on Day 1",
+        "Steep ascent before crossing the treeline at the onset of Bedni Bugyal on Day 3 (Gehroli Patal to Abin Kharak)",
+        "Neelganga River crossing can become risky in heavy rain"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include steep ascents and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of your trek, you gain nearly 3000 ft in elevation over a 6 km stretch. This is a steep climb that will test your fitness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "On Day 3, you will trek from Gehroli Patal to Abin Kharak. This involves a steep ascent before crossing the treeline at the onset of the Bedni Bugyal.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "It can also make the Neelganga River crossing risky.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 1: ~3000 ft elevation gain over 6 km",
+        "Day 3: Steep ascent from Gehroli Patal to Abin Kharak before treeline",
+        "Lohajung to Wan Kharak: ~3000 ft ascent in one day"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "On the first day of your trek, you gain nearly 3000 ft in elevation over a 6 km stretch.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "On Day 3, you will trek from Gehroli Patal to Abin Kharak. This involves a steep ascent before crossing the treeline at the onset of the Bedni Bugyal.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "From Lohajung to Wan Kharak, you ascend almost 3000 ft in one day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Trek Leaders and Technical Guides provide guidance and technical gear such as micro spikes, gaiters, helmets, ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft",
+        "Bedni Top at 12,550 ft; trek reaches 7,550 ft to 12,550 ft",
+        "AMS can affect first-time and experienced trekkers alike",
+        "Stay well-hydrated to lower AMS risk",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Stay well-hydrated to lower your risk of Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Bedni Top is situated 12,550 ft above sea level and at altitudes above 10,000 ft, every trekker is susceptible to Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "It can happen to anybody- first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Snowfall possible near Bedni Top, especially in winter",
+        "Snow can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Heavy rain can flood trails and campsites or turn them into slippery slush",
+        "Heavy rain can make Neelganga River crossing risky",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "On this trek, snowfall is a distinct possibility near Bedni Top, especially in the winter months.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Heavy rain may flood trails and campsites or turn them into slippery slush.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "It can also make the Neelganga River crossing risky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Emergency exit: retrace to Lohajung (base camp); Wan has the closest motorable roadhead",
+        "Alternative: descend to Didna village to rest, then trek back to Lohajung",
+        "Primary Health Care Center in Dewal (~30 km from Lohajung) with very basic facilities",
+        "Gopeshwar (Chamoli District HQ) hospitals ~120 km / 4-hour drive from Lohajung",
+        "Rudraprayag hospitals reachable faster (downhill from Lohajung)",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "In case of an emergency, medical or otherwise, the best way is to retrace your way back to Lohajung (base camp). You have to return to Wan, which has the closest motorable roadhead.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Descending to Didna village to rest and recuperate there is also an option. But you will have to trek back to Lohajung from Didna.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "There is a Primary Health Care Center in Dewal, about 30 km from the Indiahikes Lohajung Campus. However, it has very basic facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "For more serious concerns, you need to approach the hospitals in Gopeshwar, the Headquarters of Chamoli District. It is about 120 km by road (4-hour drive) from Lohajung.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Accessing the hospitals at Rudraprayag is faster since it is a downhill journey from Lohajung while Gopeshwar is an uphill drive.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Several steep sections require trekkers to be alert and trek carefully",
+        "Safety is a shared responsibility; trekkers must actively follow safety protocols",
+        "Trekkers must disclose pre-existing medical conditions to the Trek Leader"
+      ],
+      "evidence": [
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Several steep sections on this trek require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ali-bedni-bugyal-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

@@ -1,0 +1,2547 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "generated_at": "2026-06-28T12:43:10.282560+00:00",
+  "source": "data/slim_meta",
+  "count": 34,
+  "records": [
+    {
+      "trek_id": "ali-bedni-bugyal-trek",
+      "trek_title": "Ali Bedni Bugyal Trek",
+      "source_url": "https://indiahikes.com/ali-bedni-bugyal-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy-Moderate",
+        "trek_duration": "6 days / 27.2 km",
+        "highest_altitude": "12,550 ft",
+        "suitable_for": "8 years and above",
+        "basecamp": "Lohajung, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 40 mins",
+        "pickup_details": "Live free hostel, Rishikesh at 5.00 AM",
+        "dropoff_details": "Live free hostel, Rishikesh at 7.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 27.2
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12550
+      },
+      "min_age": {
+        "status": "known",
+        "value": 8
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 40
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.00 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "7.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "bali-pass-ruinsara-tal",
+      "trek_title": "Bali Pass Trek",
+      "source_url": "https://indiahikes.com/bali-pass-ruinsara-tal",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "9 days / 55 km",
+        "highest_altitude": "16,207 ft",
+        "suitable_for": "15 to 55 years",
+        "basecamp": "Kotgaon, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing), Homestay (gender-based)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 8 PM",
+        "cloakroom": "Available",
+        "offloading": "Not Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 9
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 55.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 16207
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "known",
+        "value": 55
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": false
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing), Homestay (gender-based)"
+      }
+    },
+    {
+      "trek_id": "beas-kund",
+      "trek_title": "Beas Kund Trek",
+      "source_url": "https://indiahikes.com/beas-kund",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "4 days / 14.5 km",
+        "highest_altitude": "12,772 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Palchan, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Beas Bridge, Manali at 8.30 AM",
+        "dropoff_details": "Beas Bridge, Manali at 4 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 4
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 14.5
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12772
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "8.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "4 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "bhrigu-lake",
+      "trek_title": "Bhrigu Lake Trek",
+      "source_url": "https://indiahikes.com/bhrigu-lake",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "4 days / 21.5 km",
+        "highest_altitude": "14,009 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Palchan, Beas Bridge, Manali",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Beas Bridge, Manali at 10 AM",
+        "dropoff_details": "Beas Bridge, Manali at 4 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 4
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 21.5
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 14009
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "10 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "4 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "bijli-mahadev-trek",
+      "trek_title": "Bijli Mahadev Trek",
+      "source_url": "https://indiahikes.com/bijli-mahadev-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy",
+        "trek_duration": "2 days / 10 km",
+        "highest_altitude": "8,120 ft",
+        "suitable_for": "7 years and above",
+        "basecamp": "Manali (Sarsai)",
+        "region": "Himachal Pradesh",
+        "accommodation_type": "Tents",
+        "pickup_details": "Beas Bridge, Manali at 6 AM",
+        "dropoff_details": "Beas Bridge, Manali at 9 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "gear_rentals": "Available. Rent Here."
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 2
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 10.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 8120
+      },
+      "min_age": {
+        "status": "known",
+        "value": 7
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "9 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents"
+      }
+    },
+    {
+      "trek_id": "bodpathri-trek",
+      "trek_title": "Bodpathri Trek",
+      "source_url": "https://indiahikes.com/bodpathri-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "7 days / 48.1 km",
+        "total_trek_distance": "48.1 km",
+        "highest_altitude": "13,060 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Doodhpathri",
+        "best_time": "Monsoons",
+        "pickup_details": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 48.1
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 13060
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+      },
+      "pickup_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "dropoff_city": {
+        "status": "unknown",
+        "value": null
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "unknown",
+        "value": null
+      },
+      "cloakroom_available": {
+        "status": "unknown",
+        "value": null
+      },
+      "accommodation_type": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    {
+      "trek_id": "brahmatal-trek",
+      "trek_title": "Brahmatal Trek",
+      "source_url": "https://indiahikes.com/brahmatal-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy-Moderate",
+        "trek_duration": "6 days / 22 km",
+        "highest_altitude": "12,250 ft",
+        "suitable_for": "8 years and above",
+        "basecamp": "Lohajung, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 40 mins",
+        "pickup_details": "Live Free Hostel, Rishikesh at 5.30 AM",
+        "dropoff_details": "Live Free Hostel, Rishikesh at 7.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 22.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12250
+      },
+      "min_age": {
+        "status": "known",
+        "value": 8
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 40
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Rishikesh"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Rishikesh"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "7.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "brammah-valley-trek",
+      "trek_title": "Brammah Valley Trek",
+      "source_url": "https://indiahikes.com/brammah-valley-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 48.5 km",
+        "highest_altitude": "11,600 ft",
+        "suitable_for": "11 to 62 years",
+        "basecamp": "Sounder",
+        "best_time": "Summer and Autumn",
+        "pickup_details": "Shalamar Road, Indira Chowk, Ranbir Market, Jammu City at 3.00 AM",
+        "dropoff_time": "7.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "gear_rentals": "Available. Rent Here"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 48.5
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 11600
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Shalamar Road, Indira Chowk, Ranbir Market, Jammu City"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "3.00 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "7.00 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    {
+      "trek_id": "buran-ghati",
+      "trek_title": "Buran Ghati Trek",
+      "source_url": "https://indiahikes.com/buran-ghati",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "8 days / 40.5 km",
+        "highest_altitude": "15,000 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Janglik, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Shaktan Homestay Rohru at 9.30 AM",
+        "dropoff_details": "Shimla Old Bus Stand at 11 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 8
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 40.5
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 15000
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 32
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Shaktan Homestay Rohru"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "9.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Shimla Old Bus Stand"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "11 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "chandrabhaga-glaciers-trek",
+      "trek_title": "Chandrabhaga Glaciers Trek",
+      "source_url": "https://indiahikes.com/chandrabhaga-glaciers-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "7 days / 32 km",
+        "highest_altitude": "17,200 ft",
+        "suitable_for": "14 to 62 years",
+        "basecamp": "Indiahikes Jungle Line Campus, Manali, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing), Homestay (gender-based)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Beas Bridge, Manali at 11 AM",
+        "dropoff_details": "Beas Bridge, Manali at 7 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "gear_rentals": "Available. Rent Here."
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 32.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 17200
+      },
+      "min_age": {
+        "status": "known",
+        "value": 14
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 32
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "11 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "7 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing), Homestay (gender-based)"
+      }
+    },
+    {
+      "trek_id": "chandrakhani-pass-trek",
+      "trek_title": "Chandrakhani Pass Trek",
+      "source_url": "https://indiahikes.com/chandrakhani-pass-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy-Moderate",
+        "trek_duration": "5 days / 26 km",
+        "highest_altitude": "12,185 ft",
+        "suitable_for": "8 years and above",
+        "basecamp": "Manali (Indiahikes Jungle Line Campus), Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 40 mins",
+        "pickup_details": "Beas Bridge, Manali  at 3 PM",
+        "dropoff_details": "Beas Bridge, Manali at 6 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 5
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 26.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12185
+      },
+      "min_age": {
+        "status": "known",
+        "value": 8
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 40
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "3 PM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "dayara-bugyal-trek",
+      "trek_title": "Dayara Bugyal Trek",
+      "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy-Moderate",
+        "trek_duration": "6 days / 21 km",
+        "highest_altitude": "11,830 ft",
+        "suitable_for": "8 years and above",
+        "basecamp": "Raithal, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 40 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 21.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 11830
+      },
+      "min_age": {
+        "status": "known",
+        "value": 8
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 40
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "deoriatal-chandrashila-trek",
+      "trek_title": "Deoriatal Chandrashila Trek",
+      "source_url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "6 days / 32 km",
+        "highest_altitude": "12,083 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Sari, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Live free hostel, Rishikesh at 7.00 AM",
+        "dropoff_details": "Live free hostel, Rishikesh at 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 32.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12083
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "7.00 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "everest-base-camp-trek-nepal",
+      "trek_title": "Everest Base Camp (Classic Route)",
+      "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "15 days / 111 km",
+        "total_trek_distance": "111 km",
+        "highest_altitude": "18,200 ft",
+        "suitable_for": "15 to 55 years",
+        "pickup_details": "Kathmandu (Drive to Ramechhap starts at 1 AM on Day 2)",
+        "dropoff_details": "Kathmandu (Drive to Ramechhap starts at 1 AM on Day 2)",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 15
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 111.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 18200
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "known",
+        "value": 55
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Kathmandu (Drive to Ramechhap starts"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "1 AM on Day 2)"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Kathmandu (Drive to Ramechhap starts"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "1 AM on Day 2)"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "unknown",
+        "value": null
+      }
+    },
+    {
+      "trek_id": "gaumukh-tapovan",
+      "trek_title": "Gaumukh Tapovan Trek",
+      "source_url": "https://indiahikes.com/gaumukh-tapovan",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "8 days / 41 km",
+        "highest_altitude": "14,203 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Gangotri, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 5.00 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 8.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 8
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 41.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 14203
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 32
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.00 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "goechala",
+      "trek_title": "Goechala Trek",
+      "source_url": "https://indiahikes.com/goechala",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "10 days / 73 km",
+        "highest_altitude": "15,100 ft",
+        "suitable_for": "15 years and above",
+        "basecamp": "Yuksom, Sikkim",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Bhakti Nagar Police Station, Siliguri at 9 AM",
+        "dropoff_details": "Bhakti Nagar Police Station, Siliguri at 5:00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 10
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 73.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 15100
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Bhakti Nagar Police Station, Siliguri"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "9 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Bhakti Nagar Police Station, Siliguri"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "5:00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "gurez-valley-trek",
+      "trek_title": "Gurez Valley Trek",
+      "source_url": "https://indiahikes.com/gurez-valley-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 37.6 km",
+        "highest_altitude": "13,188 ft",
+        "suitable_for": "11 to 62 years",
+        "basecamp": "Dawar",
+        "accommodation_type": "Tents (2-sharing)",
+        "pickup_details": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar at 7 AM",
+        "dropoff_time": "6 PM",
+        "cloakroom": "Available",
+        "offloading": "Not Available",
+        "gear_rentals": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 37.6
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 13188
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "7 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "6 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": false
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "hampta-pass",
+      "trek_title": "Hampta Pass Trek",
+      "source_url": "https://indiahikes.com/hampta-pass",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "6 days / 26 km",
+        "highest_altitude": "14,065 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Manali (Indiahikes Jungle Line Campus), Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Beas Bridge, Manali at 7 AM",
+        "dropoff_details": "Beas Bridge, Manali at 8 PM (including Chandratal Excursion)",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 26.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 14065
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "7 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8 PM (including Chandratal Excursion)"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "har-ki-dun",
+      "trek_title": "Har Ki Dun",
+      "source_url": "https://indiahikes.com/har-ki-dun",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 37 km",
+        "highest_altitude": "11,600 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Kotgaon, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing), Homestays (gender-based)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 37.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 11600
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing), Homestays (gender-based)"
+      }
+    },
+    {
+      "trek_id": "kanamo-peak-trek",
+      "trek_title": "Kanamo Peak Trek",
+      "source_url": "https://indiahikes.com/kanamo-peak-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "7 days / 22 km",
+        "highest_altitude": "19,553 ft",
+        "suitable_for": "15 to 55 years",
+        "basecamp": "Indiahikes Jungle Line Campus, Manali, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Beas Bridge, Manali at 3 PM",
+        "dropoff_details": "Beas Bridge, Manali at 8 PM",
+        "cloakroom": "Available",
+        "offloading": "Not Available",
+        "gear_rentals": "Available. Rent Here."
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 22.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 19553
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "known",
+        "value": 55
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "3 PM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": false
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing), Teahouses (gender-based)"
+      }
+    },
+    {
+      "trek_id": "kedarkantha-trek",
+      "trek_title": "Kedarkantha Trek",
+      "source_url": "https://indiahikes.com/kedarkantha-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Easy-Moderate",
+        "trek_duration": "6 days / 23 km",
+        "highest_altitude": "12,500 ft",
+        "suitable_for": "8 years and above",
+        "basecamp": "Kotgaon/Gaichawan Gaon, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 40 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 23.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12500
+      },
+      "min_age": {
+        "status": "known",
+        "value": 8
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 40
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "kedartal",
+      "trek_title": "Kedartal Trek",
+      "source_url": "https://indiahikes.com/kedartal",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "7 days / 22.4 km",
+        "highest_altitude": "16,000 ft",
+        "suitable_for": "15 years and above",
+        "basecamp": "Gangotri, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 5.00 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 8.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Not Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 22.4
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 16000
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.00 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": false
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "khopra-ridge-khayar-lake",
+      "trek_title": "Khopra Ridge Trek",
+      "source_url": "https://indiahikes.com/khopra-ridge-khayar-lake",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "9 days / 58.2 km",
+        "total_trek_distance": "58.2 km",
+        "highest_altitude": "15,300 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Pokhara",
+        "accommodation_type": "Teahouses (gender-based)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Pokhara Top and Top Hotel, Pokhara",
+        "dropoff_details": "Pokhara by 7 PM",
+        "cloakroom": "Available",
+        "offloading": "Available"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 9
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 58.2
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 15300
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 32
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Pokhara Top and Top Hotel, Pokhara"
+      },
+      "pickup_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Pokhara by 7 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Teahouses (gender-based)"
+      }
+    },
+    {
+      "trek_id": "kuari-pass",
+      "trek_title": "Kuari Pass Trek",
+      "source_url": "https://indiahikes.com/kuari-pass",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "6 days / 22 km",
+        "highest_altitude": "12,516 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Karchi / Dhak, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Live Free Hostel, Rishikesh at 5.30 AM",
+        "dropoff_details": "Live Free Hostel, Rishikesh 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 22.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12516
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Rishikesh"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Rishikesh 6.00 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "miyar-valley-trek",
+      "trek_title": "Miyar Valley",
+      "source_url": "https://indiahikes.com/miyar-valley-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 60.2 km",
+        "highest_altitude": "13,202 ft",
+        "suitable_for": "14 to 62 years",
+        "basecamp": "Khanjer, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Beas Bridge, Manali at 6 AM",
+        "dropoff_details": "Beas Bridge, Manali at 8 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 60.2
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 13202
+      },
+      "min_age": {
+        "status": "known",
+        "value": 14
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "nafran-valley-trek",
+      "trek_title": "Nafran Valley Trek",
+      "source_url": "https://indiahikes.com/nafran-valley-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "7 days / 41 km",
+        "highest_altitude": "13,789 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Aru",
+        "accommodation_type": "Tents (2-sharing)",
+        "pickup_details": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar at 8 AM",
+        "dropoff_time": "8 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 41.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 13789
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "8 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "8 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "nag-tibba",
+      "trek_title": "Nag Tibba Weekend Trek",
+      "source_url": "https://indiahikes.com/nag-tibba",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "2 days / 14.5 km",
+        "highest_altitude": "9,915 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Pantwari, Uttarakhand",
+        "accommodation_type": "Tents",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Live Free Hostel, Dehradun at 6.30 AM",
+        "dropoff_details": "Live Free Hostel, Dehradun at 10 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "gear_rentals": "Available. Rent Here."
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 2
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 14.5
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 9915
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live Free Hostel, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "10 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents"
+      }
+    },
+    {
+      "trek_id": "pangarchulla-peak-trek",
+      "trek_title": "Pangarchulla Peak Trek",
+      "source_url": "https://indiahikes.com/pangarchulla-peak-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "7 days / 35 km",
+        "highest_altitude": "15,069 ft",
+        "suitable_for": "15 to 55 years",
+        "basecamp": "Karchi, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Live free hostel, Rishikesh at 5.30 AM",
+        "dropoff_details": "Live free hostel, Rishikesh at 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 35.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 15069
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "known",
+        "value": 55
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Live free hostel, Rishikesh"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "phulara-ridge-trek",
+      "trek_title": "Phulara Ridge Trek",
+      "source_url": "https://indiahikes.com/phulara-ridge-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "6 days / 26 km",
+        "highest_altitude": "12,345 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Kotgaon, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Asli Pappu Da Dhaba, Dehradun at 6.30 AM",
+        "dropoff_details": "Asli Pappu Da Dhaba, Dehradun at 6.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 6
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 26.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12345
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Asli Pappu Da Dhaba, Dehradun"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "6.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "pin-bhaba-pass-trek",
+      "trek_title": "Pin Bhaba Pass Trek",
+      "source_url": "https://indiahikes.com/pin-bhaba-pass-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Difficult",
+        "trek_duration": "9 days / 50 km",
+        "highest_altitude": "16,105 ft",
+        "suitable_for": "15 to 55 years",
+        "basecamp": "Yangpa, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "10 km in 60 mins",
+        "pickup_details": "Old Bus Stand, Shimla at 6.30 AM",
+        "dropoff_details": "Beas Bridge, Manali at 8 PM",
+        "cloakroom": "Not Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 9
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 50.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 16105
+      },
+      "min_age": {
+        "status": "known",
+        "value": 15
+      },
+      "max_age": {
+        "status": "known",
+        "value": 55
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 10
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 60
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Old Bus Stand, Shimla"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "6.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Beas Bridge, Manali"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "8 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": false
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "pir-panjal-lakes-trek",
+      "trek_title": "Pir Panjal Lakes Trek",
+      "source_url": "https://indiahikes.com/pir-panjal-lakes-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "7 days / 48.3 km",
+        "highest_altitude": "13,727 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Chandimarh",
+        "accommodation_type": "Tents (2-sharing)",
+        "pickup_details": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar at 8 AM",
+        "dropoff_time": "12 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 48.3
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 13727
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_time_min": {
+        "status": "unknown",
+        "value": null
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Sheikh Feroze Tours & Travels, Sathu, Barbara Shah Chowk, Srinagar"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "8 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "12 PM"
+      },
+      "dropoff_time": {
+        "status": "unknown",
+        "value": null
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "ranthan-kharak-trek",
+      "trek_title": "Ranthan Kharak Trek",
+      "source_url": "https://indiahikes.com/ranthan-kharak-trek",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 38 km",
+        "highest_altitude": "12,887 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Gogina, Uttarakhand",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Kathgodam Railway station at 5.30 AM",
+        "dropoff_details": "Kathgodam Railway station at 7.00 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 38.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 12887
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Kathgodam Railway station"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "5.30 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Kathgodam Railway station"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "7.00 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "rupin-pass",
+      "trek_title": "Rupin Pass",
+      "source_url": "https://indiahikes.com/rupin-pass",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate-Difficult",
+        "trek_duration": "7 days / 37 km",
+        "highest_altitude": "15,279 ft",
+        "suitable_for": "12 to 62 years",
+        "basecamp": "Jiskun, Himachal Pradesh",
+        "accommodation_type": "Tents (2-sharing)",
+        "fitness_criteria": "5 km in 32 mins",
+        "pickup_details": "Shaktan Homestay Rohru at 8 AM",
+        "dropoff_details": "Shimla Old Bus Stand at 11 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 37.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 15279
+      },
+      "min_age": {
+        "status": "known",
+        "value": 12
+      },
+      "max_age": {
+        "status": "known",
+        "value": 62
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 32
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Shaktan Homestay Rohru"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "8 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Shimla Old Bus Stand"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "11 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing)"
+      }
+    },
+    {
+      "trek_id": "sandakphu-phalut",
+      "trek_title": "Sandakphu Phalut Trek",
+      "source_url": "https://indiahikes.com/sandakphu-phalut",
+      "raw_quick_facts": {
+        "trek_difficulty": "Moderate",
+        "trek_duration": "7 days / 68 km",
+        "highest_altitude": "11,930 ft",
+        "suitable_for": "11 years and above",
+        "basecamp": "Sepi, West Bengal",
+        "accommodation_type": "Tents (2-sharing), Teahouses (gender-based)",
+        "fitness_criteria": "5 km in 35 mins",
+        "pickup_details": "Bhakti Nagar Police Station, Siliguri at 9 AM",
+        "dropoff_details": "Bhakti Nagar Police Station, Siliguri at 9 PM",
+        "cloakroom": "Available",
+        "offloading": "Available",
+        "packing_checklist": "Click to Generate"
+      },
+      "duration_days": {
+        "status": "known",
+        "value": 7
+      },
+      "distance_km": {
+        "status": "known",
+        "value": 68.0
+      },
+      "highest_altitude_ft": {
+        "status": "known",
+        "value": 11930
+      },
+      "min_age": {
+        "status": "known",
+        "value": 11
+      },
+      "max_age": {
+        "status": "unknown",
+        "value": null
+      },
+      "fitness_required_distance_km": {
+        "status": "known",
+        "value": 5
+      },
+      "fitness_required_time_min": {
+        "status": "known",
+        "value": 35
+      },
+      "pickup_city": {
+        "status": "known",
+        "value": "Bhakti Nagar Police Station, Siliguri"
+      },
+      "pickup_time": {
+        "status": "known",
+        "value": "9 AM"
+      },
+      "dropoff_city": {
+        "status": "known",
+        "value": "Bhakti Nagar Police Station, Siliguri"
+      },
+      "dropoff_time": {
+        "status": "known",
+        "value": "9 PM"
+      },
+      "offloading_available": {
+        "status": "known",
+        "value": true
+      },
+      "cloakroom_available": {
+        "status": "known",
+        "value": true
+      },
+      "accommodation_type": {
+        "status": "known",
+        "value": "Tents (2-sharing), Teahouses (gender-based)"
+      }
+    }
+  ]
+}

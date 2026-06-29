@@ -1,0 +1,236 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "phulara-ridge-trek",
+  "section_id": "phulara-ridge-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/phulara-ridge-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "May",
+        "June",
+        "September",
+        "October",
+        "November"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "The best time to do the Phulara Ridge trek would be in the summer– May and June.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "Another good time to do the Phulara Ridge trek is in the post-monsoon and Autumn season — September to November.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Alpenglow phenomenon in summer",
+        "Blooming rhododendrons in summer",
+        "Vibrant meadows of Pushtara in summer",
+        "Bright flora in May",
+        "Carpet of flowers in full bloom in June",
+        "Lush green trail in September fresh from monsoon",
+        "Dramatic yellows and oranges in autumn",
+        "Clear and crisp skies in autumn",
+        "Stargazing in autumn"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "the trek during this season offers the opportunity to witness the rare alpenglow phenomenon, blooming rhododendrons, and the vibrant meadows of Pushtara",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "During May, the forests and meadows are a sight to behold, adorned with bright and beautiful flora. As you enter June, the landscape turns even more lush with a carpet of flowers in full bloom.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "The trail is lush green in September, fresh from the monsoon outpour.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "As you move towards autumn, the region changes hues to dramatic yellows and oranges.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "One of the most remarkable features of this season is the clear and crisp skies, offering trekkers the best possible views of the mountains. This is also the perfect time for stargazing",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow patches on the ridge for the first few weeks of May if the previous winter had heavy snowfall",
+        "First spell of snowfall expected for the last groups of November due to western disturbances"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "If the winter season for the year has heavy snowfall, you can expect snow patches on the ridge for the first few weeks of May. The snow starts to recede with the meadows and flowers popping out.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "You can expect the last groups of November to witness the first spell of snowfall due to the western disturbances.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Post-monsoon season (September) follows monsoon outpour, leaving trail lush green"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "The trail is lush green in September, fresh from the monsoon outpour.",
+          "confidence": "medium"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer daytime: 12°C to 17°C; night drops to 0°C; 3 warm layers required",
+        "Autumn daytime: 10°C to 14°C; night drops to 0°C to -3°C; 4 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 17 °C | Night time: Night time temperature: Will drop to zero ... No. of warm layers required: 3 layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 10 °C and 14 °C | Night time: Will drop to temperatures between 0 °C and -3 °C. ... No. of warm layers required: 4 layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Snow-capped mountain ranges dominate the landscape in summer",
+        "Clear and crisp skies in autumn offer best possible mountain views"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "The snow-capped mountain ranges that dominate the landscape only add to the awe-inspiring scenery while trekking.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "One of the most remarkable features of this season is the clear and crisp skies, offering trekkers the best possible views of the mountains.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Phulara Ridge crossing is dependent on snow and weather conditions on the day of crossing",
+        "In bad weather or unsafe ridge conditions, trek leader may decide to return from Bhoj Gadi instead of crossing"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "The Phulara Ridge crossing is very much dependent on how much snow and the weather is for the day of the ridge crossing. In case of bad weather or the ridge not being safe to cross, the trek leader can take a call on returning from Bhoj Gadi.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Witnessing alpenglow phenomenon",
+        "Viewing blooming rhododendrons and flower-filled meadows",
+        "Stargazing",
+        "Clear mountain views",
+        "Nature lovers"
+      ],
+      "evidence": [
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "the trek during this season offers the opportunity to witness the rare alpenglow phenomenon, blooming rhododendrons, and the vibrant meadows of Pushtara, making it one of the best times to explore the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "phulara-ridge-trek::best_time_section::001",
+          "quote_or_summary": "This is also the perfect time for stargazing, making it a delightful experience for nature lovers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

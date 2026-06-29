@@ -1,0 +1,284 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "nafran-valley-trek",
+  "section_id": "nafran-valley-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/nafran-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate-Difficult"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate- Difficult",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for fit beginners and experienced trekkers"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for fit beginners and experienced trekkers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Significant elevation changes throughout the trail",
+        "Challenging climb to Harnag Pass at 12,500 ft that is steep and rocky",
+        "Large boulders and uneven terrain near Harnag Pass increasing risk of slips and falls",
+        "Strenuous climbs and descents on the trail to Harbhagwan Lake at 13,789 ft",
+        "Long trekking days, some exceeding 10 kilometers",
+        "River crossings requiring nimble footing and tolerance for cold glacial stream temperatures"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The trail throughout has significant elevation changes, including a challenging climb to Harnag Pass at 12,500 ft. This section is particularly demanding due to its steep and rocky nature.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Certain sections of the trek, especially near Harnag Pass, require careful navigation over large boulders and uneven terrain, increasing the risk of slips and falls.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The trail to Harbhagwan Lake at 13,789 ft, involves strenuous climbs and descents.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are long days on this trek. Some days go past 10 kilometers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "There are river crossings on this trek. You must be nimble on your feet and be mentally ready to face the biting cold temperature of these glacial streams",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Climb to Harnag Pass at 12,500 ft described as steep and rocky",
+        "Long stretches of climbs followed by descents on the same route, tough on knees",
+        "Strenuous climbs and descents to Harbhagwan Lake at 13,789 ft"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "a challenging climb to Harnag Pass at 12,500 ft. This section is particularly demanding due to its steep and rocky nature.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The climbs on this trek come in long stretches. You’ll also descend the same way, which is tough on your knees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The trail to Harbhagwan Lake at 13,789 ft, involves strenuous climbs and descents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Indiahikes Trek Leaders and Technical Guides provide technical gear such as micro spikes, gaiters, helmets, and ropes wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Altitude gain is quick, exceeding 11,000 ft within two trekking days",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft, affecting first-time and experienced trekkers alike",
+        "Even fit trekkers climbing too high too soon are at equal risk of AMS",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers for altitude emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "This is one of those treks where altitude gain is quick. You start low. But in just two trekking days, you’re way above 11,000 feet.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "At altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real. Altitude sickness can happen to anybody, first-time trekkers as well as experienced trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "even a fit person climbing too high, too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Early-season trails can be wet and muddy after snowmelt",
+        "Streams flow at full force early in the season, making river crossings tricky",
+        "Rainfall or snowfall lasting hours can flood trails, make them slushy, or obstruct paths requiring fresh tracks to be cut",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "At the start of the season, when the snow has just melted, the trail can be wet and muddy. The Streams also flow at full force, making the river crossings tricky.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Best emergency exits are descending to Mondlan, Aru, or Baltal",
+        "From Harnag Lake, reaching the Aru exit takes about a day; Baltal alternative is 4-5 hours away",
+        "Closest hospital is Pahalgam, a 30-minute drive from Aru",
+        "Srinagar is the option for serious medical attention",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers must inform the Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "On the Nafran Valley trek, your best bet is to descend to Mondlan, Aru or Baltal.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "When you are deep into the trek—say at Harnag Lake—it easily takes a day to reach the Aru exit. If you cannot afford that much time, check for the alternative route via Baltal, which is 4-5 hours away.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "the closest option is Pahalgam, which is just a 30-mins drive from Aru. If you need serious medical attention, head to Srinagar for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Several difficult sections require trekkers to be alert and trek carefully",
+        "Trekkers must be nimble on their feet and mentally prepared for cold glacial stream crossings",
+        "Safety is treated as a shared responsibility requiring active participation in safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "Several difficult sections on this trek require you to be alert and trek carefully.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "You must be nimble on your feet and be mentally ready to face the biting cold temperature of these glacial streams",
+          "confidence": "high"
+        },
+        {
+          "section_id": "nafran-valley-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

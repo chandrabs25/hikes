@@ -1,0 +1,276 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "kedarkantha-trek",
+  "section_id": "kedarkantha-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/kedarkantha-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Suitable for Beginners",
+        "Challenging on the legs on summit day; requires a good level of fitness"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "This is challenging on the legs and you need a good level of fitness to comfortably finish this day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Beginners (with preparation)",
+        "Trekkers with a good level of fitness"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Beginners",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "you need a good level of fitness to comfortably finish this day",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Long and steep summit climb",
+        "Hard, frozen overnight snow on summit day",
+        "Slushy trails in rain",
+        "Snowfall can block established paths requiring new tracks to be carved"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "The Kedarkantha summit climb is long and steep.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "the snow is going to be hard, having frozen overnight. This snow section continues until you get to the Kedarkanha summit, and only gets steeper as you climb.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Rain can turn the trails slushy and difficult to navigate safely",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "snowfall can block previously established paths, requiring new tracks to be carved through the snow",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Steep sections spread out across the trek",
+        "Summit day: ~7-8 hours total with 5 hours of steady climb and 2-3 hours of fast descent",
+        "Daily ascents and descents across all four trekking days"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "There are certain steep sections spread out, but when well-prepared, they are easy to tackle.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "about 7-8 hours of trekking on the summit day, involving 5 hours of steady climb and 2-3 hours of fast descent",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Microspikes, gaiters, helmets, ropes provided by Indiahikes where required",
+        "Trek Leaders and Technical Guides provide guidance and support"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as microspikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "Rapid altitude gain of ~6,100 ft from Kotgaon (6,400 ft) to Kedarkantha summit (12,500 ft) in 4 trekking days",
+        "Risk of Acute Mountain Sickness (AMS) above 12,000 ft",
+        "High-altitude medical kits, oxygen cylinders, and stretchers carried by Indiahikes team"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "There is a rapid gain in altitude of around 6,100 ft from Kotgaon to the Kedarkantha summit (6,400 ft to 12,500 ft) within 4 trekking days.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "For all altitudes, above 12,000 ft, you will be prone to Acute Mountain Sickness (AMS).",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "Rainfall or snowfall lasting hours can significantly alter trek dynamics",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate",
+        "Kotgaon stays in shade long after sunrise due to a blocking hill, making it one of the coldest base villages"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall lasting for hours can significantly alter the dynamics of a trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Kotgaon is one of our coldest base villages. Its unique location keeps Kotgaon in shade for a very long time even after sunrise, as a hill blocks the first light of the day.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Emergency exits available at Sankri, Kotgaon, and Gaichawan Gaon",
+        "Closest emergency exit to hospital is Kotgaon (also nearest roadhead)",
+        "Mild medical issues handled at Mori, then Purola",
+        "Major medical emergencies require hospital in Mussoorie or Dehradun (~8-9 hours from base camp)",
+        "Trekkers must inform Trek Leader of any pre-existing medical conditions"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "You can exit the trek from Sankri, Kotgaon or Gaichawan Gaon.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "In case of an emergency, the closest exit point to the hospital would be Kotgaon. It is also the nearest roadhead when compared to the other exit points of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "For mild medical issues, the closest medical assistance can be found in Mori and then in Purola.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "for major medical emergencies, the nearest hospital is in Mussoorie or Dehradun – which is almost 8-9 hours away from the base camp of the trek.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Three trails are interconnected with multiple bridging routes; switching routes is not recommended without an expert team",
+        "Safety is a shared responsibility requiring trekkers' active participation in safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "The three trails in Kedarkantha are interconnected. There are multiple bridging routes in between to move from one route to the other within the trek. However, this requires extensive knowledge of the trails to navigate. So, we strongly recommend against switching a route unless you are with a team who knows the trek like the back of their hand.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "kedarkantha-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

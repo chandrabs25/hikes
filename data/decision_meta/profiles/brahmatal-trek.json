@@ -1,0 +1,165 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.396159+00:00",
+  "trek_id": "brahmatal-trek",
+  "trek_title": "Brahmatal Trek",
+  "source_url": "https://indiahikes.com/brahmatal-trek",
+  "filter_index": {
+    "trek_difficulty": "Easy-Moderate",
+    "duration_days": 6,
+    "distance_km": 22.0,
+    "highest_altitude_ft": 12250,
+    "min_age": 8,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 40,
+    "pickup_city": "Live Free Hostel, Rishikesh",
+    "pickup_time": "5.30 AM",
+    "dropoff_city": "Live Free Hostel, Rishikesh",
+    "dropoff_time": "7.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "October (after Dusshera/Diwali and before winter)",
+        "November"
+      ],
+      "avoid_months": [
+        "Monsoon months (July-August implied)",
+        "Mid-April onwards (snow melted)",
+        "Summer (not a great season)"
+      ],
+      "snow_or_rain_notes": [
+        "From end of December at base camp; entire landscape white in peak winter (January-February); upper reaches still under snow in spring; snow recedes to higher altitudes (around Brahmatal lake at 12,250 ft) as spring progresses; mostly melted by mid-April",
+        "Monsoon makes the trek inaccessible due to rains"
+      ],
+      "temperature_notes": [
+        "Winter: Day 8-10°C, Night 0 to -8°C; 5 warm layers required",
+        "Autumn: Day 10-15°C, Night 0 to -5°C; 4 warm layers required",
+        "Spring: Day 15-18°C, Night 0 to 5°C; 3 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Suitable for Fit Beginners",
+        "Mostly gradual and steady ascents and descents, except the summit climb on Day 4"
+      ],
+      "experience_suitability": [
+        "Suitable for fit beginners; first-time trekkers as well as experienced trekkers are at equal risk of AMS"
+      ],
+      "terrain_challenges": [
+        "Hard frozen snow in the morning that continues until Brahmatal top, getting steeper near the summit",
+        "Rain can flood trails or make them slushy and unsafe",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut",
+        "Summit climb on Day 4 is the main steep/strenuous section; snow section gets steeper approaching the summit"
+      ],
+      "altitude_or_weather_risks": [
+        "Brahmatal Top at 12,250 ft with gradual elevation gain",
+        "Risk of Acute Mountain Sickness (AMS) above 10,000 ft for any trekker",
+        "Acclimatization and adequate water intake are extremely important",
+        "Tilandi Campsite (2nd campsite) is known for fast and strong winds; layering is important",
+        "Sustained rainfall or snowfall can change trek dynamics, flooding or slushing trails and obstructing paths"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "To do the Brahmatal Trek comfortably, you must be able to walk, jog or run 5 km in under 40 minutes. This is the minimum recommended fitness level that you must aim for."
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date. We want to see that you are being consistent in your preparation.",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek."
+      ],
+      "prep_window": [
+        "Follow this, and you'll be trek-ready in 6 weeks."
+      ]
+    },
+    "experience_themes": [
+      "Winter: snow-covered landscape, Narnia-like vibe from snow-laden oak and rhododendron trees, frozen Bekaltal lake, snow camping at Tilandi with sunrises/sunsets",
+      "Autumn: clear post-monsoon mountain views, Trishul range over Ali Bugyal, views of Mt Chaukhamba, Mt Neelkanth, Mt Hathi Ghoda from Jhandi top, vibrant crimson sunsets and golden sunrises at Tilandi, empty trails",
+      "Spring: rhododendron (Buransh) blooms in dark pink and crimson, receding snow, rhodo canopy between Bekaltal and Tilandi, blooms near Khorurai",
+      "Autumn offers clearest post-monsoon mountain views; Trishul range visible from ridge parallel to Ali Bugyal; Mt Chaukhamba, Mt Neelkanth, Mt Hathi Ghoda visible from Jhandi top; vibrant crimson sunsets and golden sunrises at Tilandi ridge",
+      "From end of December at base camp; entire landscape white in peak winter (January-February); upper reaches still under snow in spring; snow recedes to higher altitudes (around Brahmatal lake at 12,250 ft) as spring progresses; mostly melted by mid-April"
+    ],
+    "primary_watchouts": [
+      "Do not step on frozen Bekaltal lake — ice may not support weight depending on month",
+      "Brahmatal lake/top may not be accessible in peak winter due to snow",
+      "Winter trek is a notch more difficult due to snow",
+      "Summer is not a great season despite access; monsoon makes trek inaccessible",
+      "Trekkers seeking rhododendrons in autumn (flowers have wilted)",
+      "Trekkers wanting snow in autumn (no snow)"
+    ],
+    "best_for": [
+      "Snow lovers and winter trekkers (Dec-Feb)",
+      "Trekkers seeking solitude (autumn, after Dusshera/Diwali and before winter)",
+      "Photographers of vibrant sunrises/sunsets (autumn at Tilandi)",
+      "Rhododendron bloom seekers (spring, especially early March for snow + flowers)",
+      "Trekkers wanting clear Himalayan views (autumn)"
+    ],
+    "not_ideal_for": [
+      "Trekkers seeking rhododendrons in autumn (flowers have wilted)",
+      "Trekkers wanting snow in autumn (no snow)",
+      "Trekkers visiting in summer (not a great season)",
+      "Trekkers visiting during monsoon (inaccessible)",
+      "Trekkers wanting to reach Brahmatal lake/top in peak winter (may be inaccessible)"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "brahmatal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "brahmatal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "brahmatal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "brahmatal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "brahmatal-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "brahmatal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "brahmatal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "brahmatal-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "brahmatal-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "avoid_months: monsoon months and mid-April are inferred from context, not explicitly named by month",
+    "not_ideal_for",
+    "snow_window: end of December phrasing is approximate"
+  ]
+}

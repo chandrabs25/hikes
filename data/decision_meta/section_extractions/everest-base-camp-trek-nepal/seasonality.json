@@ -1,0 +1,206 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "everest-base-camp-trek-nepal",
+  "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/everest-base-camp-trek-nepal",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "April",
+        "October"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "There are two distinct seasons for the Everest Base Camp (classic route) trek – April (Spring) and October (Autumn)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Spring (April) is moist with slightly warmer daytime temperatures and possible snow patches above 12,000 feet",
+        "Autumn (October) is dry and crisp with no snow on the trek and colder nights"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "While Spring is moist, Autumn is dry and crisp.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "you will still find snow patches on the ground above 12,000 feet",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow patches may be present on the trail in Spring (April), generally above 12,000 feet",
+        "No snow on the trek in Autumn (October)"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You may find snow patches on the trail.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "Presence of snow: You will not find snow at this time of the year.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "you will still find snow patches on the ground above 12,000 feet",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Spring (April): rain or sun behind clouds can drop daytime temperature to around 12 °C",
+        "Autumn (October): rain or slight drizzle brings down daytime temperature by a few degrees"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "During the day if the sun goes behind the clouds and there is about of rain, then the temperature can fall to around 12 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "any rain or slight drizzle brings down the temperature by a few degrees",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Spring (April) daytime: 18 °C to 24 °C; nighttime: 5 °C to 0 °C; 4 warm layers required",
+        "Autumn (October) daytime: 12 °C to 15 °C; nighttime: -5 °C to -10 °C; 5 warm layers required"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "Day time: Between 18 °C and 24 °C | Night time: Will drop to temperatures between 5 °C and 0 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 15 °C | Night time: Will drop to temperatures between -5 °C and -10 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 5 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Spring (April): rain or cloud cover can drop daytime temperature to around 12 °C",
+        "Autumn (October): nights are chilly, dipping to -5 °C; rain/drizzle lowers daytime temperature; keep a jacket handy"
+      ],
+      "evidence": [
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "During the day if the sun goes behind the clouds and there is about of rain, then the temperature can fall to around 12 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "Nights in Autumn get chilly. In October the temperature dips to -5 ° C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "everest-base-camp-trek-nepal::best_time_section::001",
+          "quote_or_summary": "So keep a jacket handy with you always.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

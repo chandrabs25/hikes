@@ -1,0 +1,249 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "ranthan-kharak-trek",
+  "section_id": "ranthan-kharak-trek::difficulty_section::001",
+  "section_type": "difficulty",
+  "source_url": "https://indiahikes.com/ranthan-kharak-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [],
+      "evidence": []
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [],
+      "evidence": []
+    },
+    "snow_window": {
+      "values": [],
+      "evidence": []
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "view_or_landscape_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [
+        "Moderate"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Moderate Trek",
+          "confidence": "high"
+        }
+      ]
+    },
+    "experience_suitability": {
+      "values": [
+        "Suitable for Fit Beginners"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Suitable for Fit Beginners",
+          "confidence": "high"
+        }
+      ]
+    },
+    "terrain_challenges": {
+      "values": [
+        "Tricky climb to Thal Tok on Day 4",
+        "Tricky moraine section on Day 4",
+        "Steep ascent through rugged, boulder-strewn terrain on Day 5",
+        "Final climb to Ranthan Top is the most demanding part of the trek"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "The climb to Thal Tok on Day 4 is tricky. You also navigate a tricky moraine section on this day.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Day 5 is even more challenging, with a steep ascent through rugged, boulder-strewn terrain. The final climb to Ranthan Top is the most demanding part of the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "steep_or_strenuous_sections": {
+      "values": [
+        "Day 5 summit climb is steep and demanding",
+        "Final climb to Ranthan Top is the most demanding part of the trek",
+        "Daily ascents and descents, mostly gradual and steady except for the summit climb on Day 5"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Every day will include ascents and descents. But, they are mostly gradual and steady, except for the summit climb on Day 5.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "The final climb to Ranthan Top is the most demanding part of the trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "technical_or_equipment_notes": {
+      "values": [
+        "Trek Leaders and Technical Guides provide necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "our Trek Leaders and Technical Guides will provide you with all necessary guidance, support, and technical gear such as micro spikes, gaiters, helmets, ropes, etc. wherever required.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "altitude_risk_notes": {
+      "values": [
+        "From Namik to Baji Kharak, ascend over 2,300 feet; stay well-hydrated to lower risk of Acute Mountain Sickness",
+        "Ranthan Top is at 12,887 ft; above 10,000 ft AMS risk is real",
+        "Altitude sickness can affect first-time and experienced trekkers alike; even fit persons climbing too high too soon are at equal risk",
+        "Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers for altitude-related emergencies"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "From Namik to Baji Kharak, you’ll ascend over 2,300 feet. Stay well-hydrated to lower your risk of Acute Mountain Sickness.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Ranthan Top is situated 12,887 ft above sea level and at altitudes above 10,000 ft, the chances of being hit by Acute Mountain Sickness are real.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Altitude sickness can happen to anybody - first-time trekkers as well as experienced trekkers. Fitness helps in making your trek easier. But do not forget that even a fit person climbing too high too soon runs an equal risk of developing AMS.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "weather_risk_notes": {
+      "values": [
+        "During Spring, pack 4-5 warm layers; layering helps against chilling winds, especially after crossing Bajimanian Kharak",
+        "Rainfall or snowfall lasting hours can change trek dynamics; rain can flood trails or make them slushy and unsafe",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow",
+        "Technical team and Trek Leader monitor weather and may turn back from any campsite if conditions deteriorate"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "During Spring, be prepared for the cold by packing 4-5 warm layers. Layering helps keep warm from chilling winds, especially after crossing Bajimanian Kharak.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Rainfall or snowfall, lasting for hours, can change the entire trek dynamic. Rain can flood the trails or make them too slushy to walk safely on. Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Our technical team, in conjunction with the Trek Leader, constantly monitors the weather conditions and makes informed decisions about proceeding with or aborting the trek. If the weather deteriorates, the team may need to turn back from any campsite to ensure the safety of all trekkers.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "emergency_or_medical_notes": {
+      "values": [
+        "Quickest emergency exit is descending to Gogina and heading to Bageshwar",
+        "From Parva Thor campsite, reaching Namik or Gogina takes a day; shorter route via ridge from Thal Tok to Namik's border is a viable option",
+        "Closest hospital is at Bageshwar; serious medical attention requires going further to Almora or Haldwani",
+        "Indiahikes team carries high-altitude medical kits, oxygen cylinders, and stretchers",
+        "Trekkers should inform Trek Leader about any pre-existing medical conditions or health concerns"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "For emergencies on the Ranthan Kharak trek, the quickest exit is descending to Gogina and heading to Bageshwar.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "From the Parva Thor campsite, reaching Namik or Gogina takes a day, but a shorter route via the ridge from Thal Tok to Namik’s border is a viable option.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "In case of a medical emergency, the closest hospital is at Bageshwar. If you need serious medical attention, you will have to head further down to Almora or Haldwani for better facilities.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "The Indiahikes team is equipped with high-altitude medical kits, oxygen cylinders, and stretchers to handle any altitude-related emergencies.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "Please inform your Trek Leader about any pre-existing medical conditions or health concerns, no matter how minor they may seem.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "group_watchouts": {
+      "values": [
+        "Safety is a shared responsibility; trekkers must actively participate and follow safety protocols"
+      ],
+      "evidence": [
+        {
+          "section_id": "ranthan-kharak-trek::difficulty_section::001",
+          "quote_or_summary": "we believe that safety is a shared responsibility. We need your active participation and attention to safety protocols to ensure a safe and successful trek.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

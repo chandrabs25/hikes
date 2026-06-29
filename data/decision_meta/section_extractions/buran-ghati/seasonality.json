@@ -1,0 +1,334 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "buran-ghati",
+  "section_id": "buran-ghati::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/buran-ghati",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "mid-May to end of June",
+        "mid-September to mid-October"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "There are two great seasons to do the Buran Ghati trek — summer and autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Buran Ghati in Summer (mid-May to end of June)",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Buran Ghati in Autumn (mid-September to mid-October)",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Summer: Buran Pass is a dramatic wall of ice in June; rappelling down an ice wall while crossing the pass",
+        "Summer: Vast snowfields from Dhunda till the pass; ~150 m rappel from the top of the pass; trekking in snow for around an hour after crossing the pass; multiple snow slides",
+        "Summer: Snow starts melting in latter part of June; snow close to the pass may not be enough for big slides",
+        "Summer: Trail changes from white to greens and yellows; wildflowers bloom on meadows and around campsites; grasslands turn bright green with bright yellow flowers",
+        "Autumn: Fiery, glorious colours on the trail; shades of green near base camp and through forests/grasslands; yellows, oranges, and browns closer to the pass",
+        "Autumn: Snow in smaller patches; ice on Buran Ghati wall has melted, exposing rocky terrain; trek down rocky patch while descending; no rappelling; trek is a bit easier",
+        "Autumn: Chances of witnessing the first winter snow of the year by October"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Summer is a coveted season to do the Buran Ghati trek because the Buran Pass itself is a dramatic wall of ice in June. So, you get to rappel down an ice wall while crossing the famed pass.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "imagine vast snowfields starting from Dhunda till the pass. Then, you rappel down from the top of the pass for about a 150 m section. Even after crossing the pass, you trek in snow for around an hour. Multiple snow slides will have you squeaking with almost childish delight.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "This snow starts melting in the latter part of June. So, while there will be snow close to the pass, it may not be enough to offer you big slides.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "The colour of the trail also starts changing shades of white to greens and yellows as you move from May to June. Wildflowers start blooming on the meadows and around the campsites. The grasslands turn a bright shade of green interspersed with bright yellow flowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Despite this, autumn is one of the best times to do the Buran Ghati trek as you get to see the fiery, glorious colours during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Initially, you’ll notice many shades of green near the base camp. This continues as you trek through forests and grasslands. But as you gain altitude and closer to the pass, you’ll notice more yellows, oranges, and browns.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "You see snow but in smaller patches. The ice on the Buran Ghati wall has melted away, exposing rocky terrain. You trek down this rocky patch while descending. There’s no rappelling. This makes the trek a bit easier in the autumn.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "By October, there are chances of witnessing the first winter snow of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "May: snow at Litham campsite",
+        "June: snow at the last alpine campsite of Dhunda; vast snowfields from Dhunda till the pass; ~150 m rappel section; snow trekking for about an hour after the pass",
+        "Latter part of June: snow melting; snow close to pass may not be enough for big slides",
+        "Autumn: snow in smaller patches; frost at Dhunda campsite; chances of snowfall at Buran Ghati Pass when weather goes bad; chances of first winter snow by October"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "You will find snow at the Litham campsite in May. During June, you can expect snow at the last alpine campsite of Dhunda.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "imagine vast snowfields starting from Dhunda till the pass. Then, you rappel down from the top of the pass for about a 150 m section. Even after crossing the pass, you trek in snow for around an hour.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "This snow starts melting in the latter part of June. So, while there will be snow close to the pass, it may not be enough to offer you big slides.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "You can expect frost at the campsite of Dhunda. There are chances of snowfall at the Buran Ghati Pass when weather goes bad.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "By October, there are chances of witnessing the first winter snow of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [],
+      "evidence": []
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer daytime: 13 °C to 17 °C",
+        "Summer night: drops to zero at higher campsite",
+        "Summer layers: 4 warm layers in May; 3 warm layers towards June",
+        "Autumn daytime: 12 °C to 16 °C",
+        "Autumn night: drops to zero to -4 to -5 °C at higher campsite",
+        "Autumn layers: 4 warm layers"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Day time temperature: Between 13 °C and 17 °C | Night time temperature: Will drop to zero at higher campsite",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 warm layers in May and 3 warm layers towards June",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Day time: Between 12 °C and 16 °C | Night time temperature: Will drop to zero to -4 to -5 °C at higher campsite",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 4 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Summer: trail shifts from white to greens and yellows; wildflowers bloom on meadows and around campsites; grasslands bright green with bright yellow flowers; forests, grasslands, and flowers coming to life after winter",
+        "Autumn: fiery, glorious colours; shades of green near base camp and through forests/grasslands; yellows, oranges, and browns closer to the pass; snow in smaller patches; rocky terrain exposed at the pass"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "The colour of the trail also starts changing shades of white to greens and yellows as you move from May to June. Wildflowers start blooming on the meadows and around the campsites. The grasslands turn a bright shade of green interspersed with bright yellow flowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "It is truly a colourful experience with the forests, grasslands, and flowers coming to life after months of winter.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Despite this, autumn is one of the best times to do the Buran Ghati trek as you get to see the fiery, glorious colours during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Initially, you’ll notice many shades of green near the base camp. This continues as you trek through forests and grasslands. But as you gain altitude and closer to the pass, you’ll notice more yellows, oranges, and browns.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "You see snow but in smaller patches. The ice on the Buran Ghati wall has melted away, exposing rocky terrain.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Latter part of June: snow melting; snow close to pass may not be enough for big slides",
+        "Autumn: no snow and no rappelling down the ice wall of Buran Pass in October",
+        "Autumn: chances of snowfall at Buran Ghati Pass when weather goes bad",
+        "Autumn: chances of witnessing the first winter snow of the year by October"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "This snow starts melting in the latter part of June. So, while there will be snow close to the pass, it may not be enough to offer you big slides.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "The biggest miss in October is that there is no snow and no rappelling down the ice wall of Buran Ghati.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "There are chances of snowfall at the Buran Ghati Pass when weather goes bad.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "By October, there are chances of witnessing the first winter snow of the year.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [
+        "Adventure seekers wanting to rappel down an ice wall at Buran Pass (summer, June)",
+        "Trekkers wanting snowfields, snow slides, and snow trekking (summer)",
+        "Trekkers wanting wildflowers and colourful meadows (summer, May to June)",
+        "Trekkers wanting fiery autumn colours and a slightly easier trek (autumn)"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Summer is a coveted season to do the Buran Ghati trek because the Buran Pass itself is a dramatic wall of ice in June. So, you get to rappel down an ice wall while crossing the famed pass. That is a major attraction. One that makes many adventure seekers choose the Buran Ghati trek in summer.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "imagine vast snowfields starting from Dhunda till the pass. Then, you rappel down from the top of the pass for about a 150 m section. Even after crossing the pass, you trek in snow for around an hour. Multiple snow slides will have you squeaking with almost childish delight.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Wildflowers start blooming on the meadows and around the campsites. The grasslands turn a bright shade of green interspersed with bright yellow flowers.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "Despite this, autumn is one of the best times to do the Buran Ghati trek as you get to see the fiery, glorious colours during this time.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "There’s no rappelling. This makes the trek a bit easier in the autumn.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "not_ideal_for": {
+      "values": [
+        "Trekkers specifically wanting to rappel down the Buran Pass ice wall in October (autumn)",
+        "Trekkers wanting big snow slides in the latter part of June (snow melting)"
+      ],
+      "evidence": [
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "The biggest miss in October is that there is no snow and no rappelling down the ice wall of Buran Ghati.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "buran-ghati::best_time_section::001",
+          "quote_or_summary": "This snow starts melting in the latter part of June. So, while there will be snow close to the pass, it may not be enough to offer you big slides.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": []
+}

@@ -1,0 +1,236 @@
+{
+  "schema_version": "trek_decision_meta_v1",
+  "prompt_version": "trek_decision_meta_v1",
+  "trek_id": "miyar-valley-trek",
+  "section_id": "miyar-valley-trek::best_time_section::001",
+  "section_type": "seasonality",
+  "source_url": "https://indiahikes.com/miyar-valley-trek",
+  "fields": {
+    "open_or_recommended_months": {
+      "values": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "There are two distinct seasons for the Miyar Valley trek – June-July (Summer) and August-September (Monsoon).",
+          "confidence": "high"
+        }
+      ]
+    },
+    "avoid_months": {
+      "values": [],
+      "evidence": []
+    },
+    "seasonal_experiences": {
+      "values": [
+        "Summer (June-July) is dry and crisp with snow patches on the trail and hard snow closer to Miyar Glacier",
+        "Monsoon (August-September) is moist with no snow on the trek except at Miyar Glacier"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "While Summer is dry and crisp, Monsoon is moist.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "You may find snow patches on the trail, with an increased chance of hard snow closer to Miyar Glacier.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "You will not find snow, except for the Miyar Glacier in Monsoon.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "snow_window": {
+      "values": [
+        "Snow patches on trail in Summer (June-July) with hard snow closer to Miyar Glacier",
+        "No snow on trek in Monsoon except at Miyar Glacier"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "You may find snow patches on the trail, with an increased chance of hard snow closer to Miyar Glacier.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "You will not find snow, except for the Miyar Glacier in Monsoon.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "rain_or_monsoon_risk": {
+      "values": [
+        "Monsoon season (August-September) brings moist conditions and rain/drizzle that lowers temperatures",
+        "Summer rain can drop daytime temperatures to around 15 °C"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "Monsoon is moist.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "any rain or slight drizzle brings down the temperature by a few degrees.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "During the day if the sun goes behind the clouds and there is about of rain, then the temperature can fall to around 15 °C.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "temperature_or_cold_notes": {
+      "values": [
+        "Summer (June-July) daytime: 18-20 °C; nighttime: 5-10 °C",
+        "Monsoon (August-September) daytime: 15-18 °C; nighttime: 0-5 °C, dipping to 0 °C in September",
+        "3 warm layers required in both seasons"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 18 °C and 20 °C | Night time: Will drop to temperatures between 10 °C and 5 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "Day time: Between 15 °C and 18 °C | Night time: Will drop to temperatures between 5 °C and 0 °C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "In September the temperature dips to 0° C.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "No. of warm layers required: 3 warm layers",
+          "confidence": "high"
+        }
+      ]
+    },
+    "view_or_landscape_notes": {
+      "values": [
+        "Snow patches on ground above 10,000 feet in Summer after winter has left the slopes"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "It's that time of the year when winter has left the slopes. But, you will still find snow patches on the ground above 10,000 feet.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "seasonal_watchouts": {
+      "values": [
+        "Night temperatures dip to near zero in both seasons",
+        "Rain or drizzle in Monsoon lowers temperatures further",
+        "Keep a jacket handy during Monsoon"
+      ],
+      "evidence": [
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "But at night it dips to almost zero levels.",
+          "confidence": "high"
+        },
+        {
+          "section_id": "miyar-valley-trek::best_time_section::001",
+          "quote_or_summary": "any rain or slight drizzle brings down the temperature by a few degrees. So keep a jacket handy with you always.",
+          "confidence": "high"
+        }
+      ]
+    },
+    "best_for": {
+      "values": [],
+      "evidence": []
+    },
+    "not_ideal_for": {
+      "values": [],
+      "evidence": []
+    },
+    "stated_difficulty": {
+      "values": [],
+      "evidence": []
+    },
+    "experience_suitability": {
+      "values": [],
+      "evidence": []
+    },
+    "terrain_challenges": {
+      "values": [],
+      "evidence": []
+    },
+    "steep_or_strenuous_sections": {
+      "values": [],
+      "evidence": []
+    },
+    "technical_or_equipment_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "altitude_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "weather_risk_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "emergency_or_medical_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "group_watchouts": {
+      "values": [],
+      "evidence": []
+    },
+    "fitness_benchmark": {
+      "values": [],
+      "evidence": []
+    },
+    "approval_or_proof_requirements": {
+      "values": [],
+      "evidence": []
+    },
+    "prep_window": {
+      "values": [],
+      "evidence": []
+    },
+    "exceptions_or_age_notes": {
+      "values": [],
+      "evidence": []
+    },
+    "risk_if_unfit": {
+      "values": [],
+      "evidence": []
+    }
+  },
+  "needs_review": [
+    "best_for",
+    "not_ideal_for",
+    "avoid_months",
+    "state_difficulty",
+    "experience_suitability",
+    "terrain_challenges",
+    "steep_or_strenuous_sections",
+    "technical_or_equipment_notes",
+    "altitude_risk_notes",
+    "weather_risk_notes",
+    "emergency_or_medical_notes",
+    "group_watchouts",
+    "fitness_benchmark",
+    "approval_or_proof_requirements",
+    "prep_window",
+    "exceptions_or_age_notes",
+    "risk_if_unfit"
+  ]
+}

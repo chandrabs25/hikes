@@ -1,0 +1,143 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.401871+00:00",
+  "trek_id": "goechala",
+  "trek_title": "Goechala Trek",
+  "source_url": "https://indiahikes.com/goechala",
+  "filter_index": {
+    "trek_difficulty": "Difficult",
+    "duration_days": 10,
+    "distance_km": 73.0,
+    "highest_altitude_ft": 15100,
+    "min_age": 15,
+    "max_age": null,
+    "fitness_required_distance_km": 10,
+    "fitness_required_time_min": 60,
+    "pickup_city": "Bhakti Nagar Police Station, Siliguri",
+    "pickup_time": "9 AM",
+    "dropoff_city": "Bhakti Nagar Police Station, Siliguri",
+    "dropoff_time": "5:00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "April",
+        "May",
+        "September",
+        "October"
+      ],
+      "avoid_months": [],
+      "snow_or_rain_notes": [
+        "Spring (April-May): snow present closer to Viewpoint 1; snowfall possible at higher campsites like Dzongri after rain on lower slopes; patches of snow at higher altitude",
+        "Autumn (October-November): no snow at higher campsites",
+        "Spring: rain on lower slopes can trigger snowfall at higher campsites like Dzongri"
+      ],
+      "temperature_notes": [
+        "Spring (April-May): daytime 12°C to 15°C; nighttime 0°C to -3°C; 3 warm layers required",
+        "Autumn (October-November): daytime 8°C to 12°C; nighttime -5°C to -10°C; 5 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Difficult",
+        "Suitable for Experienced Trekkers"
+      ],
+      "experience_suitability": [
+        "Experienced trekkers"
+      ],
+      "terrain_challenges": [
+        "73 km over 8 trekking days",
+        "Approximately 9,260 ft total altitude gain (5,840 ft to 15,100 ft)",
+        "Daily ascents, descents and boulder sections on steep, uneven trails",
+        "Most days involve longer trekking durations",
+        "Wooden path section from Tshoka into rhododendron forests"
+      ],
+      "altitude_or_weather_risks": [
+        "Difficulty in breathing expected from Tshoka to Dzongri via Phedang",
+        "Phedang/Dzongri are points where trek leader can send a trekker back for AMS symptoms or lack of fitness",
+        "Rapid altitude increase makes trekkers very susceptible to AMS",
+        "At 13,190 ft at Dzongri on Day 3, climbers have gone too high too soon",
+        "Above 10,000 ft, AMS risk is real for anyone including first-time and experienced trekkers"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 10 km in under 60 minutes (minimum recommended fitness level)"
+      ],
+      "approval_requirements": [
+        "Every trekker needs fitness approval from the Indiahikes team 20 days before the trek date; without it you will not be allowed on the trek",
+        "Record at least 3 runs from the last 1 month to meet the fitness criteria",
+        "Use apps like Nike and Strava to record runs; paste your public profile link on your Indiahikes account",
+        "Fitness record may be rejected if you fail to link your fitness profile or do not meet the required fitness level at least three times in the past month"
+      ],
+      "prep_window": [
+        "6 to 8 weeks before your trek begins",
+        "6-week plan to get trek fit if you are not currently active"
+      ]
+    },
+    "experience_themes": [
+      "Spring: blooming rhododendrons in varied shades (pink, scarlet, yellow, white) along the trail from Bakhim through Tshoka to Phedang, forming a rhododendron tunnel",
+      "Spring: misty forests with romantic, dreamy look",
+      "Spring: possible snowfall at higher campsites like Dzongri after rain on lower slopes",
+      "Autumn: dark mossy forest under brilliant blue autumn sky with deep reds and browns",
+      "Autumn: sharp, clear views from Tshoka, Dzongri, Thansing and ViewPoint 1",
+      "Autumn: piercing star-lit sky, good for night-sky photography"
+    ],
+    "primary_watchouts": [
+      "Spring: less snow than comparable treks in Uttarakhand or Himachal Pradesh",
+      "Autumn: no rhododendrons; colder nights than spring",
+      "73 km over 8 trekking days",
+      "Approximately 9,260 ft total altitude gain (5,840 ft to 15,100 ft)",
+      "Daily ascents, descents and boulder sections on steep, uneven trails",
+      "Most days involve longer trekking durations"
+    ],
+    "best_for": [
+      "Spring: witnessing blooming rhododendrons and a romantic, dreamy forest experience",
+      "Autumn: sharp mountain views and night-sky photography"
+    ],
+    "not_ideal_for": []
+  },
+  "evidence_refs": [
+    {
+      "section_id": "goechala::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "goechala::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "goechala::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "goechala::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "goechala::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "goechala::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "goechala::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}

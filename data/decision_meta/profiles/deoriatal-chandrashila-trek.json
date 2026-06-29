@@ -1,0 +1,175 @@
+{
+  "schema_version": "trek_decision_profile_v2",
+  "generated_at": "2026-06-28T13:25:42.400080+00:00",
+  "trek_id": "deoriatal-chandrashila-trek",
+  "trek_title": "Deoriatal Chandrashila Trek",
+  "source_url": "https://indiahikes.com/deoriatal-chandrashila-trek",
+  "filter_index": {
+    "trek_difficulty": "Moderate",
+    "duration_days": 6,
+    "distance_km": 32.0,
+    "highest_altitude_ft": 12083,
+    "min_age": 11,
+    "max_age": null,
+    "fitness_required_distance_km": 5,
+    "fitness_required_time_min": 35,
+    "pickup_city": "Live free hostel, Rishikesh",
+    "pickup_time": "7.00 AM",
+    "dropoff_city": "Live free hostel, Rishikesh",
+    "dropoff_time": "6.00 PM",
+    "offloading_available": true,
+    "cloakroom_available": true,
+    "accommodation_type": "Tents (2-sharing)"
+  },
+  "candidate_profile": {
+    "seasonality": {
+      "recommended_months": [
+        "March",
+        "April",
+        "May",
+        "June",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "avoid_months": [
+        "July",
+        "August"
+      ],
+      "snow_or_rain_notes": [
+        "December",
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "temperature_notes": [
+        "Winter: daytime 8–14 °C, nighttime -6 to -10 °C; 5 warm layers required",
+        "Spring: daytime 13–17 °C, nighttime drops to zero; 3–4 warm layers required",
+        "Summer: daytime 18–24 °C, nighttime 3–8 °C; 2 warm layers required",
+        "Autumn: daytime 10–15 °C, nighttime drops to zero; 3–4 warm layers required"
+      ]
+    },
+    "difficulty": {
+      "stated_difficulty": [
+        "Moderate Trek",
+        "Suitable for Fit Beginners"
+      ],
+      "experience_suitability": [
+        "Suitable for Fit Beginners",
+        "First-time trekkers as well as experienced trekkers (altitude sickness can happen to anybody)"
+      ],
+      "terrain_challenges": [
+        "Trekking on the Deoriatal Chandrashila trail in winter can be tricky",
+        "Hard frozen snow section from Baniyakund to Chandrashila summit",
+        "Snow section getting steeper as you approach the summit",
+        "Rain can flood the trails or make them too slushy to walk safely",
+        "Snowfall can obstruct previously made paths, requiring fresh tracks to be cut on the snow"
+      ],
+      "altitude_or_weather_risks": [
+        "Chandrashila summit at 12,083 ft; climb is gradual, making acclimatisation easy",
+        "Above 10,000 ft, risk of Acute Mountain Sickness (AMS) is real",
+        "AMS can affect first-time and experienced trekkers alike",
+        "Even a fit person climbing too high too soon runs equal risk of AMS",
+        "Indiahikes team equipped with high-altitude medical kits, oxygen cylinders, and stretchers"
+      ]
+    },
+    "fitness": {
+      "fitness_benchmark": [
+        "Walk, jog or run 5 km in under 35 minutes",
+        "This is the minimum recommended fitness level that you must aim for",
+        "Cardiovascular Endurance",
+        "Muscle Strength",
+        "Train your core, calves, glutes, quadriceps, and hamstrings"
+      ],
+      "approval_requirements": [
+        "Make sure you upload these screenshots 15 to 20 days before your trek date",
+        "Your screenshots must demonstrate that you are meeting the fitness criteria for your trek",
+        "Your runs don't meet your trek's fitness criteria at least 3 times in the past month",
+        "Your fitness records will be rejected if you haven't uploaded your 3 screenshots to your dashboard",
+        "Children below 14 years are not required to submit fitness records"
+      ],
+      "prep_window": [
+        "Follow this, and you'll be trek-ready in 6 weeks",
+        "6-Week Training Plan",
+        "Runs must meet fitness criteria at least 3 times in the past month"
+      ]
+    },
+    "experience_themes": [
+      "Winter: snow-covered landscape, powdery snow on pine trees, possible snowfall, snowball fights, mighty mountain views",
+      "Spring: last of winter snow, receding snow at lower campsites, snow still on upper reaches (Chandrashila, Tungnath) until mid-April, green meadows, blooming tiny flowers, rhododendrons on trees, colour contrasts of snow/greenery/flowers",
+      "Summer: bright green forests and meadows, lush flora after early June light showers, easiest trek conditions, escape from plains heat",
+      "Autumn: post-monsoon clear skies, washed-clean views, clearest views of the Garhwal Himalayas",
+      "Winter: white snow-covered landscape and valley",
+      "Spring: colour contrasts of snow, greenery, and flowers on meadows"
+    ],
+    "primary_watchouts": [
+      "Winter: snow raises trek difficulty by a notch; requires good preparation",
+      "July–August: peak monsoon in Uttarakhand; trek not accessible",
+      "Travellers planning in July or August due to peak monsoon closure",
+      "Trekking on the Deoriatal Chandrashila trail in winter can be tricky",
+      "Hard frozen snow section from Baniyakund to Chandrashila summit",
+      "Snow section getting steeper as you approach the summit"
+    ],
+    "best_for": [
+      "Snow experience and winter landscapes (Dec–Feb)",
+      "Colour contrasts of snow, greenery, and flowers (Mar–Apr)",
+      "Easiest trek conditions, lush green landscapes, family/children introduction to Himalayas (May–Jun)",
+      "Clearest Garhwal Himalaya views (Sep–Nov)"
+    ],
+    "not_ideal_for": [
+      "Travellers planning in July or August due to peak monsoon closure"
+    ]
+  },
+  "evidence_refs": [
+    {
+      "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "open_or_recommended_months"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "avoid_months"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "snow_window"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "best_for"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::best_time_section::001",
+      "section_type": "seasonality",
+      "field_name": "not_ideal_for"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "stated_difficulty"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "experience_suitability"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::difficulty_section::001",
+      "section_type": "difficulty",
+      "field_name": "terrain_challenges"
+    },
+    {
+      "section_id": "deoriatal-chandrashila-trek::fitness_section::001",
+      "section_type": "fitness",
+      "field_name": "fitness_benchmark"
+    }
+  ],
+  "needs_review": [
+    "not_ideal_for"
+  ]
+}
