@@ -6,9 +6,11 @@ from fastapi.testclient import TestClient
 
 from backend.app.cards import build_candidate_card
 from backend.app.data import TrekRepository
+from backend.app.embeddings import chunk_text_for_prompt
 from backend.app.filtering import group_constraints, hard_exclusion_reason, shortlist_treks
 from backend.app.llm import RecommendationLlmError, RecommendationService, recommendation_messages, recommendation_schema
 from backend.app.rag import _normalise_answer_text, _normalise_suggested_followups, chat_answer_schema, rag_messages
+from backend.app.retrieval import TrekVectorIndex
 from backend.app.main import app
 from backend.app.schemas import (
     Difficulty,
@@ -292,11 +294,13 @@ class BackendShortlistingTests(unittest.TestCase):
             onboarding=onboarding,
             selected_cards=[card],
             chunks=chunks,
+            user_context="Beginner asking about December.",
         )
         payload = messages[1]["content"]
         self.assertIn("retrieved_chunks", payload)
         self.assertIn("selected_treks", payload)
         self.assertIn("Dayara can have snow in winter", payload)
+        self.assertIn("Beginner asking about December", payload)
         self.assertIn("dayara-bugyal-trek", payload)
         self.assertNotIn("decision_axes", payload)
         self.assertNotIn("source_url", payload)
@@ -312,6 +316,76 @@ class BackendShortlistingTests(unittest.TestCase):
         self.assertEqual(_normalise_answer_text(data["answer"]), "Line one\n\n**Line two**")
         self.assertEqual(_normalise_suggested_followups(data), ["What about snow?"])
 
+    def test_full_itinerary_chunks_get_larger_prompt_budget(self):
+        text = "Day detail. " * 400
+        faq_text = "FAQ detail. " * 400
+        self.assertEqual(chunk_text_for_prompt({"section_type": "itinerary_full", "text": text}), text.strip())
+        self.assertLess(len(chunk_text_for_prompt({"section_type": "faq", "text": faq_text})), len(faq_text))
+
+    def test_retrieval_caps_comparison_results_to_two_chunks_per_trek(self):
+        index = TrekVectorIndex.__new__(TrekVectorIndex)
+        index.embeddings = np.asarray(
+            [
+                [0.99, 0.01],
+                [0.98, 0.01],
+                [0.97, 0.01],
+                [0.96, 0.01],
+                [0.95, 0.01],
+                [0.94, 0.01],
+            ],
+            dtype=np.float32,
+        )
+        index.chunks = [
+            {"chunk_id": "a-full-1", "trek_id": "trek-a", "section_type": "itinerary_full", "text": "short full section"},
+            {"chunk_id": "a-full-2", "trek_id": "trek-a", "section_type": "difficulty_full", "text": "another full section"},
+            {"chunk_id": "a-small-1", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+            {"chunk_id": "a-small-2", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+            {"chunk_id": "a-small-3", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+            {"chunk_id": "b-small", "trek_id": "trek-b", "section_type": "faq", "text": "small"},
+        ]
+
+        results = index.search(
+            np.asarray([1.0, 0.0], dtype=np.float32),
+            trek_ids=["trek-a", "trek-b"],
+            limit=5,
+        )
+
+        self.assertEqual(
+            [chunk["chunk_id"] for chunk in results],
+            ["a-full-1", "a-small-1", "b-small"],
+        )
+        self.assertEqual(
+            sum(1 for chunk in results if chunk["trek_id"] == "trek-a" and chunk["section_type"].endswith("_full")),
+            1,
+        )
+        self.assertEqual(sum(1 for chunk in results if chunk["trek_id"] == "trek-a"), 2)
+
+    def test_single_trek_retrieval_can_use_more_smaller_chunks(self):
+        index = TrekVectorIndex.__new__(TrekVectorIndex)
+        index.embeddings = np.asarray(
+            [
+                [0.99, 0.01],
+                [0.98, 0.01],
+                [0.97, 0.01],
+                [0.96, 0.01],
+            ],
+            dtype=np.float32,
+        )
+        index.chunks = [
+            {"chunk_id": "a-full-1", "trek_id": "trek-a", "section_type": "itinerary_full", "text": "short full section"},
+            {"chunk_id": "a-small-1", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+            {"chunk_id": "a-small-2", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+            {"chunk_id": "a-small-3", "trek_id": "trek-a", "section_type": "faq", "text": "small"},
+        ]
+
+        results = index.search(
+            np.asarray([1.0, 0.0], dtype=np.float32),
+            trek_ids=["trek-a"],
+            limit=4,
+        )
+
+        self.assertEqual([chunk["chunk_id"] for chunk in results], ["a-full-1", "a-small-1", "a-small-2", "a-small-3"])
+
 
 class BackendApiTests(unittest.TestCase):
     def setUp(self):
@@ -326,6 +400,18 @@ class BackendApiTests(unittest.TestCase):
         self.assertEqual(options.status_code, 200)
         self.assertIn("Moderate", options.json()["difficulty_buckets"])
         self.assertTrue(options.json()["pickup_cities"])
+
+    def test_list_treks_for_direct_chat_selection(self):
+        response = self.client.get("/treks")
+        self.assertEqual(response.status_code, 200)
+        treks = response.json()["treks"]
+        self.assertEqual(len(treks), 34)
+        dayara = next(trek for trek in treks if trek["trek_id"] == "dayara-bugyal-trek")
+        self.assertEqual(dayara["title"], "Dayara Bugyal Trek")
+        self.assertEqual(dayara["difficulty"], "Easy-Moderate")
+        self.assertEqual(dayara["duration_days"], 6)
+        self.assertEqual(dayara["altitude_ft"], 11830)
+        self.assertEqual(dayara["source_url"], "https://indiahikes.com/dayara-bugyal-trek")
 
     def test_session_onboarding_shortlist_round_trip(self):
         created = self.client.post("/sessions", json={"trip_name": "Family trek"})
@@ -652,6 +738,67 @@ class BackendApiTests(unittest.TestCase):
             response = self.client.post(f"/sessions/{session_id}/chat", json={"question": "How hard is it?"})
         self.assertEqual(response.status_code, 503)
         self.assertIn("vector_index", response.json()["detail"])
+
+    def test_direct_trek_chat_uses_selected_trek_ids_without_session(self):
+        fake_chunks = [
+            {
+                "chunk_id": "dayara::seasonality::1",
+                "trek_id": "dayara-bugyal-trek",
+                "trek_title": "Dayara Bugyal Trek",
+                "section_type": "seasonality",
+                "title": "Winter",
+                "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+                "score": 0.81,
+                "text": "Dayara has winter snow.",
+            }
+        ]
+        fake_answer = TrekChatResponse(
+            answer="Dayara has winter snow.",
+            citations=[
+                RetrievalCitation(
+                    chunk_id="dayara::seasonality::1",
+                    trek_id="dayara-bugyal-trek",
+                    trek_title="Dayara Bugyal Trek",
+                    section_type="seasonality",
+                    title="Winter",
+                    source_url="https://indiahikes.com/dayara-bugyal-trek",
+                    score=0.81,
+                )
+            ],
+            used_trek_ids=["dayara-bugyal-trek"],
+        )
+        with patch("backend.app.retrieval.TrekVectorIndex.available", new_callable=PropertyMock) as available, patch(
+            "backend.app.main.query_embedding_service.embed_query",
+            return_value=np.asarray([1.0, 0.0], dtype=np.float32),
+        ), patch("backend.app.main.vector_index.search", return_value=fake_chunks) as search, patch(
+            "backend.app.main.rag_answer_service.answer",
+            return_value=fake_answer,
+        ) as answer:
+            available.return_value = True
+            response = self.client.post(
+                "/treks/chat",
+                json={
+                    "trek_ids": ["dayara-bugyal-trek"],
+                    "question": "Is Dayara good in winter?",
+                    "user_context": "Beginner, travelling in December.",
+                },
+            )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json()["answer"], "Dayara has winter snow.")
+        self.assertEqual(search.call_args.kwargs["trek_ids"], ["dayara-bugyal-trek"])
+        self.assertIsNone(answer.call_args.kwargs["onboarding"])
+        self.assertEqual(answer.call_args.kwargs["user_context"], "Beginner, travelling in December.")
+
+    def test_direct_trek_chat_rejects_unknown_trek_id(self):
+        with patch("backend.app.retrieval.TrekVectorIndex.available", new_callable=PropertyMock) as available:
+            available.return_value = True
+            response = self.client.post(
+                "/treks/chat",
+                json={"trek_ids": ["not-a-real-trek"], "question": "How difficult is it?"},
+            )
+        self.assertEqual(response.status_code, 404)
+        self.assertIn("Unknown trek_ids", response.json()["detail"])
 
 
 if __name__ == "__main__":

@@ -10,6 +10,9 @@ from backend.app.data import DEFAULT_DECISION_META_DIR
 
 
 DEFAULT_VECTOR_INDEX_DIR = DEFAULT_DECISION_META_DIR / "vector_index"
+FULL_SECTION_CHUNK_TYPES = {"itinerary_full", "seasonality_full", "difficulty_full", "fitness_full"}
+FULL_SECTION_MAX_PER_TREK = 1
+COMPARISON_MAX_CHUNKS_PER_TREK = 2
 
 
 class RetrievalIndexError(RuntimeError):
@@ -73,13 +76,27 @@ class TrekVectorIndex:
         if not row_indices:
             return []
 
+        max_chunks_per_trek = COMPARISON_MAX_CHUNKS_PER_TREK if len(allowed_treks) > 1 else limit
         matrix = self.embeddings[row_indices]
         scores = matrix @ query_embedding
-        ranked = np.argsort(scores)[::-1][:limit]
+        ranked = np.argsort(scores)[::-1]
         results: list[dict[str, Any]] = []
+        selected_counts_by_trek: dict[str, int] = {}
+        full_section_counts_by_trek: dict[str, int] = {}
         for rank in ranked:
             row_index = row_indices[int(rank)]
             chunk = dict(self.chunks[row_index])
+            trek_id = str(chunk.get("trek_id", ""))
+            if selected_counts_by_trek.get(trek_id, 0) >= max_chunks_per_trek:
+                continue
+            is_full_section_chunk = str(chunk.get("section_type", "")) in FULL_SECTION_CHUNK_TYPES
+            if is_full_section_chunk and full_section_counts_by_trek.get(trek_id, 0) >= FULL_SECTION_MAX_PER_TREK:
+                continue
             chunk["score"] = float(scores[int(rank)])
             results.append(chunk)
+            selected_counts_by_trek[trek_id] = selected_counts_by_trek.get(trek_id, 0) + 1
+            if is_full_section_chunk:
+                full_section_counts_by_trek[trek_id] = full_section_counts_by_trek.get(trek_id, 0) + 1
+            if len(results) >= limit:
+                break
         return results

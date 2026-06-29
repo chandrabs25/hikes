@@ -2,9 +2,9 @@
   "schema_version": "trek_embedding_index_v1",
   "model": "accounts/fireworks/models/qwen3-embedding-8b",
   "source_file": "data/decision_meta/embedding_chunks.jsonl",
-  "source_hash": "65ce0dfc0e2fa151344fd14bfce1f857ac3cbec42933c704485d43d35e16624a",
-  "chunk_count": 1295,
+  "source_hash": "ac1386cf5168a7d05f16c9fc0b6353d1f57c4409b10c026af8c0c22e4813c625",
+  "chunk_count": 533,
   "embedding_dimensions": 4096,
-  "created_at": "2026-06-29T13:19:09.246650+00:00",
-  "elapsed_seconds": 159.93
+  "created_at": "2026-06-29T14:17:17.907311+00:00",
+  "elapsed_seconds": 63.09
 }

@@ -197,7 +197,7 @@ class TrekChatRequest(BaseModel):
     question: str = Field(min_length=1)
     trek_ids: list[str] = Field(default_factory=list)
     section_types: list[str] = Field(default_factory=list)
-    max_chunks: int = Field(default=8, ge=1, le=12)
+    max_chunks: int = Field(default=5, ge=1, le=8)
 
 
 class RetrievalCitation(BaseModel):
@@ -243,3 +243,27 @@ class FilterOptionsResponse(BaseModel):
     age: RangeOption
     fitness_required_distance_km: RangeOption
     fitness_required_time_min: RangeOption
+
+
+class TrekListItem(BaseModel):
+    trek_id: str
+    title: str
+    source_url: str | None = None
+    image_url: str | None = None
+    video_url: str | None = None
+    difficulty: str | None = None
+    duration_days: int | None = None
+    distance_km: float | None = None
+    altitude_ft: int | None = None
+
+
+class TrekListResponse(BaseModel):
+    treks: list[TrekListItem]
+
+
+class DirectTrekChatRequest(BaseModel):
+    question: str = Field(min_length=1)
+    trek_ids: list[str] = Field(min_length=1)
+    user_context: str | None = None
+    section_types: list[str] = Field(default_factory=list)
+    max_chunks: int = Field(default=5, ge=1, le=8)

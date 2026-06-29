@@ -248,9 +248,18 @@ class LlmMetadataTests(unittest.TestCase):
         chunks = build_embedding_chunks(metas)
         chunk_types = {chunk["section_type"] for chunk in chunks}
         self.assertIn("faq", chunk_types)
-        self.assertIn("itinerary_day", chunk_types)
-        self.assertIn("seasonality", chunk_types)
+        self.assertIn("quick_fact", chunk_types)
+        self.assertIn("itinerary_full", chunk_types)
+        self.assertIn("seasonality_full", chunk_types)
+        self.assertIn("difficulty_full", chunk_types)
+        self.assertIn("fitness_full", chunk_types)
+        self.assertNotIn("itinerary_day", chunk_types)
+        self.assertNotIn("seasonality", chunk_types)
         self.assertTrue(all("text" in chunk and chunk["text"].strip() for chunk in chunks))
+        for trek_id in {meta["trek_id"] for meta in metas}:
+            itinerary_chunks = [chunk for chunk in chunks if chunk["trek_id"] == trek_id and chunk["section_type"] == "itinerary_full"]
+            self.assertEqual(len(itinerary_chunks), 1)
+            self.assertIn("Day", itinerary_chunks[0]["text"])
 
     def test_compact_decision_profile_has_runtime_shape(self) -> None:
         meta = read_json(ROOT / "data/slim_meta/dayara-bugyal-trek.meta.json")

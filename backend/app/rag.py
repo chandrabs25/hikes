@@ -66,6 +66,7 @@ def rag_messages(
     onboarding: OnboardingState | None,
     selected_cards: list[CandidateCard],
     chunks: list[dict[str, Any]],
+    user_context: str | None = None,
 ) -> list[dict[str, str]]:
     context_chunks = [
         {
@@ -81,11 +82,11 @@ def rag_messages(
     return [
         {
             "role": "system",
-            "content": (
-                "You are an Indiahikes trek discussion assistant. "
-                "Answer only from the supplied group onboarding and retrieved_chunks. "
-                "Use selected_treks only to identify which trek ids and titles are in scope. "
-                "Each retrieved chunk includes trek_id and trek_title; use those fields to compare treks. "
+                "content": (
+                    "You are an Indiahikes trek discussion assistant. "
+                    "Answer only from the supplied group onboarding, user_context, and retrieved_chunks. "
+                    "Use selected_treks only to identify which trek ids and titles are in scope. "
+                    "Each retrieved chunk includes trek_id and trek_title; use those fields to compare treks. "
                 "Do not use outside knowledge, do not invent availability or prices, and do not discuss treks outside selected_treks. "
                 "If the retrieved chunks are insufficient, say what is missing and ask a useful follow-up. "
                 "Keep answers practical for deciding between treks. Return JSON only."
@@ -98,6 +99,7 @@ def rag_messages(
                     "task": "answer_user_question_about_selected_treks",
                     "question": question,
                     "group_onboarding": _compact_onboarding(onboarding),
+                    "user_context": user_context,
                     "selected_treks": _selected_trek_refs(selected_cards),
                     "retrieved_chunks": context_chunks,
                 },
@@ -161,6 +163,7 @@ def call_fireworks_rag_answer(
     onboarding: OnboardingState | None,
     selected_cards: list[CandidateCard],
     chunks: list[dict[str, Any]],
+    user_context: str | None = None,
     temperature: float = 0,
     timeout: int = 120,
 ) -> TrekChatResponse:
@@ -169,6 +172,7 @@ def call_fireworks_rag_answer(
         "messages": rag_messages(
             question=question,
             onboarding=onboarding,
+            user_context=user_context,
             selected_cards=selected_cards,
             chunks=chunks,
         ),
@@ -220,6 +224,7 @@ class RagAnswerService:
         onboarding: OnboardingState | None,
         selected_cards: list[CandidateCard],
         chunks: list[dict[str, Any]],
+        user_context: str | None = None,
     ) -> TrekChatResponse:
         if not self.api_key:
             raise RagLlmError("Set FIREWORKS_API_KEY to enable retrieval chat.")
@@ -228,6 +233,7 @@ class RagAnswerService:
             model=self.model,
             question=question,
             onboarding=onboarding,
+            user_context=user_context,
             selected_cards=selected_cards,
             chunks=chunks,
             temperature=self.temperature,

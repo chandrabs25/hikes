@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { FormEvent, useMemo, useState } from "react";
 
 type Difficulty = "Easy" | "Easy-Moderate" | "Moderate" | "Moderate-Difficult" | "Difficult";
@@ -193,6 +194,35 @@ function renderMarkdown(text: string) {
   }
   flushList();
   return elements;
+}
+
+function groupCitations(citations: ChatCitation[]) {
+  const groups = new Map<
+    string,
+    { trek_title: string; source_url: string | null; sections: { key: string; label: string }[] }
+  >();
+
+  for (const citation of citations) {
+    const group = groups.get(citation.trek_id) ?? {
+      trek_title: citation.trek_title,
+      source_url: citation.source_url,
+      sections: []
+    };
+    const label = `${citation.section_type.replace(/_/g, " ")} · ${citation.title}`;
+    const key = `${citation.section_type}::${citation.title}`;
+    if (!group.sections.some((section) => section.key === key)) {
+      group.sections.push({ key, label });
+    }
+    groups.set(citation.trek_id, group);
+  }
+
+  return Array.from(groups.entries())
+    .slice(0, 3)
+    .map(([trekId, group]) => ({
+      trekId,
+      ...group,
+      sections: group.sections.slice(0, 4)
+    }));
 }
 
 function sleep(ms: number) {
@@ -527,7 +557,7 @@ export default function Home() {
         body: JSON.stringify({
           question: trimmed,
           trek_ids: recommendedIds,
-          max_chunks: 8
+          max_chunks: 5
         })
       });
       const normalisedResponse = normaliseChatResponse(response);
@@ -605,6 +635,11 @@ export default function Home() {
             Tell us about your group and the trek experience you want — our AI matches you with the
             perfect Himalayan trek from Indiahikes.
           </p>
+          <div className="heroActions">
+            <Link className="btnSecondary" href="/trek-chat">
+              <IconChat /> Ask about any trek
+            </Link>
+          </div>
         </div>
       </section>
 
@@ -1161,17 +1196,24 @@ export default function Home() {
                         <article className={`chatBubble ${message.role}`} key={`${message.role}-${index}`}>
                           <div className="chatContent">{renderMarkdown(message.content)}</div>
                           {message.citations && message.citations.length > 0 && (
-                            <div className="citationList">
-                              {message.citations.slice(0, 4).map((citation) => (
-                                <a
-                                  href={citation.source_url ?? undefined}
-                                  key={citation.chunk_id}
-                                  target="_blank"
-                                  rel="noreferrer"
-                                  className="citationChip"
-                                >
-                                  {citation.trek_title} · {citation.section_type} · {citation.title}
-                                </a>
+                            <div className="citationList citationGroups">
+                              {groupCitations(message.citations).map((group) => (
+                                <div className="citationGroup" key={group.trekId}>
+                                  {group.source_url ? (
+                                    <a className="citationGroupTitle" href={group.source_url} target="_blank" rel="noreferrer">
+                                      {group.trek_title}
+                                    </a>
+                                  ) : (
+                                    <span className="citationGroupTitle">{group.trek_title}</span>
+                                  )}
+                                  <div className="citationSections">
+                                    {group.sections.map((section) => (
+                                      <span className="citationChip" key={section.key}>
+                                        {section.label}
+                                      </span>
+                                    ))}
+                                  </div>
+                                </div>
                               ))}
                             </div>
                           )}

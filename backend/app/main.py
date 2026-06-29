@@ -3,6 +3,7 @@ from __future__ import annotations
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
+from backend.app.cards import build_candidate_card
 from backend.app.config import cors_origins, load_backend_env
 from backend.app.data import TrekRepository
 from backend.app.embeddings import EmbeddingProviderError, QueryEmbeddingService
@@ -16,6 +17,7 @@ from backend.app.schemas import (
     ComparisonTableRow,
     CreateSessionRequest,
     CreateSessionResponse,
+    DirectTrekChatRequest,
     FilterOptionsResponse,
     HealthResponse,
     OnboardingState,
@@ -23,6 +25,8 @@ from backend.app.schemas import (
     ShortlistResponse,
     TrekChatRequest,
     TrekChatResponse,
+    TrekListItem,
+    TrekListResponse,
 )
 from backend.app.sessions import SessionStore
 
@@ -50,9 +54,77 @@ def health() -> HealthResponse:
     return HealthResponse(status="ok", trek_count=len(repository.treks))
 
 
+@app.get("/treks", response_model=TrekListResponse)
+def list_treks() -> TrekListResponse:
+    return TrekListResponse(
+        treks=[
+            TrekListItem(
+                trek_id=trek.trek_id,
+                title=trek.trek_title,
+                source_url=trek.source_url,
+                image_url=trek.image_url,
+                video_url=trek.video_url,
+                difficulty=(trek.filter_record.get("raw_quick_facts") or {}).get("trek_difficulty"),
+                duration_days=(
+                    trek.filter_record.get("duration_days", {}).get("value")
+                    if isinstance(trek.filter_record.get("duration_days"), dict)
+                    else None
+                ),
+                distance_km=(
+                    trek.filter_record.get("distance_km", {}).get("value")
+                    if isinstance(trek.filter_record.get("distance_km"), dict)
+                    else None
+                ),
+                altitude_ft=(
+                    trek.filter_record.get("highest_altitude_ft", {}).get("value")
+                    if isinstance(trek.filter_record.get("highest_altitude_ft"), dict)
+                    else None
+                ),
+            )
+            for trek in repository.treks
+        ]
+    )
+
+
 @app.get("/treks/filter-options", response_model=FilterOptionsResponse)
 def filter_options() -> FilterOptionsResponse:
     return FilterOptionsResponse(**repository.filter_options())
+
+
+@app.post("/treks/chat", response_model=TrekChatResponse)
+def chat_about_any_trek(request: DirectTrekChatRequest) -> TrekChatResponse:
+    if not vector_index.available:
+        raise HTTPException(status_code=503, detail="Build data/decision_meta/vector_index before using retrieval chat")
+
+    treks_by_id = {trek.trek_id: trek for trek in repository.treks}
+    missing_ids = [trek_id for trek_id in request.trek_ids if trek_id not in treks_by_id]
+    if missing_ids:
+        raise HTTPException(status_code=404, detail=f"Unknown trek_ids: {', '.join(missing_ids)}")
+
+    selected_cards = [build_candidate_card(treks_by_id[trek_id]) for trek_id in request.trek_ids]
+    try:
+        query_embedding = query_embedding_service.embed_query(request.question)
+        chunks = vector_index.search(
+            query_embedding,
+            trek_ids=request.trek_ids,
+            section_types=request.section_types or None,
+            limit=request.max_chunks,
+        )
+    except (EmbeddingProviderError, RetrievalIndexError) as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
+    if not chunks:
+        raise HTTPException(status_code=404, detail="No retrieval chunks found for the selected treks")
+
+    try:
+        return rag_answer_service.answer(
+            question=request.question,
+            onboarding=None,
+            selected_cards=selected_cards,
+            chunks=chunks,
+            user_context=request.user_context,
+        )
+    except RagLlmError as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc
 
 
 @app.post("/sessions", response_model=CreateSessionResponse)

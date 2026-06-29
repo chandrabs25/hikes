@@ -77,7 +77,16 @@ class QueryEmbeddingService:
         return normalize_vector(np.asarray(vectors[0], dtype=np.float32))
 
 
+PROMPT_CHUNK_CHAR_LIMITS = {
+    "itinerary_full": 20000,
+    "seasonality_full": 6000,
+    "difficulty_full": 6000,
+    "fitness_full": 5000,
+}
+
+
 def chunk_text_for_prompt(chunk: dict[str, Any], max_chars: int = 1400) -> str:
+    max_chars = PROMPT_CHUNK_CHAR_LIMITS.get(str(chunk.get("section_type", "")), max_chars)
     text = str(chunk.get("text", "")).strip()
     if len(text) <= max_chars:
         return text

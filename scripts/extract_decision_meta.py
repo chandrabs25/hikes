@@ -25,6 +25,12 @@ DEFAULT_INPUT = Path("data/slim_meta")
 DEFAULT_OUTPUT = Path("data/decision_meta")
 LLM_SECTION_TYPES = {"seasonality", "difficulty", "fitness"}
 EMBED_SECTION_TYPES = {"seasonality", "difficulty", "fitness", "itinerary_day", "faq", "safety"}
+FULL_CHUNK_SECTION_TYPES = {
+    "itinerary_day": "itinerary_full",
+    "seasonality": "seasonality_full",
+    "difficulty": "difficulty_full",
+    "fitness": "fitness_full",
+}
 
 DECISION_FIELDS = [
     "open_or_recommended_months",
@@ -287,12 +293,52 @@ def split_by_headings(text: str) -> list[tuple[str, str]]:
 
 def embedding_chunks_for_meta(meta: dict[str, Any]) -> list[dict[str, Any]]:
     chunks = []
-    for section in selected_sections(meta, EMBED_SECTION_TYPES):
+    if meta.get("quick_facts"):
+        chunks.append(
+            {
+                "chunk_id": chunk_id(meta["trek_id"], f"{meta['trek_id']}::quick_fact", 1),
+                "trek_id": meta["trek_id"],
+                "trek_title": meta.get("trek_title", ""),
+                "section_id": f"{meta['trek_id']}::quick_fact",
+                "section_type": "quick_fact",
+                "title": "Quick facts",
+                "text": json.dumps(meta["quick_facts"], ensure_ascii=False, indent=2),
+                "source_url": meta.get("source_url", ""),
+            }
+        )
+
+    sections = selected_sections(meta, EMBED_SECTION_TYPES)
+    for source_type, full_type in FULL_CHUNK_SECTION_TYPES.items():
+        matching = [section for section in sections if section.get("section_type") == source_type and section.get("text", "").strip()]
+        if not matching:
+            continue
+        text_parts = []
+        for section in matching:
+            title = section.get("title", source_type)
+            text_parts.append(f"## {title}\n{section['text'].strip()}")
+        chunks.append(
+            {
+                "chunk_id": chunk_id(meta["trek_id"], f"{meta['trek_id']}::{full_type}", 1),
+                "trek_id": meta["trek_id"],
+                "trek_title": meta.get("trek_title", ""),
+                "section_id": f"{meta['trek_id']}::{full_type}",
+                "section_type": full_type,
+                "title": {
+                    "itinerary_full": "Complete itinerary",
+                    "seasonality_full": "Complete seasonality",
+                    "difficulty_full": "Complete difficulty",
+                    "fitness_full": "Complete fitness",
+                }[full_type],
+                "text": "\n\n".join(text_parts),
+                "source_url": meta.get("source_url", ""),
+            }
+        )
+
+    for section in sections:
         section_type = section["section_type"]
-        if section_type in {"faq", "itinerary_day", "safety"}:
-            parts = [(section.get("title", section_type), section["text"])]
-        else:
-            parts = split_by_headings(section["text"])
+        if section_type in FULL_CHUNK_SECTION_TYPES:
+            continue
+        parts = [(section.get("title", section_type), section["text"])]
         for index, (title, text) in enumerate(parts, start=1):
             chunks.append(
                 {
@@ -746,6 +792,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--trek")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--execute", action="store_true")
+    parser.add_argument("--chunks-only", action="store_true")
     parser.add_argument("--force", action="store_true")
     parser.add_argument("--skip-embeddings", action="store_true")
     parser.add_argument("--temperature", type=float, default=0.0)
@@ -765,8 +812,9 @@ def dry_run(metas: list[dict[str, Any]], targets: list[dict[str, Any]]) -> None:
 
 
 def run(args: argparse.Namespace) -> None:
-    if args.execute == args.dry_run:
-        raise DecisionMetaError("Choose exactly one of --dry-run or --execute.")
+    modes = [args.execute, args.dry_run, args.chunks_only]
+    if sum(1 for mode in modes if mode) != 1:
+        raise DecisionMetaError("Choose exactly one of --dry-run, --execute, or --chunks-only.")
     metas = load_slim_metas(args.input, args.trek)
     targets = extraction_targets(metas)
     if args.dry_run:
@@ -774,6 +822,11 @@ def run(args: argparse.Namespace) -> None:
         return
 
     args.out.mkdir(parents=True, exist_ok=True)
+    if args.chunks_only:
+        write_jsonl(args.out / "embedding_chunks.jsonl", build_embedding_chunks(metas))
+        print(f"Wrote chat embedding chunks to {args.out / 'embedding_chunks.jsonl'}")
+        return
+
     model = env_model()
     filter_index = build_filter_index(metas)
     write_json(args.out / "filter_index.json", filter_index)
