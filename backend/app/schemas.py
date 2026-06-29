@@ -115,6 +115,7 @@ class DecisionAxes(BaseModel):
 class CandidateCard(BaseModel):
     trek_id: str
     title: str
+    source_url: str | None = None
     facts: CandidateFacts
     decision_axes: DecisionAxes = Field(default_factory=DecisionAxes)
 
@@ -186,6 +187,31 @@ class ComparisonTableResponse(BaseModel):
     session_id: str
     source: str = "latest_llm_recommendations"
     rows: list[ComparisonTableRow]
+
+
+class TrekChatRequest(BaseModel):
+    question: str = Field(min_length=1)
+    trek_ids: list[str] = Field(default_factory=list)
+    section_types: list[str] = Field(default_factory=list)
+    max_chunks: int = Field(default=8, ge=1, le=12)
+
+
+class RetrievalCitation(BaseModel):
+    chunk_id: str
+    trek_id: str
+    trek_title: str
+    section_type: str
+    title: str
+    source_url: str | None = None
+    score: float | None = None
+
+
+class TrekChatResponse(BaseModel):
+    mode: str = "live"
+    answer: str
+    suggested_followups: list[str] = Field(default_factory=list)
+    citations: list[RetrievalCitation] = Field(default_factory=list)
+    used_trek_ids: list[str] = Field(default_factory=list)
 
 
 class SessionState(BaseModel):

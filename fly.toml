@@ -1,0 +1,28 @@
+app = "indiahikes-trek-backend"
+primary_region = "bom"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8080"
+  FIREWORKS_MODEL = "accounts/fireworks/models/minimax-m3"
+  FIREWORKS_EMBEDDING_MODEL = "accounts/fireworks/models/qwen3-embedding-8b"
+  TREK_LLM_TEMPERATURE = "0"
+  TREK_RAG_TEMPERATURE = "0"
+  BACKEND_CORS_ORIGINS = "http://127.0.0.1:3000,http://localhost:3000"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "off"
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ["app"]
+
+  [[http_service.checks]]
+    interval = "15s"
+    timeout = "2s"
+    grace_period = "20s"
+    method = "GET"
+    path = "/health"

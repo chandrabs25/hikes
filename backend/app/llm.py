@@ -95,7 +95,7 @@ def _compact_onboarding(onboarding: OnboardingState) -> dict[str, Any]:
 
 
 def _compact_cards(cards: list[CandidateCard]) -> list[dict[str, Any]]:
-    return [card.model_dump(mode="json", exclude_none=True) for card in cards]
+    return [card.model_dump(mode="json", exclude_none=True, exclude={"source_url"}) for card in cards]
 
 
 def recommendation_messages(

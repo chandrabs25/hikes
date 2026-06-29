@@ -1,0 +1,17 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "indiahikes-trek-frontend",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-06-29",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "vars": {
+    "NEXT_PUBLIC_API_BASE_URL": "https://indiahikes-trek-backend.fly.dev"
+  },
+  "observability": {
+    "enabled": true
+  }
+}

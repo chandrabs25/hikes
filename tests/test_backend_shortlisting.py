@@ -1,12 +1,14 @@
 import unittest
-from unittest.mock import patch
+from unittest.mock import PropertyMock, patch
 
+import numpy as np
 from fastapi.testclient import TestClient
 
 from backend.app.cards import build_candidate_card
 from backend.app.data import TrekRepository
 from backend.app.filtering import group_constraints, hard_exclusion_reason, shortlist_treks
 from backend.app.llm import RecommendationLlmError, RecommendationService, recommendation_messages, recommendation_schema
+from backend.app.rag import _normalise_answer_text, _normalise_suggested_followups, chat_answer_schema, rag_messages
 from backend.app.main import app
 from backend.app.schemas import (
     Difficulty,
@@ -14,6 +16,8 @@ from backend.app.schemas import (
     OnboardingState,
     ParticipantProfile,
     RecommendedTrek,
+    RetrievalCitation,
+    TrekChatResponse,
     TrekComparison,
     TripPreferences,
 )
@@ -111,6 +115,7 @@ class BackendShortlistingTests(unittest.TestCase):
         dayara = next(trek for trek in self.repo.treks if trek.trek_id == "dayara-bugyal-trek")
         card = build_candidate_card(dayara)
         dumped = card.model_dump_json()
+        self.assertEqual(card.source_url, "https://indiahikes.com/dayara-bugyal-trek")
         self.assertEqual(card.facts.age_range.min, 8)
         self.assertEqual(card.facts.pickup.city, "Asli Pappu Da Dhaba, Dehradun")
         self.assertEqual(card.facts.dropoff.time, "6.00 PM")
@@ -174,6 +179,7 @@ class BackendShortlistingTests(unittest.TestCase):
         self.assertIn("Use text_input as the primary source", messages[1]["content"])
         self.assertIn("person_specific_notes", messages[1]["content"])
         self.assertIn("Treat empty candidate fields as unknown", messages[0]["content"])
+        self.assertNotIn("source_url", payload)
         self.assertNotIn("faq", payload.lower())
         self.assertNotIn("itinerary", payload.lower())
         self.assertNotIn("quote_or_summary", payload)
@@ -258,6 +264,48 @@ class BackendShortlistingTests(unittest.TestCase):
                 recommendation = RecommendationService().recommend(onboarding, shortlist)
         self.assertEqual(recommendation.mode, "live")
         self.assertEqual(recommendation.recommended[0].trek_id, "dayara-bugyal-trek")
+
+    def test_rag_prompt_uses_group_profile_trek_refs_and_retrieved_chunks(self):
+        onboarding = OnboardingState(
+            participants=[ParticipantProfile(name="Riya", age=10, notes="First trek.")],
+            text_input="We want to compare winter snow options.",
+        )
+        dayara = next(trek for trek in self.repo.treks if trek.trek_id == "dayara-bugyal-trek")
+        card = build_candidate_card(dayara)
+        chunks = [
+            {
+                "chunk_id": "dayara::faq::1",
+                "trek_id": "dayara-bugyal-trek",
+                "trek_title": "Dayara Bugyal Trek",
+                "section_type": "faq",
+                "title": "Snow",
+                "text": "Dayara can have snow in winter.",
+            }
+        ]
+        messages = rag_messages(
+            question="Will there be snow?",
+            onboarding=onboarding,
+            selected_cards=[card],
+            chunks=chunks,
+        )
+        payload = messages[1]["content"]
+        self.assertIn("retrieved_chunks", payload)
+        self.assertIn("selected_treks", payload)
+        self.assertIn("Dayara can have snow in winter", payload)
+        self.assertIn("dayara-bugyal-trek", payload)
+        self.assertNotIn("decision_axes", payload)
+        self.assertNotIn("source_url", payload)
+        self.assertIn("Do not use outside knowledge", messages[0]["content"])
+        self.assertIn("retrieved_chunks", messages[0]["content"])
+        self.assertEqual(chat_answer_schema()["properties"]["suggested_followups"]["maxItems"], 3)
+
+    def test_rag_normalises_nested_json_answer_text(self):
+        data = {
+            "answer": '{"answer":"Line one\\\\n\\\\n**Line two**","suggested_followups":["What about snow?"]}',
+            "suggested_followups": [],
+        }
+        self.assertEqual(_normalise_answer_text(data["answer"]), "Line one\n\n**Line two**")
+        self.assertEqual(_normalise_suggested_followups(data), ["What about snow?"])
 
 
 class BackendApiTests(unittest.TestCase):
@@ -493,6 +541,112 @@ class BackendApiTests(unittest.TestCase):
         body = response.json()
         self.assertEqual(body["llm_recommendation"]["mode"], "live")
         self.assertEqual(body["llm_recommendation"]["recommended"][0]["trek_id"], "dayara-bugyal-trek")
+
+    def test_chat_endpoint_retrieves_only_recommended_treks_by_default(self):
+        created = self.client.post("/sessions", json={"trip_name": "Chat trek"})
+        session_id = created.json()["session_id"]
+        payload = {
+            "participants": [{"name": "Adult", "age": 30}],
+            "preferences": {"target_difficulty": "Easy-Moderate"},
+        }
+        self.client.put(f"/sessions/{session_id}/onboarding", json=payload)
+        fake_recommendation = LlmRecommendation(
+            mode="live",
+            recommended=[
+                RecommendedTrek(
+                    trek_id="dayara-bugyal-trek",
+                    title="Dayara Bugyal Trek",
+                    recommendation="Best fit",
+                    reasons=[],
+                    tradeoffs=[],
+                    person_specific_notes=[],
+                )
+            ],
+            comparison=[],
+            questions_to_refine=[],
+            notes="Live reasoning complete",
+        )
+        with patch("backend.app.main.recommendation_service.recommend", return_value=fake_recommendation):
+            self.client.post(f"/sessions/{session_id}/shortlist")
+
+        fake_chunks = [
+            {
+                "chunk_id": "dayara::faq::1",
+                "trek_id": "dayara-bugyal-trek",
+                "trek_title": "Dayara Bugyal Trek",
+                "section_type": "faq",
+                "title": "Snow",
+                "source_url": "https://indiahikes.com/dayara-bugyal-trek",
+                "score": 0.82,
+                "text": "Dayara can have snow in winter.",
+            }
+        ]
+        fake_answer = TrekChatResponse(
+            answer="Dayara can have snow in winter.",
+            suggested_followups=["Do you want a day-wise view?"],
+            citations=[
+                RetrievalCitation(
+                    chunk_id="dayara::faq::1",
+                    trek_id="dayara-bugyal-trek",
+                    trek_title="Dayara Bugyal Trek",
+                    section_type="faq",
+                    title="Snow",
+                    source_url="https://indiahikes.com/dayara-bugyal-trek",
+                    score=0.82,
+                )
+            ],
+            used_trek_ids=["dayara-bugyal-trek"],
+        )
+        with patch("backend.app.retrieval.TrekVectorIndex.available", new_callable=PropertyMock) as available, patch(
+            "backend.app.main.query_embedding_service.embed_query",
+            return_value=np.asarray([1.0, 0.0], dtype=np.float32),
+        ), patch("backend.app.main.vector_index.search", return_value=fake_chunks) as search, patch(
+            "backend.app.main.rag_answer_service.answer",
+            return_value=fake_answer,
+        ):
+            available.return_value = True
+            response = self.client.post(
+                f"/sessions/{session_id}/chat",
+                json={"question": "Will there be snow?"},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        body = response.json()
+        self.assertEqual(body["mode"], "live")
+        self.assertEqual(body["used_trek_ids"], ["dayara-bugyal-trek"])
+        self.assertEqual(body["citations"][0]["chunk_id"], "dayara::faq::1")
+        self.assertEqual(search.call_args.kwargs["trek_ids"], ["dayara-bugyal-trek"])
+
+    def test_chat_requires_shortlist_and_vector_index(self):
+        created = self.client.post("/sessions", json={"trip_name": "No chat yet"})
+        session_id = created.json()["session_id"]
+        response = self.client.post(f"/sessions/{session_id}/chat", json={"question": "How hard is it?"})
+        self.assertEqual(response.status_code, 400)
+        self.assertIn("Run shortlist", response.json()["detail"])
+
+        self.client.put(
+            f"/sessions/{session_id}/onboarding",
+            json={"participants": [{"name": "Adult", "age": 30}], "preferences": {}},
+        )
+        fake_recommendation = LlmRecommendation(
+            recommended=[
+                RecommendedTrek(
+                    trek_id="dayara-bugyal-trek",
+                    title="Dayara Bugyal Trek",
+                    recommendation="Best fit",
+                    reasons=[],
+                    tradeoffs=[],
+                    person_specific_notes=[],
+                )
+            ]
+        )
+        with patch("backend.app.main.recommendation_service.recommend", return_value=fake_recommendation):
+            self.client.post(f"/sessions/{session_id}/shortlist")
+        with patch("backend.app.retrieval.TrekVectorIndex.available", new_callable=PropertyMock) as available:
+            available.return_value = False
+            response = self.client.post(f"/sessions/{session_id}/chat", json={"question": "How hard is it?"})
+        self.assertEqual(response.status_code, 503)
+        self.assertIn("vector_index", response.json()["detail"])
 
 
 if __name__ == "__main__":
